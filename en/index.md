@@ -11,14 +11,11 @@ In this project you'll learn how to code your own musical instruments!
 
 ## Step 1: Sprites
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called __sprites__.
-
 ### Activity Checklist
 
 [[[new-scratch-project]]]
 
++ Add the drum sprite from the Scratch library. (This doesn't need to be here if the next step has some context.)
+
 [[[add-sprite-from-library]]]
-
-...except specifically I want to say here to add a drum sprite.
-
 
