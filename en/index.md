@@ -19,3 +19,17 @@ In this project you'll learn how to code your own musical instruments!
 
 [[[add-sprite-from-library]]]
 
++ Click the 'shrink' icon, and then click on the drum a few times to make it smaller.
+
+	![screenshot](images/band-shrink.png)
+
+## Save your project
+
+[[[saving-scratch]]]
+
+## Step 2: The Stage
+
+### Activity Checklist
+
++ At the moment, the stage is white, and looks pretty boring! Let's add a backdrop to the stage.
+
