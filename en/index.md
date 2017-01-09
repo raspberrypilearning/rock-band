@@ -25,6 +25,7 @@ Before you can start coding, you'll need to add in a 'thing' to code. In Scratch
 ### Hint: Here's how it's done...
 {: .hint-heading #hint-1 }
 
-[[[new-scratch-project]]] {: .hint-content .hint-1 }
+[[[new-scratch-project]]]
+{: .hint-content .hint-1 }
 
 More project text...
