@@ -143,5 +143,22 @@ Let's make your singer look like she's singing!
 
 [[[duplicate-costumes]]]
 
++ Now that you have 2 different costumes for your singer, can you change how your singer looks when she's singing?
 
+### Hint 1
+{: .hint-heading #hint-1 }
+When your singer sprite is clicked, you should change the singer's costume. Once the sound has played, you can change the costume back.
+{: .hint-content .hint-1 }
+
+### Hint 2
+{: .hint-heading #hint-2 }
+You'll need to use these blocks:
+![screenshot](images/band-singer-costume-blocks.png)
+{: .hint-content .hint-2 }
+
+### Hint 3
+{: .hint-heading #hint-3 }
+Here's the code you'll need:
+![screenshot](images/band-singer-costume-solution.png)
+{: .hint-content .hint-3 }
 
