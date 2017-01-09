@@ -103,7 +103,25 @@ Let's add a singer to your band!
 
 	![screenshot](images/band-singer-mic.png)
 
-+ Add a sound to your singer sprite.
++ Add the 'singer1' sound to your singer sprite.
 
 [[[sound-from-library]]]
 
++ Once the sound has been added, add code to make the singer sing when clicked.
+
+### Hint 1
+{: .hint-heading #hint-1 }
+When your singer sprite is __clicked__, it should __play__ the 'singer1' __sound__.
+{: .hint-content .hint-1 }
+
+### Hint 2
+{: .hint-heading #hint-2 }
+You'll need to use these blocks:
+![screenshot](images/drum-singer-blocks.png)
+{: .hint-content .hint-2 }
+
+### Hint 3
+{: .hint-heading #hint-3 }
+Here's the code you'll need:
+![screenshot](images/drum-singer-solution.png)
+{: .hint-content .hint-3 }
