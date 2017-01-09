@@ -61,7 +61,7 @@ When your drum sprite is __clicked__, it should __play a drum__ sound.
 You'll need to use a __play sound__ block and a __when this sprite clicked__ block.
 {: .hint-content .hint-2 }
 
-### Hint 2
+### Hint 3
 {: .hint-heading #hint-3 }
 Here's the code you'll need:
 ![screenshot](images/drum-sound-solution.png)
