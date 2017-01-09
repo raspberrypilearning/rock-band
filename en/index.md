@@ -42,3 +42,28 @@ In this project you'll learn how to code your own musical instruments!
 ## Save your project
 
 [[[saving-scratch]]]
+
+## Step 3: Making a Drum
+
+Let's code your drum to make a sound when it's hit.
+
+### Activity Checklist
+
++ Add code to your drum sprite, so that it makes a drum sound when hit.
+
+### Hint 1
+{: .hint-heading #hint-1 }
+When your drum sprite is __clicked__, it should __play a drum__ sound.
+{: .hint-content .hint-1 }
+
+### Hint 2
+{: .hint-heading #hint-2 }
+You'll need to use a __play sound__ block and a __when this sprite clicked__ block.
+{: .hint-content .hint-2 }
+
+### Hint 2
+{: .hint-heading #hint-3 }
+Here's the code you'll need:
+![screenshot](images/drum-sound-solution.png)
+{: .hint-content .hint-3 }
+
