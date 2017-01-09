@@ -17,4 +17,6 @@ Before you can start coding, you'll need to add in a 'thing' to code. In Scratch
 
 [[[new-scratch-project]]]
 
+Text here...
+
 [[[add-sprite-from-library]]]
