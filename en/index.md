@@ -141,7 +141,7 @@ Let's make your singer look like she's singing!
 	![screenshot](images/band-singer-name.png)
 	![screenshot](images/band-singer-click.png)
 
-[[[new-costumes]]]
+[[[duplicate-costumes]]]
 
 
 
