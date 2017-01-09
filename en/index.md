@@ -18,6 +18,7 @@ Before you can start coding, you'll need to add in a 'thing' to code. In Scratch
 [[[new-scratch-project]]]
 
 [[[add-sprite-from-library]]]
+
 ...except specifically I want to say here to add a drum sprite.
 
 
