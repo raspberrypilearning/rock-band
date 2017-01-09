@@ -22,7 +22,7 @@ Before you can start coding, you'll need to add in a 'thing' to code. In Scratch
 + Create a new Scratch project. Hint: Here's how it's done.
 
 
-Hint: Here's how it's done...
+### Hint: Here's how it's done...
 {: .hint-heading #hint-1 }
 
 [[[new-scratch-project]]] {: .hint-content .hint-1 }
