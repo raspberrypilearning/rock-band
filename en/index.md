@@ -29,3 +29,5 @@ Before you can start coding, you'll need to add in a 'thing' to code. In Scratch
 {: .hint-content .hint-1 }
 
 More project text...
+
+[[[new-scratch-project]]]
