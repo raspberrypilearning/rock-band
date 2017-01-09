@@ -117,11 +117,11 @@ When your singer sprite is __clicked__, it should __play__ the 'singer1' __sound
 ### Hint 2
 {: .hint-heading #hint-2 }
 You'll need to use these blocks:
-![screenshot](images/drum-singer-blocks.png)
+![screenshot](images/band-singer-blocks.png)
 {: .hint-content .hint-2 }
 
 ### Hint 3
 {: .hint-heading #hint-3 }
 Here's the code you'll need:
-![screenshot](images/drum-singer-solution.png)
+![screenshot](images/band-singer-solution.png)
 {: .hint-content .hint-3 }
