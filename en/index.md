@@ -125,3 +125,23 @@ You'll need to use these blocks:
 Here's the code you'll need:
 ![screenshot](images/band-singer-solution.png)
 {: .hint-content .hint-3 }
+
+## Save your project
+
+[[[saving-scratch]]]
+
+# Step 5: Costumes
+
+Let's make your singer look like she's singing!
+
+## Activity Checklist
+
++ Create a second costume for your singer, and make it look as though she is singing. You should name your costumes 'not singing' and 'singing'.
+
+	![screenshot](images/band-singer-name.png)
+	![screenshot](images/band-singer-click.png)
+
+[[[new-costumes]]]
+
+
+
