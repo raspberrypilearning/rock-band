@@ -152,7 +152,7 @@ When your singer sprite is clicked, you should change the singer's costume. Once
 
 ### Hint 2
 {: .hint-heading #hint-2 }
-You'll need to use these blocks:
+You'll need to add these blocks to your singer's code:
 ![screenshot](images/band-singer-costume-blocks.png)
 {: .hint-content .hint-2 }
 
