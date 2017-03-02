@@ -5,5 +5,13 @@ description: rock-band description
 published: false
 
 steps:
-  - title: Step one
-    duration: 60
+  - title: Introduction
+    duration: 10
+  - title: Sprites
+    duration: 10
+  - title: The Stage
+    duration: 10
+  - title: Making a Drum
+    duration: 10
+  - title: Costumes
+    duration: 10
