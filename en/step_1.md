@@ -1,5 +1,3 @@
-# Rock Band
-
 ## Introduction
 
 In this project you'll learn how to code your own musical instruments!

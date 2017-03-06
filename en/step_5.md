@@ -1,4 +1,4 @@
-# Step 5: Costumes
+# Step 4: Costumes
 
 Let's make your singer look like she's singing!
 
