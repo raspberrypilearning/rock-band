@@ -3,21 +3,20 @@ hero_image: images/banner.png
 subtitle: rock-band subtitle
 description: rock-band description
 published: true
-
 steps:
   - title: Introduction
     duration: 10
-  - title: Step 1: Sprites
+  - title: 'Step 1: Sprites'
     duration: 10
-  - title: Step 2: The Stage
+  - title: 'Step 2: The Stage'
     duration: 10
-  - title: Step 3: Making a Drum
+  - title: 'Step 3: Making a Drum'
     duration: 10
-  - title: Challenge: Improving your drum
+  - title: 'Challenge: Improving your drum'
     duration: 10
-  - title: Step 4: Making a Singer
+  - title: 'Step 4: Making a Singer'
     duration: 10
-  - title: Step 5: Costumes
+  - title: 'Step 5: Costumes'
     duration: 10
-  - title: Challenge: Make your own band
+  - title: 'Challenge: Make your own band'
     duration: 10
