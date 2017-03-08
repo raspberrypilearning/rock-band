@@ -12,6 +12,6 @@
 
 	![screenshot](images/band-shrink.png)
 
-## Save your project
+### Save your project
 
 [[[saving-scratch]]]

@@ -12,6 +12,6 @@ The __stage__ is the area on the left, and is where your project comes to life. 
 
 	![screenshot](images/band-stage.png)
 
-## Save your project
+### Save your project
 
 [[[saving-scratch]]]

@@ -12,6 +12,6 @@ Let's code your drum to make a sound when it's hit.
 
 + Click the drum to try out your new instrument!
 
-## Save your project
+### Save your project
 
 [[[saving-scratch]]]

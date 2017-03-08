@@ -1,8 +1,8 @@
-# Step 4: Costumes
+## Step 5: Costumes
 
 Let's make your singer look like she's singing!
 
-## Activity Checklist
+### Activity Checklist
 
 + You can also change how your singer sprite looks when it's clicked, by creating a new costume. Click the 'Costumes' tab, and you'll see the singer image.
 
@@ -28,13 +28,13 @@ Let's make your singer look like she's singing!
 
 + Test your singer. When clicked, your singer should now look like she is singing!
 
-##Challenge: Changing your drum's costume
+### Challenge: Changing your drum's costume
 Can you make your drum look like it's being hit? If you need help, you can use the instructions for changing your singer's costume above.
 
 ![screenshot](images/band-drum-final.png)
 
 Remember to test that your new code works!
 
-## Save your project
+### Save your project
 
 [[[saving-scratch]]]
