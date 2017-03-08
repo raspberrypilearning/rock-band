@@ -1,3 +1,4 @@
+<div class="challenge">
 ##Challenge: Make your own band
 
 Use what you've learnt in this project to make your own band! You can create any instruments you like, but look at the available sounds and instruments to get some ideas.
@@ -19,3 +20,4 @@ If you have a microphone you can record your own sounds, or even use a webcam to
 ## Save your project
 
 [[[saving-scratch]]]
+</div>
