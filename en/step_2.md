@@ -4,7 +4,7 @@
 
 [[[new-scratch-project]]]
 
-+ Add the drum sprite from the Scratch library. (This doesn't need to be here if the next step has some context.)
++ Add the drum sprite from the Scratch library.
 
 [[[add-sprite-from-library]]]
 
