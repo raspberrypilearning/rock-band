@@ -29,5 +29,3 @@ Let's make your singer look like she's singing!
 + Test your singer. When clicked, your singer should now look like she is singing!
 
 ### Save your project
-
-[[[saving-scratch]]]
