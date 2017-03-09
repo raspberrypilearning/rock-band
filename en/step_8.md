@@ -8,5 +8,4 @@ Remember to test that your new code works!
 
 ### Save your project
 
-[[[saving-scratch]]]
 </div>
