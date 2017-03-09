@@ -25,5 +25,3 @@ Let's add a singer to your band!
 
 
 ### Save your project
-
-[[[saving-scratch]]]
