@@ -19,5 +19,4 @@ If you have a microphone you can record your own sounds, or even use a webcam to
 
 ### Save your project
 
-[[[saving-scratch]]]
 </div>
