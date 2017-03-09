@@ -16,6 +16,4 @@ You can copy your existing code by right-clicking on it and clicking 'duplicate'
 
 ### Save your project
 
-[[[saving-scratch]]]
-
 </div>
