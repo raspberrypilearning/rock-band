@@ -1,5 +1,7 @@
 ## Step 1: Sprites
 
+Before you can start coding, you’ll need to add in a ‘thing’ to code. In Scratch, these ‘things’ are called __sprites__.
+
 ### Activity Checklist
 
 + First, open up the Scratch editor. You can find the online Scratch editor at <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. It looks like this:
