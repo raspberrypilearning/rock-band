@@ -9,4 +9,5 @@ steps:
     duration: 10
   - title: What you'll need
     duration: 10
- 
+  - title: 'Step 1: Sprites'
+    duration: 10
