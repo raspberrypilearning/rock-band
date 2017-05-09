@@ -4,11 +4,15 @@ The __stage__ is the area on the left, and is where your project comes to life. 
 
 ### Activity Checklist
 
-+ At the moment, the stage is white, and looks pretty boring! Let's add a backdrop to the stage.
++ At the moment, the stage is white, and looks pretty boring! Let's add a backdrop to the stage, by clicking 'Choose backdrop from library'.
 
-[[[backdrop-from-library]]]
+	![screenshot](images/band-stage-choose.png)
 
-+ Your stage should look like this:
++ Click 'Indoors' on the left, and then click on a stage backdrop and click 'OK'.
+
+	![screenshot](images/band-backdrop.png)
+
++ Your stage should now look like this:
 
 	![screenshot](images/band-stage.png)
 
