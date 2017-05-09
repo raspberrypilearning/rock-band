@@ -3,7 +3,7 @@
 
 + Can you change the sound that the drum makes when it's clicked?
 
-![screenshot](images/band-drum-sound.png)
+![Changing the drum sound](images/band-drum-sound.png)
 
 + Can you also get the drum to make a sound when the spacebar is pressed? You'll need to use this `event` {.blockevents} block:
 
@@ -13,5 +13,5 @@
 
 You can copy your existing code by right-clicking on it and clicking 'duplicate'.
 
-![screenshot](images/band-duplicate-code.png)
+![Duplicating code](images/band-duplicate-code.png)
 --- /challenge ---
