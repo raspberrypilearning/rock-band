@@ -5,11 +5,9 @@
 
 ![Changing the drum sound](images/band-drum-sound.png)
 
-+ Can you also get the drum to make a sound when the spacebar is pressed? You'll need to use this `event` {.blockevents} block:
++ Can you also get the drum to make a sound when the spacebar is pressed? You'll need to use this 'event' block:
 
-```blocks
-	when [space v] key pressed
-```
+![Key pressed block](images/band-key-pressed.png)
 
 You can copy your existing code by right-clicking on it and clicking 'duplicate'.
 
