@@ -2,9 +2,9 @@ title: Rock Band
 hero_image: images/banner.png
 subtitle: Not sure one is needed.
 description: Learn how to code your own musical instrument!
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band?redirect=false
+original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 theme: cc-prototype
-published: true
+published: false
 steps:
   - title: Introduction
     duration: 10
