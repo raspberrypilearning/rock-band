@@ -4,9 +4,7 @@ Before you can start coding, you’ll need to add in a 'thing' to code. In Scrat
 
 ### Activity Checklist
 
-+ First, open up the Scratch editor. You can find the online Scratch editor at
-
-<a href="http://jumpto.cc/scratch-new" >jumpto.cc/scratch-new</a>. It looks like this:
++ First, open up the Scratch editor. You can find the online Scratch editor at <a href="http://jumpto.cc/scratch-new" >jumpto.cc/scratch-new</a>. It looks like this:
 
 	![screenshot](images/band-scratch.png)
 
