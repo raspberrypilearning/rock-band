@@ -4,7 +4,25 @@ subtitle: Not sure one is needed.
 description: Learn how to code your own musical instrument!
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band?redirect=false
 theme: cc-prototype
-published: false
+published: true
 steps:
   - title: Introduction
+    duration: 10
+  - title: What you'll need
+    duration: 10
+  - title: 'Step 1: Sprites'
+    duration: 10
+  - title: 'Step 2: The stage'
+    duration: 10
+  - title: 'Step 3: Making a drum'
+    duration: 10
+  - title: 'Challenge : Improving your drum'
+    duration: 10
+  - title: 'Step 4: Making a singer'
+    duration: 10
+  - title: 'Step 5: Costumes'
+    duration: 10
+  - title: "Challenge : Changing your drum's costume"
+    duration: 10
+  - title: 'Challenge : Make your own band'
     duration: 10
