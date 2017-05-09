@@ -11,3 +11,5 @@ steps:
     duration: 10
   - title: 'Step 1: Sprites'
     duration: 10
+  - title: 'Step 2: The stage'
+    duration: 10
