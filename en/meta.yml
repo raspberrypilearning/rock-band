@@ -2,8 +2,10 @@ title: rock-band
 hero_image: images/banner.png
 subtitle: rock-band subtitle
 description: rock-band description
-published: false
+published: true
 
 steps:
-  - title: Step one
-    duration: 60
+  - title: Introduction
+    duration: 10
+  - title: What you'll need
+    duration: 10
