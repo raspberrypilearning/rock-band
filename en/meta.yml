@@ -15,7 +15,3 @@ steps:
     duration: 10
   - title: 'Step 3: Making a drum'
     duration: 10
-  - title: 'Challenge : Improving your drum'
-    duration: 10
-  - title: 'Step 4: Making a singer'
-    duration: 10
