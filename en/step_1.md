@@ -12,7 +12,7 @@ Click the green flag, and then click the sprites to play sounds and instruments.
 
 #### What you'll learn
 
--- collapse ---
+--- collapse ---
 
 + You'll use sequences of instructions to create musical instruments.
 
