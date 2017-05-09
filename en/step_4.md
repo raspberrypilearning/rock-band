@@ -11,5 +11,5 @@ The __stage__ is the area on the left, and is where your project comes to life. 
 title: Adding a backdrop from the Scratch library
 image: images/image.png
 ---
-[[[backdrop-from-library]]]
+[[[generic-scratch-backdrop-from-library]]]
 --- /collapse ---

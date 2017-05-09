@@ -9,7 +9,7 @@ Before you can start coding, you'll need to add in a 'thing' to code. In Scratch
 title: Creating a new Scratch project
 image: images/image.png
 ---
-[[[new-scratch-project]]]
+[[[generic-scratch-new-project]]]
 --- /collapse ---
 
 + Add a drum sprite to your project.
@@ -21,7 +21,7 @@ image: images/image.png
 title: Adding a sprite from the Scratch library
 image: images/image.png
 ---
-[[[add-sprite-from-library]]]
+[[[generic-scratch-sprite-from-library]]]
 --- /collapse ---
 
 + Click the 'shrink' icon, and then click on the drum a few times to make it smaller.

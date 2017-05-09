@@ -11,7 +11,7 @@ Let's add a singer to your band!
 title: Adding a sprite from the Scratch library
 image: images/image.png
 ---
-[[[add-sprite-from-library]]]
+[[[generic-scratch-sprite-from-library]]]
 --- /collapse ---
 
 + Add the 'singer1' (or any other sound you like) to your singer sprite.
