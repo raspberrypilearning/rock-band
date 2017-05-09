@@ -7,5 +7,3 @@ published: true
 steps:
   - title: Introduction
     duration: 10
-  - title: What you'll need
-    duration: 10
