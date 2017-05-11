@@ -10,9 +10,11 @@ Click the green flag, and then click the sprites to play sounds and instruments.
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
 </div>
 
-#### What you'll learn
-
 --- collapse ---
+---
+title: What you'll learn
+image: images/image.png
+---
 
 + You'll use sequences of instructions to create musical instruments.
 

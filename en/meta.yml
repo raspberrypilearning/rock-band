@@ -8,7 +8,7 @@ published: false
 steps:
   - title: Introduction
     duration: 10
-  - title: What you'll need
+  - title: "What you'll need"
     duration: 10
   - title: 'Step 1: Sprites'
     duration: 10
