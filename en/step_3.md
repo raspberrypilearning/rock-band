@@ -14,7 +14,7 @@ image: images/image.png
 
 + Add a drum sprite to your project.
 
-    ![Adding a drum sprite](images/band-drum.png)
+    ![Adding a drum sprite](images/band-drum-sprite.png)
 
 --- collapse ---
 ---
