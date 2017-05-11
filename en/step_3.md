@@ -2,7 +2,7 @@
 
 Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called __sprites__.
 
-+ Open a new empty Scratch project.
++ Open a new empty Scratch project. 
 
 --- collapse ---
 ---
