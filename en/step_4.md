@@ -1,15 +1,16 @@
-## Step 2: The stage
+## Making a Drum
 
-The __stage__ is the area on the left, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+Let's code your drum to make a sound when it's hit.
 
-+ At the moment, the stage is white, and looks pretty boring! Add a backdrop to the stage.
 
-    ![Adding a stage backdrop](images/band-stage.png)
 
---- collapse ---
----
-title: Adding a backdrop from the Scratch library
-image: images/image.png
----
-[[[generic-scratch-backdrop-from-library]]]
---- /collapse ---
++ You can find the code blocks in the 'Scripts' tab, and they are all colour-coded!
+
+	Click on the drum sprite, and then drag these 2 blocks into the code area to the right, making sure that they are connected together (like Lego blocks):
+
+	![screenshot](images/band-code.png)
+
++ Click the drum to try out your new instrument!
+
+
+

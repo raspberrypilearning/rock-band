@@ -1,25 +1,21 @@
-## Step 3: Making a drum
+--- challenge ---
+## Challenge: Improving your drum
 
-Let's code your drum to make a sound when it's hit.
++ Can you change the sound that the drum makes when it's clicked?
 
-+ Can you add code to your drum sprite, so that it makes a sound when it's hit?
+![screenshot](images/band-drum-sound.png)
 
-    Test and save: Click your drum sprite - it should make a sound just like a drum!
++ Can you also get the drum to make a sound when the spacebar is pressed? You'll need to use this `event`{:class="blockevents"} block:
 
---- collapse ---
----
-title: Saving a Scratch project
-image: images/image.png
----
-[[[generic-scratch-saving]]]
---- /collapse ---
+```blocks
+	when [space v] key pressed
+```
 
---- hints ---
---- hint ---
-When your drum __sprite is clicked__, it should __play a drum__ sound.
---- /hint ---
---- hint ---
-Here's how your code should look:
-![Code for playing a drum sound](images/band-drum-code.png)
---- /hint ---
---- /hints ---
+You can copy your existing code by right-clicking on it and clicking 'duplicate'.
+
+![screenshot](images/band-duplicate-code.png)
+
+
+
+
+--- /challenge ---

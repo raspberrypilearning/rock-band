@@ -1,30 +1,18 @@
-## Step 1: Sprites
+## The Stage
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called __sprites__.
+The __stage__ is the area on the left, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
-+ Open a new empty Scratch project.
 
---- collapse ---
----
-title: Creating a new Scratch project
-image: images/image.png
----
-[[[generic-scratch-new-project]]]
---- /collapse ---
 
-+ Add a drum sprite to your project.
++ At the moment, the stage is white, and looks pretty boring! Let's add a backdrop to the stage, by clicking 'Choose backdrop from library'.
 
-    ![Adding a drum sprite](images/band-drum-sprite.png)
+	![screenshot](images/band-stage-choose.png)
 
---- collapse ---
----
-title: Adding a sprite from the Scratch library
-image: images/image.png
----
++ Click 'Indoors' on the left, and then click on a stage backdrop and click 'OK'.
 
-[[[generic-scratch-sprite-from-library]]]
---- /collapse ---
+	![screenshot](images/band-backdrop.png)
 
-+ Click the 'shrink' icon, and then click on the drum a few times to make it smaller.
++ Your stage should now look like this:
 
-	![Shrinking the drum sprite](images/band-shrink.png)
+	![screenshot](images/band-stage.png)
+

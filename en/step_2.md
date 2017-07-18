@@ -1,17 +1,36 @@
-## What you'll need
+## Sprites
 
-#### Hardware
+Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called __sprites__.
 
-+ Computer capable of running Scratch 2.0.
 
-#### Software
 
-+ Scratch 2.0 (either [online](https://scratch.mit.edu/projects/editor/) or [offline](https://scratch.mit.edu/scratch2download/))
++ First, open up the Scratch editor. You can find the online Scratch editor at <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. It looks like this:
 
-#### Additional Resources
+	![screenshot](images/band-scratch.png)
 
-For logged in club leaders only... display a message if not logged in:
-    "If you're an educator, please log in to see the solutions."
++ The cat sprite that you can see is the Scratch mascot. Let's get rid of it, by right-clicking and then clicking 'delete'.
 
-+ [Rock Band online completed project](http://scratch.mit.edu/projects/26741186/#editor)
-+ [Rock Band offline completed project](resources/RockBand-Finished.sb2){:download='RockBand-Finished.sb2'}
+	![screenshot](images/band-delete.png)
+
++ Next, click 'Choose sprite from library' to open up a list of all the Scratch sprites.
+
+	![screenshot](images/band-sprite-library.png)
+
++ Scroll down until you see a drum sprite. Click on a drum, and click 'OK' to add it to your project.
+
+	![screenshot](images/band-sprite-drum.png)
+
++ Click the 'shrink' icon, and then click on the drum a few times to make it smaller.
+
+	![screenshot](images/band-shrink.png)
+
+
+
+Give your program a name, by typing one into the text box in the top-left corner.
+
+You can then click 'File' and then 'Save now' to save your project.
+
+![screenshot](images/band-save.png)
+
+(If you don't have a Scratch account, you can save a copy of your project by clicking 'Download to your computer' instead).
+

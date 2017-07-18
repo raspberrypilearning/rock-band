@@ -1,28 +1,25 @@
-title: Rock Band
+---
 hero_image: images/banner.png
-subtitle: Not sure one is needed.
-description: Learn how to code your own musical instrument!
+theme: red
+duration: 1
+listed: false
+ingredient: false
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+title: Rock Band
+description: Learn how to code your own musical instruments!
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: cc-prototype
-published: false
+interests: ''
+technologies: scratch
+site_areas: codeclub, scratch
 steps:
-  - title: Introduction
-    duration: 10
-  - title: "What you'll need"
-    duration: 10
-  - title: 'Step 1: Sprites'
-    duration: 10
-  - title: 'Step 2: The stage'
-    duration: 10
-  - title: 'Step 3: Making a drum'
-    duration: 10
-  - title: 'Challenge : Improving your drum'
-    duration: 10
-  - title: 'Step 4: Making a singer'
-    duration: 10
-  - title: 'Step 5: Costumes'
-    duration: 10
-  - title: "Challenge : Changing your drum's costume"
-    duration: 10
-  - title: 'Challenge : Make your own band'
-    duration: 10
+- title: Introduction
+- title: Sprites
+- title: The Stage
+- title: Making a Drum
+- title: 'Challenge: Improving your drum'
+- title: Making a Singer
+- title: Costumes
+- title: 'Challenge: Changing your drum''s costume'
+- title: 'Challenge: Make your own band'
+

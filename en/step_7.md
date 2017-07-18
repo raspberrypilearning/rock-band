@@ -1,39 +1,30 @@
-## Step 4: Making a singer
+## Costumes
 
-Let's add a singer to your band!
+Let's make your singer look like she's singing!
 
-+ Add another 2 sprites to your stage; a singer and a microphone.
 
-    ![Adding a singer and microphone](images/band-singer-mic.png)
 
---- collapse ---
----
-title: Adding a sprite from the Scratch library
-image: images/image.png
----
-[[[generic-scratch-sprite-from-library]]]
---- /collapse ---
++ You can also change how your singer sprite looks when it's clicked, by creating a new costume. Click the 'Costumes' tab, and you'll see the singer image.
 
-+ Add the 'singer1' (or any other sound you like) to your singer sprite.
+	![screenshot](images/band-singer-costume.png)
 
---- collapse ---
----
-title: Adding a sound from the Scratch library
-image: images/image.png
----
-[[[generic-scratch-sound-from-library]]]
---- /collapse ---
++ Right-click on the costume and click 'duplicate' to create a copy of the costume.
 
-+ Can you code your singer to sing when she's clicked?
+	![screenshot](images/band-singer-duplicate.png)
 
-    Test and save: When you click your singer she should make a sound.
++ Click on the new costume (called 'Singer2') and then select the line tool and draw lines to make it look like your singer is making a sound.
 
---- hints ---
---- hint ---
-When your singer __sprite is clicked__, it should __play a sound__.
---- /hint ---
---- hint ---
-Here's how your code should look:
-![Code for playing a 'singer' sound](images/band-singer-code.png)
---- /hint ---
---- /hints ---
+	![screenshot](images/band-singer-click.png)
+
++ The names of the costumes aren't very helpful at the moment. Rename the 2 costumes to 'not singing' and 'singing' by typing the new name of each costume into the text box.
+
+	![screenshot](images/band-singer-name.png)
+
++ Now that you have 2 different costumes for your singer, you can choose which costume is displayed! Add these 2 blocks to your singer:
+
+	![screenshot](images/band-looks.png)
+
+	The code block for changing the costume is in the `Looks`{:class="blocklooks"} section.
+
++ Test your singer. When clicked, your singer should now look like she is singing!
+
