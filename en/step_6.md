@@ -1,8 +1,8 @@
-## Step 4: Making a Singer
+## Making a Singer
 
 Let's add a singer to your band!
 
-### Activity Checklist
+
 
 + Add another 2 sprites to your stage; a singer and a microphone.
 
@@ -18,10 +18,12 @@ Let's add a singer to your band!
 
 + Now that the sound has been added, you can add this code to your singer:
 
-	![screenshot](images/sound.png)
-
+	```blocks
+		when this sprite clicked
+		play sound [singer1 v] until done
+	```
 
 + Click on your singer, to make sure that she sings when clicked.
 
 
-### Save your project
+

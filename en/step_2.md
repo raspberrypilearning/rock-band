@@ -1,10 +1,10 @@
-## Step 1: Sprites
+## Sprites
 
-Before you can start coding, you’ll need to add in a 'thing' to code. In Scratch, these 'things' are called __sprites__.
+Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called __sprites__.
 
-### Activity Checklist
 
-+ First, open up the Scratch editor. You can find the online Scratch editor at [jumpto.cc/scratch-new](http://jumpto.cc/scratch-new){:target="_blank"}. It looks like this:
+
++ First, open up the Scratch editor. You can find the online Scratch editor at <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. It looks like this:
 
 	![screenshot](images/band-scratch.png)
 
@@ -24,7 +24,7 @@ Before you can start coding, you’ll need to add in a 'thing' to code. In Scrat
 
 	![screenshot](images/band-shrink.png)
 
-### Save your project
+
 
 Give your program a name, by typing one into the text box in the top-left corner.
 
@@ -33,3 +33,4 @@ You can then click 'File' and then 'Save now' to save your project.
 ![screenshot](images/band-save.png)
 
 (If you don't have a Scratch account, you can save a copy of your project by clicking 'Download to your computer' instead).
+

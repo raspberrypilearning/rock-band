@@ -1,19 +1,23 @@
-title: Rock Band
 hero_image: images/hero-rock-band-large.png
-subtitle: Bang those drums...
-description: Learn how to code your own musical instruments!
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band?redirect=false
 theme: red
+duration: 2
 listed: true
 ingredient: false
-duration: 2
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+title: Rock Band
+description: Learn how to code your own musical instruments!
+original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+interests: ''
+technologies: scratch
+site_areas: codeclub, scratch
 steps:
-  - title: Introduction
-  - title: 'Step 1: Sprites'
-  - title: 'Step 2: The Stage'
-  - title: 'Step 3: Making a Drum'
-  - title: 'Challenge: Improving your drum'
-  - title: 'Step 4: Making a Singer'
-  - title: 'Step 5: Costumes'
-  - title: "Challenge: Changing your drum's costume"
-  - title: 'Challenge: Make your own band'
+- title: Introduction
+- title: Sprites
+- title: The Stage
+- title: Making a Drum
+- title: 'Challenge: Improving your drum'
+- title: Making a Singer
+- title: Costumes
+- title: 'Challenge: Changing your drum''s costume'
+- title: 'Challenge: Make your own band'
