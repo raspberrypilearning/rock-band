@@ -8,7 +8,7 @@ In this project you'll learn how to code your own musical instruments!
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/rock-band/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print).
 
 
 --- collapse ---
