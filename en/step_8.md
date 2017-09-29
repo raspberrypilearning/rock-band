@@ -2,8 +2,6 @@
 
 Let's make your singer look like she's singing!
 
-
-
 + You can also change how your singer sprite looks when it's clicked, by creating a new costume. Click the 'Costumes' tab, and you'll see the singer image.
 
 	![screenshot](images/band-singer-costume.png)
@@ -27,4 +25,3 @@ Let's make your singer look like she's singing!
 	The code block for changing the costume is in the `Looks`{:class="blocklooks"} section.
 
 + Test your singer. When clicked, your singer should now look like she is singing!
-
