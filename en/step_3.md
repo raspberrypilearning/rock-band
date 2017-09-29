@@ -2,8 +2,6 @@
 
 Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called __sprites__.
 
-
-
 + First, open up the Scratch editor. You can find the online Scratch editor at <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. It looks like this:
 
 	![screenshot](images/band-scratch.png)
@@ -33,4 +31,3 @@ You can then click 'File' and then 'Save now' to save your project.
 ![screenshot](images/band-save.png)
 
 (If you don't have a Scratch account, you can save a copy of your project by clicking 'Download to your computer' instead).
-

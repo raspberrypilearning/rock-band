@@ -66,7 +66,7 @@ title: Project materials
 ---
 
 
-## Club leader resources
+### Club leader resources
 * [Downloadable completed Scratch 2 project](resources/RockBand.sb2){:target="_blank"}
 * [Online completed Scratch 2 project](http://scratch.mit.edu/projects/26741186/#editor){:target="_blank"}
 

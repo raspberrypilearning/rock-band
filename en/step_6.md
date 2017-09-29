@@ -15,7 +15,4 @@ You can copy your existing code by right-clicking on it and clicking 'duplicate'
 
 ![screenshot](images/band-duplicate-code.png)
 
-
-
-
 --- /challenge ---

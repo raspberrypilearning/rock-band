@@ -2,8 +2,6 @@
 
 Let's add a singer to your band!
 
-
-
 + Add another 2 sprites to your stage; a singer and a microphone.
 
 	![screenshot](images/band-singer-mic.png)
@@ -24,6 +22,3 @@ Let's add a singer to your band!
 	```
 
 + Click on your singer, to make sure that she sings when clicked.
-
-
-
