@@ -1,4 +1,3 @@
----
 hero_image: images/banner.png
 theme: red
 duration: 2
@@ -14,6 +13,7 @@ technologies: scratch
 site_areas: codeclub, scratch
 steps:
 - title: Introduction
+- title: What you will need
 - title: Sprites
 - title: The Stage
 - title: Making a Drum
@@ -22,4 +22,3 @@ steps:
 - title: Costumes
 - title: 'Challenge: Changing your drum''s costume'
 - title: 'Challenge: Make your own band'
-
