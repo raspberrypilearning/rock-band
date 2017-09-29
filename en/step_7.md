@@ -1,30 +1,29 @@
-## Costumes
+## Making a Singer
 
-Let's make your singer look like she's singing!
+Let's add a singer to your band!
 
 
 
-+ You can also change how your singer sprite looks when it's clicked, by creating a new costume. Click the 'Costumes' tab, and you'll see the singer image.
++ Add another 2 sprites to your stage; a singer and a microphone.
 
-	![screenshot](images/band-singer-costume.png)
+	![screenshot](images/band-singer-mic.png)
 
-+ Right-click on the costume and click 'duplicate' to create a copy of the costume.
++ Before you can make your singer sing, you need to add a sound to your sprite. Make sure that you have selected your singer, then click the 'Sounds' tab, and click 'Choose sound from library':
 
-	![screenshot](images/band-singer-duplicate.png)
+	![screenshot](images/band-import-sound.png)
 
-+ Click on the new costume (called 'Singer2') and then select the line tool and draw lines to make it look like your singer is making a sound.
++ If you click 'Vocals' on the left hand side, you will then be able to choose a suitable sound to add to your sprite.
 
-	![screenshot](images/band-singer-click.png)
+	![screenshot](images/band-choose-sound.png)
 
-+ The names of the costumes aren't very helpful at the moment. Rename the 2 costumes to 'not singing' and 'singing' by typing the new name of each costume into the text box.
++ Now that the sound has been added, you can add this code to your singer:
 
-	![screenshot](images/band-singer-name.png)
+	```blocks
+		when this sprite clicked
+		play sound [singer1 v] until done
+	```
 
-+ Now that you have 2 different costumes for your singer, you can choose which costume is displayed! Add these 2 blocks to your singer:
++ Click on your singer, to make sure that she sings when clicked.
 
-	![screenshot](images/band-looks.png)
 
-	The code block for changing the costume is in the `Looks`{:class="blocklooks"} section.
-
-+ Test your singer. When clicked, your singer should now look like she is singing!
 

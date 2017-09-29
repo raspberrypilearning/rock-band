@@ -1,16 +1,18 @@
-## Making a Drum
+## The Stage
 
-Let's code your drum to make a sound when it's hit.
-
-
-
-+ You can find the code blocks in the 'Scripts' tab, and they are all colour-coded!
-
-	Click on the drum sprite, and then drag these 2 blocks into the code area to the right, making sure that they are connected together (like Lego blocks):
-
-	![screenshot](images/band-code.png)
-
-+ Click the drum to try out your new instrument!
+The __stage__ is the area on the left, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
 
+
++ At the moment, the stage is white, and looks pretty boring! Let's add a backdrop to the stage, by clicking 'Choose backdrop from library'.
+
+	![screenshot](images/band-stage-choose.png)
+
++ Click 'Indoors' on the left, and then click on a stage backdrop and click 'OK'.
+
+	![screenshot](images/band-backdrop.png)
+
++ Your stage should now look like this:
+
+	![screenshot](images/band-stage.png)
 
