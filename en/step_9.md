@@ -1,22 +1,9 @@
 --- challenge ---
-## Challenge: Make your own band
-Use what you've learnt in this project to make your own band! You can create any instruments you like, but look at the available sounds and instruments to get some ideas.
+## Challenge: change your drum's costume
+Can you make your drum look like it's being hit? If you need help, you can use the instructions for changing your singer's costume in the previous step.
 
-![screenshot](images/band-ideas.png)
+![screenshot](images/band-drum-final.png)
 
-Your instruments don't have to be sensible though. For example, you could make a piano made out of muffins!
-
-![screenshot](images/band-piano.png)
-
-As well as using existing sprites, you can also draw your own.
-
-![screenshot](images/band-draw.png)
-
-If you have a microphone you can record your own sounds, or even use a webcam to hit your instruments!
-
-![screenshot](images/band-io.png)
-
-
-
+Remember to test that your new code works!
 
 --- /challenge ---

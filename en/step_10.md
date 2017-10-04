@@ -1,20 +1,37 @@
 --- challenge ---
-## Challenge: Make your own band
+## Challenge: make your own band
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available sounds and instruments to get some ideas.
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like, but look at the available sounds and instruments to get some ideas.
-
-![Scratch available sounds](images/band-ideas.png)
+![screenshot](images/band-ideas.png)
 
 Your instruments don't have to be sensible though. For example, you could make a piano made out of muffins!
 
-![Muffin piano](images/band-piano.png)
+![screenshot](images/band-piano.png)
 
 As well as using existing sprites, you can also draw your own.
 
-![Drawing your own sprites](images/band-draw.png)
+![screenshot](images/band-draw.png)
+
+--- collapse ---
+---
+title: If you have problems...
+---
+
++ When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+
+To fix this, click **Set costume center** on both costumes, and make sure the center is at the same point in both costumes.
+
+![screenshot](images/band-center.png)
+
+
+--- /collapse ---
+
 
 If you have a microphone you can record your own sounds, or even use a webcam to hit your instruments!
 
-![Input sources](images/band-io.png)
+![screenshot](images/band-io.png)
+
+
+
 
 --- /challenge ---
