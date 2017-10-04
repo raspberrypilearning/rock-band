@@ -1,4 +1,4 @@
-## The stage
+## The Stage
 
 The __Stage__ is the area on the left, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
