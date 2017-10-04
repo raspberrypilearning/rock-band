@@ -1,5 +1,5 @@
 --- challenge ---
-## Challenge: Improving your drum
+## Challenge: improving your drum
 
 + Can you change the sound that the drum makes when it's clicked?
 
