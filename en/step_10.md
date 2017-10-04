@@ -1,6 +1,6 @@
 --- challenge ---
-## Challenge: Make your own band
-Use what you've learnt in this project to make your own band! You can create any instruments you like, but look at the available sounds and instruments to get some ideas.
+## Challenge: make your own band
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available sounds and instruments to get some ideas.
 
 ![screenshot](images/band-ideas.png)
 
