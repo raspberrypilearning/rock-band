@@ -6,28 +6,26 @@ Before you can start coding, you'll need to add in a 'thing' to code. In Scratch
 
 	![screenshot](images/band-scratch.png)
 
-+ The cat sprite that you can see is the Scratch mascot. Let's get rid of it, by right-clicking and then clicking 'delete'.
++ The cat sprite that you can see is the Scratch mascot. Let's get rid of it by right-clicking it and then clicking **delete**.
 
 	![screenshot](images/band-delete.png)
 
-+ Next, click 'Choose sprite from library' to open up a list of all the Scratch sprites.
++ Next, click **Choose sprite from library** to open up a list of all the Scratch sprites.
 
 	![screenshot](images/band-sprite-library.png)
 
-+ Scroll down until you see a drum sprite. Click on a drum, and click 'OK' to add it to your project.
++ Scroll down until you see a drum sprite. Click on a drum, and click **OK** to add it to your project.
 
 	![screenshot](images/band-sprite-drum.png)
 
-+ Click the 'shrink' icon, and then click on the drum a few times to make it smaller.
++ Click the **shrink** icon, and then click on the drum a few times to make it smaller.
 
 	![screenshot](images/band-shrink.png)
 
+Give your program a name by typing one into the text box in the top left-hand corner.
 
-
-Give your program a name, by typing one into the text box in the top-left corner.
-
-You can then click 'File' and then 'Save now' to save your project.
+You can then click **File** and then **Save now** to save your project.
 
 ![screenshot](images/band-save.png)
 
-(If you don't have a Scratch account, you can save a copy of your project by clicking 'Download to your computer' instead).
+If you don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
