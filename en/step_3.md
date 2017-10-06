@@ -24,8 +24,6 @@ Before you can start coding, you'll need to add in a 'thing' to code. In Scratch
 
 Give your program a name by typing one into the text box in the top left-hand corner.
 
-You can then click **File** and then **Save now** to save your project.
+You can then click **File** and then **Save now** to save your project. If you don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
 
 ![screenshot](images/band-save.png)
-
-If you don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
