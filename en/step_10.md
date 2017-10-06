@@ -14,7 +14,7 @@ As well as using existing sprites, you can also draw your own.
 
 --- collapse ---
 ---
-title: If you have problems...
+title: Why is my sprite 'jumping' when it changes costume?
 ---
 
 + When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.

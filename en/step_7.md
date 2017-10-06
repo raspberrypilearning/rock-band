@@ -21,4 +21,4 @@ Let's add a singer to your band!
 		play sound [singer1 v] until done
 	```
 
-+ Click on your singer, to make sure that she sings when clicked.
++ Click on your singer and see what happens. Does she sing?
