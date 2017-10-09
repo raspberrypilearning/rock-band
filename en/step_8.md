@@ -24,4 +24,4 @@ Let's make your singer look like she's singing!
 
 	The code block for changing the costume is in the `Looks`{:class="blocklooks"} section.
 
-+ Test your singer. When clicked, your singer should now look like she is singing!
++ Click on your singer. Does she look like she is singing?
