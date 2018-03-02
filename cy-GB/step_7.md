@@ -22,6 +22,6 @@ Ewn ati i wneud dy ganwr i edrych fel ei bod yn canu!
 
 	![screenshot](images/band-looks.png)
 
-	Mae'r côd ar gyfer newid y wisg yn yr adran `Edrychiad` {.blocklooks}.
+	Mae'r côd ar gyfer newid y wisg yn yr adran `Edrychiad`{:class="blocklooks"}.
 
 + Profa dy ganwr.  Pan wyt ti yn clicio arni, fe ddylai dy ganwr edrych fel ei bod yn canu!
