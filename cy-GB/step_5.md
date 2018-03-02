@@ -5,7 +5,7 @@
 
 ![screenshot](images/band-drum-sound.png)
 
-+ Alli di hefyd wneud i'r drwm wneud sŵn wrth wasgu'r bylchwr ar dy allweddell? Bydd angen i ti ddefnyddio'r bloc 'digwyddiadau' {.blockevents}:
++ Alli di hefyd wneud i'r drwm wneud sŵn wrth wasgu'r bylchwr ar dy allweddell? Bydd angen i ti ddefnyddio'r bloc `digwyddiadau'`{:class="blockevents"}:
 
 ![screenshot](images/band-clicked.png)
 
