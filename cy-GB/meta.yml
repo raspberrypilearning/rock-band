@@ -1,0 +1,23 @@
+hero_image: images/hero-rock-band-large.png
+theme: red
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+title: Band Roc
+description: Dysga sut i godio dy offerynnau cerddorol dy hunan!
+original_url: https://projects.raspberrypi.org/en/projects/rock-band
+interests: ''
+technologies: scratch
+site_areas: codeclub, scratch
+steps:
+- title: Cyflwyniad
+- title: Cipluniau
+- title: Llwyfan
+- title: Gwneud Drwm
+- title: "Her: Perffeithio dy ddrwm"
+- title: Gwneud Canwr
+- title: Gwisgoedd
+- title: "Her: Newid edrychiad dy ddrwm"
+- title: "Her: Gwneud band dy hunan"
