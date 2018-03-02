@@ -16,9 +16,6 @@ Ewn ati i ychwanegu canwr i dy fand!
 
 + Nawr bod y sain wedi ychwanegu, galli di ychwanegu'r côd yma i'r canwr:
 
-	```blocks
-		pan caiff y cymeriad ei glicio
-		chwarae sain [singer1 v] tan y diwedd
-	```
+	![screenshot](images/band-sprite-singer.png)
 
 + Clicia ar dy ganwr, i sicrhau ei bod yn canu pan wyt ti'n clicio.
