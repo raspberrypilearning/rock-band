@@ -7,9 +7,7 @@
 
 + Alli di hefyd wneud i'r drwm wneud sŵn wrth wasgu'r bylchwr ar dy allweddell? Bydd angen i ti ddefnyddio'r bloc 'digwyddiadau' {.blockevents}:
 
-```blocks
-	pan fo bysell [bylchwr v] wedi ei wasgu
-```
+![screenshot](images/band-clicked.png)
 
 Mae modd i ti arbed y côd trwy glicio arno ar y dde a dewis 'dyblygu'
 
