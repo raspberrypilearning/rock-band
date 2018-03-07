@@ -5,7 +5,7 @@
 
 ![screenshot](images/band-drum-sound.png)
 
-+ Riesci a fare in modo che il tamburo produca un suono premendo la barra spazio? Dovrai utilizzare questo blocco `situazione` {.blockevents}:
++ Riesci a fare in modo che il tamburo produca un suono premendo la barra spazio? Dovrai utilizzare questo blocco `situazione`{:class="blockevents"}:
 
 ```blocks
 	Quando si preme il tasto [spazio v]
