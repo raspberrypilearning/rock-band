@@ -48,6 +48,6 @@ Tout d'abord, créons un tambour qui produit un son lorsqu'il est frappé.
 
 	```
 
-	Le bloc de code pour changer le costume est dans la section `Apparences` {.blocklooks}.
+	Le bloc de code pour changer le costume est dans la section `Apparences`{:class="blocklooks"}.
 
 + Testez votre tambour. Lorsque le tambour est cliqué, il devrait maintenant changer de costume afin de montrer qu'il a été frappé.
