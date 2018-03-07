@@ -4,7 +4,7 @@
 
 ![screenshot](images/band-drum-sound.png)
 
-+ Pouvez-vous aussi faire un son quand la barre d'espace est appuyée ? Vous devrez utiliser les blocs `Événement` {.blockevents}:
++ Pouvez-vous aussi faire un son quand la barre d'espace est appuyée ? Vous devrez utiliser les blocs `Événement`{:class="blockevents"}:
 
 ```blocks
 	quand [espace v] est pressé
