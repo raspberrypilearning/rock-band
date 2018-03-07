@@ -28,4 +28,4 @@ Vous pouvez trouver une version complétée de ce projet <a href="http://scratch
 
 Pour réparer ceci, cliquez ' Définir le centre du costume ' sur les deux lutin et assurez-vous qu'ils ont les même centre sur les deux costumes.
 
-	![screenshot](images/band-center.png)
+![screenshot](images/band-center.png)
