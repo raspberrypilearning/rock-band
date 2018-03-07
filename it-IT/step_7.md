@@ -22,6 +22,6 @@ Facciamo in modo che la cantante sembri cantare!
 
 	![screenshot](images/band-looks.png)
 
-	Il blocco di codice per cambiare il costume si trova nella sezione `Aspetto` {.blocklooks}.
+	Il blocco di codice per cambiare il costume si trova nella sezione `Aspetto`{:class="blocklooks"}.
 
 + Prova la cantante. Ora la cantante quando viene cliccata dovrebbe apparire come se cantasse!
