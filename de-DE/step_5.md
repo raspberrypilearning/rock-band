@@ -24,7 +24,7 @@ Bisher haben wir für alle Instrumente fertige Bilder aus der Scratch-Bibliothek
 
 	![screenshot](images/band-shrink.png)
 
-+ Als nächstes solltest du den Namen der Figur umändern, weil 'Figur1' kein besonders hilfreicher Name ist! Klicke auf das Symbol für die Becken-Figur und dann auf das blaue `i` {.blockmotion} (Information) oben links.
++ Als nächstes solltest du den Namen der Figur umändern, weil 'Figur1' kein besonders hilfreicher Name ist! Klicke auf das Symbol für die Becken-Figur und dann auf das blaue `i`{:class="blockmotion"} (Information) oben links.
 
 	![screenshot](images/band-info.png)
 
