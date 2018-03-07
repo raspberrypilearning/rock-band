@@ -5,7 +5,7 @@
 
 ![screenshot](images/band-drum-sound.png)
 
-+ ¿Puedes hacer también que el tambor haga un sonido cuando se presiona la barra espaciadora? Necesitarás utilizar este bloque “Eventos” {.blockevents}:
++ ¿Puedes hacer también que el tambor haga un sonido cuando se presiona la barra espaciadora? Necesitarás utilizar este bloque `Eventos`{:class="blockevents"}:
 
 ```blocks
 	al presionar tecla [espacio v]
