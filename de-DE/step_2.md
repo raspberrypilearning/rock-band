@@ -37,16 +37,16 @@ Lass uns zuerst eine Trommel entwickeln, die einen Klang von sich gibt, wenn du 
 
 + Weil es jetzt 2 unterschiedliche Kostüme für die Trommel gibt, kannst du nun auswählen welches Kostüm angezeigt wird! Füge diesen Code zu deiner Trommel hinzu:
 
-	```blocks
-		Wenn die grüne Flagge angeklickt
-		wechsle zu Kostüm [nicht geschlagen v]
+```blocks
+	Wenn die grüne Flagge angeklickt
+	wechsle zu Kostüm [nicht geschlagen v]
 
-		Wenn ich angeklickt werde
-		wechsle zu Kostüm [geschlagen v]
-		spiele Schlaginstrument (1 v) für (0.25) Schläge
-		wechsle zu Kostüm [nicht geschlagen v]
-	```
+	Wenn ich angeklickt werde
+	wechsle zu Kostüm [geschlagen v]
+	spiele Schlaginstrument (1 v) für (0.25) Schläge
+	wechsle zu Kostüm [nicht geschlagen v]
+```
 
-	Den Code-Block zum Wechseln des Kostüms findest du im Bereich `Aussehen` {.blocklooks}.
+	Den Code-Block zum Wechseln des Kostüms findest du im Bereich `Aussehen` {:class="blocklooks"}.
 
 + Wenn die Trommel angeklickt wird sollte sie jetzt das Kostüm wechseln, damit man sieht dass sie einen Ton von sich gibt, und dann wieder zurückwechseln.
