@@ -8,7 +8,7 @@ Para poder empezar a animar, necesitas añadir una “cosa” que animar. En Scr
 
 + El objeto gato que ves es la mascota de Scratch. Deshagámosnos de él haciendo clic en el botón derecho y luego haciendo clic en “borrar”.
 
-	![screenshot](band-delete.png)
+	![screenshot](images/band-delete.png)
 
 + Luego, haz clic en “Selecciona un objeto de la biblioteca” para abrir una lista con todos los objetos de Scratch.
 
