@@ -1,11 +1,18 @@
-## Making a drum
+--- challenge ---
+## Desafío: Mejorar tu tambor
 
-Let's code your drum to make a sound when it's hit.
++ ¿Puedes cambiar el sonido que hace tu tambor cuando haces clic en él?
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+![screenshot](images/band-drum-sound.png)
 
-+ Click on the drum sprite, and then drag these two blocks into the code area to the right, making sure that they are connected together (like Lego blocks):
++ ¿Puedes hacer también que el tambor haga un sonido cuando se presiona la barra espaciadora? Necesitarás utilizar este bloque “Eventos” {.blockevents}:
 
-![screenshot](images/connect-block.gif)
+```blocks
+	al presionar tecla [espacio v]
+```
 
-+ Click the drum to try out your new instrument!
+Puedes copiar el código existente haciendo clic en el código con el botón derecho y seleccionando “duplicar”.
+
+![screenshot](images/band-duplicate-code.png)
+
+--- /challenge ---

@@ -1,18 +1,24 @@
---- challenge ---
-## Challenge: improving your drum
+## Crear un cantante
 
-+ Can you change the sound that the drum makes when it's clicked?
+¡Vamos a añadir un cantante a tu banda!
 
-![screenshot](images/band-drum-sound.png)
++ Añade otros 2 objetos a tu escenario; un cantante y un micrófono.
 
-+ Can you also get the drum to make a sound when the spacebar is pressed? You'll need to use this `event`{:class="blockevents"} block:
+	![screenshot](images/band-singer-mic.png)
 
-```blocks
-	when [space v] key pressed
-```
++ Para hacer que tu cantante cante, necesitarás añadir un sonido a tu objeto. Asegúrate de haber seleccionado al cantante, haz clic en la pestaña “Sonidos” y haz clic en “Selecciona un sonido de la biblioteca”:
 
-You can copy your existing code by right-clicking on it and clicking **duplicate**.
+	![screenshot](images/band-import-sound.png)
 
-![screenshot](images/band-duplicate-code.png)
++ Si haces clic en “Canto” en el lado izquierdo, podrás elegir un sonido adecuado para añadir a tu objeto.
 
---- /challenge ---
+	![screenshot](images/band-choose-sound.png)
+
++ Ahora que has añadido el sonido, puedes añadir este código a tu cantante:
+
+	```blocks
+		al hacer clic en este objeto
+		Tocar sonido [singer1 v] y esperar
+	```
+
++ Prueba tu cantante, para asegurarte de que cante cuando le haces clic.

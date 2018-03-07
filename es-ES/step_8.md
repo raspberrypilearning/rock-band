@@ -1,27 +1,17 @@
-## Costumes
+--- challenge ---
+## Desafío: Crear tu propia banda
+¡Usa lo que has aprendido en este proyecto para crear tu propia banda! Puedes crear el instrumento que quieras, pero fíjate en los sonidos disponibles y en los instrumentos para tener algunas ideas.
 
-Let's make your singer look like she's singing!
+![screenshot](images/band-ideas.png)
 
-+ You can also change how your singer sprite looks when it's clicked by creating a new costume. Click the Costumes tab, and you'll see the singer image.
+Pero tus instrumentos no tienen por qué ser lógicos. Por ejemplo, puedes crear un piano hecho de muffins!
 
-	![screenshot](images/band-singer-costume.png)
+![screenshot](images/band-piano.png)
 
-+ Right-click on the costume and click **duplicate** to create a copy of the costume.
+Puedes usar los objetos existentes y también dibujar los tuyos propios.
 
-	![screenshot](images/band-singer-duplicate.png)
+![screenshot](images/band-draw.png)
 
-+ Click on the new costume (called 'Singer2'), and then select the line tool and draw lines to make it look like your singer is making a sound.
+¡Si tienes un micrófono puedes grabar tus propios sonidos, o incluso usar una cámara web para tocar los instrumentos!
 
-	![screenshot](images/band-singer-click.png)
-
-+ The names of the costumes aren't very helpful at the moment. Rename the two costumes so they are called 'not singing' and 'singing' by typing the new name of each costume into the text box.
-
-	![screenshot](images/band-singer-name.png)
-
-+ Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two blocks to your singer:
-
-	![screenshot](images/band-looks.png)
-
-	The code block for changing the costume is in the `Looks`{:class="blocklooks"} section.
-
-+ Click on your singer. Does she look like she is singing?
+![screenshot](images/band-io.png)
