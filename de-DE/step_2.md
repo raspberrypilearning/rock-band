@@ -12,10 +12,10 @@ Lass uns zuerst eine Trommel entwickeln, die einen Klang von sich gibt, wenn du 
 
 + Lass uns die Trommel so programmieren, dass sie einen Klang abspielt, wenn man drauf klickt. Stelle sicher, dass die Trommel ausgewählt ist, und füge diesen Code hinzu:
 
-	```blocks
-		Wenn ich angeklickt werde
-		spiele Schlaginstrument (1 v) für (0.25) Schläge
-	```
+```blocks
+	Wenn ich angeklickt werde
+	spiele Schlaginstrument (1 v) für (0.25) Schläge
+```
 
 + Klicke auf die Trommel, um dein neues Instrument zu testen!
 
