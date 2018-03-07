@@ -30,6 +30,6 @@ Vamos a codificar tu tambor para que suene cuando lo toquemos.
 
 	![screenshot](images/band-looks.png)
 
-	El bloque de código para cambiar el disfraz está en la sección “Apariencia” {.blocklooks}.
+	El bloque de código para cambiar el disfraz está en la sección `Apariencia`{:class="blocklooks"}.
 
 + Prueba tu tambor. ¡Cuando haces clic en el tambor, debería parecer que está siendo tocado!
