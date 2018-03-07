@@ -4,7 +4,7 @@
 
 ![screenshot](images/band-drum-sound.png)
 
-+ Kannst du auch die Trommel dazu bringen, einen Klang von sich zu geben, wenn die Leertaste gedrückt wird? Dazu benötigst du diesen Block aus dem Bereich `Ereignisse` {.blockevents}:
++ Kannst du auch die Trommel dazu bringen, einen Klang von sich zu geben, wenn die Leertaste gedrückt wird? Dazu benötigst du diesen Block aus dem Bereich `Ereignisse`{:class="blockevents"}:
 
 ```blocks
 	Wenn Taste [Leertaste v] gedrückt
