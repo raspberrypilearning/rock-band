@@ -1,0 +1,20 @@
+hero_image: images/hero-rock-band-large.png
+theme: red
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+title: Groupe de rock
+description: Apprends à programmer ton propre groupe de musique!
+original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+interests: ''
+technologies: scratch
+site_areas: codeclub, scratch
+steps:
+- title: Introduction
+- title: Fabrication d'un tambour
+- title: "Défi : Amélioration de votre tambour"
+- title: Création d'un Chanteur
+- title: "Défi : Changement du costume de votre chanteur"
+- title: "Défi : Faites votre propre orchestre"
