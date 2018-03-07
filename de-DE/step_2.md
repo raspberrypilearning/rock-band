@@ -47,6 +47,6 @@ Lass uns zuerst eine Trommel entwickeln, die einen Klang von sich gibt, wenn du 
 	wechsle zu Kostüm [nicht geschlagen v]
 ```
 
-	Den Code-Block zum Wechseln des Kostüms findest du im Bereich `Aussehen` {:class="blocklooks"}.
+Den Code-Block zum Wechseln des Kostüms findest du im Bereich `Aussehen`{:class="blocklooks"}.
 
 + Wenn die Trommel angeklickt wird sollte sie jetzt das Kostüm wechseln, damit man sieht dass sie einen Ton von sich gibt, und dann wieder zurückwechseln.
