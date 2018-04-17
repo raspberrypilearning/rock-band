@@ -1,20 +1,20 @@
-## Sprites
+## Objetos
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Antes de comenzar la codificación, necesitas añadir una “cosa” que animar. En Scratch, estas “cosas” se llaman **objetos**.
 
-+ First, open up the Scratch editor. You can find the online Scratch editor at <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. It looks like this:
++ Para empezar, abre el editor de Scratch. Puedes encontrar el editor en línea de Scratch editor en <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. Éste es su aspecto:
     
     ![screenshot](images/band-scratch.png)
 
-+ The cat sprite that you can see is the Scratch mascot. Let's get rid of it by right-clicking it and then clicking **delete**.
++ El objeto gato que ves es la mascota de Scratch. Deshagámosnos de él haciendo clic en el botón derecho y luego haciendo clic en **borrar**.
     
     ![screenshot](images/band-delete.png)
 
-+ Next, click **Choose sprite from library** to open up a list of all the Scratch sprites.
++ Luego, haz clic en **Selecciona un objeto de la biblioteca** para abrir una lista con todos los objetos de Scratch.
     
     ![screenshot](images/band-sprite-library.png)
 
-+ Scroll down until you see a drum sprite. Click on a drum, and click **OK** to add it to your project.
++ Baja hasta encontrar el objeto de un tambor. Selecciona un tambor, y haz clic en **“OK”** para añadirlo a tu proyecto.
     
     ![screenshot](images/band-sprite-drum.png)
 
