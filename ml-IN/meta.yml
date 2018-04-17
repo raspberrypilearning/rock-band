@@ -1,0 +1,39 @@
+---
+hero_image: images / hero-rock-band-large.png
+theme: ചുവപ്പ്
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: റോക്ക് ബാൻഡ്
+description: നിങ്ങളുടെ സ്വന്തം സംഗീതോപകരണങ്ങൾ എങ്ങനെ എഴുതണമെന്ന് മനസിലാക്കുക
+original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+interests: ''
+technologies: സ്ക്രാച്ച്
+site_areas: projects
+hardware: ''
+software: scratch
+version: 4
+last_tested: 2017-10-01
+steps:
+  - 
+    title: ആമുഖം
+  - 
+    title: നിങ്ങൾക്ക് എന്ത് വേണം
+  - 
+    title: Sprites
+  - 
+    title: വേദി
+  - 
+    title: ഒരു ഡ്രം ഉണ്ടാക്കുക
+  - 
+    title: 'വെല്ലുവിളി: നിങ്ങളുടെ ഡ്രം മെച്ചപ്പെടുത്തുക'
+  - 
+    title: ഒരു ഗായകനാക്കാൻ
+  - 
+    title: കോസ്റ്റ്യൂമുകൾ
+  - 
+    title: 'വെല്ലുവിളി: നിങ്ങളുടെ ഡ്രം വസ്ത്രധാരണ മാറ്റുക'
+  - 
+    title: 'വെല്ലുവിളി: നിങ്ങളുടെ സ്വന്തം ബാൻഡാക്കുക'
