@@ -18,12 +18,12 @@ Antes de comenzar la codificación, necesitas añadir una “cosa” que animar.
     
     ![screenshot](images/band-sprite-drum.png)
 
-+ Click the **shrink** icon, and then click on the drum a few times to make it smaller.
++ Haz clic en el icono **encoger**, y luego haz clic en el tambor unas cuantas veces para hacerlo más pequeño.
     
     ![screenshot](images/band-shrink.png)
 
-Give your program a name by typing one into the text box in the top left-hand corner.
+Dale un nombre a tu proyecto escribiéndolo en la casilla de texto de la parte superior del escenario.
 
-You can then click **File** and then **Save now** to save your project. If you don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+Después puedes hacer clic en **Archivo** y **Guardar ahora** para guardar tu proyecto. Si no tienes una cuenta de Scratch, puedes guardar una copia de tu proyecto haciendo clic en **Descargar a tu computadora **.
 
 ![screenshot](images/band-save.png)
