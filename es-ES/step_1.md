@@ -1,23 +1,23 @@
-## Introduction
+## Introducción
 
-Learn how to code your own musical instruments!
+¡Aprende cómo codificar tus propios instrumentos musicales!
 
-### What you will make
+### Lo que crearás
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+Haz clic en la bandera verde para empezar. Luego, haz clic en el cantante o el tambor para escuchar cómo suenan.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
 </div>
 
-### What you will learn
+### Lo que aprenderás
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Usa estructuras de programación básicos para crear programas simples](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Additional information for educators
+### Información adicional para los educadores
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Si necesitas imprimir este proyecto, usa la [versión imprimible](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Usa el enlace en el pie de página para acceder al repositorio de GitHub para este proyecto, que contiene todos los recursos (incluyendo un ejemplo de un proyecto terminado) en la carpeta 'en/resources'.
