@@ -18,7 +18,7 @@ Je kunt niet alleen bestaande sprites gebruiken, maar ook je eigen sprites teken
 
 ## titel: Waarom springt mijn sprite wanneer het uitelijk verandert?
 
-+ Bij het maken van je eigen sprite, kunt je merken dat wanneer je op de sprite klikt, deze verspringt wanneer het uiterlijk verandert. Dit komt omdat het centrum van de twee uiterlijken niet op precies dezelfde plek staan.
++ Bij het maken van je eigen sprite, kan je merken dat wanneer je op de sprite klikt, deze verspringt wanneer het uiterlijk verandert. Dit komt omdat het centrum van de twee uiterlijken niet op precies dezelfde plek staan.
 
 Klik op ** Middelpunt van uiterlijk ** om dit probleem op te lossen, en zorg ervoor dat het centrum in beide uiterlijken op hetzelfde punt staat.
 
