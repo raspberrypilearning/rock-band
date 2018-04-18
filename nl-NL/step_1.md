@@ -12,7 +12,7 @@ Klik op de groene vlag om te beginnen. Klik vervolgens op de zanger of de drum o
 
 ### Wat ga je leren
 
-Dit project behandelt elementen uit de volgende onderdelen van de[Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Dit project behandelt elementen uit de volgende onderdelen van de [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [ Gebruik simpele programmeerlussen om eenvoudige programma's te maken ](https://www.raspberrypi.org/curriculum/programming/creator) {:target="_ blank"}
 
