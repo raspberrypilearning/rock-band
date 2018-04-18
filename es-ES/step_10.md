@@ -2,11 +2,11 @@
 
 ## Challenge: crea tu propia banda
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available sounds and instruments to get some ideas.
+¡Usa lo que has aprendido en este proyecto para crear tu propia banda! Puedes crear cualquier instrumento que quieras - echa un vistazo a los sonidos y instrumentos disponibles para algunas ideas.
 
 ![screenshot](images/band-ideas.png)
 
-Your instruments don't have to be sensible though. For example, you could make a piano made out of muffins!
+Tus instrumentos no tienen que ser lógicos. Por ejemplo, ¡podrías crear un piano hecho de muffins!
 
 ![screenshot](images/band-piano.png)
 
