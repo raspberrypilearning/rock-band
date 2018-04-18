@@ -10,15 +10,15 @@ Tus instrumentos no tienen que ser lógicos. Por ejemplo, ¡podrías crear un pi
 
 ![screenshot](images/band-piano.png)
 
-As well as using existing sprites, you can also draw your own.
+Además de utilizar objectos existantes, también puedes dibujar uno nuevo propio.
 
 ![screenshot](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## title: ¿Por qué 'salta' el objeto cuando cambia de disfraz?
 
-+ When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
++ Cuando creas tu propio objeto, a lo mejor encontrarás que cuando haces clic en ello, 'salta' cuando cambia de disfraz. Esto pasa si los dos disfraces no están centrados en el mismo punto.
 
 To fix this, click **Set costume center** on both costumes, and make sure the center is at the same point in both costumes.
 
