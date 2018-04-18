@@ -20,13 +20,13 @@ Además de utilizar objectos existantes, también puedes dibujar uno nuevo propi
 
 + Cuando creas tu propio objeto, a lo mejor encontrarás que cuando haces clic en ello, 'salta' cuando cambia de disfraz. Esto pasa si los dos disfraces no están centrados en el mismo punto.
 
-To fix this, click **Set costume center** on both costumes, and make sure the center is at the same point in both costumes.
+Para arreglarlo haz clic en **Fijar el centro del disfraz** para los dos disfraces, y asegúrate de que el centro esté en el mismo punto en ambos.
 
 ![screenshot](images/band-center.png)
 
 \--- /collapse \---
 
-If you have a microphone you can record your own sounds, or even use a webcam to hit your instruments!
+Si tienes un micrófono, puedes grabar tus propios sonidos, ¡o incluso usar una cámara web para tocar tus instrumentos!
 
 ![screenshot](images/band-io.png)
 
