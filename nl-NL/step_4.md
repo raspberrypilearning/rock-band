@@ -6,7 +6,7 @@ Het ** Speelveld ** is het gebied linksboven, waar je project tot leven komt. Zi
     
     ![screenshot](images/band-stage-choose.png)
 
-+ Klik op ** Binnen ** aan de linkerkant en klik vervolgens op een speelveld-achtergrond en klik op ** OK **.
++ Klik op **Binnen** aan de linkerkant en klik vervolgens op een speelveld-achtergrond en klik op **OK**.
     
     ![screenshot](images/band-backdrop.png)
 
