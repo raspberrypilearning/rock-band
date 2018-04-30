@@ -6,7 +6,7 @@
 
 ![screenshot](images/band-drum-sound.png)
 
-+ Kun je de trommel ook laten horen als de spatiebalk wordt ingedrukt? Je moet dit `gebeurtenis` blok gebruiken{: class="blockevents"}:
++ Kun je de trommel ook laten horen als de spatiebalk wordt ingedrukt? Je moet dit `gebeurtenis`{:class="blockevents"} blok gebruiken:
 
 ```blocks
     wanneer [spatiebalk] wordt ingedrukt
