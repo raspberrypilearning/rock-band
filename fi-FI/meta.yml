@@ -1,0 +1,39 @@
+---
+hero_image: Kuvien / sankari-rock-bändi-large.png
+theme: punainen
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, ohjelmointi-1, phys-comp-0, valmistus-0, yhteisö-0
+title: Rock-bändi
+description: Opi soittamaan omia soittimia
+original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+interests: ''
+technologies: naarmu
+site_areas: hankkeet
+hardware: ''
+software: naarmu
+version: 4
+last_tested: 10.01.2017
+steps:
+  - 
+    title: esittely
+  - 
+    title: Mitä tarvitset
+  - 
+    title: sprites
+  - 
+    title: Näyttämö
+  - 
+    title: Rummun tekeminen
+  - 
+    title: 'Haaste: parantaa rumpua'
+  - 
+    title: Laulajan tekeminen
+  - 
+    title: Puvut
+  - 
+    title: 'Haaste: vaihda rumpusi puku'
+  - 
+    title: 'Haaste: tee oma bändi'
