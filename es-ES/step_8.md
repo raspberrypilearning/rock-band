@@ -1,27 +1,27 @@
-## Costumes
+## Disfraces
 
-Let's make your singer look like she's singing!
+¡Vamos a hacer ver que esté cantando!
 
-+ You can also change how your singer sprite looks when it's clicked by creating a new costume. Click the Costumes tab, and you'll see the singer image.
++ También puedes cambiar el aspecto de tu objeto cantante cuando haces clic creando un nuevo objeto. Haz clic en la pestaña Disfraces y verás la imagen del cantante.
     
     ![screenshot](images/band-singer-costume.png)
 
-+ Right-click on the costume and click **duplicate** to create a copy of the costume.
++ Haz clic derecho en el disfraz y presiona **duplicar** para crear una copia del disfraz.
     
     ![screenshot](images/band-singer-duplicate.png)
 
-+ Click on the new costume (called 'Singer2'), and then select the line tool and draw lines to make it look like your singer is making a sound.
++ Haz clic en el nuevo disfraz (llamado 'Cantante2'), y selecciona la herramienta línea para dibujar líneas para que parezca que tu cantante haga ruido.
     
     ![screenshot](images/band-singer-click.png)
 
-+ The names of the costumes aren't very helpful at the moment. Rename the two costumes so they are called 'not singing' and 'singing' by typing the new name of each costume into the text box.
++ Ahora mismo los nombres de los disfraces no son muy útiles. Cambia el nombre de los dos disfraces para que se llamen 'no cantando' y 'cantando' escribiendo el nuevo nombre de cada uno en el cuadro de texto.
     
     ![screenshot](images/band-singer-name.png)
 
-+ Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two blocks to your singer:
++ Ahora que tengas dos disfraces diferentes para tu cantante, ¡puedes escoger cual disfraz se visualiza! Agrega estos bloques a tu cantante:
     
     ![screenshot](images/band-looks.png)
     
-    The code block for changing the costume is in the `Looks`{:class="blocklooks"} section.
+    El bloque de código para cambiar de disfraz se encuentra en la pestaña `Apariencia` {:class="blocklooks"}.
 
-+ Click on your singer. Does she look like she is singing?
++ Haz clic en tu cantante. ¿Parece que está cantando?
