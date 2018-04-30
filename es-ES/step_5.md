@@ -1,11 +1,11 @@
-## Making a drum
+## Crear un tambor
 
-Let's code your drum to make a sound when it's hit.
+Vamos a codificar tu tambor para que haga un sonido cuando sea golpeado.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Puedes encontrar los bloques de codificación en la pestaña Programas, ¡y todos están codificados por colores!
 
-+ Click on the drum sprite, and then drag these two blocks into the code area to the right, making sure that they are connected together (like Lego blocks):
++ Haz clic en el objeto del tambor, y agarra estos dos bloques de codificación a la derecha, asegurándote de que están conectados (como piezas de Lego):
 
 ![screenshot](images/connect-block.gif)
 
-+ Click the drum to try out your new instrument!
++ !Haz clic en el tambor para probar tu nuevo instrumento!
