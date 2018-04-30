@@ -1,6 +1,6 @@
 ## Sprites
 
-Voordat je met coderen kunt beginnen, moet je een 'ding' toevoegen aan de code. In Scratch worden deze 'dingen' ** sprites** genoemd.
+Voordat je met coderen kunt beginnen, moet je een 'ding' toevoegen aan de code. In Scratch worden deze 'dingen' **sprites** genoemd.
 
 + Open eerst de Scratch-editor. Je kunt de online Scratch-editor vinden op <a href="http://jumpto.cc/scratch-new" target="_blank"> jumpto.cc/scratch-new </a>. Het ziet er zo uit:
     
@@ -14,7 +14,7 @@ Voordat je met coderen kunt beginnen, moet je een 'ding' toevoegen aan de code. 
     
     ![screenshot](images/band-sprite-library.png)
 
-+ Blader naar beneden tot je een drum sprite ziet. Klik op een drum en klik op ** OK ** om het toe te voegen aan je project.
++ Blader naar beneden tot je een drum sprite ziet. Klik op een drum en klik op **OK** om het toe te voegen aan je project.
     
     ![screenshot](images/band-sprite-drum.png)
 
