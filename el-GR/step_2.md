@@ -1,9 +1,9 @@
-## Τι θα χρειαστείτε
+## Τι θα χρειαστείς
 
-### Σκεύη, εξαρτήματα
+### Υλικό
 
 + Υπολογιστής ικανός να τρέχει το Scratch 2.0
 
 ### Λογισμικό
 
-+ Scratch 2.0 ( [online](https://scratch.mit.edu/projects/editor/){: target = "_ blank"} ή [offline](https://scratch.mit.edu/scratch2download/){: target = "_ blank"})
++ Scratch 2.0 (είτε [online](https://scratch.mit.edu/projects/editor/){:target="_blank"} είτε [offline](https://scratch.mit.edu/scratch2download/){:target="_blank"})
