@@ -1,15 +1,15 @@
-## The Stage
+## El Escenario
 
-The **Stage** is the area on the left, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+**El Escenario** es la zona de la izquierda, y es dónde tu proyecto cobra vida. Piénselo como una zona de actuación, ¡como un escenario real!
 
-+ At the moment, the stage is white, and looks pretty boring! Let's add a backdrop to the stage, by clicking **Choose backdrop from library**.
++ De momento el escenario es blanco, ¡y se ve bastante aburrido! Vamos a añadirle un fondo, haciendo clic en **Selecciona un fondo de la biblioteca**.
     
     ![screenshot](images/band-stage-choose.png)
 
-+ Click **Indoors** on the left, and then click on a stage backdrop and click **OK**.
++ Haz clic en **Interiores** a la izquierda, y luego haz clic en un fondo de escenario y haz clic en **OK**.
     
     ![screenshot](images/band-backdrop.png)
 
-+ Your stage should now look like this:
++ Ahora tu escenario debe ser así:
     
     ![screenshot](images/band-stage.png)
