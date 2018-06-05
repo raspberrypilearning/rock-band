@@ -17,7 +17,7 @@ Grubunuza bir şarkıcı ekleyelim!
 + Artık ses eklendi, bu kodu şarkıcınıza ekleyebilirsiniz:
     
     ```blocks
-    bu hareketli grafik tıklandığında [şarkıcı1 v] sesi bitene kadar çalın
-```
+        bu hareketli grafik tıklandığında [şarkıcı1 v] sesi bitene kadar çalın
+    ```
 
 + Şarkıcınıza tıklayın ve ne olduğunu görün. Şarkı söylüyor mu?
