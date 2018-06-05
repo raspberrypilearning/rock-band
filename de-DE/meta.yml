@@ -7,8 +7,8 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Rock-Band
-description: In diesem Projekt lernst du, wie du deine eigenen Musikinstrumente programmieren kannst!
-original_url: https://projects.raspberrypi.org/en/projects/rock-band
+description: Lerne deine eigenen Musikinstrumente zu programmieren
+original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 interests: ''
 technologies: scratch
 site_areas: projects
@@ -20,20 +20,20 @@ steps:
   - 
     title: Einleitung
   - 
-    title: Eine Trommel programmiere
+    title: Was du brauchen wirst
   - 
-    title: 'Herausforderung: Deine Trommel verbessern'
+    title: Figuren
   - 
-    title: Eine Sängerin programmieren
+    title: Die Bühne
   - 
-    title: Ein Becken programmieren
+    title: Eine Trommel machen
   - 
-    title: Hintergrundmusik
+    title: "Herausforderung: Verbessere deine Trommel"
   - 
-    title: 'Herausforderung: Erstelle deine eigene Band'
+    title: Einen Sänger machen
   - 
     title: Kostüme
   - 
-    title: 'Zusatzaufgabe: Ändere das Kostüm deiner Trommel'
+    title: "Herausforderung: Ändere das Kostüm deiner Trommel"
   - 
-    title: 'Zusatzaufgabe: Mach deine eigene Band'
+    title: "Herausforderung: Mache deine eigene Band"
