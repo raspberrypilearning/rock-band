@@ -1,13 +1,13 @@
-\--- challenge \---
+\--- tantangan \---
 
-## Challenge: change your drum's costume
+## Tantangan: ubah kostum drum Anda
 
-Can you make your drum look like it's being hit?
+Bisakah Anda membuat drum Anda terlihat seperti dipukul?
 
-![screenshot](images/band-drum-final.png)
+![tangkapan layar](images/band-drum-final.png)
 
-\--- hints \--- \--- hint \--- Use the instructions for changing your singer's costume in the previous step to help you. \--- /hint \--- \--- /hints \---
+\--- petunjuk \--- \--- petunjuk \--- Gunakan instruksi untuk mengubah kostum penyanyi Anda di langkah sebelumnya untuk membantu Anda. \--- / petunjuk \--- \--- / petunjuk \---
 
-Remember to test that your new code works!
+Ingatlah untuk menguji bahwa kode baru Anda berfungsi!
 
-\--- /challenge \---
+\--- / tantangan \---
