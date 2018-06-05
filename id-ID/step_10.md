@@ -1,33 +1,33 @@
-\--- challenge \---
+\--- tantangan \---
 
-## Challenge: make your own band
+## Tantangan: buat band Anda sendiri
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available sounds and instruments to get some ideas.
+Gunakan apa yang telah Anda pelajari dalam proyek ini untuk membuat band Anda sendiri! Anda dapat membuat instrumen apa pun yang Anda suka - lihat suara dan instrumen yang tersedia untuk mendapatkan beberapa ide.
 
-![screenshot](images/band-ideas.png)
+![tangkapan layar](images/band-ideas.png)
 
-Your instruments don't have to be sensible though. For example, you could make a piano made out of muffins!
+Namun, instrumen Anda tidak harus masuk akal. Misalnya, Anda bisa membuat piano yang terbuat dari muffin!
 
-![screenshot](images/band-piano.png)
+![tangkapan layar](images/band-piano.png)
 
-As well as using existing sprites, you can also draw your own.
+Serta menggunakan sprite yang ada, Anda juga dapat menggambar sprite Anda sendiri.
 
-![screenshot](images/band-draw.png)
+![tangkapan layar](images/band-draw.png)
 
-## \--- collapse \---
+## \--- jatuh \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## title: Mengapa sprite saya 'melompat' ketika itu mengubah kostum?
 
-+ When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
++ Ketika membuat sprite Anda sendiri, Anda mungkin menemukan bahwa ketika Anda mengklik sprite, itu 'melompat' karena mengubah kostum. Ini karena kedua kostum itu tidak berpusat di tempat yang sama.
 
-To fix this, click **Set costume center** on both costumes, and make sure the center is at the same point in both costumes.
+Untuk memperbaikinya, klik **Set pusat kostum** pada kedua kostum, dan pastikan pusatnya berada pada titik yang sama di kedua kostum.
 
-![screenshot](images/band-center.png)
+![tangkapan layar](images/band-center.png)
 
-\--- /collapse \---
+\--- /jatuh \---
 
-If you have a microphone you can record your own sounds, or even use a webcam to hit your instruments!
+Jika Anda memiliki mikrofon, Anda dapat merekam suara Anda sendiri, atau bahkan menggunakan webcam untuk memukul instrumen Anda!
 
-![screenshot](images/band-io.png)
+![tangkapan layar](images/band-io.png)
 
-\--- /challenge \---
+\--- / tantangan \---
