@@ -1,6 +1,6 @@
-## Making a drum
+## Робимо барабан
 
-Let's code your drum to make a sound when it's hit.
+Давайте налаштуємо вашого барабана, щоб утворити звук коли його вдаряємо.
 
 You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
