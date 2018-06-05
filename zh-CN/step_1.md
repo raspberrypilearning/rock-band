@@ -20,4 +20,4 @@
 
 如果你需要打印此项目，请使用[打印机友好版本](https://projects.raspberrypi.org/zh-CN/projects/rock-band/print){:target="_blank"}。
 
-使用页脚的链接访问此项目的GitHub版本库，所有资源（包括最终版示例）保存在'en/resources' 文件夹。
+使用页脚的链接访问此项目的GitHub版本库，所有资源（包括最终版示例）保存在'zh-CN/resources' 文件夹。
