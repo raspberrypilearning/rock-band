@@ -1,19 +1,19 @@
-\--- challenge \---
+\--- tantangan \---
 
-## Challenge: improving your drum
+## Tantangan: meningkatkan drum Anda
 
-+ Can you change the sound that the drum makes when it's clicked?
++ Bisakah Anda mengubah suara yang dibuat drum saat diklik?
 
-![screenshot](images/band-drum-sound.png)
+![tangkapan layar](images/band-drum-sound.png)
 
-+ Can you also get the drum to make a sound when the spacebar is pressed? You'll need to use this `event`{:class="blockevents"} block:
++ Bisakah Anda juga mendapatkan drum untuk membuat suara ketika spasi ditekan? Anda harus menggunakan blok `peristiwa`{: class = "blockevents"} ini:
 
 ```blocks
-    when [space v] key pressed
+    bila tombol [spasi v] ditekan
 ```
 
-You can copy your existing code by right-clicking on it and clicking **duplicate**.
+Anda dapat menyalin kode yang ada dengan mengklik kanan pada itu dan mengklik **duplikat**.
 
-![screenshot](images/band-duplicate-code.png)
+![tangkapan layar](images/band-duplicate-code.png)
 
-\--- /challenge \---
+\--- / tantangan \---
