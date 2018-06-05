@@ -1,6 +1,6 @@
-## Making a singer
+## Роблячи виконавця
 
-Let's add a singer to your band!
+Давайте додамо виконавця до вашої групи!
 
 + Add another two sprites to your stage: a singer and a microphone.
     
