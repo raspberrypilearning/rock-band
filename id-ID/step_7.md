@@ -1,24 +1,23 @@
-## Making a singer
+## Membuat penyanyi
 
-Let's add a singer to your band!
+Mari tambahkan penyanyi ke band Anda!
 
-+ Add another two sprites to your stage: a singer and a microphone.
++ Tambahkan dua sprite lain ke panggung Anda: penyanyi dan mikrofon.
     
-    ![screenshot](images/band-singer-mic.png)
+    ![tangkapan layar](images/band-singer-mic.png)
 
-+ Before you can make your singer sing, you need to add a sound to your sprite. Make sure that you have selected your singer, then click the Sounds tab, and click **Choose sound from library**:
++ Sebelum Anda dapat membuat penyanyi bernyanyi, Anda perlu menambahkan suara ke sprite Anda. Pastikan bahwa Anda telah memilih penyanyi Anda, lalu klik tab Suara, dan klik **Pilih suara dari perpustakaan**:
     
-    ![screenshot](images/band-import-sound.png)
+    ![tangkapan layar](images/band-import-sound.png)
 
-+ If you click **Vocals** on the left-hand side, you will then be able to choose a suitable sound to add to your sprite.
++ Jika Anda mengklik **Vokal** di sisi kiri, Anda kemudian akan dapat memilih suara yang cocok untuk ditambahkan ke sprite Anda.
     
-    ![screenshot](images/band-choose-sound.png)
+    ![tangkapan layar](images/band-choose-sound.png)
 
-+ Now that the sound has been added, you can add this code to your singer:
++ Sekarang setelah suara telah ditambahkan, Anda dapat menambahkan kode ini ke penyanyi Anda:
     
     ```blocks
-    when this sprite clicked
-    play sound [singer1 v] until done
-```
+        ketika sprite ini diklik memainkan suara [singer1 v] sampai selesai
+    ```
 
-+ Click on your singer and see what happens. Does she sing?
++ Klik penyanyi Anda dan lihat apa yang terjadi. Apakah dia bernyanyi?
