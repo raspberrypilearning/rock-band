@@ -17,8 +17,8 @@ Aggiungiamo un cantante alla tua band!
 + Dopo aver caricato il suono, aggiungi questo codice alla tua cantante:
     
     ```blocks
-    quando si clicca questo sprite
-    produci suono [singer1 v] e attendi la fine
-```
+        quando si clicca questo sprite
+        produci suono [singer1 v] e attendi la fine
+    ```
 
 + Fai click sulla cantante e vedi che succede? Sta cantando?
