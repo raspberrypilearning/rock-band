@@ -1,6 +1,6 @@
 ## Davul yapmak
 
-Davulunuzu çarptığında ses çıkaralım.
+Davulunuzu tıklandığında ses çıkaralım.
 
 Kod bloklarını Scripts sekmesinde bulabilirsiniz ve hepsi de renk kodludur!
 
