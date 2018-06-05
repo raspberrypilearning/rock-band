@@ -1,29 +1,29 @@
-## Sprites
+## Sprite
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Sebelum Anda dapat memulai coding, Anda harus menambahkan 'hal' ke kode. Dalam Scratch, 'benda' ini disebut **sprite**.
 
-+ First, open up the Scratch editor. You can find the online Scratch editor at <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. It looks like this:
++ Pertama, buka editor Scratch. Anda dapat menemukan editor Scratch online di <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. Terlihat seperti ini:
     
-    ![screenshot](images/band-scratch.png)
+    ![tangkapan layar](images/band-scratch.png)
 
-+ The cat sprite that you can see is the Scratch mascot. Let's get rid of it by right-clicking it and then clicking **delete**.
++ Kucing sprite yang bisa Anda lihat adalah maskot Scratch. Mari kita hilangkan dengan mengklik kanan dan kemudian mengklik **delete**.
     
-    ![screenshot](images/band-delete.png)
+    ![tangkapan layar](images/band-delete.png)
 
-+ Next, click **Choose sprite from library** to open up a list of all the Scratch sprites.
++ Selanjutnya, klik **Pilih sprite dari library** untuk membuka daftar semua sprite Scratch.
     
-    ![screenshot](images/band-sprite-library.png)
+    ![tangkapan layar](images/band-sprite-library.png)
 
-+ Scroll down until you see a drum sprite. Click on a drum, and click **OK** to add it to your project.
++ Gulir ke bawah sampai Anda melihat sprite drum. Klik pada drum, dan klik **OK** untuk menambahkannya ke proyek Anda.
     
-    ![screenshot](images/band-sprite-drum.png)
+    ![tangkapan layar](images/band-sprite-drum.png)
 
-+ Click the **shrink** icon, and then click on the drum a few times to make it smaller.
++ Klik ikon **menyusut** , lalu klik pada drum beberapa kali untuk membuatnya lebih kecil.
     
-    ![screenshot](images/band-shrink.png)
+    ![tangkapan layar](images/band-shrink.png)
 
-Give your program a name by typing one into the text box in the top left-hand corner.
+Beri nama pada program Anda dengan mengetikkan salah satunya ke dalam kotak teks di sudut kiri atas.
 
-You can then click **File** and then **Save now** to save your project. If you don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+Anda kemudian dapat mengklik **File** dan kemudian **Save now** untuk menyimpan proyek Anda. Jika Anda tidak memiliki akun Scratch, Anda dapat menyimpan salinan proyek Anda dengan mengklik **Unduh ke komputer Anda** sebagai gantinya.
 
-![screenshot](images/band-save.png)
+![tangkapan layar](images/band-save.png)
