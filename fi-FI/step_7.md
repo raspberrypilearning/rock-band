@@ -17,7 +17,7 @@ Lisään laulaja bändiisi!
 + Nyt kun ääni on lisätty, voit lisätä tämän koodin laulajaasi varten:
     
     ```blocks
-    kun tämä sprite napsautti leikkiääntä [singer1 v], kunnes se on valmis
-```
+        kun tämä sprite napsautti leikkiääntä [singer1 v], kunnes se on valmis
+    ```
 
 + Napsauta laulajaa ja katso, mitä tapahtuu. Laulaako hän?
