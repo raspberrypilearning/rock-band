@@ -1,10 +1,10 @@
 ## Робимо барабан
 
-Давайте налаштуємо вашого барабана, щоб утворити звук коли його вдаряємо.
+Давайте налаштуємо вашого барабана, щоб утворити звук коли ми його вдаряємо.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Ви можете знайти блоки кодів у вкладці "скрипти", і вони всі різнокольорово налаштовані!
 
-+ Click on the drum sprite, and then drag these two blocks into the code area to the right, making sure that they are connected together (like Lego blocks):
++ Клацніть на спрайт барабана, а потім перетягніть ці два блоки в область кодів справа, переконавшись, що вони з'єднані разом (наприклад, як блоки Lego):
 
 ![screenshot](images/connect-block.gif)
 
