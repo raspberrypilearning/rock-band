@@ -1,27 +1,27 @@
-## Costumes
+## Kostum
 
-Let's make your singer look like she's singing!
+Mari kita buat penyanyi Anda terlihat seperti dia bernyanyi!
 
-+ You can also change how your singer sprite looks when it's clicked by creating a new costume. Click the Costumes tab, and you'll see the singer image.
++ Anda juga dapat mengubah cara sprite penyanyi Anda terlihat ketika diklik dengan membuat kostum baru. Klik tab Kostum, dan Anda akan melihat gambar penyanyi.
     
-    ![screenshot](images/band-singer-costume.png)
+    ![tangkapan layar](images/band-singer-costume.png)
 
-+ Right-click on the costume and click **duplicate** to create a copy of the costume.
++ Klik kanan pada kostum dan klik **duplikat** untuk membuat salinan kostum.
     
-    ![screenshot](images/band-singer-duplicate.png)
+    ![tangkapan layar](images/band-singer-duplicate.png)
 
-+ Click on the new costume (called 'Singer2'), and then select the line tool and draw lines to make it look like your singer is making a sound.
++ Klik pada kostum baru (disebut 'Singer2'), lalu pilih alat garis dan tarik garis untuk membuatnya terlihat seperti penyanyi Anda membuat suara.
     
-    ![screenshot](images/band-singer-click.png)
+    ![tangkapan layar](images/band-singer-click.png)
 
-+ The names of the costumes aren't very helpful at the moment. Rename the two costumes so they are called 'not singing' and 'singing' by typing the new name of each costume into the text box.
++ Nama-nama kostum tidak terlalu membantu saat ini. Ubah nama dua kostum sehingga mereka disebut 'tidak bernyanyi' dan 'bernyanyi' dengan mengetikkan nama baru setiap kostum ke dalam kotak teks.
     
-    ![screenshot](images/band-singer-name.png)
+    ![tangkapan layar](images/band-singer-name.png)
 
-+ Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two blocks to your singer:
++ Sekarang Anda memiliki dua kostum berbeda untuk penyanyi Anda, Anda dapat memilih kostum mana yang ditampilkan! Tambahkan dua blok ini ke penyanyi Anda:
     
-    ![screenshot](images/band-looks.png)
+    ![tangkapan layar](images/band-looks.png)
     
-    The code block for changing the costume is in the `Looks`{:class="blocklooks"} section.
+    Blok kode untuk mengubah kostum ada di bagian `Tampak`{: class = "blocklooks"}.
 
-+ Click on your singer. Does she look like she is singing?
++ Klik penyanyi Anda. Apakah dia terlihat seperti sedang bernyanyi?
