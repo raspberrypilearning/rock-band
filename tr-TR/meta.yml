@@ -1,5 +1,5 @@
 ---
-hero_image: images / kahraman-rock band-large.png
+hero_image: images/hero-rock-band-large.png
 theme: kırmızı
 duration: 2
 listed: true
@@ -11,7 +11,7 @@ description: Kendi müzik enstrümanlarınızı nasıl kodlayacağınızı öğr
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 interests: ''
 technologies: scratch
-site_areas: projeler
+site_areas: projects
 hardware: ''
 software: scratch
 version: 4
