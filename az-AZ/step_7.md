@@ -17,7 +17,7 @@ Qrupunuza bir müğənni əlavə edək!
 + Səs əlavə olunduqdan sonra bu kodunu müğənniyə əlavə edə bilərsiniz:
     
     ```blocks
-    bu sprite oyunun səsini [şarkıcı1 v] tamamladığına qədər tıkladı
-```
+        bu sprite oyunun səsini [şarkıcı1 v] tamamladığına qədər tıkladı
+    ```
 
 + Sizin müğənni basın və nə olduğunu görmək. O deyirmi?
