@@ -1,23 +1,23 @@
-## Introduction
+## pengantar
 
-Learn how to code your own musical instruments!
+Pelajari cara membuat kode alat musik Anda sendiri!
 
-### What you will make
+### Apa yang akan Anda buat
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+Klik bendera hijau untuk memulai. Kemudian, klik penyanyi atau drum untuk mendengar seperti apa suaranya.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
 </div>
 
-### What you will learn
+### Apa yang akan Anda pelajari
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Proyek ini mencakup elemen dari untaian berikut dari [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Gunakan konstruksi pemrograman dasar untuk membuat program sederhana](https://www.raspberrypi.org/curriculum/programming/creator){: target = "_ blank"}
 
-### Additional information for educators
+### Informasi tambahan untuk pendidik
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Jika Anda perlu mencetak proyek ini, silakan gunakan versi ramah-printer [](https://projects.raspberrypi.org/en/projects/rock-band/print){: target = "_ blank"}.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Gunakan tautan di footer untuk mengakses repo GitHub untuk proyek ini, yang berisi semua sumber daya (termasuk contoh proyek selesai) di folder 'en / resources'.
