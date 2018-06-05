@@ -1,4 +1,4 @@
-\--- meydan okuma \---
+\--- challenge \---
 
 ## Meydan okuma: kendi grubunuzu yaratın
 
@@ -14,7 +14,7 @@ Mevcut spriteları kullanmanın yanı sıra, kendiniz de çizebilirsiniz.
 
 ![ekran görüntüsü](images/band-draw.png)
 
-## \--- çöküş \---
+## \--- collapse \---
 
 ## Başlık: Kostüm değiştirirken neden benim sprite'ım atlıyor?
 
@@ -24,10 +24,10 @@ Bunu düzeltmek için, **Her iki kostümte kostüm merkezi** ayarlayın ve her i
 
 ![ekran görüntüsü](images/band-center.png)
 
-\--- /çöküş \---
+\--- /collapse \---
 
 Bir mikrofonunuz varsa kendi seslerinizi kaydedebilir, hatta cihazlarınızı vurmak için bir web kamerası kullanabilirsiniz!
 
 ![ekran görüntüsü](images/band-io.png)
 
-\--- /meydan okuma \---
+\--- /challenge \---
