@@ -17,8 +17,8 @@ Let's add a singer to your band!
 + Now that the sound has been added, you can add this code to your singer:
     
     ```blocks
-    when this sprite clicked
-    play sound [singer1 v] until done
-```
+        when this sprite clicked
+        play sound [singer1 v] until done
+    ```
 
 + Click on your singer and see what happens. Does she sing?
