@@ -1,11 +1,11 @@
-## Making a drum
+## Membuat drum
 
-Let's code your drum to make a sound when it's hit.
+Mari kode drum Anda untuk membuat suara ketika dipukul.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Anda dapat menemukan blok kode di tab Skrip, dan semuanya diberi kode warna!
 
-+ Click on the drum sprite, and then drag these two blocks into the code area to the right, making sure that they are connected together (like Lego blocks):
++ Klik pada sprite drum, lalu seret dua blok ini ke area kode di sebelah kanan, pastikan keduanya terhubung bersama (seperti balok Lego):
 
-![screenshot](images/connect-block.gif)
+![tangkapan layar](images/connect-block.gif)
 
-+ Click the drum to try out your new instrument!
++ Klik drum untuk mencoba instrumen baru Anda!
