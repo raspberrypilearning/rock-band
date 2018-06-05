@@ -1,4 +1,4 @@
-## Sprite
+## Spritelar
 
 Kodlamayı başlatabilmeniz için kod yazmak için bir 'şey' eklemeniz gerekir. Scratch'da, bu 'şeylere' **sprite**denir.
 
