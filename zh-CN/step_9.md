@@ -1,15 +1,13 @@
 --- challenge ---
-## 挑战：更改鼓的造型
-你能否使你的鼓看起来像正被击打？
 
-![screenshot](images/band-drum-final.png)
+## 挑战：改变鼓的造型
 
---- hints ---
---- hint ---
-使用先前步骤中更改歌手造型的指令来帮你。
---- /hint ---
---- /hints ---
+你能让你的鼓看起来像在被击打吗？
 
-请记得测试你的新代码的运行情况！
+![截屏](images/band-drum-final.png)
+
+--- hints --- --- hint --- 可以参考上一步改变歌手造型的做法。 --- /hint --- --- /hints ---
+
+记得要测试你的新代码是否正常工作！
 
 --- /challenge ---

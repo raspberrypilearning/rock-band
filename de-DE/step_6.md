@@ -1,32 +1,19 @@
-## Hintergrundmusik
+--- challenge ---
 
-Du kannst Hintergrundmusik hinzufügen, die deine Band begleitet!
+## Herausforderung: Verbessere deine Trommel
 
-+ Klicke auf die Bühne, dann auf 'Klänge' und dann auf 'Klang aus der Bibliothek wählen', um Musik zu deiner Bühne hinzuzufügen. Die Musik findest du im Bereich 'Musikschleifen'.
++ Kannst du den Sound ändern, den die Trommel macht, wenn sie angeklickt wird?
 
-+ Füge diesen Code zu deiner Bühne hinzu und denk daran, die Musik auszuwählen, die du ausgesucht hast:
+![Screenshot](images/band-drum-sound.png)
 
-	```blocks
-		Wenn die grüne Flagge angeklickt
-		wiederhole fortlaufend
-		spiele Klang [eggs v] ganz
-		Ende
-	```
++ Kann die Trommel auch einen Ton erzeugen, wenn die Leertaste gedrückt wird? Du musst dieses `Ereignis`{:class =bBlockevents"} verwenden:
 
-+ Dieser Code spielt die Musik, die du ausgewählt hast, in einer Schleife. Klick auf die Flagge, und probier es aus!
+```blocks
+    Wenn Taste [Leertaste v] gedrückt
+```
 
-+ Du kannst sogar diesen Code zu deiner Bühne hinzufügen, damit du die Hintergrundmusik stumm schalten oder wieder laut schalten kannst, indem du die Tasten 'm' und 'u' benutzt:
+Du kannst deinen vorhandenen Code kopieren, indem du mit der rechten Maustaste darauf klickst und auf **Duplizieren** klickst.
 
-	```blocks
-		Wenn die grüne Flagge angeklickt
-		setze Lautstärke auf (100)%
-		wiederhole fortlaufend
-		spiele Klang [eggs v] ganz
-		Ende
+![Screenshot](images/band-duplicate-code.png)
 
-		Wenn Taste [m v] gedrückt
-		setze Lautstärke auf (0)%
-
-		Wenn Taste [u v] gedrückt
-		setze Lautstärke auf (100)%
-	```
+--- /challenge ---
