@@ -1,4 +1,4 @@
-\--- meydan okuma \---
+\--- challenge \---
 
 ## Zorluk: Davulunuzu iyileştirmek
 
@@ -16,4 +16,4 @@ Mevcut kodunuzu sağ tıklayıp **kopyala**seçeneğini tıklayarak kopyalayabil
 
 ![ekran görüntüsü](images/band-duplicate-code.png)
 
-\--- /meydan okuma \---
+\--- /challenge \---
