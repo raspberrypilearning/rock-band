@@ -1,23 +1,23 @@
-## Introduction
+## Вступ
 
-Learn how to code your own musical instruments!
+Дізнайтеся, як кодувати власні музичні інструменти!
 
-### What you will make
+### Що ви будете робити
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+Натисніть зелений прапорець, щоб розпочати. Потім натисніть на виконавця або на барабан, щоб почути, як вони звучать.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
 </div>
 
-### What you will learn
+### Що ви навчитесь
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Цей проект охоплює елементи з наступними стандартами оформлення навчального плану [Raspberry Pi](http://rpf.io/curriculum)"}:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [ Використайте основні конструкції програмування для створення простих програм ](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Additional information for educators
+### Додаткова інформація для вчителів
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Якщо вам потрібно роздрукувати цей проект, будь ласка скористайтеся [ версією для друку ](https://projects.raspberrypi.org/en/projects/rock-band/print) {: target = "_ blank"}.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Скористайтеся посиланням у нижньому колонтитулі, щоб отримати доступ до сховища GitHub для даного проекту, який містить усі ресурси (включаючи приклад готового проекту) в папці en / resources.
