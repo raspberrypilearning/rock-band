@@ -17,7 +17,7 @@ Dodajmo pevca v vašo skupino!
 + Zdaj, ko je dodan zvok, lahko to kodo dodate pevcu:
     
     ```blocks
-    ko je ta sprite kliknil, predvaja zvok [pevec1 v], dokler ni končan
-```
+        ko je ta sprite kliknil, predvaja zvok [pevec1 v], dokler ni končan
+    ```
 
 + Kliknite na pevca in poglejte, kaj se zgodi. Ali peva?
