@@ -1,29 +1,29 @@
-## Sprites
+## Спрайти
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Перш ніж почати кодування, вам потрібно додати "щось", щоб кодувати. У Скретчі, це "щось" називають ** спрайтами **.
 
-+ First, open up the Scratch editor. You can find the online Scratch editor at <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. It looks like this:
++ Спочатку відкрийте редактор Скретч. Ви можете знайти онлайн-редактор Скретч за адресою <a href="http://jumpto.cc/scratch-new" target="_blank"> jumpto.cc/scratch-new </a>. Це виглядає так:
     
-    ![screenshot](images/band-scratch.png)
+    ![скріншот](images/band-scratch.png)
 
-+ The cat sprite that you can see is the Scratch mascot. Let's get rid of it by right-clicking it and then clicking **delete**.
++ Спрайт кіт, якого ви можете побачити, - це талісман Скретч. Давайте позбавимось кота, клацнувши на нього правою кнопкою миші, а потім **видалити**.
     
-    ![screenshot](images/band-delete.png)
+    ![скріншот](images/band-delete.png)
 
-+ Next, click **Choose sprite from library** to open up a list of all the Scratch sprites.
++ Далі, натисніть **вибрати спрайт з бібліотеки** щоб відкрити список всіх спрайтів Скретчу.
     
-    ![screenshot](images/band-sprite-library.png)
+    ![скріншот](images/band-sprite-library.png)
 
-+ Scroll down until you see a drum sprite. Click on a drum, and click **OK** to add it to your project.
++ Прокрутіть вниз, поки не побачите барабанний спрайт. Натисніть на барабан і натисніть ** OK ** щоб додати його до вашого проекту.
     
-    ![screenshot](images/band-sprite-drum.png)
+    ![скріншот](images/band-sprite-drum.png)
 
-+ Click the **shrink** icon, and then click on the drum a few times to make it smaller.
++ Натисніть значок ** зменшити **, а потім кілька разів клацніть по барабані, щоб зробити його меншим.
     
-    ![screenshot](images/band-shrink.png)
+    ![скріншот](images/band-shrink.png)
 
-Give your program a name by typing one into the text box in the top left-hand corner.
+Дайте назву вашій програмі, набравши її в текстовому полі в лівому верхньому куті.
 
-You can then click **File** and then **Save now** to save your project. If you don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+Згодом ви можете натиснути на ** Файл **, а потім ** Зберегти зараз **, щоб зберегти ваш проект. Якщо у вас немає облікового запису Скретч, ви можете зберегти копію свого проекту, натиснувши натомість ** Завантажити на свій комп'ютер **.
 
-![screenshot](images/band-save.png)
+![скріншот](images/band-save.png)
