@@ -17,8 +17,8 @@
 + Ahora que se ha añadido el sonido, puedes agregar este código a tu cantante:
     
     ```blocks
-    al hacer clic en este objeto
-    tocar sonido [cantante1 v] y esperar
-```
+        al hacer clic en este objeto
+        tocar sonido [cantante1 v] y esperar
+    ```
 
 + Haz clic en tu cantante para ver qué pasa. ¿Canta?
