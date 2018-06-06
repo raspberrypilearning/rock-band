@@ -1,13 +1,13 @@
-\--- challenge \---
+\--- завдання \---
 
-## Challenge: change your drum's costume
+## Завдання: змінити костюм барабана
 
-Can you make your drum look like it's being hit?
+Ви можете зробити так, щоб виглядало що барабан вдяряють?
 
-![screenshot](images/band-drum-final.png)
+![скріншот](images/band-drum-final.png)
 
-\--- hints \--- \--- hint \--- Use the instructions for changing your singer's costume in the previous step to help you. \--- /hint \--- \--- /hints \---
+\--- підказки\--- \--- підказка\--- Використовуйте інструкції на попередньому кроці для допомоги щодо зміни костюму співачки. \--- / підказка \--- \--- / підказки \---
 
-Remember to test that your new code works!
+Не забудьте перевірити, чи працює ваш новий код!
 
-\--- /challenge \---
+завдання
