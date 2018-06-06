@@ -10,11 +10,11 @@
     
     ![screenshot](images/band-singer-duplicate.png)
 
-+ Click on the new costume (called 'Singer2'), and then select the line tool and draw lines to make it look like your singer is making a sound.
++ Натисніть на новий костюм (називається 'Співак2') і потім виберіть інструмент "лінія" та накресліть лінії, щоб здавалося, що ваша співачка робить звук.
     
     ![screenshot](images/band-singer-click.png)
 
-+ The names of the costumes aren't very helpful at the moment. Rename the two costumes so they are called 'not singing' and 'singing' by typing the new name of each costume into the text box.
++ Назви костюмів на даний момент не дуже корисні. Перейменуйте два костюми так, щоб вони називались "не співаючий" та "співаючий", набравши в текстове поле нове ім'я кожного костюма.
     
     ![screenshot](images/band-singer-name.png)
 
