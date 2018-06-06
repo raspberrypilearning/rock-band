@@ -1,24 +1,24 @@
-\--- challenge \---
+\--- завдання \---
 
-## Challenge: make your own band
+## Завдання: створіть власну групу
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available sounds and instruments to get some ideas.
+Використовуйте те, що ви дізналися в цьому проекті, щоб створити власну групу! Ви можете створювати будь-які інструменти, які вам подобаються - перегляньте доступні звуки та інструменти, щоб отримати деякі ідеї.
 
 ![screenshot](images/band-ideas.png)
 
-Your instruments don't have to be sensible though. For example, you could make a piano made out of muffins!
+Ваші інструменти, не повинні бути зрозумілими. Наприклад, ви можете зробити фортепіано, виготовлене з кексів!
 
 ![screenshot](images/band-piano.png)
 
-As well as using existing sprites, you can also draw your own.
+Також за допомогою існуючих спрайтів можна створити власний.
 
 ![screenshot](images/band-draw.png)
 
-## \--- collapse \---
+## \--- колапс \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## назва: Чому мій спрайт "стрибає", коли змінює костюм?
 
-+ When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
++ Створюючи свій власний спрайт, ви можете помітити, що коли ви натискаєте на спрайт, він "стрибає", коли змінює костюм. Це тому, що два костюми не розташовані в одному місці.
 
 To fix this, click **Set costume center** on both costumes, and make sure the center is at the same point in both costumes.
 
