@@ -6,19 +6,19 @@
     
     ![screenshot](images/band-singer-mic.png)
 
-+ Before you can make your singer sing, you need to add a sound to your sprite. Make sure that you have selected your singer, then click the Sounds tab, and click **Choose sound from library**:
++ Перш ніж ваш виконавець зможе співати, вам потрібно додати звук вашому спрайту. Переконайтеся, що ви вибрали свого виконавця, потім натисніть вкладку Звуки та натисніть ** Вибрати звук із бібліотеки **:
     
     ![screenshot](images/band-import-sound.png)
 
-+ If you click **Vocals** on the left-hand side, you will then be able to choose a suitable sound to add to your sprite.
++ Якщо натиснути кнопку ** Вокал ** на лівій стороні, ви зможете вибрати відповідний звук для вашого спрайту.
     
     ![screenshot](images/band-choose-sound.png)
 
-+ Now that the sound has been added, you can add this code to your singer:
++ Тепер, коли звук був доданий, ви можете додати цей код до свого виконавця:
     
     ```blocks
-        when this sprite clicked
-        play sound [singer1 v] until done
+        коли клацаєте на спрайт
+        відіграти звук [singer1 v] поки не завершиться
     ```
 
 + Click on your singer and see what happens. Does she sing?
