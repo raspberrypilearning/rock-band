@@ -4,15 +4,15 @@
 
 Використовуйте те, що ви дізналися в цьому проекті, щоб створити власну групу! Ви можете створювати будь-які інструменти, які вам подобаються - перегляньте доступні звуки та інструменти, щоб отримати деякі ідеї.
 
-![screenshot](images/band-ideas.png)
+![скріншот](images/band-ideas.png)
 
 Ваші інструменти, не повинні бути зрозумілими. Наприклад, ви можете зробити фортепіано, виготовлене з кексів!
 
-![screenshot](images/band-piano.png)
+![скріншот](images/band-piano.png)
 
 Також за допомогою існуючих спрайтів можна створити власний.
 
-![screenshot](images/band-draw.png)
+![скріншот](images/band-draw.png)
 
 ## \--- колапс \---
 
@@ -20,14 +20,14 @@
 
 + Створюючи свій власний спрайт, ви можете помітити, що коли ви натискаєте на спрайт, він "стрибає", коли змінює костюм. Це тому, що два костюми не розташовані в одному місці.
 
-To fix this, click **Set costume center** on both costumes, and make sure the center is at the same point in both costumes.
+Щоб виправити це, натисніть кнопку ** Встановити центр костюмів ** на обох костюмах і переконайтеся, що центр знаходиться в одній точці обох костюмів.
 
-![screenshot](images/band-center.png)
+![скріншот](images/band-center.png)
 
-\--- /collapse \---
+\--- / колапс \---
 
-If you have a microphone you can record your own sounds, or even use a webcam to hit your instruments!
+Якщо у вас є мікрофон, ви можете записувати власні звуки або навіть використовувати веб-камеру, щоб користуватися своїми інструментами!
 
-![screenshot](images/band-io.png)
+![скріншот](images/band-io.png)
 
-\--- /challenge \---
+завдання
