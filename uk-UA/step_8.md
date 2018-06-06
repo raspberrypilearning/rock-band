@@ -1,12 +1,12 @@
-## Costumes
+## Костюми
 
-Let's make your singer look like she's singing!
+Давайте зробимо так, щоб співачка виглядала наче вона співає!
 
-+ You can also change how your singer sprite looks when it's clicked by creating a new costume. Click the Costumes tab, and you'll see the singer image.
++ Ви також можете змінити вигляд спратйту вашої співачки, натиснувши на нього та створивши новий костюм. Натисніть вкладку Костюми, і ви побачите зображення співачки.
     
     ![screenshot](images/band-singer-costume.png)
 
-+ Right-click on the costume and click **duplicate** to create a copy of the costume.
++ Клацніть правою кнопкою миші на костюмі та натисніть ** дублікат ** щоб створити копію костюма.
     
     ![screenshot](images/band-singer-duplicate.png)
 
