@@ -2,7 +2,7 @@
 
 Давайте додамо виконавця до вашої групи!
 
-+ Add another two sprites to your stage: a singer and a microphone.
++ Додати ще два спрайта до вашого етапу: виконавця і мікрофон.
     
     ![screenshot](images/band-singer-mic.png)
 
