@@ -22,8 +22,8 @@ Avant de commencer à coder, vous devez ajouter une «chose» au code. Dans Scra
     
     ![screenshot](images/band-shrink.png)
 
-Give your program a name by typing one into the text box in the top left-hand corner.
+Donnez un nom à votre programme en tapant un dans la zone de texte dans le coin supérieur gauche.
 
-You can then click **File** and then **Save now** to save your project. If you don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+Vous pouvez ensuite cliquer sur ** Fichier ** puis ** Enregistrer ** pour sauvegarder votre projet. Si vous n'avez pas de compte Scratch, vous pouvez enregistrer une copie de votre projet en cliquant sur ** Télécharger sur votre ordinateur **.
 
 ![screenshot](images/band-save.png)
