@@ -10,15 +10,15 @@ Avant de commencer à coder, vous devez ajouter une «chose» au code. Dans Scra
     
     ![screenshot](images/band-delete.png)
 
-+ Next, click **Choose sprite from library** to open up a list of all the Scratch sprites.
++ Ensuite, cliquez sur ** Choisir un lutin dans la bibliothèque ** pour ouvrir une liste de tous les lutins Scratch.
     
     ![screenshot](images/band-sprite-library.png)
 
-+ Scroll down until you see a drum sprite. Click on a drum, and click **OK** to add it to your project.
++ Faites défiler jusqu'à ce que vous trouviez un lutin de tambour. Cliquez sur celui ci puis sur ** OK ** pour l'ajouter à votre projet.
     
     ![screenshot](images/band-sprite-drum.png)
 
-+ Click the **shrink** icon, and then click on the drum a few times to make it smaller.
++ Cliquez sur le lutin et **rétrécissez** le.
     
     ![screenshot](images/band-shrink.png)
 
