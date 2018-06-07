@@ -1,23 +1,23 @@
 ## Introduction
 
-Learn how to code your own musical instruments!
+Apprend à programmer tes propres instruments de musique !
 
-### What you will make
+### Quoi faire ?
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+Clique sur le drapeau vert pour commencer. Ensuite, clique sur le chanteur ou sur le tambour pour entendre le son qu'il produit .
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
 </div>
 
-### What you will learn
+### Ce que tu vas apprendre
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [ Utiliser des constructions de programmation de base pour créer des programmes simples ](https://www.raspberrypi.org/curriculum/programming/creator) {: target = "_ blank"}
 
-### Additional information for educators
+### Informations supplémentaires pour les éducateurs
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/rock-band/print) {: target = "_ blank"}.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Utilise le lien dans le pied de page pour accéder à GitHub pour ce projet, qui contient toutes les ressources (y compris un exemple d'un projet terminé) dans le dossier 'en / resources'.
