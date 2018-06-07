@@ -1,12 +1,12 @@
-## Sprites
+## Lutins
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Avant de commencer à coder, vous devez ajouter une «chose» au code. Dans Scratch, ces 'choses' sont appelées ** lutins ** .
 
-+ First, open up the Scratch editor. You can find the online Scratch editor at <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. It looks like this:
++ D'abord, ouvrez l'éditeur Scratch. Vous pouvez trouver l'éditeur en ligne de Scratch à <a href="http://jumpto.cc/scratch-new" target="_blank"> jumpto.cc/scratch-new </a> . Ceci ressemble a ça :
     
     ![screenshot](images/band-scratch.png)
 
-+ The cat sprite that you can see is the Scratch mascot. Let's get rid of it by right-clicking it and then clicking **delete**.
++ Le lutin de chat que vous pouvez voir est la mascotte Scratch. Débarrassons nous en en cliquant dessus avec le bouton droit puis ** supprimer ** .
     
     ![screenshot](images/band-delete.png)
 
