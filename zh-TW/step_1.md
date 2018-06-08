@@ -4,7 +4,7 @@
 
 ### 你會做什麼
 
-點擊綠色標誌開始。然後，點擊歌手或鼓，聽聽他們聽起來像什麼。
+點擊綠旗開始。然後，點擊歌手或鼓，聽聽他們聽起來像什麼。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
