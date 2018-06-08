@@ -30,4 +30,4 @@
 
 ![截圖](images/band-io.png)
 
-\--- /挑戰\---
+\--- /challenge \---
