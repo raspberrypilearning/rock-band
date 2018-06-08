@@ -12,9 +12,9 @@
 
 ### 你會學到什麼
 
-此項目涵蓋 [Raspberry Pi數字化課程](http://rpf.io/curriculum){：target =“_ blank”}的下列部分：
+此項目涵蓋 [Raspberry Pi數字化課程](http://rpf.io/curriculum){:target ="_ blank"}的下列部分：
 
-+ [使用基本的編程結構來創建簡單的程序](https://www.raspberrypi.org/curriculum/programming/creator){：target =“_ blank”}
++ [使用基本的編程結構來創建簡單的程序](https://www.raspberrypi.org/curriculum/programming/creator){:target ="_ blank"}
 
 ### 有關教育者的其他信息
 
