@@ -30,4 +30,4 @@
 
 ![скріншот](images/band-io.png)
 
-завдання
+\--- /challenge \---
