@@ -12,7 +12,7 @@ Clique sur le drapeau vert pour commencer. Ensuite, clique sur le chanteur ou su
 
 ### Ce que tu vas apprendre
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Ce projet couvre des éléments des sections suivantes du [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
 
 + [ Utiliser des constructions de programmation de base pour créer des programmes simples ](https://www.raspberrypi.org/curriculum/programming/creator) {: target = "_ blank"}
 
