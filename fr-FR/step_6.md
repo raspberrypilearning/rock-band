@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: improving your drum
+## Défi: Améliore ton tambour !
 
-+ Can you change the sound that the drum makes when it's clicked?
++ Pouvez-vous changer le son que fait le tambour lorsque l'on clique dessus ?
 
 ![screenshot](images/band-drum-sound.png)
 
