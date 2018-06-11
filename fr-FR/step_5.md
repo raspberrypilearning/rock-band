@@ -1,11 +1,11 @@
-## Making a drum
+## Crée ton tambour
 
-Let's code your drum to make a sound when it's hit.
+Code ton tambour pour émettre un son lorsqu'il est frappé.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Tu peut trouver les blocs de code dans l'onglet Scripts, et ils ont tous un code couleur !
 
-+ Click on the drum sprite, and then drag these two blocks into the code area to the right, making sure that they are connected together (like Lego blocks):
++ Cliques sur le lutin tambour, puis faites glisser ces deux blocs dans la zone de code vers la droite, en vous assurant qu'ils sont connectés ensemble (comme des blocs Lego):
 
-![screenshot](images/connect-block.gif)
+![Captures d'écran](images/connect-block.gif)
 
-+ Click the drum to try out your new instrument!
++ Cliques sur le tambour pour essayer ton nouvel instrument!
