@@ -4,6 +4,6 @@
 
 + Un ordinateur capable d'exécuter Scratch 2.0
 
-### Software
+### Logiciels
 
 + Scratch 2.0 ( [en ligne](https://scratch.mit.edu/projects/editor/) ou [hors ligne](https://scratch.mit.edu/scratch2download/)")
