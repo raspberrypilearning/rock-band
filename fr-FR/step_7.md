@@ -1,4 +1,4 @@
-## Making a singer
+## Créer un chanteur
 
 Let's add a singer to your band!
 
