@@ -4,16 +4,16 @@
 
 + Pouvez-vous changer le son que fait le tambour lorsque l'on clique dessus ?
 
-![screenshot](images/band-drum-sound.png)
+![Captures d'écran](images/band-drum-sound.png)
 
-+ Can you also get the drum to make a sound when the spacebar is pressed? You'll need to use this `event`{:class="blockevents"} block:
++ Peux-tu également faire en sorte que le tambour émette un bruit quand Espace est appuyée ? Tu devras utiliser un bloc ` ` événement {: class = "blockevents"}:
 
 ```blocks
-    when [space v] key pressed
+    quand la touche [espace] est pressée
 ```
 
-You can copy your existing code by right-clicking on it and clicking **duplicate**.
+Tu peux copier un code existant en cliquant dessus avec le bouton droit de la souris et en sélectionnant ** dupliquer ** .
 
-![screenshot](images/band-duplicate-code.png)
+![Captures d'écran](images/band-duplicate-code.png)
 
-\--- /challenge \---
+\--- /défi \---
