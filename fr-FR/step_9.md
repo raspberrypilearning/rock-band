@@ -1,13 +1,13 @@
-\--- challenge \---
+\--- défi \---
 
-## Challenge: change your drum's costume
+## Défi: changez le costume de votre tambour
 
-Can you make your drum look like it's being hit?
+Pouvez-vous faire votre tambour ressembler, c’est être touché ?
 
-![screenshot](images/band-drum-final.png)
+![capture d'écran](images/band-drum-final.png)
 
-\--- hints \--- \--- hint \--- Use the instructions for changing your singer's costume in the previous step to help you. \--- /hint \--- \--- /hints \---
+\---conseils\---\---Conseil\---suis les instructions pour changer le costume de la chanteuse à l’étape précédente pour t'aider.
 
-Remember to test that your new code works!
+N'oublie pas de tester que ton nouveau code fonctionne!
 
-\--- /challenge \---
+\--- /défi \---
