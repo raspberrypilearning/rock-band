@@ -1,16 +1,16 @@
-## Introduction
+## Introdução
 
-Learn how to code your own musical instruments!
+Aprenda a codificar seus próprios instrumentos musicais!
 
-### What you will make
+### O que você vai fazer
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+Clique na bandeira verde para começar. Em seguida, clique no cantor ou no tambor para ouvir como soam.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
 </div>
 
-### What you will learn
+### O que você vai aprender
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
