@@ -10,7 +10,7 @@
     
     ![截圖](images/band-singer-duplicate.png)
 
-+ 點擊新的造型（稱為'Singer2'），然後選擇線條工具並畫線，使其看起來像你的歌手正在發出聲音。
++ 點擊新的造型(稱為'Singer2')，然後選擇線條工具並畫線，使其看起來像你的歌手正在發出聲音。
     
     ![截圖](images/band-singer-click.png)
 
