@@ -1,4 +1,4 @@
-## 필요한 것
+## 준비물
 
 ### 하드웨어
 
@@ -6,4 +6,4 @@
 
 ### 소프트웨어
 
-+ 스크래치 2.0 ( [온라인](https://scratch.mit.edu/projects/editor/){: target = "_ blank"} 또는 [offline](https://scratch.mit.edu/scratch2download/){: target = "_ blank"})
++ 스크래치 2.0 ( [온라인](https://scratch.mit.edu/projects/editor/){:target="_ blank"} 또는 [offline](https://scratch.mit.edu/scratch2download/){:target="_ blank"})
