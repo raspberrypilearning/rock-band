@@ -1,24 +1,24 @@
 ## Créer un chanteur
 
-Let's add a singer to your band!
+Ajoutons un chanteur à ton groupe!
 
-+ Add another two sprites to your stage: a singer and a microphone.
++ Ajoute deux autres lutins à ta scène: un chanteur et un microphone.
     
-    ![screenshot](images/band-singer-mic.png)
+    ![captures d'écran](images/band-singer-mic.png)
 
-+ Before you can make your singer sing, you need to add a sound to your sprite. Make sure that you have selected your singer, then click the Sounds tab, and click **Choose sound from library**:
++ Avant de pouvoir faire chanter le chanteur, tu vas devoir ajouter un son à votre lutin. Assure-toi d'avoir sélectionné votre chanteur, puis clique sur l'onglet Sons, puis sur ** Choisir le son de la bibliothèque ** :
     
-    ![screenshot](images/band-import-sound.png)
+    ![captures d'écran](images/band-import-sound.png)
 
-+ If you click **Vocals** on the left-hand side, you will then be able to choose a suitable sound to add to your sprite.
++ En cliquant sur ** Voix ** sur le côté gauche, on peut alors choisir un son approprié à ajouter à son lutin.
     
-    ![screenshot](images/band-choose-sound.png)
+    ![captures d'écran](images/band-choose-sound.png)
 
-+ Now that the sound has been added, you can add this code to your singer:
++ Maintenant ajoute ce code au chanteur:
     
     ```blocks
-        when this sprite clicked
-        play sound [singer1 v] until done
+        quand ce lutin est cliqué 
+    jouer le son [singer1 v] jusqu'à ce qu'il soit terminé
     ```
 
-+ Click on your singer and see what happens. Does she sing?
++ Clique sur ton chanteur et regarde ce qu'il se passe. Est-ce qu'il chante?
