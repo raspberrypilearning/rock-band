@@ -1,33 +1,33 @@
-\--- challenge \---
+\--- défi \---
 
-## Challenge: make your own band
+## Défi: faites votre propre groupe
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available sounds and instruments to get some ideas.
+Utilise ce que tu as appris dans ce projet pour créer ton propre groupe! Tu peut créer tous les instruments que tu aimes - regarde les sons et les instruments disponibles pour te donner des idées.
 
-![screenshot](images/band-ideas.png)
+![capture d'écran](images/band-ideas.png)
 
-Your instruments don't have to be sensible though. For example, you could make a piano made out of muffins!
+Tes instruments ne doivent pas forcément être réalistes cependant. Par exemple, Tu pourrais créer un piano fait de muffins!
 
-![screenshot](images/band-piano.png)
+![capture d'écran](images/band-piano.png)
 
-As well as using existing sprites, you can also draw your own.
+En plus d'utiliser des lutins existants, tu peux également dessiner les tiens.
 
-![screenshot](images/band-draw.png)
+![captures d'écran](images/band-draw.png)
 
-## \--- collapse \---
+## Question
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## Titre: Pourquoi mon lutin «saute» quand il change de costume?
 
-+ When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
++ Lorsque tu crée ton propre lutin, tu peut constater que lorsque tu clique sur le lutin, celui-ci «saute» lorsqu'il change de costume. C'est parce que les deux costumes ne sont pas centrés au même endroit.
 
-To fix this, click **Set costume center** on both costumes, and make sure the center is at the same point in both costumes.
+Pour résoudre ce problème, clique sur ** Définir le centre de costume ** sur les deux costumes, et assure-toi que le centre est au même point dans les deux costumes.
 
-![screenshot](images/band-center.png)
+![capture d'écran](images/band-center.png)
 
-\--- /collapse \---
+Question
 
-If you have a microphone you can record your own sounds, or even use a webcam to hit your instruments!
+Si tu as un microphone, tu peut enregistrer vos propres sons, ou même utiliser une webcam pour frapper tes instruments!
 
-![screenshot](images/band-io.png)
+![capture d'écran](images/band-io.png)
 
-\--- /challenge \---
+\--- /défi \---
