@@ -2,7 +2,7 @@
 
 在你開始編碼之前，你需要添加一個'東西'來編碼。在Scratch中，這些'東西'被稱為 **角色**。
 
-+ 首先，打開Scratch編輯器。你可以在 <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc / scratch-new</a>找到在線Scratch編輯器。它看起來像這樣：
++ 首先，打開Scratch編輯器。你可以在 <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>找到在線Scratch編輯器。它看起來像這樣：
     
     ![截圖](images/band-scratch.png)
 
@@ -24,6 +24,6 @@
 
 在左上角的文本框中輸入一個名稱，為您的程序命名。
 
-然後，您可以點擊 **檔案** ，然後點擊 **立即保存** 以保存您的項目。 如果您沒有Scratch帳戶，可以通過單擊 **下載到您的計算機** 來保存項目的副本。
+然後，您可以點擊 **檔案** ，然後點擊 **立即保存** 以保存您的項目。 如果您沒有Scratch帳戶，可以通過單擊 **下載到您的電腦** 來保存項目的副本。
 
 ![截圖](images/band-save.png)
