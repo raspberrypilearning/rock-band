@@ -1,15 +1,15 @@
-## The Stage
+## La scène
 
-The **Stage** is the area on the left, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+La **scène** est la zone sur la gauche et où votre projet prend vie. Considére-le comme une zone de performance, tout comme une scène réelle !
 
-+ At the moment, the stage is white, and looks pretty boring! Let's add a backdrop to the stage, by clicking **Choose backdrop from library**.
++ Pour le moment, la scène est blanche et à l'air plutôt ennuyeuse ! Nous allons ajouter une toile de fond de la scène, en cliquant sur **choisir arrière plan dans la bibliothèque**.
     
-    ![screenshot](images/band-stage-choose.png)
+    ![captures d'écran](images/band-stage-choose.png)
 
-+ Click **Indoors** on the left, and then click on a stage backdrop and click **OK**.
++ Cliquez sur ** Scène ** en bas à gauche, puis clique sur un arrière plan et sur ** OK ** .
     
-    ![screenshot](images/band-backdrop.png)
+    ![captures d'écran](images/band-backdrop.png)
 
-+ Your stage should now look like this:
++ Ta scène devrait maintenant ressembler à ceci:
     
-    ![screenshot](images/band-stage.png)
+    ![captures d'écran](images/band-stage.png)
