@@ -18,6 +18,6 @@
 
 ### 有關教育者的其他信息
 
-如果您需要打印此項目，請使用 [打印機友好版本](https://projects.raspberrypi.org/en/projects/rock-band/print){：target =“_ blank”}。
+如果您需要打印此項目，請使用 [打印機友好版本](https://projects.raspberrypi.org/en/projects/rock-band/print){:target =“_ blank”}.
 
-使用頁腳中的鏈接訪問此項目的GitHub倉庫，其中包含'en / resources'文件夾中的所有資源（包括示例完成的項目）。
+使用頁腳中的鏈接訪問此項目的GitHub倉庫，其中包含'en/resources'文件夾中的所有資源(包括示例完成的項目)。
