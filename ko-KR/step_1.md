@@ -4,7 +4,7 @@
 
 ### 만들게 될 것
 
-시작하려면 녹색 플래그를 클릭하세요. 그런 다음, 가수 또는 드럼을 클릭하여 어떤 소리가 나는지 들어보세요.
+시작하려면 녹색 깃발을 클릭하세요. 그런 다음, 가수 또는 드럼을 클릭하여 어떤 소리가 나는지 들어보세요.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
