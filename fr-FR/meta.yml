@@ -7,7 +7,7 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-0, programmation-1, phys-comp-0, fabrication-0, communauté-0
 title: Groupe de rock
-description: Apprends à programmer ton propre groupe de musique!
+description: Apprends à programmer tes propres instruments de musique
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 interests: ''
 technologies: scratch
@@ -15,25 +15,25 @@ site_areas: projets
 hardware: ''
 software: scratch
 version: 4
-last_tested: 2017-10-01
+last_tested: 10/01/2017
 steps:
   - 
     title: Introduction
   - 
-    title: Fabrication d'un tambour
+    title: Ce dont vous aurez besoin
   - 
-    title: 'Défi : Amélioration de votre tambour'
+    title: Lutins
   - 
-    title: Création d'un Chanteur
+    title: La scène
   - 
-    title: 'Défi : Changement du costume de votre chanteur'
+    title: Faire un tambour
   - 
-    title: "Défi : Faites votre propre orchestre"
+    title: "Défi : Améliorez votre tambour"
   - 
-    title: Making a singer
+    title: Faire un chanteur
   - 
     title: Costumes
   - 
-    title: "Challenge: change your drum's costume"
+    title: "Défi: changez le costume de votre tambour"
   - 
-    title: "Challenge: make your own band"
+    title: "Défi: faites votre propre orchestre"
