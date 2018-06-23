@@ -2,7 +2,7 @@
 
 ## Défi: faites votre propre groupe
 
-Utilise ce que tu as appris dans ce projet pour créer ton propre groupe! Tu peut créer tous les instruments que tu aimes - regarde les sons et les instruments disponibles pour te donner des idées.
+Utilise ce que tu as appris dans ce projet pour créer ton propre groupe! Tu peux créer tous les instruments que tu aimes - regardes les sons et les instruments disponibles pour te donner des idées.
 
 ![capture d'écran](images/band-ideas.png)
 
@@ -18,7 +18,7 @@ En plus d'utiliser des lutins existants, tu peux également dessiner les tiens.
 
 ## Titre: Pourquoi mon lutin «saute» quand il change de costume?
 
-+ Lorsque tu crée ton propre lutin, tu peut constater que lorsque tu clique sur le lutin, celui-ci «saute» lorsqu'il change de costume. C'est parce que les deux costumes ne sont pas centrés au même endroit.
++ Lorsque tu crées ton propre lutin, tu peux constater que lorsque tu cliques dessus, celui-ci «saute» lorsqu'il change de costume. C'est parce que les deux costumes ne sont pas centrés au même endroit.
 
 Pour résoudre ce problème, clique sur ** Définir le centre de costume ** sur les deux costumes, et assure-toi que le centre est au même point dans les deux costumes.
 
