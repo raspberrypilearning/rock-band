@@ -1,8 +1,8 @@
 ## Costumes
 
-Fais en sorte que l'on voit que ton chanteur chante !
+Fais en sorte que l'on voit que ton chanteur chanter !
 
-+ Tu peux également modifier l'aspect de ton lutin de chanteur en cliquant dessus et en créant un nouveau costume. Clique sur l'onglet Costumes, et tu verra l'image du chanteur.
++ Tu peux également modifier l'aspect de ton lutin chanteur en cliquant dessus et en créant un nouveau costume. Clique sur l'onglet Costumes, et tu verra l'image du chanteur.
     
     ![capture d'écran](images/band-singer-costume.png)
 
@@ -12,7 +12,7 @@ Fais en sorte que l'on voit que ton chanteur chante !
 
 + Clique sur le nouveau costume (appelé 'Singer2'), puis sélectionne l'outil ligne et dessine des lignes pour donner l'impression que ton chanteur émet un son.
     
-    ![captures d'écran](images/band-singer-click.png)
+    ![capture d'écran](images/band-singer-click.png)
 
 + Les noms des costumes ne sont pas très utiles pour le moment. Renomme les deux costumes afin qu'ils s'appellent 'ne pas chanter' et 'chanter' en tapant le nouveau nom de chaque costume dans la zone de texte.
     
@@ -22,6 +22,6 @@ Fais en sorte que l'on voit que ton chanteur chante !
     
     ![capture d'écran](images/band-looks.png)
     
-    Le bloc de code pour changer le costume est dans le ` Looks ` {: class = "blocklooks"} section.
+    Le bloc de code pour changer le costume est dans le `Apparence` {: class = "blocklooks"} section.
 
 + Clique sur ton chanteur. Est-ce qu'il a l'air de chanter?
