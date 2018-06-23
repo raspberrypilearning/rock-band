@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- défi \---
 
 ## Défi: Améliore ton tambour !
 
