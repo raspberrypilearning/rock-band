@@ -18,6 +18,6 @@ Ce projet couvre des éléments des sections suivantes du [Raspberry Pi Digital 
 
 ### Informations supplémentaires pour les éducateurs
 
-Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/rock-band/print) {: target = "_ blank"}.
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/rock-band/print) {: target = "_ blank"}.
 
 Utilise le lien dans le pied de page pour accéder à GitHub pour ce projet, qui contient toutes les ressources (y compris un exemple d'un projet terminé) dans le dossier 'en / resources'.
