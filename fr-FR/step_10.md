@@ -1,6 +1,6 @@
 \--- défi \---
 
-## Défi: faites votre propre groupe
+## Défi: fait ton propre groupe
 
 Utilise ce que tu as appris dans ce projet pour créer ton propre groupe! Tu peux créer tous les instruments que tu aimes - regardes les sons et les instruments disponibles pour te donner des idées.
 
@@ -12,9 +12,9 @@ Tes instruments ne doivent pas forcément être réalistes cependant. Par exempl
 
 En plus d'utiliser des lutins existants, tu peux également dessiner les tiens.
 
-![captures d'écran](images/band-draw.png)
+![capture d'écran](images/band-draw.png)
 
-## Question
+## \--- problème \---
 
 ## Titre: Pourquoi mon lutin «saute» quand il change de costume?
 
@@ -24,7 +24,7 @@ Pour résoudre ce problème, clique sur ** Définir le centre de costume ** sur 
 
 ![capture d'écran](images/band-center.png)
 
-Question
+\--- /problème \---
 
 Si tu as un microphone, tu peut enregistrer vos propres sons, ou même utiliser une webcam pour frapper tes instruments!
 
