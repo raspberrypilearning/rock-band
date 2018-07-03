@@ -1,4 +1,4 @@
 To jest stara wersja projektu. Pomóż nam uaktualnić ją, aby zawierała wszystkie najnowsze funkcje. Dołącz do naszych wolontariuszy: rpf.io/translators
 
-[pdf](https://docs.google.com/viewer?url=${https://github.com/raspberrypilearning/rock-band/raw/draft/pl-PL/images/rock-band-pl-PL.pdf})
+![pdf](images/rock-band-pl-PL.pdf)
 
