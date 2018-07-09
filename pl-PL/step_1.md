@@ -1,4 +1,8 @@
-To jest stara wersja projektu. Pomóż nam uaktualnić ją, aby zawierała wszystkie najnowsze funkcje. Dołącz do naszych wolontariuszy: [rpf.io/translators](https://rpf.io/translators).
+Poniższe tłumaczenie jest starszą wersją projektu Kapela Rockowa. Nie zawiera ono najnowszych treści i funkcji. Potrzebujemy Twojej pomocy, aby wprowadzić zmiany!
 
-[Kliknij tutaj, aby zobaczyć starą wersję tego projektu](images/rock-band-pl-PL.pdf)
+Jeśli możesz nam pomóc w aktualizacji i ulepszaniu naszych projektów, [powiadom nas tutaj](http://rpf.io/translators).
+
+Ten projekt będzie tymczasowo dostępny w starym formacie, zanim zostanie zarchiwizowany:
+
+[Kliknij tutaj, aby zobaczyć starszą wersję tego projektu](images/rock-band-pl-PL.pdf)
 
