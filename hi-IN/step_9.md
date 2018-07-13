@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: change your drum's costume
+## चुनौती: अपने ड्रम की पोशाक बदलें
 
-Can you make your drum look like it's being hit?
+क्या आप अपना ड्रम ऐसा दिखा सकते हैं कि जैसे इसे मारा जा रहा है?
 
-![screenshot](images/band-drum-final.png)
+![स्क्रीनशॉट](images/band-drum-final.png)
 
-\--- hints \--- \--- hint \--- Use the instructions for changing your singer's costume in the previous step to help you. \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- अपने गायक की पोशाक बदलने में आपकी सहायता के लिए पिछले चरण में दिए गए निर्देशों का उपयोग करें। \--- /hint \--- \--- /hints \---
 
-Remember to test that your new code works!
+इस बात की जाँच करना याद रखें कि आपका नया कोड काम करता है!
 
 \--- /challenge \---
