@@ -18,7 +18,7 @@ Kao što možeš da koristiš postojeće likove, možeš da nacrtaš i sopstvene
 
 ## title: Zašto moj lik 'skače' kada mijenja kostim?
 
-+ When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
++ Pri kreiranju svog lika, možeš primijetiti da tvoj lik 'skače' kada se na njega klikne, dok mijenja kostim. To je zato što dva kostima nisu centrirana na istom mjestu.
 
 To fix this, click **Set costume center** on both costumes, and make sure the center is at the same point in both costumes.
 
