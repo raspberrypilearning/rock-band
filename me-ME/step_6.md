@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Izazov: Poboljšaj svoj bubanj
+## Izazov: poboljšaj svoj bubanj
 
 + Da li možeš da promijeniš zvuk koji proizvodi bubanj kada klikneš na njega?
 
