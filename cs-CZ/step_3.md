@@ -1,29 +1,29 @@
-## Sprites
+## Sprajty
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Než začneš kódovat, musíš přidat do kódu různé viditelné 'prvky'. V aplikaci Scratch se tyto "prvky" nazývají ** sprajty **.
 
-+ First, open up the Scratch editor. You can find the online Scratch editor at <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. It looks like this:
++ Nejdříve otevři editor Scratch. Online editor Scratch najdeš na adrese <a href="http://jumpto.cc/scratch-new" target="_blank"> jumpto.cc/scratch-new </a>. Vypadá takto:
     
     ![screenshot](images/band-scratch.png)
 
-+ The cat sprite that you can see is the Scratch mascot. Let's get rid of it by right-clicking it and then clicking **delete**.
++ Sprajt kočky, který vidíš, je maskot Scratche. Pojďme ho smazat, pravým tlačítkem myši klikni na Scratche a z menu vyber položku **smazat**.
     
     ![screenshot](images/band-delete.png)
 
-+ Next, click **Choose sprite from library** to open up a list of all the Scratch sprites.
++ Dále klikni na obrázek panáčka, kontextová nápověda je **Vybrat postavu z knihovny**, a otevři seznam všech sprajtů ve Scratchi.
     
     ![screenshot](images/band-sprite-library.png)
 
-+ Scroll down until you see a drum sprite. Click on a drum, and click **OK** to add it to your project.
++ Přejdi dolů, dokud neuvidíš bubínek. Klikněte na něj a pak klikni na tlačítko **OK** abys ho přidal do projektu.
     
     ![screenshot](images/band-sprite-drum.png)
 
-+ Click the **shrink** icon, and then click on the drum a few times to make it smaller.
++ Klikni na ikonu šipek směřujících dovnitř představující funkci **Zmenši**, pak několikrát klikni na buben, aby se zmenšil.
     
     ![screenshot](images/band-shrink.png)
 
-Give your program a name by typing one into the text box in the top left-hand corner.
+Dej programu vlastní názvem. Uděláš to tak, že ho zadáš do textového pole v levém horním rohu.
 
-You can then click **File** and then **Save now** to save your project. If you don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+Pak můžete klepnout na položku menu **Soubor** vybrat **Uložit aktuální stav** a uložit tak svůj projekt. Pokud nemáš účet Scratch, můžeš si místo toho uložit kopii projektu kliknutím na položku **Stáhnout do tvého počítače**.
 
 ![screenshot](images/band-save.png)
