@@ -1,11 +1,11 @@
-## Making a drum
+## Fazendo um tambor
 
-Let's code your drum to make a sound when it's hit.
+Vamos programar o seu tambor para fazer um som quando for atingido.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Você pode encontrar os blocos de código na guia Scripts e eles são todos agrupados por cores!
 
-+ Click on the drum sprite, and then drag these two blocks into the code area to the right, making sure that they are connected together (like Lego blocks):
++ Clique no tambor e, em seguida, arraste estes dois blocos para a área de código à direita, certificando-se de que eles estejam conectados juntos (como blocos de Lego):
 
 ![screenshot](images/connect-block.gif)
 
-+ Click the drum to try out your new instrument!
++ Clique no tambor para experimentar seu novo instrumento!
