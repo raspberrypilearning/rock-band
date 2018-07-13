@@ -16,7 +16,7 @@
 
 + [기본 프로그래밍 구문을 사용하여 간단한 프로그램 만들기](https://www.raspberrypi.org/curriculum/programming/creator){: target = "_ blank"}
 
-### 교육자를위한 추가 정보
+### 교육자를 위한 추가 정보
 
 이 프로젝트를 인쇄하려면 [프린터 용 버전](https://projects.raspberrypi.org/en/projects/rock-band/print){: target = "_ blank"}을 사용하십시오.
 
