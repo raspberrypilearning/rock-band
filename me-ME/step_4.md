@@ -1,15 +1,15 @@
-## The Stage
+## Pozornica (the stage)
 
-The **Stage** is the area on the left, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+**Pozornica** (stage) je prostor na lijevoj strani i tamo će tvoj projekat oživjeti. Zamisli da je to prostor za izvođenje, baš kao stvarna pozornica!
 
-+ At the moment, the stage is white, and looks pretty boring! Let's add a backdrop to the stage, by clicking **Choose backdrop from library**.
++ Trenutno je pozornica bijela i izgleda prilično dosadno! Dodajmo joj pozadinu tako što ćemo kliknuti na **Choose backdrop from library** (Izaberi pozadinu iz biblioteke).
     
-    ![screenshot](images/band-stage-choose.png)
+    ![snimak ekrana](images/band-stage-choose.png)
 
-+ Click **Indoors** on the left, and then click on a stage backdrop and click **OK**.
++ Klikni na **Indoors** (Unutrašnji prostor), zatim klikni na stage backdrop (pozadinu pozornice) i, nakon toga, na **OK**.
     
-    ![screenshot](images/band-backdrop.png)
+    ![snimak ekrana](images/band-backdrop.png)
 
-+ Your stage should now look like this:
++ Sada bi trebalo da tvoja pozornica izgleda ovako:
     
-    ![screenshot](images/band-stage.png)
+    ![snimak ekrana](images/band-stage.png)
