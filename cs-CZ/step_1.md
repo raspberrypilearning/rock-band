@@ -1,23 +1,23 @@
-## Introduction
+## Úvod
 
-Learn how to code your own musical instruments!
+Nauč se jak kódovat vlastní hudební nástroje!
 
-### What you will make
+### Co budeš dělat
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+Klikni na zelenou vlajku. Pak klikni na zpěváka nebo na buben a poslechni si, jak zní.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
 </div>
 
-### What you will learn
+### Co se naučíš
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Tento projekt zahrnuje prvky z následujících částí výukových osnov [ Raspberry Pi Digitální bastlení ](http://rpf.io/curriculum)"}{:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Použij základní programovací konstrukce k vytvoření jednoduchých programů](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Additional information for educators
+### Další informace pro učitele
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Potřebujete-li tento projekt vytisknout, použijte verzi [pro tisk](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Pomocí odkazu v zápatí získáte přístup k úložišti GitHub tohoto projektu, které obsahuje všechny zdroje (včetně příkladu ukončeného projektu) ve složce "en / resources".
