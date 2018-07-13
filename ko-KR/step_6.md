@@ -6,7 +6,7 @@
 
 ![스크린 샷](images/band-drum-sound.png)
 
-+ 또, 스페이스바를 눌렀을때에도 드럼이 소리가 나게 할 수 있나요? 다음의 `이벤트`{:class="blockevents"} 블럭을 사용해야 됩니다:
++ 또, 스페이스바를 눌렀을 때에도 드럼이 소리가 나게 할 수 있나요? 다음의 `이벤트`{:class="blockevents"} 블럭을 사용해야 됩니다:
 
 ```blocks
     [space v] 키를 눌렀을 때
