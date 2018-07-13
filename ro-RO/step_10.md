@@ -1,33 +1,33 @@
 \--- challenge \---
 
-## Challenge: make your own band
+## Provocare: creează propria formație
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available sounds and instruments to get some ideas.
+Folosește tot ceea ce ai învățat în acest proiect pentru a-ți face o formație muzicală! Poți crea orice instrument dorești-verigică sunetele și instrumentele disponibile, pentru ca să-ți faci o ideee.
 
-![screenshot](images/band-ideas.png)
+![captură de ecran](images/band-ideas.png)
 
-Your instruments don't have to be sensible though. For example, you could make a piano made out of muffins!
+Instrumentele tale nu trebuie să arate chiar perfect. Spre exemplu, poti scoate sunete de pian și din niște brioșe!
 
-![screenshot](images/band-piano.png)
+![captură de ecran](images/band-piano.png)
 
-As well as using existing sprites, you can also draw your own.
+La fel și cu peraonajele existente, poți desena și adăuga oricând personajul tau.
 
-![screenshot](images/band-draw.png)
+![captură de ecran](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## titlu: De ce ‘sare’ persoanjul atunci când i se schimbă costumul?
 
-+ When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
++ Atunci când creezi personajul tau, vei vedea că la apasarea pe el, ‘sare’ atunci când iși schimbă costumul. Asta se întâmplă deoarece cele două costume nu sunt așezate centrat în același loc.
 
-To fix this, click **Set costume center** on both costumes, and make sure the center is at the same point in both costumes.
+Pentru a rezolva, apasă **Set costume center** pe ambele costume, având grijă ca centrul lor să fie în același punct.
 
-![screenshot](images/band-center.png)
+![captură de ecran](images/band-center.png)
 
 \--- /collapse \---
 
-If you have a microphone you can record your own sounds, or even use a webcam to hit your instruments!
+Dacă ai un microfon poți întegistra sunetele tale, sau chiar golosi o camera web pentru a lovi instrumentele!
 
-![screenshot](images/band-io.png)
+![captură de ecran](images/band-io.png)
 
 \--- /challenge \---
