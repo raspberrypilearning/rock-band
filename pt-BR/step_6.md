@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Challenge: improving your drum
+## Desafio: Melhore o seu tambor
 
-+ Can you change the sound that the drum makes when it's clicked?
++ Você pode mudar o som produzido pelo tambor quando ele é clicado?
 
 ![screenshot](images/band-drum-sound.png)
 
-+ Can you also get the drum to make a sound when the spacebar is pressed? You'll need to use this `event`{:class="blockevents"} block:
++ Você também pode fazer com que o tambor produza um som quando a barra de espaço é pressionada? Você precisará usar este `evento`{: class="blockevents"}:
 
 ```blocks
-    when [space v] key pressed
+    quando a tecla [space v] for pressionada
 ```
 
-You can copy your existing code by right-clicking on it and clicking **duplicate**.
+Você pode copiar seu código existente clicando com o botão direito do mouse sobre ele e clicando em **duplicar**.
 
 ![screenshot](images/band-duplicate-code.png)
 
