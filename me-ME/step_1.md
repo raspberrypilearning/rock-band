@@ -1,23 +1,23 @@
-## Introduction
+## Uvod
 
-Learn how to code your own musical instruments!
+Nauči kako da programiraš sopstvene muzičke instrumente!
 
-### What you will make
+### Šta ćeš napraviti
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+Klikni na zelenu zastavicu da započneš projekat. Zatim klikni na pjevačicu ili na bubanj da čuješ kakav zvuk proizvode.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
 </div>
 
-### What you will learn
+### Šta ćeš naučiti
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Additional information for educators
+### Dodatne informacije za nastavnike
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Ukoliko je potrebno da odštampate ovaj projekat, koristite [printer-friendly verziju](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Koristite link koji se nalazi u podnožju stranice da pristupite GitHub repozitorijumu za ovaj projekat, koji sadrži sve izvore (uključujući primjer završenog projekta) u 'en/resources' folderu.
