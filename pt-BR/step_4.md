@@ -1,15 +1,15 @@
-## The Stage
+## O palco
 
-The **Stage** is the area on the left, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+O **palco** é a área à esquerda e é onde o seu projeto ganha vida. Pense nele como uma área de performance, assim como um palco real!
 
-+ At the moment, the stage is white, and looks pretty boring! Let's add a backdrop to the stage, by clicking **Choose backdrop from library**.
++ Até o momento, o palco é branco e parece muito chato! Vamos adicionar um pano de fundo ao palco, clicando em **Escolher pano de fundo da biblioteca**.
     
     ![screenshot](images/band-stage-choose.png)
 
-+ Click **Indoors** on the left, and then click on a stage backdrop and click **OK**.
++ Clique **Interior** à esquerda e, em seguida, clique em um cenário e clique em **OK**.
     
     ![screenshot](images/band-backdrop.png)
 
-+ Your stage should now look like this:
++ Seu palco deve ficar assim:
     
     ![screenshot](images/band-stage.png)
