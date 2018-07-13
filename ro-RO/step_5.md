@@ -1,11 +1,11 @@
-## Making a drum
+## Creează toba
 
-Let's code your drum to make a sound when it's hit.
+Haide să construim codul pentru toba, astfel încât aceasta să scoată sunete atunci când e atinsă.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Poți găsi blocurile de coduri în caseta Personajelor, toate având coduri de culori!
 
-+ Click on the drum sprite, and then drag these two blocks into the code area to the right, making sure that they are connected together (like Lego blocks):
++ Apasă pe tobă, și apoi trageți aceste două blocuri în partea dreaptă a suprafeței pentru coduri, având grijă ca acestea să ramână legate (exact ca piesele lego):
 
-![screenshot](images/connect-block.gif)
+![captură de ecran](images/connect-block.gif)
 
-+ Click the drum to try out your new instrument!
++ Apasă pe tobă și incearcă noul instrument!
