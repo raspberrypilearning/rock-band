@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: change your drum's costume
+## Izazov: promijeni kostim bubnja
 
-Can you make your drum look like it's being hit?
+Možeš li da napraviš da bubanj izgleda kao da se u njega udara?
 
 ![screenshot](images/band-drum-final.png)
 
