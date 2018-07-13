@@ -7,7 +7,7 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Rok grupa
-description: Learn how to code your own musical instruments
+description: Nauči kako da programiraš sopstvene muzičke instrumente
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 interests: ''
 technologies: scratch
@@ -18,22 +18,22 @@ version: 4
 last_tested: 2017-10-01
 steps:
   - 
-    title: Introduction
+    title: Uvod
   - 
-    title: What you will need
+    title: Šta će ti biti potrebno
   - 
-    title: Sprites
+    title: Likovi (sprites)
   - 
-    title: The Stage
+    title: Pozornica (the stage)
   - 
-    title: Making a drum
+    title: Napravi bubanj
   - 
-    title: "Challenge: improve your drum"
+    title: "Izazov: poboljšaj svoj bubanj"
   - 
-    title: Making a singer
+    title: Napravi pjevačicu
   - 
-    title: Costumes
+    title: Kostimi (costumes)
   - 
-    title: "Challenge: change your drum's costume"
+    title: "Izazov: promijeni kostim bubnja"
   - 
-    title: "Challenge: make your own band"
+    title: "Izazov: napravi svoju grupu"
