@@ -1,32 +1,32 @@
 \--- challenge \---
 
-## Challenge: make your own band
+## Výzva: Vytvoř si svou vlastní skupinu
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available sounds and instruments to get some ideas.
+Využij toho, co jsi se naučil/a v tomto projektu, a vytvoři vlastní skupinu! Můžeš si vytvořit všechny nástroje, které se ti líbí - podívej se na dostupné zvuky a nástroje, abys získal/a nějaké nápady.
 
 ![screenshot](images/band-ideas.png)
 
-Your instruments don't have to be sensible though. For example, you could make a piano made out of muffins!
+Tvoje nástroje určitě nemusí být rozumné. Můžeš například udělat klavír vyrobený z muffinů!
 
 ![screenshot](images/band-piano.png)
 
-As well as using existing sprites, you can also draw your own.
+Můžeš používat připravené postavy z knihovny, můžeš si ovšem také nakreslit vlastní.
 
 ![screenshot](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## title: Proč postava 'skáče', když se změní kostým?
 
-+ When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
++ Při vytváření vlastního kostýmy se může stát, že postava "skáče", když se změní kostým. Je to proto, že oba kostýmy nejsou stejně umístěné.
 
-To fix this, click **Set costume center** on both costumes, and make sure the center is at the same point in both costumes.
+Chceš-li to opravit, klikni na tlačítko **Nastavit střed kostýmu** a ujisti se, že u obou kostýmů je střed ve stejném místě.
 
 ![screenshot](images/band-center.png)
 
 \--- /collapse \---
 
-If you have a microphone you can record your own sounds, or even use a webcam to hit your instruments!
+Pokud máš mikrofon, můžeš nahrávat své vlastní zvuky. Můžeš dokonce použít webovou kameru k aktivaci nástrojů!
 
 ![screenshot](images/band-io.png)
 
