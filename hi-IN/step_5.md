@@ -1,11 +1,11 @@
-## Making a drum
+## ड्रम बनाना
 
-Let's code your drum to make a sound when it's hit.
+आइए जब यह हिट हो तो ध्वनि बजने के लिए अपने ड्रम को कोड दें।
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+आप स्क्रिप्ट्स टैब में कोड ब्लॉक खोज सकते हैं, और वे सभी रंग-कोडित होते हैं!
 
-+ Click on the drum sprite, and then drag these two blocks into the code area to the right, making sure that they are connected together (like Lego blocks):
++ ड्रम स्प्राइट पर क्लिक करें, और फिर इन दो ब्लॉक को दाईं ओर कोड क्षेत्र में खींचें, सुनिश्चित करते हुये कि वे एक साथ जुड़े रहे (Lego blocks की तरह):
 
-![screenshot](images/connect-block.gif)
+![स्क्रीनशॉट](images/connect-block.gif)
 
-+ Click the drum to try out your new instrument!
++ अपने नए उपकरण को आजमाने के लिए ड्रम पर क्लिक करें!
