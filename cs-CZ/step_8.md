@@ -1,27 +1,27 @@
-## Costumes
+## Kostýmy
 
-Let's make your singer look like she's singing!
+Pojďme udělat, aby zpěvačka vypadala, jako že zpívá!
 
-+ You can also change how your singer sprite looks when it's clicked by creating a new costume. Click the Costumes tab, and you'll see the singer image.
++ Můžeš změnit vzhled zpěvačky, jak bude vypadat, když na ní klikneš a ona začne zpívat. Uděláš to tak, že jí vytvoříš nový kostým. Klikni na kartu kostýmy, a zobrazí se vám vzhled zpěvačky.
     
     ![screenshot](images/band-singer-costume.png)
 
-+ Right-click on the costume and click **duplicate** to create a copy of the costume.
++ Klikni pravým tlačítkem myši na kostým a vyber položku **kopírovat**. Vytvoříš tak kopii kostýmu.
     
     ![screenshot](images/band-singer-duplicate.png)
 
-+ Click on the new costume (called 'Singer2'), and then select the line tool and draw lines to make it look like your singer is making a sound.
++ Klůikni na nový kostým (má název "Singer2") a pak pomocí nástroje čára nakreslit čáry tak, aby to vypadalo jako zpěvačka zpívá.
     
     ![screenshot](images/band-singer-click.png)
 
-+ The names of the costumes aren't very helpful at the moment. Rename the two costumes so they are called 'not singing' and 'singing' by typing the new name of each costume into the text box.
++ Názvy kostýmů nejsou v tuto chvíli příliš vypovídající. Přejmenuj oba kostýmy přepsáním existujících názvů v textovém poli. Zvol názvy, které ti pomohou v orientaci v kostýmech.
     
     ![screenshot](images/band-singer-name.png)
 
-+ Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two blocks to your singer:
++ Nyní, když máš pro zpěvačku dva různé kostýmy, můžeš si vybrat, který kostým se zobrazí! Přidejte tyto dva bloky k zpěvákovi:
     
     ![screenshot](images/band-looks.png)
     
-    The code block for changing the costume is in the `Looks`{:class="blocklooks"} section.
+    Blok kódu pro změnu kostým je v kategorii `Vzhled` {: class = "blocklooks"}.
 
-+ Click on your singer. Does she look like she is singing?
++ Klikni na zpěváka. Vypadá to, že zpívá?
