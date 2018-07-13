@@ -1,24 +1,24 @@
-## Making a singer
+## Fazendo um cantor(a)
 
-Let's add a singer to your band!
+Vamos adicionar um cantor(a) à sua banda!
 
-+ Add another two sprites to your stage: a singer and a microphone.
++ Adicione outros dois atores ao seu palco: uma atriz e um microfone.
     
     ![screenshot](images/band-singer-mic.png)
 
-+ Before you can make your singer sing, you need to add a sound to your sprite. Make sure that you have selected your singer, then click the Sounds tab, and click **Choose sound from library**:
++ Antes que você possa fazer a sua cantora cantar, você precisa adicionar um som a sua atriz. Certifique-se de ter selecionado sua cantora, clique na aba Sons e clique em **Escolher som da biblioteca**:
     
     ![screenshot](images/band-import-sound.png)
 
-+ If you click **Vocals** on the left-hand side, you will then be able to choose a suitable sound to add to your sprite.
++ Se você clicar em **Vocais** no lado esquerdo, você poderá escolher um som adequado para adicionar a sua atriz.
     
     ![screenshot](images/band-choose-sound.png)
 
-+ Now that the sound has been added, you can add this code to your singer:
++ Agora que o som foi adicionado, você pode incluir este código a sua cantora:
     
     ```blocks
-        when this sprite clicked
-        play sound [singer1 v] until done
+        quando este ator for clicado
+        toque som [singer1 v] até o fim
     ```
 
-+ Click on your singer and see what happens. Does she sing?
++ Clique na sua cantora e veja o que acontece. Ela canta?
