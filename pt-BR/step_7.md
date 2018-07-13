@@ -18,7 +18,7 @@ Vamos adicionar um cantor(a) à sua banda!
     
     ```blocks
         quando este ator for clicado
-        toque som [singer1 v] até o fim
+        toque o som [singer1 v] até o fim
     ```
 
 + Clique na sua cantora e veja o que acontece. Ela canta?
