@@ -1,4 +1,4 @@
-## Kostimi (costums)
+## Kostimi (costumes)
 
 Napravimo da tvoja pjevačica izgleda kao da pjeva!
 
