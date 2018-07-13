@@ -4,10 +4,10 @@
 
 Možeš li da napraviš da bubanj izgleda kao da se u njega udara?
 
-![screenshot](images/band-drum-final.png)
+![snimak ekrana](images/band-drum-final.png)
 
-\--- hints \--- \--- hint \--- Use the instructions for changing your singer's costume in the previous step to help you. \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Koristi prethodna uputstva za izmjenu kostima pjevačice, ako ti je potrebna pomoć. \--- /hint \--- \--- /hints \---
 
-Remember to test that your new code works!
+Ne zaboravi da provjeriš da li tvoj novi kôd radi!
 
 \--- /challenge \---
