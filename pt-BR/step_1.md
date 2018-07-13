@@ -1,6 +1,6 @@
 ## Introdução
 
-Aprenda a codificar seus próprios instrumentos musicais!
+Aprenda a programar os seus próprios instrumentos musicais!
 
 ### O que você vai fazer
 
@@ -12,12 +12,12 @@ Clique na bandeira verde para começar. Em seguida, clique no cantor ou no tambo
 
 ### O que você vai aprender
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Este projeto abrange elementos dos seguintes tópicos do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Uso básico de programação para construir programas simples](https://www.raspberrypi.org/curriculum/programming/creator){: target = blank"}
 
-### Additional information for educators
+### Informações adicionais para educadores
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Se você precisar imprimir este projeto, por favor, utilize a [versão para impressão](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_ blank"}.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Use o link no rodapé para acessar o projeto no repositório do GitHub. Tal repositório contém todos os recursos (incluindo um exemplo de projeto concluído) na pasta 'en / resources'.
