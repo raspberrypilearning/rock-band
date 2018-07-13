@@ -1,29 +1,29 @@
-## Sprites
+## स्प्राइट्स
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+इससे पहले कि आप कोडिंग आरंभ कर सकें, आपको कोड में 'चीज़' को जोड़ना होगा। Scratch में, इन 'चीज़' को **स्प्राइट्स** कहा जाता है।
 
-+ First, open up the Scratch editor. You can find the online Scratch editor at <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. It looks like this:
++ पहले, Scratch एडिटर खोलें। आप <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a> पर ऑनलाइन Scratch एडिटर खोज सकते हैं। यह इस तरह दिखता हैं:
     
-    ![screenshot](images/band-scratch.png)
+    ![स्क्रीनशॉट](images/band-scratch.png)
 
-+ The cat sprite that you can see is the Scratch mascot. Let's get rid of it by right-clicking it and then clicking **delete**.
++ बिल्ली स्प्राइट जिसे आप देख सकते हैं वह स्क्रैच मस्कट है।चलिए इस पर राइट क्लिक करके और फिर **डिलीट** पर क्लिक करके इससे छुटकारा पाएँ।
     
-    ![screenshot](images/band-delete.png)
+    ![स्क्रीनशॉट](images/band-delete.png)
 
-+ Next, click **Choose sprite from library** to open up a list of all the Scratch sprites.
++ इसके बाद, सभी Scratch स्प्राइट्स की सूची खोलने के लिए **लाइब्रेरी से स्प्राइट चुनें** पर क्लिक करें।
     
-    ![screenshot](images/band-sprite-library.png)
+    ![स्क्रीनशॉट](images/band-sprite-library.png)
 
-+ Scroll down until you see a drum sprite. Click on a drum, and click **OK** to add it to your project.
++ जब तक आप कोई ड्रम स्प्राइट नहीं देखते नीचे स्क्रॉल करें। किसी एक ड्रम पर क्लिक करें, और इसे अपनी प्रोजेक्ट में जोड़ने के लिए **ठीक** क्लिक करें।
     
-    ![screenshot](images/band-sprite-drum.png)
+    ![स्क्रीनशॉट](images/band-sprite-drum.png)
 
-+ Click the **shrink** icon, and then click on the drum a few times to make it smaller.
++ **सिकुड़न** आइकन पर क्लिक करें, और फिर ड्रम को छोटा करने के लिए इस पर कुछ बार क्लिक करें।
     
-    ![screenshot](images/band-shrink.png)
+    ![स्क्रीनशॉट](images/band-shrink.png)
 
-Give your program a name by typing one into the text box in the top left-hand corner.
+बाएँ-हाथ कोने में टेक्स्ट बॉक्स में टाइप करके अपने प्रोजेक्ट को नाम दें
 
-You can then click **File** and then **Save now** to save your project. If you don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+आप अपने प्रोजेक्ट को सहेजने के लिए **फाइल** और फिर **अभी सहेजें** पर क्लिक करें। यदि आपके पास Scratch खाता नहीं है, तो आप **अपने कंप्यूटर पर डाउनलोड करें** पर क्लिक करके अपने प्रोकेक्ट की प्रतिलिपि को सहेज सकते हैं।
 
-![screenshot](images/band-save.png)
+![स्क्रीनशॉट](images/band-save.png)
