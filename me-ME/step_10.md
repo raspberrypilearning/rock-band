@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: make your own band
+## Izazov: napravi svoju grupu
 
 Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available sounds and instruments to get some ideas.
 
