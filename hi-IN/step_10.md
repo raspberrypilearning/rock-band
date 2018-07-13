@@ -1,33 +1,33 @@
-\--- challenge \---
+\--- चुनौती \---
 
-## Challenge: make your own band
+## चुनौती: अपना स्वयं का बैंड बनाएँ
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available sounds and instruments to get some ideas.
+अपना स्वयं का बैंड बनाने के लिए, इस प्रोजेक्ट में प्राप्त ज्ञान का उपयोग करें! आप अपनी पसंद का कोई भी उपकरण बना सकते हैं — कुछ नए विचार पाने के लिए उपलब्ध ध्वनियां और उपकरण देखें।
 
-![screenshot](images/band-ideas.png)
+![स्क्रीनशॉट](images/band-ideas.png)
 
-Your instruments don't have to be sensible though. For example, you could make a piano made out of muffins!
+हालाँकि, आपके उपकरण का समझदार होना आवश्यक नहीं है। उदाहरण के लिए, आप मफिन्स से पियानो बना सकते हैं!
 
-![screenshot](images/band-piano.png)
+![स्क्रीनशॉट](images/band-piano.png)
 
-As well as using existing sprites, you can also draw your own.
+मौजूदा स्प्राइट्स के उपयोग के साथ-साथ, आप अपना स्प्राइट भी बना सकते हैं।
 
-![screenshot](images/band-draw.png)
+![स्क्रीनशॉट](images/band-draw.png)
 
-## \--- collapse \---
+## \--- संक्षिप्त होना \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## शीर्षक: क्यों मेरा स्प्राइट पोशाक बदलने पर 'उछलता' है?
 
-+ When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
++ अपना स्वयं का स्प्राइट बनाते समय, आप यह देख सकते हैं कि जब आप स्प्राइट पर क्लिक करते हैं, तो यह पोशाक बदलने पर 'उछलता' है। ऐसा इसलिए है, क्योंकि दो पोशाकें एक ही स्थान पर केंद्रित नहीं होती।
 
-To fix this, click **Set costume center** on both costumes, and make sure the center is at the same point in both costumes.
+इसे ठीक करने के लिए, दोनों पोशाकों पर **पोशाक सेट केंद्र<0> पर क्लिक करें, और यह सुनिश्चित करें कि दोनों पोशाकों में केंद्र एक ही स्थान पर हो।</p> 
 
-![screenshot](images/band-center.png)
+![स्क्रीनशॉट](images/band-center.png)
 
-\--- /collapse \---
+\--- संक्षिप्त होना \---
 
-If you have a microphone you can record your own sounds, or even use a webcam to hit your instruments!
+यदि आपके पास माइक्रोफोन है, तो आप अपनी स्वयं की आवाज़ो को रिकॉर्ड कर सकते हैं, या अपने उपकरणों को हिट करने के लिए वेबकैम का भी उपयोग कर सकते हैं!
 
-![screenshot](images/band-io.png)
+![स्क्रीनशॉट](images/band-io.png)
 
-\--- /challenge \---
+\--- /चुनौती \---
