@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: change your drum's costume
+## Výzva: změň kostým bubnu
 
-Can you make your drum look like it's being hit?
+Dokážeš změnit buben tak, aby to vypadalo že na něj někdo bubnuje?
 
 ![screenshot](images/band-drum-final.png)
 
-\--- hints \--- \--- hint \--- Use the instructions for changing your singer's costume in the previous step to help you. \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Jako nápovědu využij instrukce pro změnu kostýmu zpěváka z předchozího kroku. \--- /hint \--- \--- /hints \---
 
-Remember to test that your new code works!
+Nezapomeň vyzkoušet, žetvůj nový kód funguje!
 
 \--- /challenge \---
