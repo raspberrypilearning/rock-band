@@ -1,6 +1,6 @@
 ---
 hero_image: images/hero-rock-band-large.png
-theme: red
+theme: लाल
 duration: 2
 listed: true
 ingredient: false
@@ -13,14 +13,14 @@ interests: ''
 technologies: scratch
 site_areas: codeclub, scratch
 hardware: ''
-software: scratch
+software: '“scratch"'
 version: 4
 last_tested: 2017-10-01
 steps:
   - 
-    title: भूमिका
+    title: परिचय
   - 
-    title: आपको किसकी ज़रूरत होगी
+    title: आपको किन चीजों की आवश्यकता होगी
   - 
     title: स्प्राइट्स
   - 
