@@ -1,19 +1,19 @@
-\--- challenge \---
+\--- चुनौती \---
 
-## Challenge: improving your drum
+## चुनौती: आपके ड्रम में सुधार करना
 
-+ Can you change the sound that the drum makes when it's clicked?
++ क्या आप क्लिक किए जाने पर ड्रम द्वारा बजाई जाने वाली ध्वनि को बदल सकते हैं?
 
-![screenshot](images/band-drum-sound.png)
+![स्क्रीनशॉट](images/band-drum-sound.png)
 
-+ Can you also get the drum to make a sound when the spacebar is pressed? You'll need to use this `event`{:class="blockevents"} block:
++ क्या आप ऐसा कर सकते हैं कि स्पेसबार दबाए जाने पर भी ड्रम ध्वनि बजाए? आपको इस `घटना`{:class="blockevents"} का उपयोग करने की आवश्यकता होगी:
 
 ```blocks
-    when [space v] key pressed
+    जब [space v] कुंजी दबाया जाता है
 ```
 
-You can copy your existing code by right-clicking on it and clicking **duplicate**.
+आप अपने मौजूदा कोड पर राइट क्लिक करके और **डुप्लिकेट** पर क्लिक करके इसे कॉपी कर सकते हैं।
 
-![screenshot](images/band-duplicate-code.png)
+![स्क्रीनशॉट](images/band-duplicate-code.png)
 
-\--- /challenge \---
+\--- /चुनौती \---
