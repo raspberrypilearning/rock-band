@@ -1,27 +1,27 @@
-## Costumes
+## Costume
 
-Let's make your singer look like she's singing!
+Haide să facem cântăreața să arate ca și cum ar cânta!
 
-+ You can also change how your singer sprite looks when it's clicked by creating a new costume. Click the Costumes tab, and you'll see the singer image.
++ De asemenea, poți schimba modul în care arată personajul tău, atunci când e apăsat, adăugându-i un nou costum. Apasa pe bara Costume, si vei putea vedea imaginea cântăreței.
     
-    ![screenshot](images/band-singer-costume.png)
+    ![captură de ecran](images/band-singer-costume.png)
 
-+ Right-click on the costume and click **duplicate** to create a copy of the costume.
++ Apasă clic-dreapta pe costum si clic **duplicate** pentru a crea o copie după costum.
     
-    ![screenshot](images/band-singer-duplicate.png)
+    ![captură de ecran](images/band-singer-duplicate.png)
 
-+ Click on the new costume (called 'Singer2'), and then select the line tool and draw lines to make it look like your singer is making a sound.
++ Apasă pe noul costum (numit ‘Cântăreață2’), și apoi selectează linia din bara de unelte, și desenează astfel încât să pară cum cântăreața scoate sunete.
     
-    ![screenshot](images/band-singer-click.png)
+    ![captură de ecran](images/band-singer-click.png)
 
-+ The names of the costumes aren't very helpful at the moment. Rename the two costumes so they are called 'not singing' and 'singing' by typing the new name of each costume into the text box.
++ Numele costumelor nu sunt foarte utile în acest moment. Redenumiți cele două costume, astfel încât acestea să fie numite "nu cântă" și "cântă" prin tastarea noului nume în dreptul căsuței text.
     
-    ![screenshot](images/band-singer-name.png)
+    ![captură de ecran](images/band-singer-name.png)
 
-+ Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two blocks to your singer:
++ Acum, că aveți două costume diferite pentru cântăreață, puteți alege care costum este afișat! Adăugați aceste două blocuri cântăreței:
     
-    ![screenshot](images/band-looks.png)
+    ![captură de ecran](images/band-looks.png)
     
-    The code block for changing the costume is in the `Looks`{:class="blocklooks"} section.
+    Blocul de coduri pentru schimbul de costume e in sectiunea`Looks`{:class="blocklooks"}.
 
-+ Click on your singer. Does she look like she is singing?
++ Apasă pe cântăreață. Arată ca și cum ar cânta?
