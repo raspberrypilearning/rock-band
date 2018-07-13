@@ -1,11 +1,11 @@
-## Making a drum
+## Vytvoření bubnu
 
-Let's code your drum to make a sound when it's hit.
+Pojďme vytvořit kód pro buben tak, aby vydal zvuk, když do něj "udeříš".
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Bloky pro tvorbu kódu najdeš na kartě Scénáře a všechny jsou podle funkce rozlišeny barevně!
 
-+ Click on the drum sprite, and then drag these two blocks into the code area to the right, making sure that they are connected together (like Lego blocks):
++ Klikni na buben a poté přetáhni tyto dva bloky do oblasti kódu napravo. Ujisti se, že jsou spojeny dohromady (jako Lego bloky):
 
 ![screenshot](images/connect-block.gif)
 
-+ Click the drum to try out your new instrument!
++ Klikni na buben a vyzkoušejte nový nástroj!
