@@ -1,29 +1,29 @@
-## Sprites
+## Likovi (sprites)
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Prije nego što počneš da kreiraš kôd, biće potrebno da dodaš 'objekat' na koji se će se kôd odnositi. U Scratch-u se ovi ‘objekti’ zovu **sprites** (likovi).
 
-+ First, open up the Scratch editor. You can find the online Scratch editor at <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. It looks like this:
++ Prvo otvori Scratch editor. Scratch editor možeš naći na internetu, na <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. Izgleda ovako:
     
-    ![screenshot](images/band-scratch.png)
+    ![snimak ekrana](images/band-scratch.png)
 
-+ The cat sprite that you can see is the Scratch mascot. Let's get rid of it by right-clicking it and then clicking **delete**.
++ Mačka koju vidiš je maskota Scratch-a. Ukloni je tako što ćeš na nju kliknuti desnim tasterom miša i, nakon toga, klikni na **delete** (obriši).
     
-    ![screenshot](images/band-delete.png)
+    ![snimak ekrana](images/band-delete.png)
 
-+ Next, click **Choose sprite from library** to open up a list of all the Scratch sprites.
++ Zatim klikni na **Choose sprite from library** (Izaberi lik iz biblioteke) kako bi se otvorila lista svih Scratch likova.
     
-    ![screenshot](images/band-sprite-library.png)
+    ![snimak ekrana](images/band-sprite-library.png)
 
-+ Scroll down until you see a drum sprite. Click on a drum, and click **OK** to add it to your project.
++ Listaj prema dolje dok ne ugledaš lik bubnja. Klikni na bubanj, a zatim klikni na **OK** kako bi bubanj bio dodat u tvoj projekat.
     
-    ![screenshot](images/band-sprite-drum.png)
+    ![snimak ekrana](images/band-sprite-drum.png)
 
-+ Click the **shrink** icon, and then click on the drum a few times to make it smaller.
++ Klikni na ikonu **shrink** (umanji), a zatim nekoliko puta klikni na bubanj da ga smanjiš.
     
-    ![screenshot](images/band-shrink.png)
+    ![snimak ekrana](images/band-shrink.png)
 
-Give your program a name by typing one into the text box in the top left-hand corner.
+Daj svom programu ime tako što ćeš ga upisati u okvir za tekst u gornjem lijevom uglu.
 
-You can then click **File** and then **Save now** to save your project. If you don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+Nakon toga, klikni na **File** (Datoteka), a zatim na **Save now** (Sačuvaj sada) kako bi tvoj projekat bio sačuvan. Ukoliko nemaš Scratch nalog, možeš da sačuvaš projekat tako što ćeš kliknuti na **Download to your computer** (Preuzmi na računar).
 
-![screenshot](images/band-save.png)
+![snimak ekrana](images/band-save.png)
