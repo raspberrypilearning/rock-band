@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Challenge: improving your drum
+## Výzva: vylepšení bubnu
 
-+ Can you change the sound that the drum makes when it's clicked?
++ Dokážeš změnit zvuk, který buben dělá po kliknutí?
 
 ![screenshot](images/band-drum-sound.png)
 
-+ Can you also get the drum to make a sound when the spacebar is pressed? You'll need to use this `event`{:class="blockevents"} block:
++ Dokážeš zajistit i to, aby buben vydal zvuk po stisknutí mezerníku? Hodí se k tomu blok `Události` {:class="blockevents"}:
 
 ```blocks
-    when [space v] key pressed
+    po stisku klávesy [mezerník v]
 ```
 
-You can copy your existing code by right-clicking on it and clicking **duplicate**.
+Existující kód můžeš zkopírovat tak, že na něj klikneš pravým tlačítkem a vybereš **Kopírovat**.
 
 ![screenshot](images/band-duplicate-code.png)
 
