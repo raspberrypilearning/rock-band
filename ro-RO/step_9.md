@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: change your drum's costume
+## Provocare: schimba costumul tobei
 
-Can you make your drum look like it's being hit?
+Poți schimba costumul tobei să arate ca și cum ar fi atins?
 
-![screenshot](images/band-drum-final.png)
+![captură de ecran](images/band-drum-final.png)
 
-\--- hints \--- \--- hint \--- Use the instructions for changing your singer's costume in the previous step to help you. \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Folosește instructiunile anterioare, pentru pașii ce vor urma. \--- /hint \--- \--- /hints \---
 
-Remember to test that your new code works!
+Nu uita să testezi dacă noul cod funcționează corect!
 
 \--- /challenge \---
