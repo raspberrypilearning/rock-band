@@ -1,24 +1,24 @@
-## Making a singer
+## गायक बनाना
 
-Let's add a singer to your band!
+चलिए अपने बैंड में गायक जोड़ें!
 
-+ Add another two sprites to your stage: a singer and a microphone.
++ अपनी स्टेज में दो अन्य स्प्राइट्स जोड़ें: गायक और माइक्रोफोन।
     
-    ![screenshot](images/band-singer-mic.png)
+    ![स्क्रीनशॉट](images/band-singer-mic.png)
 
-+ Before you can make your singer sing, you need to add a sound to your sprite. Make sure that you have selected your singer, then click the Sounds tab, and click **Choose sound from library**:
++ इससे पहले कि आप अपने गायक से कुछ गवाएं, आपको अपनी स्प्राइट में ध्वनि जोड़नी होगी। सुनिश्चित करें कि आपने अपना गायक चुन लिया है, फिर ध्वनियाँ टैब पर क्लिक करें, और **ध्वनि लाइब्रेरी से चुनें** पर क्लिक करें:
     
-    ![screenshot](images/band-import-sound.png)
+    ![स्क्रीनशॉट](images/band-import-sound.png)
 
-+ If you click **Vocals** on the left-hand side, you will then be able to choose a suitable sound to add to your sprite.
++ यदि आप बाईं ओर **वोकल** पर क्लिक करते हैं तो आप अपनी स्प्राइट में उचित ध्वनि को चुन सकेंगे।
     
-    ![screenshot](images/band-choose-sound.png)
+    ![स्क्रीनशॉट](images/band-choose-sound.png)
 
-+ Now that the sound has been added, you can add this code to your singer:
++ चूँकि अब ध्वनि को जोड़ लिया गया है, आप अपने गायक में यह कोड जोड़ सकते हैं:
     
     ```blocks
-        when this sprite clicked
-        play sound [singer1 v] until done
+        जब इस स्प्राइट को क्लिक किया जाता
+    [singer1 v] पुरा होने तक बजता
     ```
 
-+ Click on your singer and see what happens. Does she sing?
++ अपने गायक पर क्लिक करें और देखें कि क्या होता है। क्या वह गाता है?
