@@ -1,27 +1,27 @@
-## Costumes
+## पोशाकें
 
-Let's make your singer look like she's singing!
+चलिए अपने गायक को ऐसा बनाएँ जैसे वह गा रहा हो!
 
-+ You can also change how your singer sprite looks when it's clicked by creating a new costume. Click the Costumes tab, and you'll see the singer image.
++ जब आप एक नया पोशाक बनाकर क्लिक करते हैं तो आप यह भी बदल सकते हैं कि आपका गायक स्प्राइट किस प्रकार दिखे।पोशाक टैब पर क्लिक करें, और आप गायक छवि देखेंगे।
     
-    ![screenshot](images/band-singer-costume.png)
+    ![स्क्रीनशॉट](images/band-singer-costume.png)
 
-+ Right-click on the costume and click **duplicate** to create a copy of the costume.
++ पोशाक की प्रतिलिपि बनाने के लिए पोशाक पर राइट क्लिक करें और **डुप्लिकेट** पर क्लिक करें।
     
-    ![screenshot](images/band-singer-duplicate.png)
+    ![स्क्रीनशॉट](images/band-singer-duplicate.png)
 
-+ Click on the new costume (called 'Singer2'), and then select the line tool and draw lines to make it look like your singer is making a sound.
++ नई पोशाक ('सिंगर2') पर क्लिक करें, और फिर लाइन टूल चुनें और रेखाएँ बनाएँ ताकि यह ऐसा दिखाई दे जैसे गायक गा रहा हो।
     
-    ![screenshot](images/band-singer-click.png)
+    ![स्क्रीनशॉट](images/band-singer-click.png)
 
-+ The names of the costumes aren't very helpful at the moment. Rename the two costumes so they are called 'not singing' and 'singing' by typing the new name of each costume into the text box.
++ फ़िलहाल पोशाकों के नाम बहुत मददगार नहीं हैं। टेक्स्ट बॉक्स में प्रत्येक पोशाक का नया नाम 'नहीं गा रहा' और 'गा रहा' टाइप करके दोनों पोशाकों का नाम रखें।
     
-    ![screenshot](images/band-singer-name.png)
+    ![स्क्रीनशॉट](images/band-singer-name.png)
 
-+ Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two blocks to your singer:
++ अब जबकि आपके पास अपने गायक के लिए दो भिन्न पोशाके हैं, आप यह चुन सकते हैं कि कौन सी पोशाक दिखाई दे! इन दोनों ब्लॉक को अपने गायक में जोड़ें:
     
-    ![screenshot](images/band-looks.png)
+    ![स्क्रीनशॉट](images/band-looks.png)
     
-    The code block for changing the costume is in the `Looks`{:class="blocklooks"} section.
+    पोशाक बदलने के लिए कोड ब्लॉक `रूप`{:class="blocklooks"} अनुभाग में है।
 
-+ Click on your singer. Does she look like she is singing?
++ अपने गायक पर क्लिक करें। क्या वह ऐसी दिखती है जैसा वह गा रही है?
