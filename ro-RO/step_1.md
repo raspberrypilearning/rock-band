@@ -1,23 +1,23 @@
-## Introduction
+## Introducere
 
-Learn how to code your own musical instruments!
+Învață cu să creezi propriul tău instrument muzical!
 
-### What you will make
+### Ce ai de făcut
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+Apasă steagul verde pentru început. Apoi, apasă pe cântăreț sau pe tobă pentru ca să auzi cum sună.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
 </div>
 
-### What you will learn
+### Ce vei învăța
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Acest proiect acoperă elemente din următoarele componente ale curriculumului [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [Folosește elemente de bază ale programării pentru a creea programe simple](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
-### Additional information for educators
+### Informații suplimentare pentru educatori
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Dacă doriți să printați acest proiect, folosiți[printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Utilizați link-ul din subsolul paginii pentru a accesa depozitul GitHub pentru acest proiect, care conține toate resursele (inclusiv un exemplu de proiect finalizat) în directorul "en/resources".
