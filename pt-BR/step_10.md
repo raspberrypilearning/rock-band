@@ -1,32 +1,32 @@
 \--- challenge \---
 
-## Challenge: make your own band
+## Desafio: Faça a sua própria banda
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available sounds and instruments to get some ideas.
+Use o que você aprendeu neste projeto para fazer sua própria banda! Você pode criar qualquer instrumento que quiser — veja os sons e instrumentos disponíveis para obter algumas ideias.
 
 ![screenshot](images/band-ideas.png)
 
-Your instruments don't have to be sensible though. For example, you could make a piano made out of muffins!
+Seus instrumentos não precisam fazer sentido. Por exemplo, você poderia fazer um piano feito de bolinhos!
 
 ![screenshot](images/band-piano.png)
 
-As well as using existing sprites, you can also draw your own.
+Além de usar os atores da biblioteca, você também pode desenhar os seus próprios atores.
 
 ![screenshot](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## title: Por que o meu ator está 'pulando' quando muda de roupa?
 
-+ When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
++ Ao criar o seu próprio ator, você pode descobrir que quando você clica nele, ele 'pula' quando muda de fantasia. Isso ocorre porque as duas fantasias não estão centralizadas no mesmo lugar.
 
-To fix this, click **Set costume center** on both costumes, and make sure the center is at the same point in both costumes.
+Para corrigir isso, clique em **Escolher centro da fantasia** em ambas fantasias, e certifique-se de que o centro esteja no mesmo ponto para elas.
 
 ![screenshot](images/band-center.png)
 
 \--- /collapse \---
 
-If you have a microphone you can record your own sounds, or even use a webcam to hit your instruments!
+Se você tem um microfone, você pode gravar seus próprios sons ou até mesmo usar uma webcam para tocar os seus instrumentos!
 
 ![screenshot](images/band-io.png)
 
