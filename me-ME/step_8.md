@@ -1,27 +1,27 @@
-## Costumes
+## Kostimi (costums)
 
-Let's make your singer look like she's singing!
+Napravimo da tvoja pjevačica izgleda kao da pjeva!
 
-+ You can also change how your singer sprite looks when it's clicked by creating a new costume. Click the Costumes tab, and you'll see the singer image.
++ Možeš, takođe, da promijeniš izgled pjevačice kada se na nju klikne tako što ćeš napraviti novi kostim. Klikni na karticu Costumes (Kostimi) i vidjećeš sliku pjevačice.
     
-    ![screenshot](images/band-singer-costume.png)
+    ![snimak ekrana](images/band-singer-costume.png)
 
-+ Right-click on the costume and click **duplicate** to create a copy of the costume.
++ Klikni desnim tasterom miša na kostim, a zatim klikni **duplicate** (umnoži) da napraviš kopiju kostima.
     
-    ![screenshot](images/band-singer-duplicate.png)
+    ![snimak ekrana](images/band-singer-duplicate.png)
 
-+ Click on the new costume (called 'Singer2'), and then select the line tool and draw lines to make it look like your singer is making a sound.
++ Klikni na novi kostim (pod nazivom ‘Singer2’). Nakon toga, izaberi alat za crtanje linija i nacrtaj linije, tako da pjevačica izgleda kao da pjeva.
     
-    ![screenshot](images/band-singer-click.png)
+    ![snimak ekrana](images/band-singer-click.png)
 
-+ The names of the costumes aren't very helpful at the moment. Rename the two costumes so they are called 'not singing' and 'singing' by typing the new name of each costume into the text box.
++ Trenutno, imena kostima nisu od velike pomoći. Preimenuj ih u ‘ne pjeva’ i ‘pjeva’ tako što ćeš za svaki kostim upisati novo ime u okvir za tekst.
     
-    ![screenshot](images/band-singer-name.png)
+    ![snimak ekrana](images/band-singer-name.png)
 
-+ Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two blocks to your singer:
++ Sada kada imaš dva različita kostima za svoju pjevačicu, možeš da izabereš koji kostim će biti prikazan. Dodaj sljedeća dva bloka pjevačici:
     
-    ![screenshot](images/band-looks.png)
+    ![snimak ekrana](images/band-looks.png)
     
-    The code block for changing the costume is in the `Looks`{:class="blocklooks"} section.
+    Blok kôda za mijenjanje kostima nalazi se u odjeljku `Looks` {:class="blocklooks"}.
 
-+ Click on your singer. Does she look like she is singing?
++ Klikni na svoju pjevačicu. Da li izgleda kao da pjeva?
