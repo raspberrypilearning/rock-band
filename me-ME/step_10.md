@@ -2,21 +2,21 @@
 
 ## Izazov: napravi svoju grupu
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available sounds and instruments to get some ideas.
+Iskoristi prethodno naučeno u ovom projektu da napraviš svoju grupu! Možeš da napraviš bilo koji instrument koji ti se sviđa — pogledaj zvukove i instrumente koje imaš na raspolaganju da dobiješ ideje.
 
 ![screenshot](images/band-ideas.png)
 
-Your instruments don't have to be sensible though. For example, you could make a piano made out of muffins!
+Tvoji instrumenti ne moraju da budu vjernog izgleda. Možeš, na primjer, da napraviš klavir od mafina!
 
 ![screenshot](images/band-piano.png)
 
-As well as using existing sprites, you can also draw your own.
+Kao što možeš da koristiš postojeće likove, možeš da nacrtaš i sopstvene.
 
 ![screenshot](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## title: Zašto moj lik 'skače' kada mijenja kostim?
 
 + When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
 
