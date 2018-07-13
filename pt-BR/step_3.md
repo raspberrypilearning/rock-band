@@ -1,29 +1,29 @@
-## Sprites
+## Atores
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Antes de começar a codificar, você precisará adicionar uma 'coisa' ao código. No Scratch, essas 'coisas' são chamadas de **atores**.
 
-+ First, open up the Scratch editor. You can find the online Scratch editor at <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. It looks like this:
++ Primeiro, abra o editor Scracth. Você pode encontrar uma versão online em <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. A aparência é como esta:
     
     ![screenshot](images/band-scratch.png)
 
-+ The cat sprite that you can see is the Scratch mascot. Let's get rid of it by right-clicking it and then clicking **delete**.
++ O gato (ator) que você pode ver é o mascote do Scratch. Vamos nos livrar dele clicando com o botão direito e depois clicando em **apagar**.
     
     ![screenshot](images/band-delete.png)
 
-+ Next, click **Choose sprite from library** to open up a list of all the Scratch sprites.
++ Depois, clique em **Escolher ator da biblioteca** para ver a biblioteca de todos os atores no Scratch.
     
     ![screenshot](images/band-sprite-library.png)
 
-+ Scroll down until you see a drum sprite. Click on a drum, and click **OK** to add it to your project.
++ Desça até você ver um ator de tambor. Clique em um tambor e clique em **Ok** para adicioná-lo ao seu projeto.
     
     ![screenshot](images/band-sprite-drum.png)
 
-+ Click the **shrink** icon, and then click on the drum a few times to make it smaller.
++ Clique no ícone **Reduzir** e, em seguida, clique no tambor algumas vezes para torná-lo menor.
     
     ![screenshot](images/band-shrink.png)
 
-Give your program a name by typing one into the text box in the top left-hand corner.
+Dê ao seu programa um nome digitando na caixa de texto no canto superior esquerdo.
 
-You can then click **File** and then **Save now** to save your project. If you don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+Você pode então clicar em **Arquivo** e depois **Salvar agora** para salvar seu projeto. Nota: Se você estiver usando a versão online do Scratch, mas não possui uma conta Scratch, você pode salvar uma cópia do seu projeto clicando em **Baixar para o seu computador**.
 
 ![screenshot](images/band-save.png)
