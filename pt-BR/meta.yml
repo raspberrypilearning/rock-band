@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Rock band
-description: Aprenda a codificar seus próprios instrumentos musicais
+title: Banda de Rock
+description: Aprenda a programar os seus próprios instrumentos musicais
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 interests: ''
 technologies: scratch
@@ -22,18 +22,18 @@ steps:
   - 
     title: O que você vai precisar
   - 
-    title: Sprites
+    title: Atores
   - 
-    title: The Stage
+    title: O palco
   - 
-    title: Making a drum
+    title: Fazendo um tambor
   - 
-    title: "Challenge: improve your drum"
+    title: "Desafio: Melhore o seu tambor"
   - 
-    title: Making a singer
+    title: Fazendo um cantor
   - 
-    title: Costumes
+    title: Fantasias
   - 
-    title: "Challenge: change your drum's costume"
+    title: "Desafio: Mude a fantasia do seu tambor"
   - 
-    title: "Challenge: make your own band"
+    title: "Desafio: Faça a sua própria banda"
