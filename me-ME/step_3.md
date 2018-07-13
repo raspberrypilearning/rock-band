@@ -1,6 +1,6 @@
 ## Likovi (sprites)
 
-Prije nego što počneš da kreiraš kôd, biće potrebno da dodaš 'objekat' na koji se će se kôd odnositi. U Scratch-u se ovi ‘objekti’ zovu **sprites** (likovi).
+Prije nego što počneš da kreiraš kôd, biće potrebno da dodaš 'objekat' na koji se će se kôd odnositi. U Scratch-u se ovi 'objekti' zovu **sprites** (likovi).
 
 + Prvo otvori Scratch editor. Scratch editor možeš naći na internetu, na <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. Izgleda ovako:
     
