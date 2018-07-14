@@ -4,7 +4,7 @@ Nauči kako da programiraš sopstvene muzičke instrumente!
 
 ### Šta ćeš napraviti
 
-Klikni na zelenu zastavicu da započneš projekat. Zatim klikni na pjevačicu ili na bubanj da čuješ kakav zvuk proizvode.
+Na početku, klikni na zelenu zastavicu. Zatim klikni na pjevačicu ili na bubanj da čuješ kako zvuče.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
