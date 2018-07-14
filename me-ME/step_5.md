@@ -1,6 +1,6 @@
 ## Napravi bubanj
 
-Hajde da napišemo kôd za tvoj bubanj tako da proizvodi zvuk kada se u njega udari.
+Hajde da kodiramo tvoj bubanj tako da proizvodi zvuk kada se u njega udari.
 
 Blokove kôda možeš naći na kartici Scripts (Skripte) i svi su različito obojeni!
 
