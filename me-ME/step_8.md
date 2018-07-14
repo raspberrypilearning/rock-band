@@ -14,11 +14,11 @@ Napravimo da tvoja pjevačica izgleda kao da pjeva!
     
     ![snimak ekrana](images/band-singer-click.png)
 
-+ Trenutno, imena kostima nisu od velike pomoći. Preimenuj ih u ‘ne pjeva’ i ‘pjeva’ tako što ćeš za svaki kostim upisati novo ime u okvir za tekst.
++ Trenutno, imena kostima nisu od velike pomoći. Preimenuj ih u 'ne pjeva' i 'pjeva' tako što ćeš za svaki kostim upisati novo ime u okvir za tekst.
     
     ![snimak ekrana](images/band-singer-name.png)
 
-+ Sada kada imaš dva različita kostima za svoju pjevačicu, možeš da izabereš koji kostim će biti prikazan. Dodaj sljedeća dva bloka pjevačici:
++ Sada, kada imaš dva različita kostima za svoju pjevačicu, možeš da izabereš koji kostim će biti prikazan! Dodaj sljedeća dva bloka pjevačici:
     
     ![snimak ekrana](images/band-looks.png)
     
