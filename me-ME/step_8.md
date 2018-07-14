@@ -10,7 +10,7 @@ Napravimo da tvoja pjevačica izgleda kao da pjeva!
     
     ![snimak ekrana](images/band-singer-duplicate.png)
 
-+ Klikni na novi kostim (pod nazivom ‘Singer2’). Nakon toga, izaberi alat za crtanje linija i nacrtaj linije, tako da pjevačica izgleda kao da pjeva.
++ Klikni na novi kostim (pod nazivom 'Singer2'). Nakon toga, izaberi alat za crtanje linija i nacrtaj linije, tako da pjevačica izgleda kao da pjeva.
     
     ![snimak ekrana](images/band-singer-click.png)
 
