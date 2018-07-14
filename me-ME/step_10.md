@@ -18,7 +18,7 @@ Kao što možeš da koristiš postojeće likove, možeš da nacrtaš i sopstvene
 
 ## title: Zašto moj lik 'skače' kada mijenja kostim?
 
-+ Pri kreiranju svog lika, možeš primijetiti da tvoj lik 'skače' kada se na njega klikne, dok mijenja kostim. To je zato što dva kostima nisu centrirana na istom mjestu.
++ Pri kreiranju svog lika, možeš primijetiti da, kada klikneš na njega, lik 'skače' dok mijenja kostim. To je zato što dva kostima nisu centrirana na istom mjestu.
 
 Da to popraviš, klikni na **Set costume center** (Postavi centar kostima) na oba kostima, i pobrini se da u oba kostima centar bude u istoj tački.
 
