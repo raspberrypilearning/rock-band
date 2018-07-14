@@ -21,4 +21,4 @@ Hajde da tvojoj grupi dodamo pjevačicu!
         play sound [singer1 v] until done
     ```
 
-+ Klikni na svoju pjevačicu i provjeri da li pjeva kada se na nju klikne.
++ Klikni na svoju pjevačicu i provjeri šta se dešava. Da li pjeva?
