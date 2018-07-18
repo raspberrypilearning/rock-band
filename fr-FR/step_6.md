@@ -1,4 +1,4 @@
-\--- défi \---
+\--- challange \---
 
 ## Défi: Améliore ton tambour
 
@@ -16,4 +16,4 @@ Tu peux copier un code existant en cliquant dessus avec le bouton droit de la so
 
 ![Captures d'écran](images/band-duplicate-code.png)
 
-\--- /défi \---
+\--- /challenge \---
