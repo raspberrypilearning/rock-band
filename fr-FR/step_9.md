@@ -1,4 +1,4 @@
-\--- défi \---
+\--- challange \---
 
 ## Défi: change le costume de ton tambour
 
@@ -10,4 +10,4 @@ Peux-tu faire en sorte que ton tambour ai l'air d'avoir été frappé ?
 
 N'oublie pas de tester que ton nouveau code fonctionne!
 
-\--- /défi \---
+\--- /challenge \---
