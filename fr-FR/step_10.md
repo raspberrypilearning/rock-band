@@ -1,4 +1,4 @@
-\--- défi \---
+\--- challenge \---
 
 ## Défi: fait ton propre groupe
 
@@ -14,7 +14,7 @@ En plus d'utiliser des lutins existants, tu peux également dessiner les tiens.
 
 ![capture d'écran](images/band-draw.png)
 
-## \--- problème \---
+## \--- collapse \---
 
 ## Titre: Pourquoi mon lutin «saute» quand il change de costume?
 
@@ -24,10 +24,10 @@ Pour résoudre ce problème, clique sur ** Définir le centre de costume ** sur 
 
 ![capture d'écran](images/band-center.png)
 
-\--- /problème \---
+\--- /collapse \---
 
 Si tu as un microphone, tu peut enregistrer vos propres sons, ou même utiliser une webcam pour frapper tes instruments!
 
 ![capture d'écran](images/band-io.png)
 
-\--- /défi \---
+\--- /challenge \---
