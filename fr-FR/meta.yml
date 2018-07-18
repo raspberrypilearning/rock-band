@@ -11,11 +11,11 @@ description: Apprends à programmer tes propres instruments de musique
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 interests: ''
 technologies: scratch
-site_areas: projets
+site_areas: projects
 hardware: ''
 software: scratch
 version: 4
-last_tested: 10/01/2017
+last_tested: 2017-10-01
 steps:
   - 
     title: Introduction
