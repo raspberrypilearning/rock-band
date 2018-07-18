@@ -1,11 +1,11 @@
 ---
-hero_image: imagess/hero-rock-band-large.png
-theme: rouge
+hero_image: images/hero-rock-band-large.png
+theme: red
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-0, programmation-1, phys-comp-0, fabrication-0, communauté-0
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Groupe de rock
 description: Apprends à programmer tes propres instruments de musique
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
