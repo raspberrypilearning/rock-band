@@ -1,19 +1,19 @@
 \--- challenge \---
 
-## Challenge: mejorar tu tambor
+## Desafío: mejorar tu tambor
 
-+ ¿Sabes cómo cambiar el sonido del tambor cuando se lo haces clic?
++ ¿Sabes cómo cambiar el sonido del tambor cuando haces clic encima de él?
 
-![screenshot](images/band-drum-sound.png)
+![captura de pantalla](images/band-drum-sound.png)
 
-+ Sabes también cómo hacer el tambor sonar cuando presionas la tecla espacio? Necesitarás este bloque `evento`{:class="blockevents"}:
++ ¿Puedes hacer que el tambor también emita un sonido al apretar la barra espaciadora? Necesitarás este bloque de `Eventos`{:class="blockevents"}:
 
 ```blocks
-    Al presionar [tecla v]
+    al presionar tecla [espacio v]
 ```
 
-Puedes copiar tu código existente haciendo clic derecho sobre ello y haciendo clic en **duplicar**.
+Puedes copiar tu código existente haciendo clic derecho encima de él y luego haciendo clic en **duplicar**.
 
-![screenshot](images/band-duplicate-code.png)
+![captura de pantalla](images/band-duplicate-code.png)
 
 \--- /challenge \---
