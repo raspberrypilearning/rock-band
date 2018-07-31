@@ -1,11 +1,11 @@
-## Making a drum
+## ドラムを作ろう
 
-Let's code your drum to make a sound when it's hit.
+クリックすると音が出るプログラムを作りましょう。
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+「スクリプト」のタブの中にプログラムのためのブロックがあります。すべて色付けされています。
 
-+ Click on the drum sprite, and then drag these two blocks into the code area to the right, making sure that they are connected together (like Lego blocks):
++ ドラムのスプライトをクリックして、この２つのブロックを右のスクリプトエリアにドラッグしてください。ブロックがレゴのように合体しているのを確認（かくにん）しましょう。
 
-![screenshot](images/connect-block.gif)
+![スクリーンショット](images/connect-block.gif)
 
-+ Click the drum to try out your new instrument!
++ ドラムをクリックして、音を出してみてください！
