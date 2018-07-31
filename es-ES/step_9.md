@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: cambia el disfraz de tu tambor
+## Desafío: cambia el disfraz de tu tambor
 
-¿Sabes hacer ver que tu tambor haya sido golpeado?
+¿Sabes como hacer que parezca que tu tambor ha sido golpeado?
 
-![screenshot](images/band-drum-final.png)
+![captura de pantalla](images/band-drum-final.png)
 
-\--- hints \--- \--- hint \--- Usa las instrucciones de cómo cambiar el disfraz de tu cantante en el paso anterior para ayudarte. \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Usa las instrucciones de cómo cambiar el disfraz de tu cantante en el paso anterior como ayuda. \--- /hint \--- \--- /hints \---
 
-¡Recuerde probar que tu nuevo código funciona!
+¡Acuérdate de comprobar si tu nuevo código funciona!
 
 \--- /challenge \---
