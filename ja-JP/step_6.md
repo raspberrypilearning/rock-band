@@ -1,19 +1,19 @@
 \--- challenge \---
 
-## Challenge: improving your drum
+## チャレンジ：ドラムの改良（かいりょう）
 
-+ Can you change the sound that the drum makes when it's clicked?
++ ドラムをクリックしたときの音を変えることはできますか？
 
-![screenshot](images/band-drum-sound.png)
+![スクリーンショット](images/band-drum-sound.png)
 
-+ Can you also get the drum to make a sound when the spacebar is pressed? You'll need to use this `event`{:class="blockevents"} block:
++ スペースキーを押したときにドラムの音を出すことはできますか？この`イベント`{：class = "blockevents"}ブロックが必要になります。
 
 ```blocks
-    when [space v] key pressed
+    [space v]キーが押されたとき
 ```
 
-You can copy your existing code by right-clicking on it and clicking **duplicate**.
+右クリックで**複製（ふくせい）**を選択すると、ブロックをコピーできます。
 
-![screenshot](images/band-duplicate-code.png)
+![スクリーンショット](images/band-duplicate-code.png)
 
 \--- /challenge \---
