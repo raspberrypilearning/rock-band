@@ -1,27 +1,27 @@
-## Costumes
+## コスチューム
 
-Let's make your singer look like she's singing!
+歌手が歌っているように見せましょう！
 
-+ You can also change how your singer sprite looks when it's clicked by creating a new costume. Click the Costumes tab, and you'll see the singer image.
++ 新たにコスチュームをつくることで、クリックしたときの歌手の見え方を変えることもできます。「コスチューム」タブをクリックすると、歌手の画像（がぞう）が出てきます。
     
-    ![screenshot](images/band-singer-costume.png)
+    ![スクリーンショット](images/band-singer-costume.png)
 
-+ Right-click on the costume and click **duplicate** to create a copy of the costume.
++ コスチュームを右クリックして、**複製**をクリックするとコスチュームのコピーを作りましょう。
     
-    ![screenshot](images/band-singer-duplicate.png)
+    ![スクリーンショット](images/band-singer-duplicate.png)
 
-+ Click on the new costume (called 'Singer2'), and then select the line tool and draw lines to make it look like your singer is making a sound.
++ 新しいコスチューム（『Singer2』という名前です）をクリックして、直線ツールを使い、歌手が歌っているように線を引きましょう。
     
-    ![screenshot](images/band-singer-click.png)
+    ![スクリーンショット](images/band-singer-click.png)
 
-+ The names of the costumes aren't very helpful at the moment. Rename the two costumes so they are called 'not singing' and 'singing' by typing the new name of each costume into the text box.
++ コスチュームの名前がわかりづらいので、「歌っていない」と「歌っている」に名前を書きかえましょう。それぞれのコスチュームのテキストボックスに入力してください。
     
-    ![screenshot](images/band-singer-name.png)
+    ![スクリーンショット](images/band-singer-name.png)
 
-+ Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two blocks to your singer:
++ みなさんの歌手には２種類のコスチュームができました。どちらのコスチュームを表示（ひょうじ）させるか自分で選ぶことができます。この２つのブロックを自分の歌手に追加してください。
     
-    ![screenshot](images/band-looks.png)
+    ![スクリーンショット](images/band-looks.png)
     
-    The code block for changing the costume is in the `Looks`{:class="blocklooks"} section.
+    コスチュームを変えるブロックは、`見た目`{:class="blocklooks"}のところにあります。
 
-+ Click on your singer. Does she look like she is singing?
++ 自分の歌手をクリックしてみてください。歌っているように見えますか？
