@@ -1,4 +1,4 @@
-## Napravi bubanj
+## Pravljenje bubnja
 
 Hajde da kodiramo tvoj bubanj tako da proizvodi zvuk kada se u njega udari.
 
@@ -6,6 +6,6 @@ Blokove kôda možeš naći na kartici Scripts (Skripte) i svi su različito obo
 
 + Klikni na lik bubnja, zatim prevuci sljedeća dva bloka u prostor za unošenje kôdova na desnoj strani, vodeći računa o tome da budu međusobno povezani (kao lego kocke):
 
-![snimak ekrana](images/connect-block.gif)
+![screenshot](images/connect-block.gif)
 
 + Klikni na bubanj i isprobaj svoj novi instrument!
