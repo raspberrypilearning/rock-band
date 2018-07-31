@@ -1,24 +1,24 @@
-## Making a singer
+## 歌手を作ろう
 
-Let's add a singer to your band!
+バンドに歌手を追加しましょう！
 
-+ Add another two sprites to your stage: a singer and a microphone.
++ ステージに２つのスプライト、歌手とマイクを追加してください。
     
-    ![screenshot](images/band-singer-mic.png)
+    ![スクリーンショット](images/band-singer-mic.png)
 
-+ Before you can make your singer sing, you need to add a sound to your sprite. Make sure that you have selected your singer, then click the Sounds tab, and click **Choose sound from library**:
++ 歌手に歌わせる前に、スプライトに音を追加する必要があります。 歌手をクリックしてから、「音」タブをクリック、そして**音をライブラリーから選択**をクリックしてください。
     
-    ![screenshot](images/band-import-sound.png)
+    ![スクリーンショット](images/band-import-sound.png)
 
-+ If you click **Vocals** on the left-hand side, you will then be able to choose a suitable sound to add to your sprite.
++ 左側の**ボーカル**をクリックして、スプライトに追加する音を選びましょう。
     
-    ![screenshot](images/band-choose-sound.png)
+    ![スクリーンショット](images/band-choose-sound.png)
 
-+ Now that the sound has been added, you can add this code to your singer:
++ 音が追加されました。次は、このコードを自分の歌手に入れてください。
     
     ```blocks
-        when this sprite clicked
-        play sound [singer1 v] until done
+        このスプライトがクリックされたとき
+        終わるまで [singer1 v] の音を鳴らす
     ```
 
-+ Click on your singer and see what happens. Does she sing?
++ 歌手をクリックして、ちゃんと歌うか確認しましょう。
