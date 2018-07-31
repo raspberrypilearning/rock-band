@@ -1,29 +1,29 @@
-## Sprites
+## スプライト
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+コーディングをはじめる前に、ある「モノ」を取り入れる必要があります。この「モノ」はスクラッチでは**スプライト**と呼ばれています。
 
-+ First, open up the Scratch editor. You can find the online Scratch editor at <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. It looks like this:
++ まず、スクラッチエディタを開きます。オンラインスクラッチエディタは、<a href="http://jumpto.cc/scratch-new" target="_blank"> jumpto.cc/scratch-new</a> にあります。これは次のようになります。
     
-    ![screenshot](images/band-scratch.png)
+    ![スクリーンショット](images/band-scratch.png)
 
-+ The cat sprite that you can see is the Scratch mascot. Let's get rid of it by right-clicking it and then clicking **delete**.
++ 目の前に見えるネコのスプライトはスクラッチのマスコットです。右クリックしてから **削除** （さくじょ）をクリックして、消しましょう。
     
-    ![screenshot](images/band-delete.png)
+    ![スクリーンショット](images/band-delete.png)
 
 + Next, click **Choose sprite from library** to open up a list of all the Scratch sprites.
     
-    ![screenshot](images/band-sprite-library.png)
+    ![スクリーンショット](images/band-sprite-library.png)
 
-+ Scroll down until you see a drum sprite. Click on a drum, and click **OK** to add it to your project.
++ ドラムのスプライトが表示されるまで下にスクロールします。ドラムをクリックし、**OK** をクリックします。プロジェクトに追加しましょう。
     
-    ![screenshot](images/band-sprite-drum.png)
+    ![スクリーンショット](images/band-sprite-drum.png)
 
-+ Click the **shrink** icon, and then click on the drum a few times to make it smaller.
++ **縮小（しゅくしょう）**アイコンをクリックし、ドラムを数回クリックして小さくします。
     
-    ![screenshot](images/band-shrink.png)
+    ![スクリーンショット](images/band-shrink.png)
 
-Give your program a name by typing one into the text box in the top left-hand corner.
+左上角にあるテキストボックスに名前を入力して、プログラムに名前を付けます。
 
-You can then click **File** and then **Save now** to save your project. If you don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+**ファイル** をクリックし、 **直ちに保存（ほぞん）** をクリックしてプロジェクトを保存することができます。 スクラッチのアカウントを持っていない場合は、 **手元のコンピュータにダウンロード** をクリックしてプロジェクトのコピーを保存できます。
 
-![screenshot](images/band-save.png)
+![スクリーンショット](images/band-save.png)
