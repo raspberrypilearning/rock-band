@@ -2,7 +2,7 @@
 
 ### Hardver
 
-+ Računar koji podržava Scratch 2.0
++ Računar koji može da pokrene Scratch 2.0
 
 ### Softver
 
