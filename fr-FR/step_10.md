@@ -16,7 +16,7 @@ En plus d'utiliser des lutins existants, tu peux également dessiner les tiens.
 
 ## \--- collapse \---
 
-## Titre: Pourquoi mon lutin «saute» quand il change de costume?
+## title: Pourquoi mon lutin «saute» quand il change de costume?
 
 + Lorsque tu crées ton propre lutin, tu peux constater que lorsque tu cliques dessus, celui-ci «saute» lorsqu'il change de costume. C'est parce que les deux costumes ne sont pas centrés au même endroit.
 
