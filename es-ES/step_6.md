@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Desafío: mejorar tu tambor
+## Desafío: mejora tu tambor
 
 + ¿Sabes cómo cambiar el sonido del tambor cuando haces clic encima de él?
 
