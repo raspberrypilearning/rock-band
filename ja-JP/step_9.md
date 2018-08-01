@@ -4,10 +4,10 @@
 
 ドラムが叩かれているように見た目を変えることができますか？
 
-![screenshot](images/band-drum-final.png)
+![スクリーンショット](images/band-drum-final.png)
 
-\--- hints \--- \--- hint \--- Use the instructions for changing your singer's costume in the previous step to help you. \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- 前のステップで歌手のコスチュームを変えた時と同じようにしてみましょう。 \--- /hint \--- \--- /hints \---
 
-Remember to test that your new code works!
+新しいコードが動くかどうか、テストするのを忘れないようにしましょう！
 
 \--- /challenge \---
