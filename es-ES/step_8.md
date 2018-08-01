@@ -22,6 +22,6 @@
     
     ![captura de pantalla](images/band-looks.png)
     
-    El bloque de código para cambiar de disfraz se encuentra en la pestaña `Apariencia` {:class="blocklooks"}.
+    El bloque de código para cambiar de disfraz se encuentra en la pestaña `Apariencia`{:class="blocklooks"}.
 
 + Haz clic en tu cantante. ¿Parece que está cantando?
