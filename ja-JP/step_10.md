@@ -1,16 +1,16 @@
 \--- challenge \---
 
-## Challenge: make your own band
+## チャレンジ: 自分のバンドを作ろう
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available sounds and instruments to get some ideas.
+このプロジェクトで学んだことを使って自分のバンドを作りましょう！　どんな楽器でも好きなものを作ることができます。すでにある音と楽器を見てみましょう。
 
 ![screenshot](images/band-ideas.png)
 
-Your instruments don't have to be sensible though. For example, you could make a piano made out of muffins!
+楽器は正確(せいかく)である必要はありません。たとえば、マフィンでピアノを作ることもできます！
 
 ![screenshot](images/band-piano.png)
 
-As well as using existing sprites, you can also draw your own.
+すでにあるスプライトを使うこともできますし、自分で絵を描くこともできます。
 
 ![screenshot](images/band-draw.png)
 
