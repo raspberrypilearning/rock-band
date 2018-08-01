@@ -16,7 +16,7 @@
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## title: コスチュームが変わるときに、スプライトがジャンプするのはどうして？
 
 + When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
 
