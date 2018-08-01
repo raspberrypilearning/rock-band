@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: change your drum's costume
+## チャレンジ: ドラムのコスチュームを変える
 
-Can you make your drum look like it's being hit?
+ドラムが叩かれているように見た目を変えることができますか？
 
 ![screenshot](images/band-drum-final.png)
 
