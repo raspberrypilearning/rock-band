@@ -1,24 +1,19 @@
-## Crear un cantante
+--- challenge ---
 
-¡Vamos a añadir un cantante a tu banda!
+## Desafío: mejorar tu tambor
 
-+ Añade otros 2 objetos a tu escenario; un cantante y un micrófono.
++ ¿Sabes cómo cambiar el sonido del tambor cuando haces clic encima de él?
 
-	![screenshot](images/band-singer-mic.png)
+![captura de pantalla](images/band-drum-sound.png)
 
-+ Para hacer que tu cantante cante, necesitarás añadir un sonido a tu objeto. Asegúrate de haber seleccionado al cantante, haz clic en la pestaña “Sonidos” y haz clic en “Selecciona un sonido de la biblioteca”:
++ ¿Puedes hacer que el tambor también emita un sonido al apretar la barra espaciadora? Necesitarás este bloque de `Eventos`{:class="blockevents"}:
 
-	![screenshot](images/band-import-sound.png)
+```blocks
+    al presionar tecla [espacio v]
+```
 
-+ Si haces clic en “Canto” en el lado izquierdo, podrás elegir un sonido adecuado para añadir a tu objeto.
+Puedes copiar tu código existente haciendo clic derecho encima de él y luego haciendo clic en **duplicar**.
 
-	![screenshot](images/band-choose-sound.png)
+![captura de pantalla](images/band-duplicate-code.png)
 
-+ Ahora que has añadido el sonido, puedes añadir este código a tu cantante:
-
-	```blocks
-		al hacer clic en este objeto
-		Tocar sonido [singer1 v] y esperar
-	```
-
-+ Prueba tu cantante, para asegurarte de que cante cuando le haces clic.
+--- /challenge ---

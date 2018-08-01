@@ -1,17 +1,27 @@
---- challenge ---
-## Desafío: Crear tu propia banda
-¡Usa lo que has aprendido en este proyecto para crear tu propia banda! Puedes crear el instrumento que quieras, pero fíjate en los sonidos disponibles y en los instrumentos para tener algunas ideas.
+## Disfraces
 
-![screenshot](images/band-ideas.png)
+¡Vamos a hacer que parezca que la cantante esté cantando!
 
-Pero tus instrumentos no tienen por qué ser lógicos. Por ejemplo, puedes crear un piano hecho de muffins!
++ Si creas un nuevo disfraz, también puedes cambiar el aspecto de tu cantante cuando haces clic para que cante. Haz clic en la pestaña Disfraces y verás la imagen de la cantante.
+    
+    ![captura de pantalla](images/band-singer-costume.png)
 
-![screenshot](images/band-piano.png)
++ Haz clic derecho en el disfraz y luego clica en **duplicar** para crear una copia del disfraz.
+    
+    ![captura de pantalla](images/band-singer-duplicate.png)
 
-Puedes usar los objetos existentes y también dibujar los tuyos propios.
++ Haz clic en el nuevo disfraz (llamado 'Cantante2'), luego selecciona la herramienta línea y dibuja líneas para que parezca que tu cantante esté cantando.
+    
+    ![captura de pantalla](images/band-singer-click.png)
 
-![screenshot](images/band-draw.png)
++ Ahora mismo los nombres de los disfraces no son muy útiles. Cambia el nombre de los dos disfraces para que se llamen 'no cantando' y 'cantando', escribiendo el nuevo nombre de cada uno en el cuadro de texto.
+    
+    ![captura de pantalla](images/band-singer-name.png)
 
-¡Si tienes un micrófono puedes grabar tus propios sonidos, o incluso usar una cámara web para tocar los instrumentos!
++ Ahora que tienes dos disfraces diferentes para tu cantante, ¡puedes escoger cual de ellos se visualiza! Agrega estos dos bloques a tu cantante:
+    
+    ![captura de pantalla](images/band-looks.png)
+    
+    El bloque de código para cambiar de disfraz se encuentra en la pestaña `Apariencia` {:class="blocklooks"}.
 
-![screenshot](images/band-io.png)
++ Haz clic en tu cantante. ¿Parece que está cantando?
