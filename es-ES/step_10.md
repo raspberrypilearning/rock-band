@@ -1,37 +1,39 @@
 --- challenge ---
-## Challenge: make your own band
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available sounds and instruments to get some ideas.
 
-![screenshot](images/band-ideas.png)
+## Desafío: crea tu propia banda
 
-Your instruments don't have to be sensible though. For example, you could make a piano made out of muffins!
+¡Usa lo que has aprendido en este proyecto para crear tu propia banda! Puedes crear cualquier instrumento que quieras - para darte algunas ideas, echa un vistazo a los sonidos y instrumentos disponibles.
 
-![screenshot](images/band-piano.png)
+![captura de pantalla](images/band-ideas.png)
 
-As well as using existing sprites, you can also draw your own.
+Tus instrumentos no tienen que ser lógicos. Por ejemplo, ¡podrías crear un piano hecho de muffins!
 
-![screenshot](images/band-draw.png)
+![captura de pantalla](images/band-piano.png)
+
+Además de utilizar objetos existentes, también puedes dibujar uno nuevo.
+
+![captura de pantalla](images/band-draw.png)
 
 --- collapse ---
 ---
-title: Why is my sprite 'jumping' when it changes costume?
+title: ¿Por qué 'salta' el objeto cuando cambia de disfraz?
 ---
++ Cuando creas tu propio objeto, a lo mejor descubrirás que cuando haces clic encima de él, este 'salta' cuando cambia de disfraz. Esto pasa si los dos disfraces no están centrados en el mismo punto.
 
-+ When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+Para arreglarlo, haz clic en **Fijar el centro del disfraz** para los dos disfraces, y asegúrate de que el centro esté en el mismo punto en ambos.
 
-To fix this, click **Set costume center** on both costumes, and make sure the center is at the same point in both costumes.
-
-![screenshot](images/band-center.png)
-
+![captura de pantalla](images/band-center.png)
 
 --- /collapse ---
 
+Si tienes un micrófono, puedes grabar tus propios sonidos, ¡o incluso usar una cámara web para tocar tus instrumentos!
 
-If you have a microphone you can record your own sounds, or even use a webcam to hit your instruments!
-
-![screenshot](images/band-io.png)
-
-
-
+![captura de pantalla](images/band-io.png)
 
 --- /challenge ---
+***
+### Traducción aportada por la comunidad 
+
+Este proyecto fue traducido por **Sarah-Jane Hubbard** y revisado por **Helmut Schlimper**. 
+
+Nuestros increíbles voluntarios de traducción nos ayudan a dar a los niños de todo el mundo la oportunidad de aprender a programar. Puedes ayudarnos a llegar a más niños traduciendo nuestros proyectos. Consigue más información en [rpf.io/translators](https://rpf.io/translators).
