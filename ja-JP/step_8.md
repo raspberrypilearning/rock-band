@@ -4,23 +4,23 @@
 
 + 新たにコスチュームをつくることで、クリックしたときの歌手の見え方を変えることもできます。「コスチューム」タブをクリックすると、歌手の画像（がぞう）が出てきます。
     
-    ![スクリーンショット](images/band-singer-costume.png)
+    ![screenshot](images/band-singer-costume.png)
 
 + コスチュームを右クリックして、**複製**をクリックするとコスチュームのコピーを作りましょう。
     
-    ![スクリーンショット](images/band-singer-duplicate.png)
+    ![screenshot](images/band-singer-duplicate.png)
 
 + 新しいコスチューム（『Singer2』という名前です）をクリックして、直線ツールを使い、歌手が歌っているように線を引きましょう。
     
-    ![スクリーンショット](images/band-singer-click.png)
+    ![screenshot](images/band-singer-click.png)
 
 + コスチュームの名前がわかりづらいので、「歌っていない」と「歌っている」に名前を書きかえましょう。それぞれのコスチュームのテキストボックスに入力してください。
     
-    ![スクリーンショット](images/band-singer-name.png)
+    ![screenshot](images/band-singer-name.png)
 
 + みなさんの歌手には２種類のコスチュームができました。どちらのコスチュームを表示（ひょうじ）させるか自分で選ぶことができます。この２つのブロックを自分の歌手に追加してください。
     
-    ![スクリーンショット](images/band-looks.png)
+    ![screenshot](images/band-looks.png)
     
     コスチュームを変えるブロックは、`見た目`{:class="blocklooks"}のところにあります。
 
