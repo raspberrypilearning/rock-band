@@ -4,15 +4,15 @@
 
 + ステージに２つのスプライト、歌手とマイクを追加してください。
     
-    ![スクリーンショット](images/band-singer-mic.png)
+    ![screenshot](images/band-singer-mic.png)
 
 + 歌手に歌わせる前に、スプライトに音を追加する必要があります。 歌手をクリックしてから、「音」タブをクリック、そして**音をライブラリーから選択**をクリックしてください。
     
-    ![スクリーンショット](images/band-import-sound.png)
+    ![screenshot](images/band-import-sound.png)
 
 + 左側の**ボーカル**をクリックして、スプライトに追加する音を選びましょう。
     
-    ![スクリーンショット](images/band-choose-sound.png)
+    ![screenshot](images/band-choose-sound.png)
 
 + 音が追加されました。次は、このコードを自分の歌手に入れてください。
     
