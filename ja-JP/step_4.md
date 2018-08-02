@@ -4,12 +4,12 @@
 
 + 今はステージが空っぽで、とても退屈（たいくつ）に見えます！ステージに背景（はいけい）を追加しましょう。 **ライブラリーから背景を選択**をクリックしてください。
     
-    ![スクリーンショット](images/band-stage-choose.png)
+    ![screenshot](images/band-stage-choose.png)
 
 + 左の**屋内**をクリックして、ステージの背景をクリック。さらに右下の**OK**ボタンをクリックします。
     
-    ![スクリーンショット](images/band-backdrop.png)
+    ![screenshot](images/band-backdrop.png)
 
 + みなさんのステージはこんなふうに見えているはずです。
     
-    ![スクリーンショット](images/band-stage.png)
+    ![screenshot](images/band-stage.png)
