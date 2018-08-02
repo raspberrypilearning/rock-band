@@ -4,7 +4,7 @@
 
 + ドラムをクリックしたときの音を変えることはできますか？
 
-![スクリーンショット](images/band-drum-sound.png)
+![screenshot](images/band-drum-sound.png)
 
 + スペースキーを押したときにドラムが鳴るようにできますか？この`イベント`{:class="blockevents"}ブロックが必要になります。
 
@@ -14,6 +14,6 @@
 
 右クリックで**複製（ふくせい）**を選択すると、ブロックをコピーできます。
 
-![スクリーンショット](images/band-duplicate-code.png)
+![screenshot](images/band-duplicate-code.png)
 
 \--- /challenge \---
