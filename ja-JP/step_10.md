@@ -4,15 +4,15 @@
 
 このプロジェクトで学んだことを使って自分のバンドを作りましょう！　どんな楽器でも好きなものを作ることができます。すでにある音と楽器を見てみましょう。
 
-![スクリーンショット](images/band-ideas.png)
+![screenshot](images/band-ideas.png)
 
 楽器は正確(せいかく)である必要はありません。たとえば、マフィンでピアノを作ることもできます！
 
-![スクリーンショット](images/band-piano.png)
+![screenshot](images/band-piano.png)
 
 すでにあるスプライトを使うこともできますし、自分で絵を描くこともできます。
 
-![スクリーンショット](images/band-draw.png)
+![screenshot](images/band-draw.png)
 
 ## \--- collapse \---
 
@@ -22,12 +22,12 @@
 
 直すには、 2つのコスチュームで**コスチュームの中心を設定(せってい)**をクリックし、中心が同じ位置になるようにしましょう。
 
-![スクリーンショット](images/band-center.png)
+![screenshot](images/band-center.png)
 
 \--- /collapse \---
 
 もしマイクを持っていたら、自分で録音(ろくおん)することができます。またWEBカメラを使って、自分の楽器を鳴らすこともできます。 screenshot
 
-![スクリーンショット](images/band-io.png)
+![screenshot](images/band-io.png)
 
 \--- /challenge \---
