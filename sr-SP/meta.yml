@@ -1,0 +1,21 @@
+---
+title: Рок група
+hero_image: images/small_banner.png
+description: У овом пројекту научићеш како да програмираш сопствене музичке уређаје!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/boat-race?redirect=false
+theme: yellow
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+duration: 2
+interests: games
+technology: scratch
+site_areas: projects
+technologies: scratch
+hardware: ''
+software: scratch
+version: 4
+last_tested: 2017-01-01
+steps: 
+- title: Рок група
