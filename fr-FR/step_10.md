@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Défi: fait ton propre groupe
+## Défi: faites votre propre groupe
 
 Utilise ce que tu as appris dans ce projet pour créer ton propre groupe! Tu peux créer tous les instruments que tu aimes - regardes les sons et les instruments disponibles pour te donner des idées.
 
