@@ -10,7 +10,7 @@ Aggiungiamo un cantante alla tua band!
     
     ![screenshot](images/band-import-sound.png)
 
-+ Scegliendo **Canti** dalla lista a sinistra, potrai scegliere un suono adatto da aggiungere al tuo sprite.
++ Selezionando **Canti** dalla lista a sinistra, potrai scegliere un suono adatto da aggiungere al tuo sprite.
     
     ![screenshot](images/band-choose-sound.png)
 
@@ -21,4 +21,4 @@ Aggiungiamo un cantante alla tua band!
         produci suono [singer1 v] e attendi la fine
     ```
 
-+ Fai click sulla cantante e vedi che succede? Sta cantando?
++ Fai click sulla cantante e guarda cosa succede. Sta cantando?
