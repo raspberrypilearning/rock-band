@@ -26,7 +26,7 @@ Da to popraviš, klikni na **Set costume center** (Postavi centar kostima) za ob
 
 \--- /collapse \---
 
-Ako imaš mikrofon, možeš da snimiš svoje zvukove ili čak da koristiš web kameru da sviraš svoje instrumente!
+Ako imaš mikrofon, možeš da snimiš svoje zvukove ili čak da koristiš veb-kameru da sviraš svoje instrumente!
 
 ![screenshot](images/band-io.png)
 
