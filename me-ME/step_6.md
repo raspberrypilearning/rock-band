@@ -6,7 +6,7 @@
 
 ![screenshot](images/band-drum-sound.png)
 
-+ Možeš li da napraviš i da bubanj proizvodi zvuk kada se pritisne taster za razmak? Treba da upotrijebiš blok `event`{:class="blockevents"} (događaj):
++ Možeš li da napraviš da bubanj proizvodi zvuk kada se pritisne taster za razmak? Treba da upotrijebiš ovaj blok `event`{:class="blockevents"} (događaj):
 
 ```blocks
     when [space v] key pressed
