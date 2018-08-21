@@ -1,4 +1,4 @@
-## Pozornica (the stage)
+## Pozornica (stage)
 
 **Pozornica** (stage) je prostor na lijevoj strani i tamo će tvoj projekat oživjeti. Zamisli da je to prostor za izvođenje, baš kao stvarna pozornica!
 
