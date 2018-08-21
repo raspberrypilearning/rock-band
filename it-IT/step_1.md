@@ -20,4 +20,4 @@ Questo progetto include elementi tratti dalle seguenti componenti del [Digital M
 
 Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/rock-band/print){:target = "_ blank"}.
 
-Cliccare il link a piè di pagina per accedere alla repository di GitHub relativa a questo progetto, che contiene tutte le risorse necessarie (incluso un esempio di progetto completo) nella cartella 'en/resources'.
+Cliccare il link a piè di pagina per accedere al repository di GitHub relativo a questo progetto, che contiene tutte le risorse necessarie (incluso un esempio di progetto completo) nella cartella 'en/resources'.
