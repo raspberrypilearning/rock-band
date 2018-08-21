@@ -1,6 +1,6 @@
 ## Costumes
 
-Fais en sorte que l'on voit que ton chanteur chanter !
+Fais en sorte que l'on voit que ton chanteur ait l'air de chanter !
 
 + Tu peux également modifier l'aspect de ton lutin chanteur en cliquant dessus et en créant un nouveau costume. Clique sur l'onglet Costumes, et tu verra l'image du chanteur.
     
@@ -20,7 +20,7 @@ Fais en sorte que l'on voit que ton chanteur chanter !
 
 + Maintenant que tu as deux costumes différents pour ton chanteur, tu peux choisir quel costume est affiché ! Ajoute ces deux blocs à ton chanteur:
     
-    ![capture d'écran](images/band-looks.png)
+    ![capture d'écran](mages/band-looks.png)
     
     Le bloc de code pour changer le costume est dans le `Apparence` {: class = "blocklooks"} section.
 
