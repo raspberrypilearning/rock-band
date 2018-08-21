@@ -10,11 +10,11 @@ Napravimo da tvoja pjevačica izgleda kao da pjeva!
     
     ![screenshot](images/band-singer-duplicate.png)
 
-+ Klikni na novi kostim (pod nazivom 'Pjevačica2'). Nakon toga, izaberi alat za crtanje linija i nacrtaj linije, tako da tvoja pjevačica izgleda kao da pjeva.
++ Klikni na novi kostim (pod nazivom 'Pjevačica2'). Nakon toga, izaberi alat za crtanje linija (line tool) i nacrtaj linije, tako da tvoja pjevačica izgleda kao da pjeva.
     
     ![screenshot](images/band-singer-click.png)
 
-+ Trenutno, imena kostima nisu od velike pomoći. Preimenuj ih u 'ne pjeva' i 'pjeva' tako što ćeš za oba kostima upisati novo ime u okvir za tekst.
++ Nazivi kostima trenutno nisu od velike pomoći. Preimenuj ih u 'ne pjeva' i 'pjeva' tako što ćeš za oba kostima upisati novi naziv u okvir za tekst.
     
     ![screenshot](images/band-singer-name.png)
 
@@ -22,6 +22,6 @@ Napravimo da tvoja pjevačica izgleda kao da pjeva!
     
     ![screenshot](images/band-looks.png)
     
-    Blok kôda za mijenjanje kostima nalazi se u odjeljku `Looks` {:class="blocklooks"} (Izgled).
+    Blok kôda za promjenu kostima nalazi se u odjeljku `Looks` {:class="blocklooks"} (Izgled).
 
 + Klikni na svoju pjevačicu. Da li izgleda kao da pjeva?
