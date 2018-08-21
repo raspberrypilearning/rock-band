@@ -10,7 +10,7 @@ Facciamo in modo che la cantante sembri stia cantando!
     
     ![screenshot](images/band-singer-duplicate.png)
 
-+ Fai click sul nuovo costume (che si chiamerà ‘Singer2’) e scegli lo strumento ‘Linea’. Disegna delle linee per far sembrare che la cantante stia emettendo dei suoni.
++ Fai click sul nuovo costume (che si chiamerà ‘Singer2’) e scegli lo strumento ‘Linea’. Disegna delle linee per dare l'impressione che la cantante stia emettendo dei suoni.
     
     ![screenshot](images/band-singer-click.png)
 
@@ -18,7 +18,7 @@ Facciamo in modo che la cantante sembri stia cantando!
     
     ![screenshot](images/band-singer-name.png)
 
-+ Adesso che hai due costumi per la tua cantante, potrai decidere quale far visualizzare! Aggiungi questi due blocchi alla cantante:
++ Adesso che hai due costumi per la tua cantante, potrai decidere quale visualizzare! Aggiungi questi due blocchi alla cantante:
     
     ![screenshot](images/band-looks.png)
     
