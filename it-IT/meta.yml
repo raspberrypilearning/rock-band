@@ -20,20 +20,20 @@ steps:
   - 
     title: Introduzione
   - 
-    title: Sprites
+    title: Di cosa avrai bisogno
+  - 
+    title: Sprite
   - 
     title: Lo Stage
   - 
-    title: Creare un Tamburo
+    title: Creare un tamburo
   - 
-    title: 'Sfida: Perfeziona il tamburo'
+    title: "Sfida: perfeziona il tamburo"
   - 
-    title: "Creare un cantante"
+    title: Creare un cantante
   - 
     title: I Costumi
   - 
-    title: 'Sfida: Cambiare il costume del tamburo'
+    title: "Sfida: cambia il costume del tuo tamburo"
   - 
-    title: "Sfida: Crea la tua band"
-  - 
-    title: "Sfida: Crea la tua band"
+    title: "Sfida: crea la tua band"
