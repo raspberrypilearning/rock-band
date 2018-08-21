@@ -1,6 +1,6 @@
 ## Sprite
 
-Prima di poter cominciare a programmare, hai bisogno di aggiungere al tuo progetto un ‘oggetto’ da programmare. in Scratch, questi ‘oggetti’ si chiamano **sprite**.
+Prima di poter cominciare a programmare, hai bisogno di aggiungere al tuo progetto un ‘oggetto’ da programmare. In Scratch questi ‘oggetti’ si chiamano **sprite**.
 
 + Prima di tutto, apri l’editor di Scratch. Lo trovi online all’indirizzo <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. Ecco com'è fatto:
     
@@ -14,11 +14,11 @@ Prima di poter cominciare a programmare, hai bisogno di aggiungere al tuo proget
     
     ![screenshot](images/band-sprite-library.png)
 
-+ Scorri verso il basso fino a che non trovi lo sprite di un tamburo. Seleziona uno dei due sprite, e per aggiungerlo al progetto clicca sul tasto **OK** in basso a destra.
++ Scorri verso il basso fino a che non trovi lo sprite di un tamburo. Seleziona uno dei due sprite e per aggiungerlo al progetto clicca sul tasto **OK** in basso a destra.
     
     ![screenshot](images/band-sprite-drum.png)
 
-+ Premi l’icona **Riduci lo sprite**, e poi fai click varie volte sul tamburo per rimpicciolirlo.
++ Premi l’icona **Riduci lo sprite** e poi fai clicca varie volte sul tamburo per rimpicciolirlo.
     
     ![screenshot](images/band-shrink.png)
 
