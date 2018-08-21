@@ -1,6 +1,6 @@
 ## La scène
 
-La **scène** est la zone sur la gauche et où ton projet prend vie. Considère-le comme une zone de performance, tout comme une scène réelle !
+La **scène** est la zone sur la gauche et c'est où ton projet prend vie. Considère-le comme une zone de performance, tout comme une scène réelle !
 
 + Pour le moment, la scène est blanche et à l'air plutôt ennuyeuse ! Nous allons ajouter une toile de fond de la scène, en cliquant sur **choisir un arrière-plan dans la bibliothèque**.
     
