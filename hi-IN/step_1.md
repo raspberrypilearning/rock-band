@@ -1,10 +1,10 @@
 ## परिचय
 
-अपने स्वयं के संगीत उपकरणों को कोड करना सीखें!
+अपने स्वयं के संगीत वाद्ययंत्रों को कोड करने के तरीके सीखना!
 
 ### आप क्या बनाएँगे
 
-शुरू करने के लिए हरे रंग के झंडे पर क्लिक करें। फिर, गायक या ड्रम पर सुनने के लिए क्लिक करें कि वे कैसे सुनाई देते है।
+शुरू करने के लिए हरे रंग के झंडे पर क्लिक करें। फिर, गायक या ड्रम को सुनने के लिए क्लिक करें कि वे कैसे सुनाई देते है।
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
@@ -12,9 +12,9 @@
 
 ### आप क्या सीखेंगे
 
-यह प्रोजेक्ट [Raspberry Pi डिजिटल निर्माण पाठ्यचर्या में से निम्नलिखित गुणों के तत्वों को कवर करता है](http://rpf.io/curriculum){:target="_blank"}:
+यह प्रोजेक्ट [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित तत्वों को पूरा करता है{:target="_blank"}:
 
-+ [साधारण प्रोग्राम बनाने के लिए आधारभूत रचनाओं का उपयोग करें](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [साधारण प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करें](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 
 ### शिक्षकों के लिए अतिरिक्त जानकारी
 
