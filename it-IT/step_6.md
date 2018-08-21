@@ -12,7 +12,7 @@
     quando si preme il tasto [spazio v]
 ```
 
-Puoi anche copiare il codice che hai creato cliccando col tasto destro del mouse sui blocchi già aggiunti nell'area lavoro e selezionando **duplica**.
+Puoi anche copiare il codice che hai creato cliccando, col tasto destro del mouse, sui blocchi già aggiunti nell'area lavoro e selezionando **duplica**.
 
 ![screenshot](images/band-duplicate-code.png)
 
