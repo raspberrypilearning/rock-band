@@ -2,7 +2,7 @@
 
 Lo **Stage** è l’area sulla sinistra, ed è lì che il tuo progetto prende vita. Immagina che sia lo spazio per una performance, proprio come un vero palcoscenico!
 
-+ Lo stage all'inizio è bianco, e dunque piuttosto noioso! Aggiungiamo uno sfondo facendo click col mouse sull’icona **Scegli uno sfondo dalla libreria**.
++ Lo stage all'inizio è bianco e dunque piuttosto noioso! Aggiungiamo uno sfondo facendo click col mouse sull’icona **Scegli uno sfondo dalla libreria**.
     
     ![screenshot](images/band-stage-choose.png)
 
