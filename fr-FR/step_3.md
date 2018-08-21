@@ -16,14 +16,14 @@ Avant de commencer à coder, vous devez ajouter une «chose» au code. Dans Scra
 
 + Fais défiler jusqu'à ce que tu trouves un lutin de tambour. Clique sur celui ci puis sur ** OK ** pour l'ajouter à ton projet.
     
-    ![Captures d'écran](images/band-sprite-drum.png)
+    ![capture d'écran](images/band-sprite-drum.png)
 
 + Clique sur le lutin et **rétrécis** le.
     
-    ![Captures d'écran](images/band-shrink.png)
+    ![capture d'écran](images/band-shrink.png)
 
 Donne un nom à ton programme en tapant un dans la zone de texte dans le coin supérieur gauche.
 
 Tu peux ensuite cliquer sur ** Fichier ** puis ** Enregistrer ** pour sauvegarder ton projet. Si tu n'as pas de compte Scratch, Tu peux enregistrer une copie de ton projet en cliquant sur ** Télécharger dans votre ordinateur **.
 
-![Captures d'écran](images/band-save.png)
+![capture d'écran](images/band-save.png)
