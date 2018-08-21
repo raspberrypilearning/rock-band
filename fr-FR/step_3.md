@@ -4,15 +4,15 @@ Avant de commencer à coder, vous devez ajouter une «chose» au code. Dans Scra
 
 + D'abord, ouvres l'éditeur Scratch. Tu peux trouver l'éditeur en ligne de Scratch à <a href="http://jumpto.cc/scratch-new" target="_blank"> jumpto.cc/scratch-new </a> . Cela ressemble a ça :
     
-    ![Captures d'écran](images/band-scratch.png)
+    ![capture d'écran](images/band-scratch.png)
 
 + Le lutin de chat que tu peux voir est la mascotte Scratch. Débarrassons nous en en cliquant dessus avec le bouton droit puis ** supprimer ** .
     
-    ![Captures d'écran](images/band-delete.png)
+    ![capture d'écran](images/band-delete.png)
 
 + Ensuite, clique sur ** Choisir un lutin dans la bibliothèque ** pour ouvrir une liste de tous les lutins Scratch.
     
-    ![Captures d'écran](images/band-sprite-library.png)
+    ![capture d'écran](images/band-sprite-library.png)
 
 + Fais défiler jusqu'à ce que tu trouves un lutin de tambour. Clique sur celui ci puis sur ** OK ** pour l'ajouter à ton projet.
     
