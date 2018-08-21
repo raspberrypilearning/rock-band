@@ -26,7 +26,7 @@ Per risolvere questo problema fai clic su **Definisci il centro del costume** pe
 
 \--- /collapse \---
 
-Se possiedi un microfono puoi anche registrare i tuoi suoni personalizzati, o addirittura usare una webcam per percuotere il tuo strumento!
+Se possiedi un microfono puoi anche registrare i tuoi suoni personalizzati o addirittura usare una webcam per percuotere il tuo strumento!
 
 ![screenshot](images/band-io.png)
 
