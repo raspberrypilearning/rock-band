@@ -6,7 +6,7 @@ Ajoutons un chanteur à ton groupe!
     
     ![captures d'écran](images/band-singer-mic.png)
 
-+ Avant de pouvoir faire chanter le chanteur, tu vas devoir ajouter un son à votre lutin. Assure-toi d'avoir sélectionné ton chanteur, puis clique sur l'onglet Sons, puis sur ** Choisir un son dans la bibliothèque ** :
++ Avant de pouvoir faire chanter le chanteur, tu dois ajouter un son à votre lutin. Assure-toi d'avoir sélectionné ton chanteur, puis clique sur l'onglet Sons, puis sur ** Choisir un son de la bibliothèque ** :
     
     ![captures d'écran](images/band-import-sound.png)
 
@@ -18,7 +18,7 @@ Ajoutons un chanteur à ton groupe!
     
     ```blocks
         quand ce lutin est cliqué 
-     jouer le son [singer1 v] jusqu'à ce qu'au bout
+     jouer le son [singer1 v] jusqu'à ce qu'au jusqu'à ce qu'il soit terminé
     ```
 
 + Clique sur ton chanteur et regarde ce qu'il se passe. Est-ce qu'il chante?
