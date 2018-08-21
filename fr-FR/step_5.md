@@ -1,4 +1,4 @@
-## Crée ton tambour
+## Créer un tambour
 
 Code ton tambour pour émettre un son lorsqu'il est frappé.
 
