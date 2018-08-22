@@ -18,11 +18,11 @@ Before you can start coding, you'll need to add in a 'thing' to code. In Scratch
     
     ![screenshot](images/band-sprite-drum.png)
 
-+ Click the **shrink** icon, and then click on the drum a few times to make it smaller.
++ Kliknij ikonę **zmniejsz**, a następnie kliknij parę razy na bębenek, żeby go zmniejszyć.
     
     ![screenshot](images/band-shrink.png)
 
-Give your program a name by typing one into the text box in the top left-hand corner.
+Nazwij jakoś swój program, wpisując nazwę w polu tekstowym w lewym górnym rogu.
 
 You can then click **File** and then **Save now** to save your project. If you don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
 
