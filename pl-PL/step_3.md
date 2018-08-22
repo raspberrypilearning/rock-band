@@ -18,7 +18,7 @@ Before you can start coding, you'll need to add in a 'thing' to code. In Scratch
     
     ![screenshot](images/band-sprite-drum.png)
 
-+ Kliknij ikonę **zmniejsz**, a następnie kliknij parę razy na bębenek, żeby go zmniejszyć.
++ Kliknij ikonę **zmniejsz**, a następnie kliknij parę razy bębenek, żeby go zmniejszyć.
     
     ![screenshot](images/band-shrink.png)
 
