@@ -6,7 +6,7 @@ Before you can start coding, you'll need to add in a 'thing' to code. In Scratch
     
     ![screenshot](images/band-scratch.png)
 
-+ The cat sprite that you can see is the Scratch mascot. Let's get rid of it by right-clicking it and then clicking **delete**.
++ Kot widoczny na ekranie to maskotka Scratcha. Usuńmy go, klikając go prawym przyciskiem myszy, a następnie klikając **usuń**.
     
     ![screenshot](images/band-delete.png)
 
