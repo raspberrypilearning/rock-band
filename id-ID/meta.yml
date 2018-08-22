@@ -1,11 +1,11 @@
 ---
-hero_image: images / hero-rock-band-big.png
-theme: merah
+hero_image: images/hero-rock-band-large.png
+theme: red
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, desain-0, pemrograman-1, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Band rock
 description: Pelajari cara membuat kode alat musik Anda sendiri
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
