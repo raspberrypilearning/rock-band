@@ -20,4 +20,4 @@ Tento projekt zahrnuje prvky z následujících částí výukových osnov [ Ras
 
 Potřebujete-li tento projekt vytisknout, použijte verzi [pro tisk](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
-Pomocí odkazu v zápatí získáte přístup k úložišti GitHub tohoto projektu, které obsahuje všechny zdroje (včetně příkladu ukončeného projektu) ve složce "en / resources".
+Pomocí odkazu v zápatí získáte přístup k úložišti GitHub tohoto projektu, které obsahuje všechny zdroje (včetně příkladu ukončeného projektu) ve složce "en/resources".
