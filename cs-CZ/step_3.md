@@ -10,11 +10,11 @@ Než začneš kódovat, musíš přidat do kódu různé viditelné 'prvky'. V a
     
     ![screenshot](images/band-delete.png)
 
-+ Dále klikni na obrázek panáčka, kontextová nápověda je **Vybrat postavu z knihovny**, a otevři seznam všech sprajtů ve Scratchi.
++ Dále klikni na obrázek panáčka, kontextová nápověda je **Vybrat postavu z knihovny**, čímž otevřeš seznam všech sprajtů ve Scratchi.
     
     ![screenshot](images/band-sprite-library.png)
 
-+ Přejdi dolů, dokud neuvidíš bubínek. Klikněte na něj a pak klikni na tlačítko **OK** abys ho přidal do projektu.
++ Přejdi dolů, dokud neuvidíš sprajt bubínku. Klikněte na něj, a poté klikni na tlačítko **OK**, abys ho přidal do projektu.
     
     ![screenshot](images/band-sprite-drum.png)
 
