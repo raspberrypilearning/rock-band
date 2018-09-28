@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: change your drum's costume
+## Изазов: Промени костим бубња
 
-Can you make your drum look like it's being hit?
+Можеш ли да направиш да твој бубањ изгледа као да је ударен?
 
-![screenshot](images/band-drum-final.png)
+![слика екрана](images/band-drum-final.png)
 
-\--- hints \--- \--- hint \--- Use the instructions for changing your singer's costume in the previous step to help you. \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Користи упуства из претходног корака за промену костима певачице. \--- /hint \--- \--- /hints \---
 
-Remember to test that your new code works!
+Не заборави да испробаш да ли твој нови код ради!
 
 \--- /challenge \---
