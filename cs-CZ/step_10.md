@@ -2,7 +2,7 @@
 
 ## Výzva: Vytvoř si svou vlastní skupinu
 
-Využij toho, co jsi se naučil/a v tomto projektu, a vytvoři vlastní skupinu! Můžeš si vytvořit všechny nástroje, které se ti líbí - podívej se na dostupné zvuky a nástroje, abys získal/a nějaké nápady.
+Využij toho, co jsi se naučil/a v tomto projektu a vytvoř vlastní skupinu! Můžeš si vytvořit všechny nástroje, které se ti líbí - podívej se na dostupné zvuky a nástroje, abys získal/a nějaké nápady.
 
 ![screenshot](images/band-ideas.png)
 
