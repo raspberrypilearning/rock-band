@@ -14,7 +14,7 @@ Přidejme do kapely zpěvačku!
     
     ![screenshot](images/band-choose-sound.png)
 
-+ Nyní, když jsi zvuk přidal, můžeš přidat zpěvačce přidat tento kousek kódu:
++ Nyní, když jsi zvuk přidal, můžeš zpěvačce přidat tento kousek kódu:
     
     ```blocks
         when this sprite clicked
