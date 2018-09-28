@@ -1,29 +1,29 @@
-## Sprites
+## Ликови
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Пре него што почнеш са програмирањем, мораш да додаш оно што ћеш програмирати. У Скречу то се зове **лик**.
 
-+ First, open up the Scratch editor. You can find the online Scratch editor at <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. It looks like this:
++ Прво отвори Скреч уређивач. Скреч уређивач на мрежи можеш пронаћи на <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. Он изгледа овако:
     
-    ![screenshot](images/band-scratch.png)
+    ![слика екрана](images/band-scratch.png)
 
-+ The cat sprite that you can see is the Scratch mascot. Let's get rid of it by right-clicking it and then clicking **delete**.
++ Мачка коју видиш је маскота Скреча. Отараси је се тако што ћеш притиснути десни тастер миша и изабрати **обриши**.
     
-    ![screenshot](images/band-delete.png)
+    ![слика екрана](images/band-delete.png)
 
-+ Next, click **Choose sprite from library** to open up a list of all the Scratch sprites.
++ Затим кликни на **Изабери лик из библиотеке** да би отворио списак свих Скреч ликова.
     
-    ![screenshot](images/band-sprite-library.png)
+    ![слика екрана](images/band-sprite-library.png)
 
-+ Scroll down until you see a drum sprite. Click on a drum, and click **OK** to add it to your project.
++ Скролуј ка доле док не угледаш лик бубња. Кликни на бубањ, а затим на **Уреду** да би га додао/ла у пројекат.
     
-    ![screenshot](images/band-sprite-drum.png)
+    ![слика екрана](images/band-sprite-drum.png)
 
-+ Click the **shrink** icon, and then click on the drum a few times to make it smaller.
++ Кликни на икону **Умањи**, а затим неколико пута кликни на бубањ да би га смањио/ла.
     
-    ![screenshot](images/band-shrink.png)
+    ![слика екрана](images/band-shrink.png)
 
-Give your program a name by typing one into the text box in the top left-hand corner.
+Дај свом програму име, тако што ћеш га уписати у оквир за текст у горњем левом углу.
 
-You can then click **File** and then **Save now** to save your project. If you don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+Кликни на **Дадотека**, а затим на **Сачувај одмах** да би сачувао/ла пројекат. Ако немаш Скреч налог, можеш да сачуваш копију свог пројекта тако што чеш кликнути на **Преузми на свој рачунар**.
 
-![screenshot](images/band-save.png)
+![слика екрана](images/band-save.png)
