@@ -1,15 +1,15 @@
-## The Stage
+## Позорница
 
-The **Stage** is the area on the left, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+**Позорница** је област са леве стране, тамо где твој пројекат настаје. Замисли је као простор за извођење, баш као права позорница!
 
-+ At the moment, the stage is white, and looks pretty boring! Let's add a backdrop to the stage, by clicking **Choose backdrop from library**.
++ Тренутно је позорница бела и изгледа прилично досадно! Хајде да јој додамо позадину тако што ћемо кликнути на **Одабери позадину из библиотеке**.
     
-    ![screenshot](images/band-stage-choose.png)
+    ![слика екрана](images/band-stage-choose.png)
 
-+ Click **Indoors** on the left, and then click on a stage backdrop and click **OK**.
++ Кликни на **Унутра** са леве стране, а затим кликни на позадину позорнице и на крају на **У реду**.
     
-    ![screenshot](images/band-backdrop.png)
+    ![слика екрана](images/band-backdrop.png)
 
-+ Your stage should now look like this:
++ Твоја позорница би сада требало да изгледа овако:
     
-    ![screenshot](images/band-stage.png)
+    ![слика екрана](images/band-stage.png)
