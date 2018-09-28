@@ -2,12 +2,12 @@
 
 ## Výzva: změň kostým bubnu
 
-Dokážeš změnit buben tak, aby to vypadalo že na něj někdo bubnuje?
+Dokážeš změnit buben tak, aby to vypadalo, jako že na něj někdo bubnuje?
 
 ![screenshot](images/band-drum-final.png)
 
-\--- hints \--- \--- hint \--- Jako nápovědu využij instrukce pro změnu kostýmu zpěváka z předchozího kroku. \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Jako nápovědu využij instrukce pro změnu kostýmu zpěvačky z předchozího kroku. \--- /hint \--- \--- /hints \---
 
-Nezapomeň vyzkoušet, žetvůj nový kód funguje!
+Nezapomeň vyzkoušet, že tvůj nový kód funguje!
 
 \--- /challenge \---
