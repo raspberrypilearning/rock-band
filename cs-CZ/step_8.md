@@ -10,7 +10,7 @@ Pojďme udělat, aby zpěvačka vypadala, jako že zpívá!
     
     ![screenshot](images/band-singer-duplicate.png)
 
-+ Klůikni na nový kostým (má název "Singer2") a pak pomocí nástroje čára nakreslit čáry tak, aby to vypadalo jako zpěvačka zpívá.
++ Klikni na nový kostým (má název "Singer2") a pak pomocí nástroje čára nakreslit čáry tak, aby to vypadalo, jako že zpěvačka zpívá.
     
     ![screenshot](images/band-singer-click.png)
 
@@ -18,10 +18,10 @@ Pojďme udělat, aby zpěvačka vypadala, jako že zpívá!
     
     ![screenshot](images/band-singer-name.png)
 
-+ Nyní, když máš pro zpěvačku dva různé kostýmy, můžeš si vybrat, který kostým se zobrazí! Přidejte tyto dva bloky k zpěvákovi:
++ Nyní, když máš pro zpěvačku dva různé kostýmy, můžeš si vybrat, který kostým se zobrazí! Přidejte tyto dva bloky ke zpěvačce:
     
     ![screenshot](images/band-looks.png)
     
     Blok kódu pro změnu kostým je v kategorii `Vzhled` {: class = "blocklooks"}.
 
-+ Klikni na zpěváka. Vypadá to, že zpívá?
++ Klikni na zpěvačku. Vypadá to, že zpívá?
