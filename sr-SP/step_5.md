@@ -1,11 +1,11 @@
-## Making a drum
+## Направи бубањ
 
-Let's code your drum to make a sound when it's hit.
+Хајде да програмирамо твој бубањ да прави звук када је ударен.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Блокове кода можеш да пронађеш на картици "Програми" и сви су различито обојени!
 
-+ Click on the drum sprite, and then drag these two blocks into the code area to the right, making sure that they are connected together (like Lego blocks):
++ Кликни на лик бубња, а затим превуци два блока у област Програми са десне стране, водећи рачуна о томе да су међусобно повезани (као Лего коцке):
 
-![screenshot](images/connect-block.gif)
+![слика екрана](images/connect-block.gif)
 
-+ Click the drum to try out your new instrument!
++ Кликни на бубањ да би испробао свој нови инструмент!
