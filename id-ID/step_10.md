@@ -1,4 +1,4 @@
-\--- tantangan \---
+\--- challenge \---
 
 ## Tantangan: buat band Anda sendiri
 
