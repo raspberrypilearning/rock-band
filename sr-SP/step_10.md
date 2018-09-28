@@ -1,33 +1,33 @@
 \--- challenge \---
 
-## Challenge: make your own band
+## Изазов: Направи своју групу
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available sounds and instruments to get some ideas.
+Употреби оно што си научио/ла у овом пројекту да би направио сопствену групу! Можеш да направиш било који инструмент који ти се свиђа, погледај које звукове и инструменте имаш на располагању да би добио/ла идеје.
 
-![screenshot](images/band-ideas.png)
+![слика екрана](images/band-ideas.png)
 
-Your instruments don't have to be sensible though. For example, you could make a piano made out of muffins!
+Твоји инструменти не морају да буду правог изгледа. Можеш, на пример, да направиш клавир од мафина!
 
-![screenshot](images/band-piano.png)
+![слика екрана](images/band-piano.png)
 
-As well as using existing sprites, you can also draw your own.
+Као што користиш постојеће ликове, можеш и да нацрташ сопствене.
 
-![screenshot](images/band-draw.png)
+![слика екрана](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## title: Зашто мој лик 'скаче' када промени костим?
 
-+ When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
++ Када прaвиш свог лика, можеш да приметиш, да када кликнеш на њега, лик 'скаче' док мења костим. То је зато што два костима нису центрирана на истом месту.
 
-To fix this, click **Set costume center** on both costumes, and make sure the center is at the same point in both costumes.
+Да то поправиш, кликни на **Изабери центар костима** за оба костима, и побрини се да код оба костима центар буде на истом месту.
 
-![screenshot](images/band-center.png)
+![слика екрана](images/band-center.png)
 
 \--- /collapse \---
 
-If you have a microphone you can record your own sounds, or even use a webcam to hit your instruments!
+Ако имаш микрофон, можеш да снимиш сопствене звукове или чак да користиш веб-камеру да свираш своје инструменте!
 
-![screenshot](images/band-io.png)
+![слика екрана](images/band-io.png)
 
 \--- /challenge \---
