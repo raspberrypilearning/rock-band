@@ -1,11 +1,16 @@
-## Making a drum
+## Challenge: improving your drum
 
-Let's code your drum to make a sound when it's hit.
+Can you change the sound that the drum makes when it's clicked?
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+![screenshot](images/band-drum-sound.png)
 
-+ Click on the drum sprite, and then drag these two blocks into the code area to the right, making sure that they are connected together (like Lego blocks):
+Can you also get the drum to make a sound when the spacebar is pressed? You'll need to use this `event`{:class="blockevents"} block:
 
-![screenshot](images/connect-block.gif)
+```blocks
+when [space v] key pressed
+```
 
-+ Click the drum to try out your new instrument!
+You can copy your existing code by right-clicking on it and clicking **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
+

@@ -1,15 +1,15 @@
-## The Stage
+## Making a drum
 
-The __Stage__ is the area on the left, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+Let's code your drum to make a sound when it's hit.
 
-+ At the moment, the stage is white, and looks pretty boring! Let's add a backdrop to the stage, by clicking **Choose backdrop from library**.
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
-	![screenshot](images/band-stage-choose.png)
+--- task ---
+Click on the drum sprite, and then drag these two blocks into the code area to the right, making sure that they are connected together (like Lego blocks):
 
-+ Click **Indoors** on the left, and then click on a stage backdrop and click **OK**.
+![screenshot](images/connect-block.gif)
+--- /task ---
 
-	![screenshot](images/band-backdrop.png)
-
-+ Your stage should now look like this:
-
-	![screenshot](images/band-stage.png)
+--- task ---
+Click the drum to try out your new instrument!
+--- /task ---

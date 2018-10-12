@@ -1,24 +1,39 @@
-## Making a singer
+## Costumes
 
-Let's add a singer to your band!
+Let's make your singer look like she's singing!
 
-+ Add another two sprites to your stage: a singer and a microphone.
+--- task ---
+You can also change how your singer sprite looks when it's clicked by creating a new costume. Click the Costumes tab, and you'll see the singer image.
 
-	![screenshot](images/band-singer-mic.png)
+![screenshot](images/band-singer-costume.png)
+--- /task ---
 
-+ Before you can make your singer sing, you need to add a sound to your sprite. Make sure that you have selected your singer, then click the Sounds tab, and click **Choose sound from library**:
+--- task ---
+Right-click on the costume and click **duplicate** to create a copy of the costume.
 
-	![screenshot](images/band-import-sound.png)
+![screenshot](images/band-singer-duplicate.png)
+--- /task ---
 
-+ If you click **Vocals** on the left-hand side, you will then be able to choose a suitable sound to add to your sprite.
+--- task ---
+Click on the new costume (called 'Singer2'), and then select the line tool and draw lines to make it look like your singer is making a sound.
 
-	![screenshot](images/band-choose-sound.png)
+![screenshot](images/band-singer-click.png)
+--- /task ---
 
-+ Now that the sound has been added, you can add this code to your singer:
+--- task ---
+The names of the costumes aren't very helpful at the moment. Rename the two costumes so they are called 'not singing' and 'singing' by typing the new name of each costume into the text box.
 
-	```blocks
-		when this sprite clicked
-		play sound [singer1 v] until done
-	```
+	![screenshot](images/band-singer-name.png)
+--- /task ---
 
-+ Click on your singer and see what happens. Does she sing?
+--- task ---
+Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two blocks to your singer:
+
+![screenshot](images/band-looks.png)
+
+The code block for changing the costume is in the `Looks`{:class="blocklooks"} section.
+--- /task ---
+
+--- task ---
+Click on your singer. Does she look like she is singing?
+--- /task ---

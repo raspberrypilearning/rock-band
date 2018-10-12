@@ -1,27 +1,37 @@
-## Costumes
+## Challenge: change your drum's costume
+Can you make your drum look like it's being hit?
 
-Let's make your singer look like she's singing!
+![screenshot](images/band-drum-final.png)
 
-+ You can also change how your singer sprite looks when it's clicked by creating a new costume. Click the Costumes tab, and you'll see the singer image.
+Use the instructions for changing your singer's costume in the previous step to help you.
 
-	![screenshot](images/band-singer-costume.png)
+Remember to test that your new code works!
 
-+ Right-click on the costume and click **duplicate** to create a copy of the costume.
+## Challenge: make your own band
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available sounds and instruments to get some ideas.
 
-	![screenshot](images/band-singer-duplicate.png)
+![screenshot](images/band-ideas.png)
 
-+ Click on the new costume (called 'Singer2'), and then select the line tool and draw lines to make it look like your singer is making a sound.
+Your instruments don't have to be sensible though. For example, you could make a piano made out of muffins!
 
-	![screenshot](images/band-singer-click.png)
+![screenshot](images/band-piano.png)
 
-+ The names of the costumes aren't very helpful at the moment. Rename the two costumes so they are called 'not singing' and 'singing' by typing the new name of each costume into the text box.
+As well as using existing sprites, you can also draw your own.
 
-	![screenshot](images/band-singer-name.png)
+![screenshot](images/band-draw.png)
 
-+ Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two blocks to your singer:
+--- collapse ---
+---
+title: Why is my sprite 'jumping' when it changes costume?
+---
 
-	![screenshot](images/band-looks.png)
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
 
-	The code block for changing the costume is in the `Looks`{:class="blocklooks"} section.
+To fix this, click **Set costume center** on both costumes, and make sure the center is at the same point in both costumes.
 
-+ Click on your singer. Does she look like she is singing?
+![screenshot](images/band-center.png)
+--- /collapse ---
+
+If you have a microphone you can record your own sounds, or even use a webcam to hit your instruments!
+
+![screenshot](images/band-io.png)
