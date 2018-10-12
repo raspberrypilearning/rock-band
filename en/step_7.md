@@ -23,13 +23,18 @@ Click on the new costume (called 'Singer2'), and then select the line tool and d
 --- task ---
 The names of the costumes aren't very helpful at the moment. Rename the two costumes so they are called 'not singing' and 'singing' by typing the new name of each costume into the text box.
 
-	![screenshot](images/band-singer-name.png)
+![screenshot](images/band-singer-name.png)
 --- /task ---
 
 --- task ---
 Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two blocks to your singer:
 
-![screenshot](images/band-looks.png)
+```blocks
+when this sprite clicked
++switch costume to [singing v]
+play sound [singer1 v] until done
++switch ostume to [not singing]
+```
 
 The code block for changing the costume is in the `Looks`{:class="blocklooks"} section.
 --- /task ---
