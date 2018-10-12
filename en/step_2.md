@@ -8,31 +8,31 @@ First, open up the Scratch editor. You can find the online Scratch editor at [rp
 
 It looks like this:
 
-	![screenshot](images/band-scratch.png)
+![screenshot](images/band-scratch.png)
 --- /task ---
 --- task ---
 The cat sprite that you can see is the Scratch mascot. Let's get rid of it by right-clicking it and then clicking **delete**.
 
-	![screenshot](images/band-delete.png)
+![screenshot](images/band-delete.png)
 --- /task ---
 
 --- task ---
 Next, click **Choose sprite from library** to open up a list of all the Scratch sprites.
 
-	![screenshot](images/band-sprite-library.png)
+![screenshot](images/band-sprite-library.png)
 --- /task ---
 
 --- task ---
 Scroll down until you see a drum sprite. Click on a drum, and click **OK** to add it to your project.
 
-	![screenshot](images/band-sprite-drum.png)
+![screenshot](images/band-sprite-drum.png)
 
 --- /task ---
 
 --- task ---
 Click the **shrink** icon, and then click on the drum a few times to make it smaller.
 
-	![screenshot](images/band-shrink.png)
+![screenshot](images/band-shrink.png)
 --- /task ---
 
 --- task ---

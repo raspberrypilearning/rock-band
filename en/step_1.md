@@ -10,18 +10,22 @@ Click the green flag to begin. Then, click on the singer or the drum to hear wha
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
 </div>
 --- /no-print ---
+
+--- print-only ---
 You will make a game where clicking on the singer or drum will cause a sound to be played.
 
 ![game screenshot](images/demo.png)
---- print-only ---
-
 --- /print-only ---
-### What you will learn
 
+--- collapse ---
+---
+title: What you will learn
+---
 - How to add sprites and backgrounds to a game
 - How to react to clicks on a sprite
 - How to play sounds
 - How to change a sprites costume
+--- /collapse ---
 
 --- collapse ---
 ---
