@@ -14,7 +14,6 @@ Click on the drum sprite, and then drag these two blocks into the code area to t
 when this sprite clicked
 play drum (1 v) for (0.25) beats
 ```
---- /print-only ---
 --- /task ---
 
 --- task ---

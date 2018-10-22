@@ -11,7 +11,9 @@ steps:
 - title: The Stage
 - title: Making a drum
 - title: "Challenge: improve your drum"
+  challenge: true
 - title: Making a singer
 - title: Costumes
 - title: "Challenge: improve your band"
+  challenge: true
 - title: "What next?"
