@@ -48,7 +48,9 @@ title: Additional information for educators
 ---
 
 --- no-print ---
+
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+
 --- /no-print ---
 
 The completed project can be downloaded at [rpf.io/p/rock-band-get](http://rpf.io/p/rock-band-get)

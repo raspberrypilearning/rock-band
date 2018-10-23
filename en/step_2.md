@@ -4,7 +4,9 @@ Before you can start coding, you'll need to add in a 'thing' to code. In Scratch
 
 --- task ---
 
-First, open up the Scratch editor. You can find the online Scratch editor at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"} 
+First, open up the Scratch editor. 
+
+You can find the online Scratch editor at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"} 
 
 It looks like this:
 
