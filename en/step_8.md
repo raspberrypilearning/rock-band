@@ -1,13 +1,5 @@
-## Challenge: change your drum's costume
-Can you make your drum look like it's being hit?
+## Challenge: improve your band
 
-![screenshot](images/band-drum-final.png)
-
-Use the instructions for changing your singer's costume in the previous step to help you.
-
-Remember to test that your new code works!
-
-## Challenge: make your own band
 Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available sounds and instruments to get some ideas.
 
 ![screenshot](images/band-ideas.png)

@@ -42,3 +42,13 @@ The code block for changing the costume is in the `Looks`{:class="blocklooks"} s
 --- task ---
 Click on your singer. Does she look like she is singing?
 --- /task ---
+
+--- task ---
+Now make your drum look like it's being hit?
+
+![screenshot](images/band-drum-final.png)
+
+- Use the same instructions for changing your singer's costume in the previous step to help you.
+
+Remember to test that your new code works!
+--- /task ---
