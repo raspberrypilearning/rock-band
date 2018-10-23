@@ -32,7 +32,7 @@ Scroll down until you see a drum sprite. Click on a drum, and click **OK** to ad
 --- /task ---
 
 --- task ---
-Click the **shrink** icon, and then click on the drum a few times to make it smaller.
+Click the **shrink** icon, and then click on the drum a few times to make it smaller, then click and drag it to the bottom of the screen.
 
 ![screenshot](images/band-shrink.png)
 --- /task ---
@@ -40,7 +40,9 @@ Click the **shrink** icon, and then click on the drum a few times to make it sma
 --- task ---
 Give your program a name by typing one into the text box in the top left-hand corner.
 
-You can then click **File** and then **Save now** to save your project. If you don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+You can then click **File** and then **Save now** to save your project.
+
+If you don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
 
 ![screenshot](images/band-save.png)
 --- /task ---

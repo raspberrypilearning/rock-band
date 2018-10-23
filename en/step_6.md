@@ -7,6 +7,9 @@ Let's add a singer to your band!
 Add another two sprites to your stage: a singer and a microphone.
 
 ![screenshot](images/band-singer-mic.png)
+
+[[[generic-scratch-sprite-from-library]]]
+
 --- /task ---
 
 --- task ---
