@@ -12,7 +12,7 @@ Click the green flag to begin. Then, click on the singer or the drum to hear wha
 --- /no-print ---
 
 --- print-only ---
-You will make a game where clicking on the singer or drum will cause a sound to be played.
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
 
 ![game screenshot](images/demo.png)
 --- /print-only ---
@@ -21,10 +21,10 @@ You will make a game where clicking on the singer or drum will cause a sound to 
 ---
 title: What you will learn
 ---
-- How to add sprites and backgrounds to a game
-- How to react to clicks on a sprite
-- How to play sounds
-- How to change a sprites costume
+- How to add sprites and backgrounds to a Scratch project
+- How to change a sprite's costume
+- How to make sprites react when they are clicked
+- How to play sounds in Scratch
 --- /collapse ---
 
 --- collapse ---
@@ -34,7 +34,7 @@ title: What you will need
 
 #### Hardware
 
-+ Computer capable of running Scratch 2.0
++ A computer capable of running Scratch 2.0
 
 #### Software
 
@@ -53,7 +53,7 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 --- /no-print ---
 
-The completed project can be downloaded at [rpf.io/p/rock-band-get](http://rpf.io/p/rock-band-get)
+You can download the completed project at [rpf.io/p/rock-band-get](http://rpf.io/p/rock-band-get).
 
 --- /collapse ---
 
