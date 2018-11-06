@@ -3,10 +3,13 @@
 Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called __sprites__.
 
 --- task ---
+Open a new Scratch project.
 
-First, open up the Scratch editor. 
+**Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon).
 
-You can find the online Scratch editor at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"} 
+**Offline:** Open a new project in the offline editor.
+
+If you need to download and install the Scratch offline editor, you will find it at [rpf.io/scratchoff](http://rpf.io/scratchoff).
 
 It looks like this:
 
