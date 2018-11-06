@@ -1,5 +1,5 @@
 ## What next?
 
-Now that you've built your first Scratch project, why not have a go at the [Lost in Space](https://projects.raspberrypi.org/en/projects/lost-in-space/) project.
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space/) Scratch project?
 
-Alternatively, if you like the idea of doing more projects using sounds and music, then you could try out the Sonic Pi [Compose a tune](https://projects.raspberrypi.org/en/projects/compose-tune) project.
+Or if you like the idea of doing more projects using sounds and music, you can try out the [Compose a tune](https://projects.raspberrypi.org/en/projects/compose-tune) Sonic Pi project!

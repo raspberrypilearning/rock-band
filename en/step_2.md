@@ -16,36 +16,38 @@ It looks like this:
 ![screenshot](images/band-scratch.png)
 --- /task ---
 --- task ---
-The cat sprite that you can see is the Scratch mascot. Let's get rid of it by right-clicking it and then clicking **delete**.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
 ![screenshot](images/band-delete.png)
 --- /task ---
 
 --- task ---
-Next, click **Choose sprite from library** to open up a list of all the Scratch sprites.
+Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
 
 ![screenshot](images/band-sprite-library.png)
 --- /task ---
 
 --- task ---
-Scroll down until you see a drum sprite. Click on a drum, and click **OK** to add it to your project.
+Scroll down until you see a drum sprite. Click on a drum, and click on **OK** to add it to your project.
 
 ![screenshot](images/band-sprite-drum.png)
 
 --- /task ---
 
 --- task ---
-Click the **shrink** icon, and then click on the drum a few times to make it smaller, then click and drag it to the bottom of the screen.
+Click on the **shrink** icon, and then click on the drum a few times to make it smaller.
 
 ![screenshot](images/band-shrink.png)
+
+Then click and drag the drum to the bottom of the screen.
 --- /task ---
 
 --- task ---
 Give your program a name by typing one into the text box in the top left-hand corner.
 
-You can then click **File** and then **Save now** to save your project.
+Then click on **File**, and then on **Save now** to save your project.
 
-If you don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
+If you don't have a Scratch account, you can save a copy of your project by clicking on **Download to your computer** instead.
 
 ![screenshot](images/band-save.png)
 --- /task ---
