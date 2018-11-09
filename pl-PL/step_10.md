@@ -2,11 +2,11 @@
 
 ## Wyzwanie: stwórz własny zespół
 
-Skorzystajcie z tego, czego nauczyliście się w tym projekcie i stwórzcie własny zespół! Możecie stworzyć takie instrumenty, jakie tylko chcecie - przyjrzyjcie się dostępnym dźwiękom i instrumentom, żeby się zainspirować.
+Wykonując ten projekt, nauczysz się tworzyć własny zespół! Możesz stworzyć takie instrumenty, jakie tylko chcesz - przyjrzyj się dostępnym dźwiękom i instrumentom, żeby się zainspirować.
 
 ![screenshot](images/band-ideas.png)
 
-Wasze instrumenty nie muszą być praktyczne. Możecie na przykład stworzyć pianino z babeczek!
+Twoje instrumenty nie muszą być praktyczne. Możesz na przykład stworzyć pianino z babeczek!
 
 ![screenshot](images/band-piano.png)
 
@@ -16,7 +16,7 @@ Zamiast korzystać z dostępnych duszków, możesz też narysować swoje własne
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## title: Dlaczego mój duszek „podskakuje”, kiedy zmienia kostium?
 
 + When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
 
