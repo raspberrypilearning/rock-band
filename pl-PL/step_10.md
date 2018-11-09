@@ -1,16 +1,16 @@
 \--- challenge \---
 
-## Challenge: make your own band
+## Wyzwanie: stwórz własny zespół
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available sounds and instruments to get some ideas.
+Skorzystajcie z tego, czego nauczyliście się w tym projekcie i stwórzcie własny zespół! Możecie stworzyć takie instrumenty, jakie tylko chcecie - przyjrzyjcie się dostępnym dźwiękom i instrumentom, żeby się zainspirować.
 
 ![screenshot](images/band-ideas.png)
 
-Your instruments don't have to be sensible though. For example, you could make a piano made out of muffins!
+Wasze instrumenty nie muszą być praktyczne. Możecie na przykład stworzyć pianino z babeczek!
 
 ![screenshot](images/band-piano.png)
 
-As well as using existing sprites, you can also draw your own.
+Zamiast korzystać z dostępnych duszków, możesz też narysować swoje własne.
 
 ![screenshot](images/band-draw.png)
 
