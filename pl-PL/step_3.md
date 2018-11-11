@@ -6,7 +6,7 @@ Before you can start coding, you'll need to add in a 'thing' to code. In Scratch
     
     ![screenshot](images/band-scratch.png)
 
-+ Kot widoczny na ekranie to maskotka Scratcha. Usuńmy go, klikając go prawym przyciskiem myszy, a następnie klikając **usuń**.
++ Duszek kota, którego widzisz jest maskotką Scratcha. Usuńmy go, klikając go prawym przyciskiem myszy, a następnie klikając **usuń**.
     
     ![screenshot](images/band-delete.png)
 
