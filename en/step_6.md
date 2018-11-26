@@ -8,7 +8,7 @@ Add another two sprites to your stage: a singer and a microphone.
 
 ![screenshot](images/band-singer-mic.png)
 
-[[[generic-scratch-sprite-from-library]]]
+[[[generic-scratch3-sprite-from-library]]]
 
 --- /task ---
 
@@ -28,7 +28,7 @@ Click on **Vocals** in the list on the left-hand side, and then choose a suitabl
 --- task ---
 Now that the sound has been added, you can add the following code blocks to your singer sprite:
 
-```blocks
+```blocks3
 when this sprite clicked
 play sound [singer1 v] until done
 ```

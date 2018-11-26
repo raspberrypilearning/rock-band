@@ -15,7 +15,7 @@ Click on the drum sprite, and then drag these two blocks into the code area on t
 
 --- print-only ---
 
-```blocks
+```blocks3
 when this sprite clicked
 play drum (1 v) for (0.25) beats
 ```
