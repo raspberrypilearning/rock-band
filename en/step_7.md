@@ -5,7 +5,7 @@ Now you will make your singer look like she's singing!
 --- task ---
 You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
 
-![screenshot](images/band-singer-costume.png)
+![screenshot](images/band-singer-costume-annotated.png)
 --- /task ---
 
 --- task ---
@@ -23,7 +23,7 @@ Click on the new costume (called 'Singer2'), and then select the line tool and d
 --- task ---
 The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
 
-![screenshot](images/band-singer-name.png)
+![screenshot](images/band-singer-name-annotated.png)
 --- /task ---
 
 --- task ---

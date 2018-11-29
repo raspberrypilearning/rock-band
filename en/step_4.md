@@ -5,6 +5,20 @@ Now you will add code to your drum so that the drum makes a sound when it's clic
 You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
 --- task ---
+
+First add the **Music** extension so you can play instruments.
+
+Click on the **Add extension** button in the bottom left.
+
+![add extension button highlighted](images/add-extension-annotated.png)
+
+Click on the **Music** extension to add it.
+
+![pen extension highlighted](images/click-music-annotated.png)
+
+--- /task ---
+
+--- task ---
 Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 --- no-print ---

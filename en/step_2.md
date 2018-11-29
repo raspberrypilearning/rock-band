@@ -35,15 +35,15 @@ Scroll down until you see a drum sprite. Click on a drum, and click on **OK** to
 --- /task ---
 
 --- task ---
-Click on the **shrink** icon, and then click on the drum a few times to make it smaller.
 
-![screenshot](images/band-shrink.png)
+Click and drag the drum to the bottom of the screen.
 
-Then click and drag the drum to the bottom of the screen.
 --- /task ---
 
 --- task ---
 Give your program a name by typing one into the text box in the top left-hand corner.
+
+![name](images/band-name.png)
 
 Then click on **File**, and then on **Save now** to save your project.
 

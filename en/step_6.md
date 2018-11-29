@@ -4,7 +4,7 @@ Now you will add a singer to your band!
 
 --- task ---
 
-Add another two sprites to your stage: a singer and a microphone.
+Add another sprite to your stage - a singer.
 
 ![screenshot](images/band-singer-mic.png)
 
@@ -14,13 +14,13 @@ Add another two sprites to your stage: a singer and a microphone.
 
 --- task ---
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose sound from library**:
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
 
-![screenshot](images/band-import-sound.png)
+![screenshot](images/band-import-sound-annotated.png)
 --- /task ---
 
 --- task ---
-Click on **Vocals** in the list on the left-hand side, and then choose a suitable sound to add to your sprite.
+Click on **Voice** in the list on the top, and then choose a suitable sound to add to your sprite.
 
 ![screenshot](images/band-choose-sound.png)
 --- /task ---
