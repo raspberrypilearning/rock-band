@@ -21,7 +21,7 @@ title: Why is my sprite 'jumping' when it changes costume?
 
 When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
 
-To fix this, make sure that the centre of your sprites in the same.
+To fix this, make sure that the centre of your sprites is the same.
 
 --- /collapse ---
 
