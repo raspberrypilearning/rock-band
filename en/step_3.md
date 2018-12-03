@@ -1,6 +1,6 @@
 ## The Stage
 
-The __Stage__ is the area on the left, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+The __Stage__ is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
 --- task ---
 At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.

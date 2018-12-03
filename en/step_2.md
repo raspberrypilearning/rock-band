@@ -18,7 +18,7 @@ It looks like this:
 --- task ---
 The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
-![screenshot](images/band-delete.png)
+![screenshot](images/band-delete-annotated.png)
 --- /task ---
 
 --- task ---

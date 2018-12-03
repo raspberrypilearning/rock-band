@@ -33,7 +33,7 @@ Now that you have two different costumes for your singer, you can choose which c
 when this sprite clicked
 +switch costume to [singing v]
 play sound [singer1 v] until done
-+switch ostume to [not singing]
++switch costume to [not singing]
 ```
 
 The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
