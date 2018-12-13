@@ -8,7 +8,7 @@ You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
 First add the **Music** extension so you can play instruments.
 
-Click on the **Add extension** button in the bottom left.
+Click on the **Add extension** button in the bottom left-hand corner.
 
 ![add extension button highlighted](images/add-extension-annotated.png)
 
