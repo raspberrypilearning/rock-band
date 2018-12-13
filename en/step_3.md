@@ -10,7 +10,7 @@ At the moment, the stage is white and looks pretty boring! Add a backdrop to it 
 
 
 --- task ---
-Click on **Indoors** in the list on the top. Then click on a **Theatre** backdrop.
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
 ![screenshot](images/band-backdrop.png)
 --- /task ---
