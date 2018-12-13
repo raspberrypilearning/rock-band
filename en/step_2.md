@@ -36,7 +36,7 @@ Scroll down until you see a drum sprite. Click on a drum, and click on **OK** to
 
 --- task ---
 
-Click and drag the drum to the bottom of the screen.
+Click and drag the drum to the bottom of the Stage.
 
 --- /task ---
 
