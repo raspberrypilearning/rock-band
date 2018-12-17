@@ -31,7 +31,7 @@ Click on the drum sprite, and then drag these two blocks into the code area on t
 
 ```blocks3
 when this sprite clicked
-play drum (1 v) for (0.25) beats
+play drum (\(1\) Snare Drum v) for (0.25) beats
 ```
 --- /print-only ---
 
