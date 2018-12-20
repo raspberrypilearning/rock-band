@@ -28,10 +28,7 @@ Click on **Voice** in the list at the top, and then choose a sound to add to you
 --- task ---
 To use the sound, add the following code blocks to your singer sprite:
 
-```blocks3
-when this sprite clicked
-play sound [singer1 v] until done
-```
+![blocks_1545292398_5148375](images/blocks_1545292398_5148375.png)
 --- /task ---
 
 --- task ---
