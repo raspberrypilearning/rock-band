@@ -1,29 +1,15 @@
-## Sprites
+## The Stage
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
-+ First, open up the Scratch editor. You can find the online Scratch editor at <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. It looks like this:
-    
-    ![screenshot](images/band-scratch.png)
+\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-+ Duszek kota, którego widzisz jest maskotką Scratcha. Usuńmy go, klikając go prawym przyciskiem myszy, a następnie klikając **usuń**.
-    
-    ![screenshot](images/band-delete.png)
+![screenshot](images/band-stage-choose.png) \--- /task \---
 
-+ Next, click **Choose sprite from library** to open up a list of all the Scratch sprites.
-    
-    ![screenshot](images/band-sprite-library.png)
+\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
-+ Scroll down until you see a drum sprite. Click on a drum, and click **OK** to add it to your project.
-    
-    ![screenshot](images/band-sprite-drum.png)
+![screenshot](images/band-backdrop.png) \--- /task \---
 
-+ Kliknij ikonę **zmniejsz**, a następnie kliknij parę razy bębenek, żeby go zmniejszyć.
-    
-    ![screenshot](images/band-shrink.png)
+\--- task \--- Your stage should now look similar to this:
 
-Nazwij jakoś swój program, wpisując nazwę w polu tekstowym w lewym górnym rogu.
-
-You can then click **File** and then **Save now** to save your project. If you don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
-
-![screenshot](images/band-save.png)
+![screenshot](images/band-stage.png) \--- /task \---
