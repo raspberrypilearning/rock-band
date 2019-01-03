@@ -1,4 +1,4 @@
-\--- tidak dicetak \---
+\--- tidak-dicetak \---
 
 Ini adalah versi proyek ** Scratch 3 **. Ada juga versi proyek [ Scratch 2 ](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
@@ -20,7 +20,7 @@ Pelajari cara membuat kode alat musik Kamu sendiri!
 
 \--- hanya cetak \--- Kamu akan membuat permainan di mana kamu dapat mengeklik penyanyi atau drum untuk mendengar suara bernyanyi atau gendang.
 
-![game screenshot](images/demo.png) \--- /print-only \---
+![game screenshot](images/demo.png) \--- /hanya-cetak \---
 
 ## \--- collapse \---
 
