@@ -1,11 +1,13 @@
-## Робимо барабан
+## Challenge: improving your drum
 
-Давайте налаштуємо вашого барабана, щоб утворити звук коли ми його вдаряємо.
+Can you change the sound that the drum makes when it's clicked?
 
-Ви можете знайти блоки кодів у вкладці "скрипти", і вони всі різнокольорово налаштовані!
+![screenshot](images/band-drum-sound.png)
 
-+ Клацніть на спрайт барабана, а потім перетягніть ці два блоки в область кодів справа, переконавшись, що вони з'єднані разом (наприклад, як блоки Lego):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![скріншот](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ Натисніть на барабан, щоб спробувати новий інструмент!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
