@@ -1,27 +1,29 @@
-## Kostýmy
+## Challenge: improve your band
 
-Pojďme udělat, aby zpěvačka vypadala, jako že zpívá!
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-+ Můžeš změnit vzhled zpěvačky, jak bude vypadat, když na ní klikneš a ona začne zpívat. Uděláš to tak, že jí vytvoříš nový kostým. Klikni na kartu kostýmy, a zobrazí se vám vzhled zpěvačky.
-    
-    ![screenshot](images/band-singer-costume.png)
+![screenshot](images/band-ideas-sounds.png)
 
-+ Klikni pravým tlačítkem myši na kostým a vyber položku **kopírovat**. Vytvoříš tak kopii kostýmu.
-    
-    ![screenshot](images/band-singer-duplicate.png)
+![blocks_1545292400_722095](images/blocks_1545292400_722095.png)
 
-+ Klikni na nový kostým (má název "Singer2") a pak pomocí nástroje čára nakreslit čáry tak, aby to vypadalo, jako že zpěvačka zpívá.
-    
-    ![screenshot](images/band-singer-click.png)
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-+ Názvy kostýmů nejsou v tuto chvíli příliš vypovídající. Přejmenuj oba kostýmy přepsáním existujících názvů v textovém poli. Zvol názvy, které ti pomohou v orientaci v kostýmech.
-    
-    ![screenshot](images/band-singer-name.png)
+![screenshot](images/band-piano.png)
 
-+ Nyní, když máš pro zpěvačku dva různé kostýmy, můžeš si vybrat, který kostým se zobrazí! Přidejte tyto dva bloky ke zpěvačce:
-    
-    ![screenshot](images/band-looks.png)
-    
-    Blok kódu pro změnu kostým je v kategorii `Vzhled` {: class = "blocklooks"}.
+You can use more sprites from the library, and you can also paint your own sprites!
 
-+ Klikni na zpěvačku. Vypadá to, že zpívá?
+![screenshot](images/band-draw.png)
+
+## \--- collapse \---
+
+## title: Why is my sprite 'jumping' when it changes costume?
+
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+
+To fix this, make sure that the centres of your sprite's costumes are the same.
+
+\--- /collapse \---
+
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+
+![screenshot](images/band-io.png)
