@@ -1,19 +1,29 @@
-\--- challenge \---
+## Making a singer
 
-## 挑战：改进你的鼓
+Now you will add a singer to your band!
 
-+ 你能改变鼓敲击时发出的声音吗？
+\--- task \---
 
-![截屏](images/band-drum-sound.png)
+Add a singer sprite to your Stage.
 
-+ 你能让鼓在空格键按下时也发出声音吗？你需要用到 `事件` {:class="blockevents"} 代码块:
+![截屏](images/band-singer-mic.png)
 
-```blocks
-    当按下 [空格键 v]
-```
+[[[generic-scratch3-sprite-from-library]]]
 
-你可以右键点击现有代码然后点击**复制**来复制代码。
+\--- /task \---
 
-![截屏](images/band-duplicate-code.png)
+\--- task \---
 
-\--- /challenge \---
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+
+![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+
+\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png) \--- /task \---
+
+\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+
+![blocks_1545292398_5148375](images/blocks_1545292398_5148375.png) \--- /task \---
+
+\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
