@@ -1,27 +1,29 @@
-## 造型
+## Challenge: improve your band
 
-让我们让歌手看起来像正在唱歌！
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-+ 你也可以通过新建造型改变歌手的外观。点击造型选项卡，你会看到歌手的图片。
-    
-    ![截屏](images/band-singer-costume.png)
+![screenshot](images/band-ideas-sounds.png)
 
-+ 右键点击造型并点击**复制**，复制一份造型。
-    
-    ![截屏](images/band-singer-duplicate.png)
+![blocks_1545292400_722095](images/blocks_1545292400_722095.png)
 
-+ 点击新建的造型（名叫'歌手2'），然后选择选择直线工具画几条线让歌手看起来正在唱歌。
-    
-    ![截屏](images/band-singer-click.png)
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-+ 目前造型的名字没有什么含义。在每个造型的名字输入框中输入造型的新名字，将两个造型的名字改为'不唱歌' 和 '唱歌'。
-    
-    ![截屏](images/band-singer-name.png)
+![screenshot](images/band-piano.png)
 
-+ 现在你为歌手准备了2个不同造型，你可以选择显示哪个造型！为歌手加入下面两句代码：
-    
-    ![截屏](images/band-looks.png)
-    
-    切换造型的代码块在 `外观`{:class="blocklooks"} 分区中。
+You can use more sprites from the library, and you can also paint your own sprites!
 
-+ 点击你的歌手。她看起来像正在唱歌吗？
+![screenshot](images/band-draw.png)
+
+## \--- collapse \---
+
+## title: Why is my sprite 'jumping' when it changes costume?
+
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+
+To fix this, make sure that the centres of your sprite's costumes are the same.
+
+\--- /collapse \---
+
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+
+![screenshot](images/band-io.png)
