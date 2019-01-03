@@ -1,22 +1,22 @@
-\--- no-print \---
+\--- tidak dicetak \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+Ini adalah versi proyek ** Scratch 3 **. Ada juga versi proyek [ Scratch 2 ](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
-\--- /no-print \---
+\--- /tidak dicetak \---
 
 ## pengantar
 
-Learn how to code your own musical instruments!
+Pelajari cara membuat kode alat musik Kamu sendiri!
 
 ### Apa yang akan Anda buat
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- tidak-dicetak \--- Klik bendera hijau untuk memulai. Kemudian, klik penyanyi atau drum untuk mendengar seperti apa suaranya.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-\--- /no-print \---
+\--- /tidak-dicetak \---
 
 \--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
 
