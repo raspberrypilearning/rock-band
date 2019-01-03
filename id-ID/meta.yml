@@ -1,39 +1,29 @@
 ---
 hero_image: images/hero-rock-band-large.png
-theme: red
-duration: 2
 listed: true
-ingredient: false
 copyedit: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Band rock
 description: Pelajari cara membuat kode alat musik Kamu sendiri
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-interests: ''
-technologies: scratch
-site_areas: proyek
-hardware: ''
-software: scratch
-version: 4
-last_tested: 2017-10-01
+version: 4.1.0
+last_tested: 2018-10-12
 steps:
   - 
     title: Pengantar
   - 
-    title: Apa yang Kamu butuhkan
+    title: Sprites
   - 
-    title: Sprite
+    title: The Stage
   - 
-    title: Panggung
+    title: Making a drum
   - 
-    title: Membuat drum
+    title: "Challenge: improve your drum"
+    challenge: true
   - 
-    title: "Tantangan: tingkatkan drum Kamu"
+    title: Making a singer
   - 
-    title: Membuat penyanyi
+    title: Costumes
   - 
-    title: Kostum
+    title: "Challenge: improve your band"
+    challenge: true
   - 
-    title: "Tantangan: ubah kostum drum Kamu"
-  - 
-    title: "Tantangan: buat band Kamu sendiri"
+    title: "What next?"
