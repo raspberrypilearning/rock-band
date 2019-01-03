@@ -1,15 +1,37 @@
-## വേദി
+## Making a drum
 
-**സ്റ്റേഷൻ** ഇടത് മേഖലയാണ്, നിങ്ങളുടെ പ്രോജക്റ്റ് ജീവിതത്തിൽ എവിടെയാണ്. ഒരു പ്രകടനം ഏറ്റെടുക്കുക, ഒരു യഥാർത്ഥ വേദി പോലെ!
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-+ നിമിഷം, ഘട്ടം വെളുത്തതാണ്, അത് മനോഹരമാണ്! **ക്ലിക്കുചെയ്ത്, സ്റ്റേജിലേക്ക് ഒരു ബാക്ക്ഡ്രോപ്പ് ചേർക്കട്ടെ, ലൈബ്രറിയിൽ നിന്നുള്ള ബാക്ക്ഡ്രോപ്പ് തിരഞ്ഞെടുക്കുക**.
-    
-    ![സ്ക്രീൻഷോട്ട്](images/band-stage-choose.png)
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
-+ **ഇൻഡോയർ** ഇടത് വശത്ത് ക്ലിക്കുചെയ്യുക, തുടർന്ന് ഒരു ഘട്ടം ബാക്ക്ട്രോപ്പിൽ ക്ലിക്കുചെയ്ത് **ഓകെ** ക്ലിക്കുചെയ്യുക.
-    
-    ![സ്ക്രീൻഷോട്ട്](images/band-backdrop.png)
+\--- task \---
 
-+ നിങ്ങളുടെ ഘട്ടം ഇപ്പോൾ ഇങ്ങനെ ആയിരിക്കണം:
-    
-    ![സ്ക്രീൻഷോട്ട്](images/band-stage.png)
+First add the **Music** extension so you can play instruments.
+
+Click on the **Add extension** button in the bottom left-hand corner.
+
+![add extension button highlighted](images/add-extension-annotated.png)
+
+Click on the **Music** extension to add it.
+
+![pen extension highlighted](images/click-music-annotated.png)
+
+\--- /task \---
+
+\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+
+\--- no-print \---
+
+![screenshot](images/connect-block.gif)
+
+\--- /no-print \---
+
+\--- print-only \---
+
+![blocks_1545292394_8911092](images/blocks_1545292394_8911092.png) \--- /print-only \---
+
+Make sure that the blocks are connected together (like LEGO bricks).
+
+\--- /task \---
+
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
