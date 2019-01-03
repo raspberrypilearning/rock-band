@@ -1,11 +1,13 @@
-## Créer un tambour
+## Challenge: improving your drum
 
-Code ton tambour pour émettre un son lorsqu'il est frappé.
+Can you change the sound that the drum makes when it's clicked?
 
-Tu peux trouver les blocs de code dans l'onglet Scripts, et ils ont tous un code couleur !
+![screenshot](images/band-drum-sound.png)
 
-+ Cliques sur le lutin tambour, puis fait glisser ces deux blocs dans la zone de code vers la droite, en vous assurant qu'ils sont connectés ensemble (comme des blocs Lego):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![Captures d'écran](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ Clique sur le tambour pour essayer ton nouvel instrument!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
