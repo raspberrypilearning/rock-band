@@ -1,11 +1,13 @@
-## Создание барабана
+## Challenge: improving your drum
 
-Давайте закодируем ваш барабан, чтобы сделать звук, когда он попал.
+Can you change the sound that the drum makes when it's clicked?
 
-Вы можете найти блоки кода на вкладке «Сценарии», и все они имеют цветовой код!
+![screenshot](images/band-drum-sound.png)
 
-+ Нажмите на спрайт барабана, а затем перетащите эти два блока в область кода справа, убедившись, что они соединены вместе (например, блоки Lego):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![Скриншот](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ Нажмите на барабан, чтобы опробовать новый инструмент!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
