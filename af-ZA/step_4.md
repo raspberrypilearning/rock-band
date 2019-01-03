@@ -1,15 +1,37 @@
-## The Stage
+## Making a drum
 
-The **Stage** is the area on the left, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-+ At the moment, the stage is white, and looks pretty boring! Let's add a backdrop to the stage, by clicking **Choose backdrop from library**.
-    
-    ![screenshot](images/band-stage-choose.png)
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
-+ Click **Indoors** on the left, and then click on a stage backdrop and click **OK**.
-    
-    ![screenshot](images/band-backdrop.png)
+\--- task \---
 
-+ Your stage should now look like this:
-    
-    ![screenshot](images/band-stage.png)
+First add the **Music** extension so you can play instruments.
+
+Click on the **Add extension** button in the bottom left-hand corner.
+
+![add extension button highlighted](images/add-extension-annotated.png)
+
+Click on the **Music** extension to add it.
+
+![pen extension highlighted](images/click-music-annotated.png)
+
+\--- /task \---
+
+\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+
+\--- no-print \---
+
+![screenshot](images/connect-block.gif)
+
+\--- /no-print \---
+
+\--- print-only \---
+
+![blocks_1545292394_8911092](images/blocks_1545292394_8911092.png) \--- /print-only \---
+
+Make sure that the blocks are connected together (like LEGO bricks).
+
+\--- /task \---
+
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
