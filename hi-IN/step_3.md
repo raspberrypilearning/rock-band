@@ -1,29 +1,15 @@
-## स्प्राइट्स
+## The Stage
 
-इससे पहले कि आप कोडिंग आरंभ कर सकें, आपको कोड में 'चीज़' को जोड़ना होगा। Scratch में, इन 'चीज़' को **स्प्राइट्स** कहा जाता है।
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
-+ पहले, Scratch एडिटर खोलें। आप <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a> पर ऑनलाइन Scratch एडिटर खोज सकते हैं। यह इस तरह दिखता हैं:
-    
-    ![स्क्रीनशॉट](images/band-scratch.png)
+\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-+ बिल्ली स्प्राइट जिसे आप देख सकते हैं वह स्क्रैच मस्कट है।चलिए इस पर राइट क्लिक करके और फिर **मिटाए** पर क्लिक करके इससे छुटकारा पाएँ।
-    
-    ![स्क्रीनशॉट](images/band-delete.png)
+![screenshot](images/band-stage-choose.png) \--- /task \---
 
-+ इसके बाद, सभी Scratch स्प्राइट्स की सूची खोलने के लिए **Choose sprite from library** पर क्लिक करें।
-    
-    ![स्क्रीनशॉट](images/band-sprite-library.png)
+\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
-+ नीचे स्क्रॉल करते रहे जब तक आपको कोई ड्रम स्प्राइट नहीं दिखे । किसी एक ड्रम पर क्लिक करें, और इसे अपनी प्रोजेक्ट में जोड़ने के लिए **OK** क्लिक करें।
-    
-    ![स्क्रीनशॉट](images/band-sprite-drum.png)
+![screenshot](images/band-backdrop.png) \--- /task \---
 
-+ **shrink** आइकन पर क्लिक करें, और फिर ड्रम को छोटा करने के लिए इस पर कुछ बार क्लिक करें।
-    
-    ![स्क्रीनशॉट](images/band-shrink.png)
+\--- task \--- Your stage should now look similar to this:
 
-बाएँ-हाथ कोने में टेक्स्ट बॉक्स में टाइप करके अपने प्रोजेक्ट को नाम दें।
-
-आप अपने प्रोजेक्ट को सहेजने के लिए **File** और फिर **Save now** पर क्लिक करें। यदि आपके पास Scratch खाता नहीं है, तो आप **Download to your computer** पर क्लिक करके अपने प्रोकेक्ट की प्रतिलिपि को सहेज सकते हैं।
-
-![स्क्रीनशॉट](images/band-save.png)
+![screenshot](images/band-stage.png) \--- /task \---
