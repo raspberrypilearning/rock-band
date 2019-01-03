@@ -1,15 +1,37 @@
-## المنصة
+## Making a drum
 
-**المنصة** هي المساحة الموجودة على اليسار، وهي المكان الذي يظهر فيه مشروعك. لذا فكِّر فيها كمساحة للأداء، تمامًا كالمنصة الحقيقية!
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-+ في الوقت الحالي، تأخذ المنصة اللون الأبيض وتبدو مملة بعض الشيء! لنُضيف خلفية إلى المنصة، بالنقر فوق **اختيار خلفية من المكتبة**.
-    
-    ![لقطة الشاشة](images/band-stage-choose.png)
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
-+ انقر فوق الفئة **في الداخل** الموجودة على اليسار، ثم انقر فوق خلفية منصة، ثم انقر فوق **موافق**.
-    
-    ![لقطة الشاشة](images/band-backdrop.png)
+\--- task \---
 
-+ ستكون المنصة كما يلي:
-    
-    ![لقطة الشاشة](images/band-stage.png)
+First add the **Music** extension so you can play instruments.
+
+Click on the **Add extension** button in the bottom left-hand corner.
+
+![add extension button highlighted](images/add-extension-annotated.png)
+
+Click on the **Music** extension to add it.
+
+![pen extension highlighted](images/click-music-annotated.png)
+
+\--- /task \---
+
+\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+
+\--- no-print \---
+
+![screenshot](images/connect-block.gif)
+
+\--- /no-print \---
+
+\--- print-only \---
+
+![blocks_1545292394_8911092](images/blocks_1545292394_8911092.png) \--- /print-only \---
+
+Make sure that the blocks are connected together (like LEGO bricks).
+
+\--- /task \---
+
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
