@@ -1,19 +1,29 @@
-\--- challenge \---
+## Making a singer
 
-## Desafio: Melhore o seu tambor
+Now you will add a singer to your band!
 
-+ Você pode mudar o som produzido pelo tambor quando ele é clicado?
+\--- task \---
 
-![screenshot](images/band-drum-sound.png)
+Add a singer sprite to your Stage.
 
-+ Você também pode fazer com que o tambor produza um som quando a barra de espaço é pressionada? Você precisará usar este `evento`{: class="blockevents"}:
+![screenshot](images/band-singer-mic.png)
 
-```blocks
-    quando a tecla [space v] for pressionada
-```
+[[[generic-scratch3-sprite-from-library]]]
 
-Você pode copiar seu código existente clicando com o botão direito do mouse sobre ele e clicando em **duplicar**.
+\--- /task \---
 
-![screenshot](images/band-duplicate-code.png)
+\--- task \---
 
-\--- /challenge \---
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+
+![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+
+\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png) \--- /task \---
+
+\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+
+![blocks_1545292398_5148375](images/blocks_1545292398_5148375.png) \--- /task \---
+
+\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
