@@ -1,15 +1,37 @@
-## स्टेज
+## Making a drum
 
-**स्टेज** बाईं ओर का क्षेत्र होता है, और यहीं आपका प्रोजेक्ट उपयोग में आता है। इसे बिल्कुल असली स्टेज की तरह, निष्पादन क्षेत्र के रूप में देखें!
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-+ फ़िलहाल, स्टेज सफेद है, और काफी उबाऊ दिखाई देता है! चलिए **Choose backdrop from library** पर क्लिक करके स्टेज में एक पृष्ठ्भूमि जोड़ें।
-    
-    ![स्क्रीनशॉट](images/band-stage-choose.png)
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
-+ बाईं ओर **Indoors** पर क्लिक करें, और फिर स्टेज पृष्टभूमि(backdrop) पर क्लिक करके **OK** पर क्लिक करें।
-    
-    ![स्क्रीनशॉट](images/band-backdrop.png)
+\--- task \---
 
-+ अब आपका स्टेज कुछ इस तरह दिखना चाहिए:
-    
-    ![स्क्रीनशॉट](images/band-stage.png)
+First add the **Music** extension so you can play instruments.
+
+Click on the **Add extension** button in the bottom left-hand corner.
+
+![add extension button highlighted](images/add-extension-annotated.png)
+
+Click on the **Music** extension to add it.
+
+![pen extension highlighted](images/click-music-annotated.png)
+
+\--- /task \---
+
+\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+
+\--- no-print \---
+
+![screenshot](images/connect-block.gif)
+
+\--- /no-print \---
+
+\--- print-only \---
+
+![blocks_1545292394_8911092](images/blocks_1545292394_8911092.png) \--- /print-only \---
+
+Make sure that the blocks are connected together (like LEGO bricks).
+
+\--- /task \---
+
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
