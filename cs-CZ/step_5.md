@@ -1,11 +1,13 @@
-## Vytvoření bubnu
+## Challenge: improving your drum
 
-Pojďme vytvořit kód pro buben tak, aby vydal zvuk, když do něj "udeříš".
+Can you change the sound that the drum makes when it's clicked?
 
-Bloky pro tvorbu kódu najdeš na kartě Scénáře a všechny jsou podle funkce rozlišeny barevně!
+![screenshot](images/band-drum-sound.png)
 
-+ Klikni na buben a poté přetáhni tyto dva bloky do oblasti kódu napravo. Ujisti se, že jsou spojeny dohromady (jako Lego bloky):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![screenshot](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ Klikni na buben a vyzkoušejte nový nástroj!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
