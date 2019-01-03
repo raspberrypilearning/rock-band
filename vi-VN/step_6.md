@@ -1,19 +1,29 @@
-\--- thử thách \---
+## Making a singer
 
-## Thách thức: cải thiện trống của bạn
+Now you will add a singer to your band!
 
-+ Bạn có thể thay đổi âm thanh mà trống tạo ra khi nó được nhấp không?
+\--- task \---
 
-![ảnh chụp màn hình](images/band-drum-sound.png)
+Add a singer sprite to your Stage.
 
-+ Bạn cũng có thể lấy trống để tạo âm thanh khi nhấn phím cách không? Bạn cần sử dụng khối `sự kiện`{: class = "blockevents"} này:
+![ảnh chụp màn hình](images/band-singer-mic.png)
 
-```blocks
-    khi nhấn phím [space v]
-```
+[[[generic-scratch3-sprite-from-library]]]
 
-Bạn có thể sao chép mã hiện có của mình bằng cách nhấp chuột phải vào mã đó và nhấp vào **trùng lặp**.
+\--- /task \---
 
-![ảnh chụp màn hình](images/band-duplicate-code.png)
+\--- task \---
 
-\--- /thử thách \---
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+
+![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+
+\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png) \--- /task \---
+
+\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+
+![blocks_1545292398_5148375](images/blocks_1545292398_5148375.png) \--- /task \---
+
+\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
