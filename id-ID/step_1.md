@@ -20,7 +20,7 @@ Pelajari cara membuat kode alat musik Kamu sendiri!
 
 \--- hanya cetak \--- Kamu akan membuat permainan di mana kamu dapat mengeklik penyanyi atau drum untuk mendengar suara bernyanyi atau gendang.
 
-![game screenshot](images/demo.png) \--- /hanya-cetak \---
+![tangkapan layar permainan](images/demo.png) \--- /hanya-cetak \---
 
 ## \--- collapse \---
 
@@ -45,16 +45,16 @@ Pelajari cara membuat kode alat musik Kamu sendiri!
 
 \--- /collapse \---
 
-## \--- collapse \---
+## --menggulung--
 
-## title: Additional information for educators
+## judul: Informasi tambahan untuk pendidik
 
-\--- no-print \---
+\--- tidak-dicetak \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Jika Kamu perlu mencetak proyek ini, silakan gunakan [versi cetak](https://projects.raspberrypi.org/en/projects/rock-band/print){:target = "_ blank"}.
 
-\--- /no-print \---
+\--- /tidak-dicetak \---
 
-You can download the completed project at [rpf.io/p/rock-band-get](http://rpf.io/p/en/rock-band-get).
+Kamu dapat mengunduh proyek yang sudah selesai di [ rpf.io/p/rock-band-get ](http://rpf.io/p/en/rock-band-get).
 
-\--- /collapse \---
+\--- /menggulung \---
