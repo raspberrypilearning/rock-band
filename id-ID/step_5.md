@@ -1,11 +1,13 @@
-## Membuat drum
+## Challenge: improving your drum
 
-Mari kode drum Anda untuk membuat suara ketika dipukul.
+Can you change the sound that the drum makes when it's clicked?
 
-Anda dapat menemukan blok kode di tab Skrip, dan semuanya diberi kode warna!
+![screenshot](images/band-drum-sound.png)
 
-+ Klik pada sprite drum, lalu seret dua blok ini ke area kode di sebelah kanan, pastikan keduanya terhubung bersama (seperti balok Lego):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![tangkapan layar](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ Klik drum untuk mencoba instrumen baru Anda!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
