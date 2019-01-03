@@ -1,27 +1,29 @@
-## コスチューム
+## Challenge: improve your band
 
-歌手が歌っているように見せましょう！
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-+ 新たにコスチュームをつくることで、クリックしたときの歌手の見え方を変えることもできます。「コスチューム」タブをクリックすると、歌手の画像（がぞう）が出てきます。
-    
-    ![screenshot](images/band-singer-costume.png)
+![screenshot](images/band-ideas-sounds.png)
 
-+ コスチュームを右クリックして、**複製**をクリックするとコスチュームのコピーを作りましょう。
-    
-    ![screenshot](images/band-singer-duplicate.png)
+![blocks_1545292400_722095](images/blocks_1545292400_722095.png)
 
-+ 新しいコスチューム（『Singer2』という名前です）をクリックして、直線ツールを使い、歌手が歌っているように線を引きましょう。
-    
-    ![screenshot](images/band-singer-click.png)
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-+ コスチュームの名前がわかりづらいので、「歌っていない」と「歌っている」に名前を書きかえましょう。それぞれのコスチュームのテキストボックスに入力してください。
-    
-    ![screenshot](images/band-singer-name.png)
+![screenshot](images/band-piano.png)
 
-+ みなさんの歌手には２種類のコスチュームができました。どちらのコスチュームを表示（ひょうじ）させるか自分で選ぶことができます。この２つのブロックを自分の歌手に追加してください。
-    
-    ![screenshot](images/band-looks.png)
-    
-    コスチュームを変えるブロックは、`見た目`{:class="blocklooks"}のところにあります。
+You can use more sprites from the library, and you can also paint your own sprites!
 
-+ 自分の歌手をクリックしてみてください。歌っているように見えますか？
+![screenshot](images/band-draw.png)
+
+## \--- collapse \---
+
+## title: Why is my sprite 'jumping' when it changes costume?
+
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+
+To fix this, make sure that the centres of your sprite's costumes are the same.
+
+\--- /collapse \---
+
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+
+![screenshot](images/band-io.png)
