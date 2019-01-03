@@ -1,11 +1,13 @@
-## Izdelava bobna
+## Challenge: improving your drum
 
-Kodirajmo vaš boben, da zvok, ko je udaril.
+Can you change the sound that the drum makes when it's clicked?
 
-Kode blokov najdete na kartici Skripti in vse so barvno označene!
+![screenshot](images/band-drum-sound.png)
 
-+ Kliknite na boben sprite in jih dvignite v območje kode na desno in se prepričajte, da sta povezana (npr. Bloki Lego):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![screenshot](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ Kliknite boben, da preizkusite svoj novi instrument!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
