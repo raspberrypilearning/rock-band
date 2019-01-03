@@ -24,12 +24,12 @@ Pelajari cara membuat kode alat musik Kamu sendiri!
 
 ## \--- collapse \---
 
-## title: What you will learn
+## judul: Apa yang akan kamu pelajari
 
-+ How to add sprites and backgrounds to a Scratch project
-+ How to change a sprite's costume
-+ How to make sprites react when they are clicked
-+ How to play sounds in Scratch \--- /collapse \---
++ Bagaimana menambahkan sprite dan latar belakang untuk sebuah proyek awal
++ Bagaimana cara mengubah kostum sprite
++ Bagaimana cara membuat sprite bereaksi ketika diklik
++ Cara memainkan suara di Scratch \---/collapse\---
 
 ## \--- collapse \---
 
