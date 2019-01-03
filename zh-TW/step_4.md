@@ -1,15 +1,37 @@
-## 舞臺
+## Making a drum
 
-**舞臺** 是左側的區域，是您的項目啟動的地方。把它想像成一個表演區域，就像一個真實的舞臺！
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-+ 此刻，舞臺是白色的，看起來很無聊！讓我們通過單擊 **從範例庫中挑選背景**，為舞臺添加背景。
-    
-    ![截圖](images/band-stage-choose.png)
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
-+ 點擊左側的 **室內** ，然後點擊舞臺背景，然後點擊 **確定**。
-    
-    ![截圖](images/band-backdrop.png)
+\--- task \---
 
-+ 你的舞臺現在應該是這樣的：
-    
-    ![截圖](images/band-stage.png)
+First add the **Music** extension so you can play instruments.
+
+Click on the **Add extension** button in the bottom left-hand corner.
+
+![add extension button highlighted](images/add-extension-annotated.png)
+
+Click on the **Music** extension to add it.
+
+![pen extension highlighted](images/click-music-annotated.png)
+
+\--- /task \---
+
+\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+
+\--- no-print \---
+
+![screenshot](images/connect-block.gif)
+
+\--- /no-print \---
+
+\--- print-only \---
+
+![blocks_1545292394_8911092](images/blocks_1545292394_8911092.png) \--- /print-only \---
+
+Make sure that the blocks are connected together (like LEGO bricks).
+
+\--- /task \---
+
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
