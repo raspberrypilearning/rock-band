@@ -1,15 +1,37 @@
-## Sahne
+## Making a drum
 
-**Aşama** , soldaki alan ve projenizin hayata geçtiği yerdir. Bunu gerçek bir sahne gibi bir performans alanı olarak düşünün!
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-+ Şu anda, sahne beyaz ve oldukça sıkıcı görünüyor! En tıklayarak, sahneye bir arka plan eklemek Let **kütüphaneden zemin seçin**.
-    
-    ![ekran görüntüsü](images/band-stage-choose.png)
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
-+ Soldaki **İçindekiler** tıklayın ve ardından sahne zeminini tıklayın ve **OK**tıklayın.
-    
-    ![ekran görüntüsü](images/band-backdrop.png)
+\--- task \---
 
-+ Sahneniz şimdi böyle görünmeli:
-    
-    ![ekran görüntüsü](images/band-stage.png)
+First add the **Music** extension so you can play instruments.
+
+Click on the **Add extension** button in the bottom left-hand corner.
+
+![add extension button highlighted](images/add-extension-annotated.png)
+
+Click on the **Music** extension to add it.
+
+![pen extension highlighted](images/click-music-annotated.png)
+
+\--- /task \---
+
+\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+
+\--- no-print \---
+
+![screenshot](images/connect-block.gif)
+
+\--- /no-print \---
+
+\--- print-only \---
+
+![blocks_1545292394_8911092](images/blocks_1545292394_8911092.png) \--- /print-only \---
+
+Make sure that the blocks are connected together (like LEGO bricks).
+
+\--- /task \---
+
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
