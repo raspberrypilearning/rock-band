@@ -1,29 +1,15 @@
-## 스프라이트
+## The Stage
 
-코딩을 시작하기 전에 코드에 '무언가'를 추가 해야 합니다. 스크래치에서 이 '무언가'는 **스프라이트**라고 합니다.
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
-+ 먼저 스크래치 편집기를 엽니다. 온라인 스크래치 편집기는 <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>에서 찾을 수 있습니다. 다음과 같이 보입니다.
-    
-    ![스크린 샷](images/band-scratch.png)
+\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-+ 고양이 스프라이트는 스크래치의 마스코트입니다. 마우스 오른쪽 버튼을 클릭 한 다음 **삭제**를 클릭하여 지우세요.
-    
-    ![스크린 샷](images/band-delete.png)
+![screenshot](images/band-stage-choose.png) \--- /task \---
 
-+ 그런 다음 **저장소에서 스프라이트 선택**을 클릭하여 모든 스크래치 스프라이트의 목록을 엽니다.
-    
-    ![스크린 샷](images/band-sprite-library.png)
+\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
-+ 드럼 스프라이트가 보일 때까지 아래로 스크롤하십시오. 드럼을 클릭하고 **확인** 을 클릭하여 프로젝트에 추가하십시오.
-    
-    ![스크린 샷](images/band-sprite-drum.png)
+![screenshot](images/band-backdrop.png) \--- /task \---
 
-+ **축소** 아이콘을 클릭 한 다음 드럼을 여러번 클릭하여 작게 만듭니다.
-    
-    ![스크린 샷](images/band-shrink.png)
+\--- task \--- Your stage should now look similar to this:
 
-왼쪽 상단의 텍스트 상자에 프로그램 이름을 입력하여 프로그램 이름을 지정하십시오.
-
-그런 다음 **파일**을 클릭하고, **저장하기**를 클릭하여 프로젝트를 저장할 수 있습니다. 스크래치 계정이없는 경우 **내 컴퓨터에 프로젝트 다운로드하기**를 클릭하여 프로젝트 사본을 저장할 수 있습니다.
-
-![스크린 샷](images/band-save.png)
+![screenshot](images/band-stage.png) \--- /task \---
