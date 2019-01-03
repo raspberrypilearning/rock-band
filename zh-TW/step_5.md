@@ -1,11 +1,13 @@
-## 製作鼓
+## Challenge: improving your drum
 
-讓我們編碼你的鼓，當它被擊中時發出聲音。
+Can you change the sound that the drum makes when it's clicked?
 
-您可以在腳本選項卡中找到代碼塊，並且它們都是以顏色編碼的！
+![screenshot](images/band-drum-sound.png)
 
-+ 點擊鼓角色，然後將這兩個塊拖入右側的代碼區域，確保它們連接在一起(如樂高積木):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![截圖](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ 點擊鼓來嘗試你的新樂器！
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
