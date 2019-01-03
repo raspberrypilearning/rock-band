@@ -1,24 +1,35 @@
-## 製作歌手
+## Costumes
 
-讓我們為你的樂隊添加一位歌手吧！
+Now you will make your singer look like she's singing!
 
-+ 在你的舞臺上增加另外兩個角色：歌手和麥克風。
-    
-    ![截圖](images/band-singer-mic.png)
+\--- task \--- You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
 
-+ 在你讓歌手唱歌之前，你需要給你的角色添加聲音。 確保您選擇了歌手，然後單擊聲音選項卡，然後單擊 **從範例庫中挑選音效**:
-    
-    ![截圖](images/band-import-sound.png)
+![screenshot](images/band-singer-costume-annotated.png) \--- /task \---
 
-+ 如果您點擊左側的 **人聲** ，您將可以選擇合適的聲音添加到您的角色。
-    
-    ![截圖](images/band-choose-sound.png)
+\--- task \--- Right-click on the costume and then click on **duplicate** to create a copy of it.
 
-+ 現在聲音已添加，您可以將此代碼添加到歌手：
-    
-    ```blocks
-        當角色被點擊
-        播放音效 [singer1 v] 到底
-    ```
+![screenshot](images/band-singer-duplicate.png) \--- /task \---
 
-+ 點擊你的歌手，看看會發生什麼。她唱歌嗎？
+\--- task \--- Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+
+![screenshot](images/band-singer-click.png) \--- /task \---
+
+\--- task \--- The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+
+![screenshot](images/band-singer-name-annotated.png) \--- /task \---
+
+\--- task \--- Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
+
+![blocks_1545292399_6109073](images/blocks_1545292399_6109073.png)
+
+The code block for changing the costume is in the `Looks`{:class="block3looks"} section. \--- /task \---
+
+\--- task \--- Click on your singer on the stage. Does she look like she is singing? \--- /task \---
+
+\--- task \--- Now make your drum look like it's being hit!
+
+![screenshot](images/band-drum-final.png)
+
+- Use the instructions for changing your singer sprite's costume to help you.
+
+Remember to test that your new code works! \--- /task \---
