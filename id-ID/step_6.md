@@ -1,19 +1,29 @@
-\--- tantangan \---
+## Making a singer
 
-## Tantangan: meningkatkan drum Anda
+Now you will add a singer to your band!
 
-+ Bisakah Anda mengubah suara yang dibuat drum saat diklik?
+\--- task \---
 
-![tangkapan layar](images/band-drum-sound.png)
+Add a singer sprite to your Stage.
 
-+ Bisakah Anda juga mendapatkan drum untuk membuat suara ketika spasi ditekan? Anda harus menggunakan blok `peristiwa`{: class = "blockevents"} ini:
+![tangkapan layar](images/band-singer-mic.png)
 
-```blocks
-    bila tombol [spasi v] ditekan
-```
+[[[generic-scratch3-sprite-from-library]]]
 
-Anda dapat menyalin kode yang ada dengan mengklik kanan pada itu dan mengklik **duplikat**.
+\--- /task \---
 
-![tangkapan layar](images/band-duplicate-code.png)
+\--- task \---
 
-\--- / tantangan \---
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+
+![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+
+\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png) \--- /task \---
+
+\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+
+![blocks_1545292398_5148375](images/blocks_1545292398_5148375.png) \--- /task \---
+
+\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
