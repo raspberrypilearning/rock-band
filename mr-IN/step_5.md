@@ -1,11 +1,13 @@
-## ड्रम बनवा
+## Challenge: improving your drum
 
-आपल्या ड्रमवर जेव्हा दाबा लागतो तेव्हा ध्वनी काढण्यासाठी कोड द्या
+Can you change the sound that the drum makes when it's clicked?
 
-आपण स्क्रिप्ट टॅबमधील कोड ब्लॉक शोधू शकता आणि ते सर्व रंगीत कोड आहेत!
+![screenshot](images/band-drum-sound.png)
 
-+ ड्रम परीक्षेवर क्लिक करा, आणि नंतर या दोन ब्लॉकला कोड क्षेत्रामध्ये उजवीकडे ड्रॅग करा, हे सुनिश्चित करा की ते एकत्र जोडलेले आहेत (जसे लेगो ब्लॉक्स्):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![स्क्रीनशॉट](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ आपला नवीन इन्स्ट्रुमेंट वापरुन ड्रमवर क्लिक करा!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
