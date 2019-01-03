@@ -1,39 +1,29 @@
 ---
 hero_image: images/hero-rock-band-large.png
-theme: red
-duration: 2
 listed: true
-ingredient: false
 copyedit: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: 搖滾樂隊
 description: 學習如何編碼實現自己的樂器
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-interests: ''
-technologies: scratch
-site_areas: projects
-hardware: ''
-software: scratch
-version: 4
-last_tested: 2017-10-01
+version: 4.1.0
+last_tested: 2018-10-12
 steps:
   - 
     title: 介紹
   - 
-    title: 你需要什麼
+    title: Sprites
   - 
-    title: 角色
+    title: The Stage
   - 
-    title: 舞臺
+    title: Making a drum
   - 
-    title: 製作鼓
+    title: "Challenge: improve your drum"
+    challenge: true
   - 
-    title: "挑戰：改進你的鼓"
+    title: Making a singer
   - 
-    title: 製作歌手
+    title: Costumes
   - 
-    title: 造型
+    title: "Challenge: improve your band"
+    challenge: true
   - 
-    title: "挑戰：改變鼓的造型"
-  - 
-    title: "挑戰：製作自己的樂隊"
+    title: "What next?"
