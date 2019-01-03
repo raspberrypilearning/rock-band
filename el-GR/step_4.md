@@ -1,15 +1,37 @@
-## Το σκηνικό
+## Making a drum
 
-Το **Σκηνικό** είναι η περιοχή στα αριστερά και είναι εκεί που ζωντανεύει το έργο σου. Σκέψου το ως ένα χώρο εκδηλώσεων, ακριβώς όπως μια πραγματική σκηνή!
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-+ Προς το παρόν, το σκηνικό είναι άσπρο και φαίνεται αρκετά βαρετό! Ας προσθέσουμε ένα υπόβαθρο στο σκηνικό, κάνοντας κλικ στο **Διαλέξτε ένα υπόβαθρο από τη βιβλιοθήκη**.
-    
-    ![screenshot](images/band-stage-choose.png)
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
-+ Κάνε κλικ στο **Εσωτερικοί χώροι** στα αριστερά, στη συνέχεια διάλεξε ένα υπόβαθρο και κάνε κλικ στο **OK**.
-    
-    ![screenshot](images/band-backdrop.png)
+\--- task \---
 
-+ Το σκηνικό σου θα πρέπει τώρα να φαίνεται έτσι:
-    
-    ![screenshot](images/band-stage.png)
+First add the **Music** extension so you can play instruments.
+
+Click on the **Add extension** button in the bottom left-hand corner.
+
+![add extension button highlighted](images/add-extension-annotated.png)
+
+Click on the **Music** extension to add it.
+
+![pen extension highlighted](images/click-music-annotated.png)
+
+\--- /task \---
+
+\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+
+\--- no-print \---
+
+![screenshot](images/connect-block.gif)
+
+\--- /no-print \---
+
+\--- print-only \---
+
+![blocks_1545292394_8911092](images/blocks_1545292394_8911092.png) \--- /print-only \---
+
+Make sure that the blocks are connected together (like LEGO bricks).
+
+\--- /task \---
+
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
