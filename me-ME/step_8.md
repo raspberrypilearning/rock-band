@@ -1,27 +1,29 @@
-## Kostimi (costumes)
+## Challenge: improve your band
 
-Napravimo da tvoja pjevačica izgleda kao da pjeva!
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-+ Možeš, takođe, da promijeniš izgled pjevačice kada se na nju klikne tako što ćeš napraviti novi kostim. Klikni na karticu Costumes (Kostimi) i vidjećeš sliku pjevačice.
-    
-    ![screenshot](images/band-singer-costume.png)
+![screenshot](images/band-ideas-sounds.png)
 
-+ Klikni desnim tasterom miša na kostim, a zatim klikni na **duplicate** (umnoži) da napraviš kopiju kostima.
-    
-    ![screenshot](images/band-singer-duplicate.png)
+![blocks_1545292400_722095](images/blocks_1545292400_722095.png)
 
-+ Klikni na novi kostim (pod nazivom 'Pjevačica2'). Nakon toga, izaberi alat za crtanje linija (line tool) i nacrtaj linije, tako da tvoja pjevačica izgleda kao da pjeva.
-    
-    ![screenshot](images/band-singer-click.png)
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-+ Nazivi kostima trenutno nisu od velike pomoći. Preimenuj ih u 'ne pjeva' i 'pjeva' tako što ćeš za oba kostima upisati novi naziv u okvir za tekst.
-    
-    ![screenshot](images/band-singer-name.png)
+![screenshot](images/band-piano.png)
 
-+ Sada kada imaš dva različita kostima za svoju pjevačicu, možeš da izabereš koji kostim će biti prikazan! Dodaj sljedeća dva bloka pjevačici:
-    
-    ![screenshot](images/band-looks.png)
-    
-    Blok kôda za promjenu kostima nalazi se u odjeljku `Looks` {:class="blocklooks"} (Izgled).
+You can use more sprites from the library, and you can also paint your own sprites!
 
-+ Klikni na svoju pjevačicu. Da li izgleda kao da pjeva?
+![screenshot](images/band-draw.png)
+
+## \--- collapse \---
+
+## title: Why is my sprite 'jumping' when it changes costume?
+
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+
+To fix this, make sure that the centres of your sprite's costumes are the same.
+
+\--- /collapse \---
+
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+
+![screenshot](images/band-io.png)
