@@ -1,29 +1,15 @@
-## Sprites
+## The Stage
 
-کوڈنگ شروع کرنے سے پہلے، آپ کو ایک 'چیز' کوڈ میں شامل کرنے کی ضرورت ہوگی. سکریچ میں، یہ 'چیزوں' کو **sprites**کہا جاتا ہے.
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
-+ سب سے پہلے، سکریچ ایڈیٹر کو کھولیں. تم پر آن لائن اسکریچ ایڈیٹر کو تلاش کر سکتے ہیں <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. ایسا لگتا ہے:
-    
-    ![اسکرین شاٹ](images/band-scratch.png)
+\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-+ بلی سپرے جسے آپ دیکھ سکتے ہیں سکریچ شبیہیں ہے. کی طرف سے اس سے چھٹکارا حاصل کرتے دایاں کلک کرکے اور پھر کلک کرنے **کو حذف**.
-    
-    ![اسکرین شاٹ](images/band-delete.png)
+![screenshot](images/band-stage-choose.png) \--- /task \---
 
-+ اگلا، کلک کریں **تمام سکریچ سپیکٹوں کی فہرست کھولنے کے لئے لائبریری** سے چھلانگ منتخب کریں.
-    
-    ![اسکرین شاٹ](images/band-sprite-library.png)
+\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
-+ جب تک آپ ڈھول چھڑکیں دیکھتے ہیں اس وقت تک سکرال نہ کریں. ڈھول پر کلک کریں، اور اپنے پراجیکٹ میں شامل کرنے کیلئے **ٹھیک** پر کلک کریں.
-    
-    ![اسکرین شاٹ](images/band-sprite-drum.png)
+![screenshot](images/band-backdrop.png) \--- /task \---
 
-+ **پر کلک کریں** آئکن کو ہٹا دیں، اور پھر کم کرنے کے لئے چند بار ڈھول پر کلک کریں.
-    
-    ![اسکرین شاٹ](images/band-shrink.png)
+\--- task \--- Your stage should now look similar to this:
 
-اپنے بائیں ہاتھ کے کونے میں متن باکس میں ایک ٹائپ کرکے اپنے پروگرام کو ایک نام دیں.
-
-اس کے بعد آپ کلک کر سکتے ہیں **فائل** اور اس کے بعد **محفوظ کریں اب** اپنے منصوبے کو بچانے کے لئے. آپ کو ایک سکریچ اکائونٹ نہیں بنایا تو، آپ کو کلک کر کے اپنے منصوبے کی ایک کاپی محفوظ کر سکتے ہیں **اپنے کمپیوٹر پر ڈاؤن لوڈ، اتارنا** بجائے.
-
-![اسکرین شاٹ](images/band-save.png)
+![screenshot](images/band-stage.png) \--- /task \---
