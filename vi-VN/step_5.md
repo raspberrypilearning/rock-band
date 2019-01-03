@@ -1,11 +1,13 @@
-## Làm trống
+## Challenge: improving your drum
 
-Hãy viết trống của bạn để tạo ra âm thanh khi nó bị trúng.
+Can you change the sound that the drum makes when it's clicked?
 
-Bạn có thể tìm thấy các khối mã trong tab Tập lệnh, và tất cả chúng đều được mã hóa màu!
+![screenshot](images/band-drum-sound.png)
 
-+ Nhấp vào trống sprite, và sau đó kéo hai khối này vào khu vực mã bên phải, đảm bảo rằng chúng được kết nối với nhau (như khối Lego):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![ảnh chụp màn hình](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ Nhấp vào trống để thử công cụ mới của bạn!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
