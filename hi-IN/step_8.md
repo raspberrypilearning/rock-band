@@ -1,27 +1,29 @@
-## पोशाकें
+## Challenge: improve your band
 
-चलिए अपने गायक को ऐसा बनाएँ जैसे वह गा रहा हो!
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-+ जब आप 'new costume' बनाने पर क्लिक करते है तो आप आपने गायक स्प्राइट के दिखने के तरीके को भी बदल सकते है।Costumes टैब पर क्लिक करें, और आप गायक छवि देखेंगे।
-    
-    ![स्क्रीनशॉट](images/band-singer-costume.png)
+![screenshot](images/band-ideas-sounds.png)
 
-+ पोशाक की प्रतिलिपि बनाने के लिए पोशाक पर राइट क्लिक करें और **duplicate** पर क्लिक करें।
-    
-    ![स्क्रीनशॉट](images/band-singer-duplicate.png)
+![blocks_1545292400_722095](images/blocks_1545292400_722095.png)
 
-+ नई पोशाक 'Singer2' पर क्लिक करें, और फिर लाइन टूल चुनें और रेखाएँ बनाएँ ताकि यह ऐसा दिखाई दे जैसे गायक गा रहा हो।
-    
-    ![स्क्रीनशॉट](images/band-singer-click.png)
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-+ फ़िलहाल पोशाकों के नाम बहुत मददगार नहीं हैं। टेक्स्ट बॉक्स में प्रत्येक पोशाक को नया नाम 'not singing' और 'singing' टाइप करके दोनों पोशाकों का नाम दे।
-    
-    ![स्क्रीनशॉट](images/band-singer-name.png)
+![screenshot](images/band-piano.png)
 
-+ अब जबकि आपके पास अपने गायक के लिए दो भिन्न पोशाके हैं, आप यह चुन सकते हैं कि कौन सी पोशाक दिखाई दे! इन दोनों ब्लॉक को अपने गायक में जोड़ें:
-    
-    ![स्क्रीनशॉट](images/band-looks.png)
-    
-    पोशाक बदलने के लिए कोड ब्लॉक `रूप`{:class="blocklooks"} अनुभाग में है।
+You can use more sprites from the library, and you can also paint your own sprites!
 
-+ अपने गायक पर क्लिक करें। क्या वह ऐसी दिखती है जैसा वह गा रही है?
+![screenshot](images/band-draw.png)
+
+## \--- collapse \---
+
+## title: Why is my sprite 'jumping' when it changes costume?
+
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+
+To fix this, make sure that the centres of your sprite's costumes are the same.
+
+\--- /collapse \---
+
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+
+![screenshot](images/band-io.png)
