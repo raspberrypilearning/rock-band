@@ -1,11 +1,13 @@
-## Membuat gendang
+## Challenge: improving your drum
 
-Mari kod drum anda untuk membuat bunyi apabila ia melanda.
+Can you change the sound that the drum makes when it's clicked?
 
-Anda boleh mencari blok kod dalam tab Skrip, dan mereka semua dikodkan warna!
+![screenshot](images/band-drum-sound.png)
 
-+ Klik pada sprite dram, dan kemudian seret kedua blok ke kawasan kod ke kanan, pastikan mereka disambungkan bersama (seperti blok Lego):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![tangkapan skrin](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ Klik drum untuk mencuba alat baru anda!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
