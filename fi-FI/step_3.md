@@ -1,29 +1,15 @@
-## sprites
+## The Stage
 
-Ennen kuin voit aloittaa koodauksen, sinun on lisättävä 'asia' koodiin. Naurua, nämä 'asiat' kutsutaan **sprites**.
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
-+ Ensinnäkin avaa Scratch-editori. Online Scratch-editori on <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. Se näyttää tältä:
-    
-    ![kuvakaappaus](images/band-scratch.png)
+\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-+ Kissa, jota voit nähdä, on Scratch maskotti. Pääset eroon siitä napsauttamalla sitä hiiren kakkospainikkeella ja valitsemalla **poistaa**.
-    
-    ![kuvakaappaus](images/band-delete.png)
+![screenshot](images/band-stage-choose.png) \--- /task \---
 
-+ Seuraavaksi klikkaa **Valitse sprite kirjastosta** avataksesi luettelon kaikista Scratch-spritseistä.
-    
-    ![kuvakaappaus](images/band-sprite-library.png)
+\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
-+ Vieritä alaspäin, kunnes näet rummun sprite. Napsauta rumpua ja lisää se projektiin napsauttamalla **OK**.
-    
-    ![kuvakaappaus](images/band-sprite-drum.png)
+![screenshot](images/band-backdrop.png) \--- /task \---
 
-+ Napsauta **kutistua** -kuvaketta ja napsauta sitten rumpua muutama kerta, jotta se pienenee.
-    
-    ![kuvakaappaus](images/band-shrink.png)
+\--- task \--- Your stage should now look similar to this:
 
-Anna ohjelmalle nimi kirjoittamalla yksi tekstikenttään vasemmassa yläkulmassa.
-
-Voit sitten tallentaa projektisi **Tiedosto** ja sitten **Tallenna nyt**. Jos sinulla ei ole Scratch-tiliä, voit tallentaa projektisi kopion klikkaamalla **Lataa tietokoneeseen**.
-
-![kuvakaappaus](images/band-save.png)
+![screenshot](images/band-stage.png) \--- /task \---
