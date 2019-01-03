@@ -1,15 +1,37 @@
-## Jeviště
+## Making a drum
 
-**Jeviště** je oblast vlevo a je to místo, kde tvůj projekt ožívá. Přemýšlej o tom jako o oblasti představení, stejně jako o skutečné jevištní scéně!
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-+ V tuto chvíli je scéna bílá a vypadá docela nudně! Přidej na ní pozadí, uděláš to kliknutím na **Vyber pozadí z knihovny**.
-    
-    ![screenshot](images/band-stage-choose.png)
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
-+ Klikni vlevo na položku **Uvnitř** a potom klikni na pozadí které chceš vybrat a vše potvrď tlačítkem **OK**.
-    
-    ![screenshot](images/band-backdrop.png)
+\--- task \---
 
-+ Mělo by to nakonec vypadat takto:
-    
-    ![screenshot](images/band-stage.png)
+First add the **Music** extension so you can play instruments.
+
+Click on the **Add extension** button in the bottom left-hand corner.
+
+![add extension button highlighted](images/add-extension-annotated.png)
+
+Click on the **Music** extension to add it.
+
+![pen extension highlighted](images/click-music-annotated.png)
+
+\--- /task \---
+
+\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+
+\--- no-print \---
+
+![screenshot](images/connect-block.gif)
+
+\--- /no-print \---
+
+\--- print-only \---
+
+![blocks_1545292394_8911092](images/blocks_1545292394_8911092.png) \--- /print-only \---
+
+Make sure that the blocks are connected together (like LEGO bricks).
+
+\--- /task \---
+
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
