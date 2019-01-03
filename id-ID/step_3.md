@@ -1,10 +1,10 @@
-## The Stage
+## Panggung
 
-The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+**Panggung** adalah area di sebelah kanan, dan di sinilah proyek Anda hidup. Anggap saja sebagai area pertunjukan, seperti panggung sungguhan!
 
-\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+\--- Tugas \--- Saat ini, panggungnya putih dan terlihat sangat membosankan! Tambahkan latar belakang padanya dengan mengklik ** Pilih latar belakang **.
 
-![screenshot](images/band-stage-choose.png) \--- /task \---
+![screenshot](images/band-stage-choose.png) \--- /tugas \---
 
 \--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
