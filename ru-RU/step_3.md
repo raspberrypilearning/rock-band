@@ -1,29 +1,15 @@
-## Спрайты
+## The Stage
 
-Прежде чем вы сможете начать кодирование, вам нужно добавить код «вещь» в код. В Scratch эти «вещи» называются **спрайтами**.
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
-+ Сначала откройте редактор Scratch. Вы можете найти онлайн-редактор Scratch по адресу <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. Это выглядит так:
-    
-    ![Скриншот](images/band-scratch.png)
+\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-+ Кошачий спрайт, который вы видите, это талисман Scratch. Давайте избавимся от него, щелкнув его правой кнопкой мыши, а затем нажав **delete**.
-    
-    ![Скриншот](images/band-delete.png)
+![screenshot](images/band-stage-choose.png) \--- /task \---
 
-+ Затем нажмите **Выберите спрайт из библиотеки** чтобы открыть список всех спрайтов Scratch.
-    
-    ![Скриншот](images/band-sprite-library.png)
+\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
-+ Прокрутите вниз, пока не увидите барабанный спрайт. Нажмите на барабан и нажмите **OK** чтобы добавить его в свой проект.
-    
-    ![Скриншот](images/band-sprite-drum.png)
+![screenshot](images/band-backdrop.png) \--- /task \---
 
-+ Нажмите значок **shrink** , а затем несколько раз нажмите на барабан, чтобы уменьшить его.
-    
-    ![Скриншот](images/band-shrink.png)
+\--- task \--- Your stage should now look similar to this:
 
-Дайте вашей программе имя, введя его в текстовое поле в верхнем левом углу.
-
-Затем вы можете нажать **Файл** а затем **Сохранить сейчас** чтобы сохранить проект. Если у вас нет учетной записи Scratch, вы можете сохранить копию своего проекта, нажав **Загрузить на компьютер**.
-
-![Скриншот](images/band-save.png)
+![screenshot](images/band-stage.png) \--- /task \---
