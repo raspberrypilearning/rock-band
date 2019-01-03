@@ -1,15 +1,37 @@
-## Sân khấu
+## Making a drum
 
-**Giai đoạn** là khu vực bên trái và là nơi dự án của bạn trở nên sống động. Hãy nghĩ về nó như một khu vực biểu diễn, giống như một sân khấu thực sự!
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-+ Tại thời điểm này, sân khấu là màu trắng, và trông khá nhàm chán! Hãy thêm phông nền vào vùng hiển thị, bằng cách nhấp vào **Chọn phông nền từ thư viện**.
-    
-    ![ảnh chụp màn hình](images/band-stage-choose.png)
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
-+ Nhấp vào **Trong nhà** ở bên trái, sau đó nhấp vào phông nền sân khấu và nhấp **OK**.
-    
-    ![ảnh chụp màn hình](images/band-backdrop.png)
+\--- task \---
 
-+ Giai đoạn của bạn bây giờ sẽ trông như thế này:
-    
-    ![ảnh chụp màn hình](images/band-stage.png)
+First add the **Music** extension so you can play instruments.
+
+Click on the **Add extension** button in the bottom left-hand corner.
+
+![add extension button highlighted](images/add-extension-annotated.png)
+
+Click on the **Music** extension to add it.
+
+![pen extension highlighted](images/click-music-annotated.png)
+
+\--- /task \---
+
+\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+
+\--- no-print \---
+
+![screenshot](images/connect-block.gif)
+
+\--- /no-print \---
+
+\--- print-only \---
+
+![blocks_1545292394_8911092](images/blocks_1545292394_8911092.png) \--- /print-only \---
+
+Make sure that the blocks are connected together (like LEGO bricks).
+
+\--- /task \---
+
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
