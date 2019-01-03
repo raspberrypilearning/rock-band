@@ -12,32 +12,32 @@ Jika Anda perlu mengunduh dan menginstal editor Scratch offline, Anda dapat mene
 
 Tampak seperti ini:
 
-![screenshot](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![tangkapan layar](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
-![screenshot](images/band-delete-annotated.png) \--- /tugas \---
+![tangkapan layar](images/band-delete-annotated.png) \--- /tugas \---
 
-\--- task \--- Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+\---tugas\--- Selanjutnya, klik pada **Pilih sprite dari pustaka** untuk membuka daftar semua sprite Scratch.
 
-![screenshot](images/band-sprite-library.png) \--- /task \---
+![tangkapan layar](images/band-sprite-library.png) \--- /tugas \---
 
-\--- task \--- Scroll down until you see a drum sprite. Click on a drum, and click on **OK** to add it to your project.
+\--- tugas \--- Gulir ke bawah hingga terlihat sprite drum. Klik pada drum, dan klik ** OK ** untuk menambahkannya ke proyek Anda.
 
-![screenshot](images/band-sprite-drum.png)
+![tangkapan layar](images/band-sprite-drum.png)
 
-\--- /task \---
+\--- /tugas \---
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+Klik dan seret drum ke bawah panggung.
 
-\--- /task \---
+\--- /tugas \---
 
-\--- task \--- Give your program a name by typing one into the text box in the top left-hand corner.
+\--- task \--- Beri nama program Anda dengan mengetikkannya di kotak teks di sudut kiri atas.
 
-![name](images/band-name.png)
+![nama](images/band-name.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+Kemudian klik pada ** File **, dan kemudian ** Simpan sekarang ** untuk menyelamatkan proyek Anda.
 
-If you don't have a Scratch account, you can save a copy of your project by clicking on **Download to your computer** instead.
+Jika Anda tidak memiliki akun Scratch, Anda dapat menyimpan salinan proyek Anda dengan mengklik ** Unduh ke komputer Anda ** sebagai gantinya.
 
-![screenshot](images/band-save.png) \--- /task \---
+![tangkapan layar](images/band-save.png) \--- /tugas \---
