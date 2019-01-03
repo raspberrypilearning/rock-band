@@ -1,29 +1,15 @@
-## Spritelar
+## The Stage
 
-Kodlamayı başlatabilmeniz için kod yazmak için bir 'şey' eklemeniz gerekir. Scratch'da, bu 'şeylere' **sprite**denir.
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
-+ İlk önce, Scratch editörünü açın. Çevrimiçi Scratch editörünü <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>adresinde bulabilirsiniz. Şuna benziyor:
-    
-    ![ekran görüntüsü](images/band-scratch.png)
+\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-+ Gördüğünüz kedi sprite, Scratch maskotu. Bunu sağ tıklayıp **silme**tıklatarak ondan kurtulalım.
-    
-    ![ekran görüntüsü](images/band-delete.png)
+![screenshot](images/band-stage-choose.png) \--- /task \---
 
-+ Ardından, tüm Scratch sprite'larının listesini açmak için **kütüphanesinden** sprite seçin.
-    
-    ![ekran görüntüsü](images/band-sprite-library.png)
+\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
-+ Bir davul sprite görene kadar aşağı kaydırın. Davul üzerine tıklayın ve projenize eklemek için **OK** tıklayın.
-    
-    ![ekran görüntüsü](images/band-sprite-drum.png)
+![screenshot](images/band-backdrop.png) \--- /task \---
 
-+ Click **küçültmek** simgesini ve ardından, küçültmek için tambur üzerinde birkaç kez tıklayın.
-    
-    ![ekran görüntüsü](images/band-shrink.png)
+\--- task \--- Your stage should now look similar to this:
 
-Sol üst köşedeki metin kutusuna bir tane yazarak programınıza bir ad verin.
-
-Daha sonra projenizi kaydetmek için **Dosya** ve **Şimdi kaydet** seçeneğini tıklayabilirsiniz. Eğer bir Çizilmeye hesabı yoksa, sen tıklayarak projenin bir kopyasını kaydedebilirsiniz **bilgisayarınıza indirin** yerine.
-
-![ekran görüntüsü](images/band-save.png)
+![screenshot](images/band-stage.png) \--- /task \---
