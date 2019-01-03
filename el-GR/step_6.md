@@ -1,19 +1,29 @@
-\--- challenge \---
+## Making a singer
 
-## Πρόκληση: βελτίωσε το τύμπανό σου
+Now you will add a singer to your band!
 
-+ Μπορείς να αλλάξεις τον ήχο που κάνει το τύμπανο όταν πατηθεί;
+\--- task \---
 
-![screenshot](images/band-drum-sound.png)
+Add a singer sprite to your Stage.
 
-+ Μπορείς επίσης να κάνεις το τύμπανο να βγάζει έναν ήχο όταν πατηθεί το πλήκτρο διαστήματος; Θα χρειαστεί να χρησιμοποιήσεις αυτό το μπλοκ `συμβάντος`{:class="blockevents"}:
+![screenshot](images/band-singer-mic.png)
 
-```blocks
-    όταν πατηθεί το πλήκτρο [space]
-```
+[[[generic-scratch3-sprite-from-library]]]
 
-Μπορείς να αντιγράψεις τον τρέχων κώδικα κάνοντας δεξί κλικ πάνω του και επιλέγοντας **διπλασιασμός**.
+\--- /task \---
 
-![screenshot](images/band-duplicate-code.png)
+\--- task \---
 
-\--- /challenge \---
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+
+![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+
+\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png) \--- /task \---
+
+\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+
+![blocks_1545292398_5148375](images/blocks_1545292398_5148375.png) \--- /task \---
+
+\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
