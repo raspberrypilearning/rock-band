@@ -1,11 +1,13 @@
-## Crear un tambor
+## Challenge: improving your drum
 
-Vamos a codificar tu tambor para que haga un sonido cuando sea golpeado.
+Can you change the sound that the drum makes when it's clicked?
 
-Puedes encontrar los bloques de código en la pestaña Programas, ¡y todos están codificados por colores!
+![screenshot](images/band-drum-sound.png)
 
-+ Haz clic en el objeto del tambor, y luego arrastra estos dos bloques de código a la zona de código a la derecha, asegurándote de que estén conectados entre sí (como piezas de Lego):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![captura de pantalla](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ ¡Haz clic en el tambor para probar tu nuevo instrumento!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
