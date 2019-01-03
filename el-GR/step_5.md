@@ -1,11 +1,13 @@
-## Κάνοντας ένα τύμπανο
+## Challenge: improving your drum
 
-Ας κωδικοποιήσουμε το τύμπανό σου για να κάνει έναν ήχο όταν χτυπηθεί.
+Can you change the sound that the drum makes when it's clicked?
 
-Μπορείς να βρεις τα μπλοκ κώδικα στην καρτέλα Σενάρια, τα οποία είναι χρωματιστά!
+![screenshot](images/band-drum-sound.png)
 
-+ Κάνε κλικ στο αντικείμενο τύμπανο και, στη συνέχεια, σύρε αυτά τα δύο μπλοκ στην περιοχή κώδικα προς τα δεξιά, σιγουρεύοντας ότι είναι συνδεδεμένα μαζί (όπως τα τουβλάκια Lego):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![screenshot](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ Κάνε κλικ στο τύμπανο για να δοκιμάσεις το νέο σου όργανο!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
