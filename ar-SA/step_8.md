@@ -1,27 +1,29 @@
-## المظاهر
+## Challenge: improve your band
 
-لنجعل المغنية تبدو وكأنها تغني!
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-+ يمكنك أيضًا تغيير مظهر كائن المغنية عند النقر عليه، وذلك بإنشاء مظهر جديد. انقر فوق علامة التبويب المظاهر، وسترى صورة المغنية.
-    
-    ![لقطة الشاشة](images/band-singer-costume.png)
+![screenshot](images/band-ideas-sounds.png)
 
-+ انقر بزر الماوس الأيمن على المظهر ثم انقر فوق **مضاعفة** لإنشاء نسخة من المظهر.
-    
-    ![لقطة الشاشة](images/band-singer-duplicate.png)
+![blocks_1545292400_722095](images/blocks_1545292400_722095.png)
 
-+ انقر فوق المظهر الجديد (المُسمى 'Singer2')، ثم حدِّد أداة الخط و ارسم خطوطًا لتجعل المغنية تبدو وكأنها تغني.
-    
-    ![لقطة الشاشة](images/band-singer-click.png)
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-+ أسماء المظاهر ليست مفيدة للغاية في الوقت الحالي، أعد تسمية المظهرين بحيث يُسمى أحدهما 'لا تغني' والآخر 'تغني' بكتابة الاسم الجديد لكل مظهر في مربع النص.
-    
-    ![لقطة الشاشة](images/band-singer-name.png)
+![screenshot](images/band-piano.png)
 
-+ الآن بعد أن أصبح لديك مظهران مختلفان للمغنية، يمكنك اختيار المظهر الذي تريد عرضه! أضف هذين القالبين البرمجيتَين إلى المغنية:
-    
-    ![لقطة الشاشة](images/band-looks.png)
-    
-    يوجد القالب البرمجية لتغيير المظهر في قسم `مظهر`{:class="blocklooks"}.
+You can use more sprites from the library, and you can also paint your own sprites!
 
-+ انقر فوق المغنية، هل تبدو وكأنها تغني؟
+![screenshot](images/band-draw.png)
+
+## \--- collapse \---
+
+## title: Why is my sprite 'jumping' when it changes costume?
+
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+
+To fix this, make sure that the centres of your sprite's costumes are the same.
+
+\--- /collapse \---
+
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+
+![screenshot](images/band-io.png)
