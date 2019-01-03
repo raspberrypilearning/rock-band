@@ -1,29 +1,15 @@
-## Αντικείμενα
+## The Stage
 
-Προτού ξεκινήσεις την κωδικοποίηση, θα πρέπει να προσθέσεις ένα "πράγμα" στον κώδικα. Στο Scratch, αυτά τα "πράγματα" ονομάζονται **αντικείμενα**.
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
-+ Αρχικά, άνοιξε το πρόγραμμα επεξεργασίας Scratch. Μπορείς να βρεις την οnline εφαρμογή Scratch στο <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. Μοιάζει με αυτό:
-    
-    ![screenshot](images/band-scratch.png)
+\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-+ Το αντικείμενο γάτα που βλέπεις είναι η μασκότ του Scratch. Ας απαλλαγούμε από αυτό κάνοντας δεξί κλικ και μετά πατώντας **διαγραφή**.
-    
-    ![screenshot](images/band-delete.png)
+![screenshot](images/band-stage-choose.png) \--- /task \---
 
-+ Στη συνέχεια, κάνε κλικ στο **Διαλέξτε ένα αντικείμενο από τη βιβλιοθήκη** για να ανοίξεις μια λίστα με όλα τα αντικείμενα του Scratch.
-    
-    ![screenshot](images/band-sprite-library.png)
+\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
-+ Κύλισε προς τα κάτω έως ότου δεις ένα αντικείμενο τύμπανο. Κάνε κλικ σε ένα τύμπανο και ξανά κλικ στο **OK** για να το προσθέσεις στο έργο σου.
-    
-    ![screenshot](images/band-sprite-drum.png)
+![screenshot](images/band-backdrop.png) \--- /task \---
 
-+ Κάνε κλικ στο εικονίδιο **συμπύκνωση** και στη συνέχεια κάνε κλικ στο τύμπανο μερικές φορές για να το κάνεις μικρότερο.
-    
-    ![screenshot](images/band-shrink.png)
+\--- task \--- Your stage should now look similar to this:
 
-Δώσε στο πρόγραμμα ένα όνομα πληκτρολογώντας στο πλαίσιο κειμένου στην επάνω αριστερή γωνία.
-
-Στη συνέχεια, μπορείς να κάνεις κλικ στο **Αρχείο** και μετά στο **Αποθήκευση τώρα** για να αποθηκεύσεις το έργο σου. Αν δεν έχεις λογαριασμό Scratch, μπορείς εναλλακτικά να αποθηκεύσεις ένα αντίγραφο του έργου σου κάνοντας κλικ στο **Κατέβασμα έργου στον υπολογιστή**.
-
-![screenshot](images/band-save.png)
+![screenshot](images/band-stage.png) \--- /task \---
