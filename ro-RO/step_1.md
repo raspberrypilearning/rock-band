@@ -1,23 +1,60 @@
+\--- no-print \---
+
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+
+\--- /no-print \---
+
 ## Introducere
 
-Învață cu să creezi propriul tău instrument muzical!
+Learn how to code your own musical instruments!
 
 ### Ce ai de făcut
 
-Apasă steagul verde pentru început. Apoi, apasă pe cântăreț sau pe tobă pentru ca să auzi cum sună.
+\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
 </div>
 
-### Ce vei învăța
+\--- /no-print \---
 
-Acest proiect acoperă elemente din următoarele componente ale curriculumului [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
 
-+ [Folosește elemente de bază ale programării pentru a creea programe simple](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
+![game screenshot](images/demo.png) \--- /print-only \---
 
-### Informații suplimentare pentru educatori
+## \--- collapse \---
 
-Dacă doriți să printați acest proiect, folosiți[printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+## title: What you will learn
 
-Utilizați link-ul din subsolul paginii pentru a accesa depozitul GitHub pentru acest proiect, care conține toate resursele (inclusiv un exemplu de proiect finalizat) în directorul "en/resources".
++ How to add sprites and backgrounds to a Scratch project
++ How to change a sprite's costume
++ How to make sprites react when they are clicked
++ How to play sounds in Scratch \--- /collapse \---
+
+## \--- collapse \---
+
+## title: What you will need
+
+#### Hardware
+
++ A computer capable of running Scratch 3
+
+#### Software
+
++ Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
+\--- no-print \---
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+
+\--- /no-print \---
+
+You can download the completed project at [rpf.io/p/rock-band-get](http://rpf.io/p/en/rock-band-get).
+
+\--- /collapse \---
