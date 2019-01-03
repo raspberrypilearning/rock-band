@@ -1,23 +1,60 @@
+\--- no-print \---
+
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+
+\--- /no-print \---
+
 ## 介紹
 
-學習如何編碼自己的樂器！
+Learn how to code your own musical instruments!
 
 ### 你會做什麼
 
-點擊綠旗開始。然後，點擊歌手或鼓，聽聽他們聽起來像什麼。
+\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
 </div>
 
-### 你會學到什麼
+\--- /no-print \---
 
-此項目涵蓋 [Raspberry Pi數字化課程](http://rpf.io/curriculum){:target ="_ blank"}的下列部分：
+\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
 
-+ [使用基本的編程結構來創建簡單的程序](https://www.raspberrypi.org/curriculum/programming/creator){:target ="_ blank"}
+![game screenshot](images/demo.png) \--- /print-only \---
 
-### 有關教育者的其他信息
+## \--- collapse \---
 
-如果您需要打印此項目，請使用 [打印機友好版本](https://projects.raspberrypi.org/en/projects/rock-band/print){:target =“_ blank”}.
+## title: What you will learn
 
-使用頁腳中的鏈接訪問此項目的GitHub倉庫，其中包含'en/resources'文件夾中的所有資源(包括示例完成的項目)。
++ How to add sprites and backgrounds to a Scratch project
++ How to change a sprite's costume
++ How to make sprites react when they are clicked
++ How to play sounds in Scratch \--- /collapse \---
+
+## \--- collapse \---
+
+## title: What you will need
+
+#### Hardware
+
++ A computer capable of running Scratch 3
+
+#### Software
+
++ Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
+\--- no-print \---
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+
+\--- /no-print \---
+
+You can download the completed project at [rpf.io/p/rock-band-get](http://rpf.io/p/en/rock-band-get).
+
+\--- /collapse \---
