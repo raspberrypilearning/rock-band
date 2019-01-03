@@ -1,11 +1,13 @@
-## إنشاء طبلة
+## Challenge: improving your drum
 
-لنُبرمج الطبلة بحيث تُحدث صوتًا عند النقر عليها.
+Can you change the sound that the drum makes when it's clicked?
 
-يمكنك العثور على قوالب التعليمات البرمجية في علامة التبويب المقاطع البرمجية، وكلها مصنفة حسب اللون!
+![screenshot](images/band-drum-sound.png)
 
-+ انقر فوق كائن الطبلة، ثم اسحب هذين القالبين إلى مساحة التعليمات البرمجية الموجودة على اليسار، وتأكد من أنهما مرتبطتان معًا (كمكعبات لعبة ليغو):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![لقطة الشاشة](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ انقر فوق الطبلة لتجرِّب آلتك الجديدة!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
