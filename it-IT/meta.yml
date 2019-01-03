@@ -1,39 +1,29 @@
 ---
 hero_image: images/hero-rock-band-large.png
-theme: red
-duration: 2
 listed: true
-ingredient: false
 copyedit: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Rock band
 description: In questo progetto imparerai come programmare il tuo strumento musicale!
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-interests: ''
-technologies: scratch
-site_areas: projects
-hardware: ''
-software: scratch
-version: 4
-last_tested: 2017-10-01
+version: 4.1.0
+last_tested: 2018-10-12
 steps:
   - 
     title: Introduzione
   - 
-    title: Di cosa avrai bisogno
+    title: Sprites
   - 
-    title: Sprite
+    title: The Stage
   - 
-    title: Lo Stage
+    title: Making a drum
   - 
-    title: Creare un tamburo
+    title: "Challenge: improve your drum"
+    challenge: true
   - 
-    title: "Sfida: perfeziona il tamburo"
+    title: Making a singer
   - 
-    title: Creare un cantante
+    title: Costumes
   - 
-    title: I Costumi
+    title: "Challenge: improve your band"
+    challenge: true
   - 
-    title: "Sfida: cambia il costume del tuo tamburo"
-  - 
-    title: "Sfida: crea la tua band"
+    title: "What next?"
