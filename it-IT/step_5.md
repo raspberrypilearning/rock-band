@@ -1,11 +1,13 @@
-## Creare un tamburo
+## Challenge: improving your drum
 
-Programmiamo il tamburo per far sì che suoni quando viene colpito.
+Can you change the sound that the drum makes when it's clicked?
 
-Puoi trovare i blocchi di codice nel pannello ‘Script’. Sono di vari colori, a seconda del tipo!
+![screenshot](images/band-drum-sound.png)
 
-+ Fai click col mouse sullo sprite del tamburo e trascina i due blocchi che vedi nell’immagine all’interno dell’area dedicata al codice che si trova sulla destra. Assicurati che siano collegati tra loro (come dei mattoncini Lego):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![screenshot](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ Fai click col mouse sul tamburo nello stage per provare il tuo nuovo strumento!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
