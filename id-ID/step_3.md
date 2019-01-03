@@ -1,29 +1,15 @@
-## Sprite
+## The Stage
 
-Sebelum Anda dapat memulai coding, Anda harus menambahkan 'hal' ke kode. Dalam Scratch, 'benda' ini disebut **sprite**.
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
-+ Pertama, buka editor Scratch. Anda dapat menemukan editor Scratch online di <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. Terlihat seperti ini:
-    
-    ![tangkapan layar](images/band-scratch.png)
+\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-+ Kucing sprite yang bisa Anda lihat adalah maskot Scratch. Mari kita hilangkan dengan mengklik kanan dan kemudian mengklik **delete**.
-    
-    ![tangkapan layar](images/band-delete.png)
+![screenshot](images/band-stage-choose.png) \--- /task \---
 
-+ Selanjutnya, klik **Pilih sprite dari library** untuk membuka daftar semua sprite Scratch.
-    
-    ![tangkapan layar](images/band-sprite-library.png)
+\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
-+ Gulir ke bawah sampai Anda melihat sprite drum. Klik pada drum, dan klik **OK** untuk menambahkannya ke proyek Anda.
-    
-    ![tangkapan layar](images/band-sprite-drum.png)
+![screenshot](images/band-backdrop.png) \--- /task \---
 
-+ Klik ikon **menyusut** , lalu klik pada drum beberapa kali untuk membuatnya lebih kecil.
-    
-    ![tangkapan layar](images/band-shrink.png)
+\--- task \--- Your stage should now look similar to this:
 
-Beri nama pada program Anda dengan mengetikkan salah satunya ke dalam kotak teks di sudut kiri atas.
-
-Anda kemudian dapat mengklik **File** dan kemudian **Save now** untuk menyimpan proyek Anda. Jika Anda tidak memiliki akun Scratch, Anda dapat menyimpan salinan proyek Anda dengan mengklik **Unduh ke komputer Anda** sebagai gantinya.
-
-![tangkapan layar](images/band-save.png)
+![screenshot](images/band-stage.png) \--- /task \---
