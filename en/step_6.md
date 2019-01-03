@@ -1,18 +1,36 @@
---- challenge ---
-## Challenge: improving your drum
+## Making a singer
 
-+ Can you change the sound that the drum makes when it's clicked?
+Now you will add a singer to your band!
 
-![screenshot](images/band-drum-sound.png)
+--- task ---
 
-+ Can you also get the drum to make a sound when the spacebar is pressed? You'll need to use this `event`{:class="blockevents"} block:
+Add a singer sprite to your Stage.
 
-```blocks
-	when [space v] key pressed
-```
+![screenshot](images/band-singer-mic.png)
 
-You can copy your existing code by right-clicking on it and clicking **duplicate**.
+[[[generic-scratch3-sprite-from-library]]]
 
-![screenshot](images/band-duplicate-code.png)
+--- /task ---
 
---- /challenge ---
+--- task ---
+
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+
+![screenshot](images/band-import-sound-annotated.png)
+--- /task ---
+
+--- task ---
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+--- /task ---
+
+--- task ---
+To use the sound, add the following code blocks to your singer sprite:
+
+![blocks_1545292398_5148375](images/blocks_1545292398_5148375.png)
+--- /task ---
+
+--- task ---
+Click on your singer on the stage and see what happens. Does she sing?
+--- /task ---
