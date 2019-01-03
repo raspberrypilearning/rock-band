@@ -1,19 +1,29 @@
-\--- challenge \---
+## Making a singer
 
-## Izazov: poboljšaj svoj bubanj
+Now you will add a singer to your band!
 
-+ Da li možeš da promijeniš zvuk koji proizvodi bubanj kada se klikne na njega?
+\--- task \---
 
-![screenshot](images/band-drum-sound.png)
+Add a singer sprite to your Stage.
 
-+ Možeš li da napraviš da bubanj proizvodi zvuk kada se pritisne taster za razmak? Treba da upotrijebiš ovaj blok `event`{:class="blockevents"} (događaj):
+![screenshot](images/band-singer-mic.png)
 
-```blocks
-    when [space v] key pressed
-```
+[[[generic-scratch3-sprite-from-library]]]
 
-Možeš da kopiraš postojeći kôd tako što ćeš kliknuti desnim tasterom miša na njega, a zatim kliknuti na **duplicate** (umnoži).
+\--- /task \---
 
-![screenshot](images/band-duplicate-code.png)
+\--- task \---
 
-\--- /challenge \---
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+
+![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+
+\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png) \--- /task \---
+
+\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+
+![blocks_1545292398_5148375](images/blocks_1545292398_5148375.png) \--- /task \---
+
+\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
