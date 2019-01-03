@@ -1,19 +1,29 @@
-\--- challenge \---
+## Making a singer
 
-## التحدي: تحسين طبلتك
+Now you will add a singer to your band!
 
-+ هل يمكنك تغيير الصوت الذي تُصدره الطبلة عند النقر عليها؟
+\--- task \---
 
-![لقطة الشاشة](images/band-drum-sound.png)
+Add a singer sprite to your Stage.
 
-+ هل يمكنك أيضًا أن تجعل الطبلة تُصدر صوتًا عند الضغط على مفتاح المسافة؟ ستحتاج إلى استخدام قالب `الحدث`{:class="blockevents"} هذا:
+![لقطة الشاشة](images/band-singer-mic.png)
 
-```blocks
-    عند ضغط مفتاح [المسافة v]
-```
+[[[generic-scratch3-sprite-from-library]]]
 
-يمكنك نسخ التعليمة البرمجية الحالية بالنقر عليها بزر الماوس الأيمن ثم النقر فوق **مضاعفة**.
+\--- /task \---
 
-![لقطة الشاشة](images/band-duplicate-code.png)
+\--- task \---
 
-\--- /challenge \---
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+
+![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+
+\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png) \--- /task \---
+
+\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+
+![blocks_1545292398_5148375](images/blocks_1545292398_5148375.png) \--- /task \---
+
+\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
