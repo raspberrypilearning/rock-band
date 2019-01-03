@@ -1,11 +1,13 @@
-## Направи бубањ
+## Challenge: improving your drum
 
-Хајде да програмирамо твој бубањ да прави звук када је ударен.
+Can you change the sound that the drum makes when it's clicked?
 
-Блокове кода можеш да пронађеш на картици "Програми" и сви су различито обојени!
+![screenshot](images/band-drum-sound.png)
 
-+ Кликни на лик бубња, а затим превуци два блока у област Програми са десне стране, водећи рачуна о томе да су међусобно повезани (као Лего коцке):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![слика екрана](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ Кликни на бубањ да би испробао свој нови инструмент!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
