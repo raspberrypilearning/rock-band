@@ -1,19 +1,29 @@
-\--- challenge \---
+## Making a singer
 
-## Výzva: vylepšení bubnu
+Now you will add a singer to your band!
 
-+ Dokážeš změnit zvuk, který buben dělá po kliknutí?
+\--- task \---
 
-![screenshot](images/band-drum-sound.png)
+Add a singer sprite to your Stage.
 
-+ Dokážeš zajistit i to, aby buben vydal zvuk po stisknutí mezerníku? Hodí se k tomu blok `Události` {:class="blockevents"}:
+![screenshot](images/band-singer-mic.png)
 
-```blocks
-    po stisku klávesy [mezerník v]
-```
+[[[generic-scratch3-sprite-from-library]]]
 
-Existující kód můžeš zkopírovat tak, že na něj klikneš pravým tlačítkem a vybereš **Kopírovat**.
+\--- /task \---
 
-![screenshot](images/band-duplicate-code.png)
+\--- task \---
 
-\--- /challenge \---
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+
+![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+
+\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png) \--- /task \---
+
+\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+
+![blocks_1545292398_5148375](images/blocks_1545292398_5148375.png) \--- /task \---
+
+\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
