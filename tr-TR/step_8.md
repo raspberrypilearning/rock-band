@@ -1,27 +1,29 @@
-## Kostümler
+## Challenge: improve your band
 
-Şarkıcını şarkı söylediği gibi yapalım!
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-+ Yeni bir kostüm oluşturarak şarkıcı hareketlendirmesinin nasıl görüneceğini de değiştirebilirsiniz. Kostümler sekmesini tıklayın ve şarkıcıyı göreceksiniz.
-    
-    ![ekran görüntüsü](images/band-singer-costume.png)
+![screenshot](images/band-ideas-sounds.png)
 
-+ Kostüm üzerinde sağ tıklayın ve kostümün bir kopyasını oluşturmak için **kopyala** seçeneğini tıklayın.
-    
-    ![ekran görüntüsü](images/band-singer-duplicate.png)
+![blocks_1545292400_722095](images/blocks_1545292400_722095.png)
 
-+ Yeni kostümün üzerine tıklayın ('Singer2' olarak adlandırılır) ve sonra satır aracını seçin ve şarkıcınızın ses çıkardığını göstermek için çizgiler çizin.
-    
-    ![ekran görüntüsü](images/band-singer-click.png)
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-+ Kostümlerin isimleri şu an için çok yararlı değil. Her kostümün yeni ismini metin kutusuna yazarak iki şarkıyı yeniden adlandırın, böylece 'şarkı söyleme' ve 'şarkı söyleme' olarak adlandırın.
-    
-    ![ekran görüntüsü](images/band-singer-name.png)
+![screenshot](images/band-piano.png)
 
-+ Artık şarkıcınız için iki farklı kostümünüz var, hangi kostümün görüntüleneceğini seçebilirsiniz! Bu iki bloğu şarkıcınıza ekleyin:
-    
-    ![ekran görüntüsü](images/band-looks.png)
-    
-    Kostümü değiştirmek için kod bloğu, `Looks`{: class = "blocklooks"} bölümünde bulunur.
+You can use more sprites from the library, and you can also paint your own sprites!
 
-+ Şarkıcınıza tıklayın. Şarkı söylediği gibi mi görünüyor?
+![screenshot](images/band-draw.png)
+
+## \--- collapse \---
+
+## title: Why is my sprite 'jumping' when it changes costume?
+
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+
+To fix this, make sure that the centres of your sprite's costumes are the same.
+
+\--- /collapse \---
+
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+
+![screenshot](images/band-io.png)
