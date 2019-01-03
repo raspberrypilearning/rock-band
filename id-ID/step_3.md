@@ -4,12 +4,12 @@
 
 \--- Tugas \--- Saat ini, panggungnya putih dan terlihat sangat membosankan! Tambahkan latar belakang padanya dengan mengklik ** Pilih latar belakang **.
 
-![screenshot](images/band-stage-choose.png) \--- /tugas \---
+![tangkapan layar](images/band-stage-choose.png) \--- /tugas \---
 
-\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+\--- task \--- Klik pada ** Di Dalam ** dalam daftar di bagian atas. Kemudian klik pada latar belakang teater.
 
-![screenshot](images/band-backdrop.png) \--- /task \---
+![tangkapan layar](images/band-backdrop.png) \--- /tugas \---
 
-\--- task \--- Your stage should now look similar to this:
+\---tugas\--- Panggungnya sekarang harus terlihat seperti ini:
 
-![screenshot](images/band-stage.png) \--- /task \---
+![tangkapan layar](images/band-stage.png) \--- /tugas \---
