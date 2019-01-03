@@ -1,19 +1,29 @@
-\--- challenge \---
+## Making a singer
 
-## Завдання: вдоскональте свій барабан
+Now you will add a singer to your band!
 
-+ Чи можете ви змінити звук, який барабан робить, коли на нього натискають?
+\--- task \---
 
-![знімок екрану](images/band-drum-sound.png)
+Add a singer sprite to your Stage.
 
-+ Чи можете ви також зробити, щоб барабан робив звук при натисканні пробілу? Вам потрібно буде скористатися цією ` подією ` блок {: class = "blockevents"}:
+![скріншот](images/band-singer-mic.png)
 
-```blocks
-    коли натиснуто клавішу [пробіл v]
-```
+[[[generic-scratch3-sprite-from-library]]]
 
-Можна скопіювати існуючий код, правою кнопкою миші та виберіть пункт **повторювані**.
+\--- /task \---
 
-![скріншот](images/band-duplicate-code.png)
+\--- task \---
 
-\--- /challenge \---
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+
+![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+
+\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png) \--- /task \---
+
+\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+
+![blocks_1545292398_5148375](images/blocks_1545292398_5148375.png) \--- /task \---
+
+\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
