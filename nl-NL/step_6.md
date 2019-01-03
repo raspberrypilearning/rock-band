@@ -1,19 +1,29 @@
-\--- challenge \---
+## Making a singer
 
-## Challenge: je trommel verbeteren
+Now you will add a singer to your band!
 
-+ Kun je het geluid veranderen dat de trommel maakt als erop wordt geklikt?
+\--- task \---
 
-![screenshot](images/band-drum-sound.png)
+Add a singer sprite to your Stage.
 
-+ Kun je de trommel ook laten horen als de spatiebalk wordt ingedrukt? Je moet dit `gebeurtenis` blok gebruiken{: class="blockevents"}:
+![screenshot](images/band-singer-mic.png)
 
-```blocks
-    wanneer [spatiebalk] wordt ingedrukt
-```
+[[[generic-scratch3-sprite-from-library]]]
 
-Je kunt je bestaande code kopiëren door er met de rechtermuisknop op te klikken en op **kopie maken** te klikken.
+\--- /task \---
 
-![screenshot](images/band-duplicate-code.png)
+\--- task \---
 
-\--- /challenge \---
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+
+![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+
+\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png) \--- /task \---
+
+\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+
+![blocks_1545292398_5148375](images/blocks_1545292398_5148375.png) \--- /task \---
+
+\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
