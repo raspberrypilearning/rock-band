@@ -1,29 +1,15 @@
-## Sprites
+## The Stage
 
-आपण कोडिंग प्रारंभ करण्यापूर्वी, आपल्याला कोडमध्ये 'गोष्ट' जोडणे आवश्यक आहे. स्क्रॅचमध्ये, या 'गोष्टी' ला **प्रेइट्स**म्हटले जाते.
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
-+ प्रथम स्क्रॅच एडिटर उघडा. आपण ऑनलाईन स्क्रॅच संपादक <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch -new</a>येथे शोधू शकता. हे असे दिसते:
-    
-    ![स्क्रीनशॉट](images/band-scratch.png)
+\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-+ आपण पाहू शकता की मांजर प्रेत स्क्रॅच मास्कट आहे. आता ते राईट क्लिक करून ते काढून टाकू आणि नंतर **डिलीट**क्लिक करा.
-    
-    ![स्क्रीनशॉट](images/band-delete.png)
+![screenshot](images/band-stage-choose.png) \--- /task \---
 
-+ पुढे, क्लिक करा **लायब्ररी परी निवडा** सर्व ओरखडा sprites एक यादी उघडण्यासाठी.
-    
-    ![स्क्रीनशॉट](images/band-sprite-library.png)
+\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
-+ ड्रम परीक्षेत पहापर्यंत खाली स्क्रोल करा. ड्रमवर क्लिक करा, आणि आपल्या प्रोजेक्टमध्ये जोडण्यासाठी **ठीक** क्लिक करा.
-    
-    ![स्क्रीनशॉट](images/band-sprite-drum.png)
+![screenshot](images/band-backdrop.png) \--- /task \---
 
-+ **shrink** आयकॉनवर क्लिक करा, आणि नंतर ड्रमवर क्लिक करा आणि त्यास लहान बनवा.
-    
-    ![स्क्रीनशॉट](images/band-shrink.png)
+\--- task \--- Your stage should now look similar to this:
 
-आपल्या प्रोग्रामला शीर्ष डाव्या बाजूला कोपर्यात मजकूर बॉक्समध्ये टाइप करून एक नाव द्या.
-
-आपण नंतर क्लिक करू शकता **फाइल** आणि नंतर **जतन करा आता** आपला प्रकल्प जतन करण्यासाठी. आपण एक ओरखडा खाते नसेल तर, आपण क्लिक करून आपल्या प्रकल्पाचा एक प्रत जतन शकतो **आपल्या संगणकावर डाउनलोड** त्याऐवजी.
-
-![स्क्रीनशॉट](images/band-save.png)
+![screenshot](images/band-stage.png) \--- /task \---
