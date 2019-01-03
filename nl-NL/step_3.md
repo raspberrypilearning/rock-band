@@ -1,29 +1,15 @@
-## Sprites
+## The Stage
 
-Voordat je met coderen kunt beginnen, moet je een 'ding' toevoegen aan de code. In Scratch worden deze 'dingen' ** sprites** genoemd.
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
-+ Open eerst de Scratch-editor. Je kunt de online Scratch-editor vinden op <a href="http://jumpto.cc/scratch-new" target="_blank"> jumpto.cc/scratch-new </a>. Het ziet er zo uit:
-    
-    ![screenshot](images/band-scratch.png)
+\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-+ De kat sprite die je ziet, is de Scratch-mascotte. Laten we de de kat verwijderen door er met de rechtermuisknop op te klikken en vervolgens te klikken op **verwijderen**.
-    
-    ![screenshot](images/band-delete.png)
+![screenshot](images/band-stage-choose.png) \--- /task \---
 
-+ Klik op **Kies sprite uit bibliotheek** om de bibliotheek van alle Scratch-sprites te openen.
-    
-    ![screenshot](images/band-sprite-library.png)
+\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
-+ Blader naar beneden tot je een drum sprite ziet. Klik op een drum en klik op ** OK ** om het toe te voegen aan je project.
-    
-    ![screenshot](images/band-sprite-drum.png)
+![screenshot](images/band-backdrop.png) \--- /task \---
 
-+ Klik op het **kleiner maken** pictogram en klik vervolgens een paar keer op de drum om deze kleiner te maken.
-    
-    ![screenshot](images/band-shrink.png)
+\--- task \--- Your stage should now look similar to this:
 
-Geef je programma een naam door deze in het tekstvak in de linkerbovenhoek te typen.
-
-Je kunt klikken op **Bestand** en vervolgens **Nu opslaan** om je project te bewaren. Als je Scratch online gebruikt maar geen Scratch-account hebt, kunt je een kopie van je project opslaan door te klikken op **Naar je computer downloaden**.
-
-![screenshot](images/band-save.png)
+![screenshot](images/band-stage.png) \--- /task \---
