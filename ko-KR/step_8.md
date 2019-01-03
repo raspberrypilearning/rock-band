@@ -1,27 +1,29 @@
-## 의상
+## Challenge: improve your band
 
-가수가 노래하는 것처럼 보이게 해 봐요!
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-+ 가수 스프라이트의 새로운 모양을 만들어 클릭 할 때 어떻게 보일지 변경할 수도 있습니다. 모양 탭을 클릭하면 가수 이미지가 나타납니다.
-    
-    ![스크린 샷](images/band-singer-costume.png)
+![screenshot](images/band-ideas-sounds.png)
 
-+ 모양을 마우스 오른쪽 버튼으로 클릭하고 **복사**를 클릭하여 모양 사본을 만듭니다.
-    
-    ![스크린 샷](images/band-singer-duplicate.png)
+![blocks_1545292400_722095](images/blocks_1545292400_722095.png)
 
-+ 새로운 모양('Singer2')을 클릭 한 다음 선 도구를 선택하고 가수가 노래하는것처럼 보이게 선을 그립니다.
-    
-    ![스크린 샷](images/band-singer-click.png)
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-+ 지금 의상 스프라이트의 이름들은 별로 도움이 되지 않네요. 알기 쉽도록 두 모양의 이름을 각각 'singing' (노래함) 'not singing' (노래안함) 으로 변경해 봐요.
-    
-    ![스크린 샷](images/band-singer-name.png)
+![screenshot](images/band-piano.png)
 
-+ 가수를 위한 두 가지 모양이 생겼으니, 어떤 모양이 표시 될지 선택할 수 있어요! 다음 두 블록을 가수에게 추가해 보세요.
-    
-    ![스크린 샷](images/band-looks.png)
-    
-    모양을 변경하기위한 코드 블록은 `형태`{: class = "blocklooks"} 섹션에 있습니다.
+You can use more sprites from the library, and you can also paint your own sprites!
 
-+ 가수를 클릭 해 보세요. 그녀가 노래하는 것처럼 보이나요?
+![screenshot](images/band-draw.png)
+
+## \--- collapse \---
+
+## title: Why is my sprite 'jumping' when it changes costume?
+
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+
+To fix this, make sure that the centres of your sprite's costumes are the same.
+
+\--- /collapse \---
+
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+
+![screenshot](images/band-io.png)
