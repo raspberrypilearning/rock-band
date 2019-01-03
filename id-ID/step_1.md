@@ -18,7 +18,7 @@ Pelajari cara membuat kode alat musik Kamu sendiri!
 
 \--- /tidak-dicetak \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\--- hanya cetak \--- Kamu akan membuat permainan di mana kamu dapat mengeklik penyanyi atau drum untuk mendengar suara bernyanyi atau gendang.
 
 ![game screenshot](images/demo.png) \--- /print-only \---
 
