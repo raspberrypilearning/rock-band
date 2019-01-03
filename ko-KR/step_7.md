@@ -1,24 +1,35 @@
-## 가수 만들기
+## Costumes
 
-가수를 밴드에 추가합시다!
+Now you will make your singer look like she's singing!
 
-+ 무대에 가수와 마이크 스프라이트를 추가 해 보세요.
-    
-    ![스크린 샷](images/band-singer-mic.png)
+\--- task \--- You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
 
-+ 가수가 노래할 수 있게 되려면, 스프라이트에 사운드가 추가되어야 합니다. 가수를 선택하고 ‘소리’ 탭을 누르신 후 **저장소에서 소리 선택**을 클릭하세요.
-    
-    ![스크린 샷](images/band-import-sound.png)
+![screenshot](images/band-singer-costume-annotated.png) \--- /task \---
 
-+ 왼쪽 목록에서 **보컬** 을 클릭하면 스프라이트에 추가 할 적절한 사운드를 선택할 수 있습니다.
-    
-    ![스크린 샷](images/band-choose-sound.png)
+\--- task \--- Right-click on the costume and then click on **duplicate** to create a copy of it.
 
-+ 이제 사운드가 추가됐으니, 다음 코드를 가수에게 추가 해 주세요:
-    
-    ```blocks
-        이 스프라이트를 클릭했을 때
-        [singer1 v]끝까지 재생하기
-    ```
+![screenshot](images/band-singer-duplicate.png) \--- /task \---
 
-+ 가수를 클릭하고 어떤 일이 일어나는지 보세요. 그녀가 노래하나요?
+\--- task \--- Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+
+![screenshot](images/band-singer-click.png) \--- /task \---
+
+\--- task \--- The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+
+![screenshot](images/band-singer-name-annotated.png) \--- /task \---
+
+\--- task \--- Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
+
+![blocks_1545292399_6109073](images/blocks_1545292399_6109073.png)
+
+The code block for changing the costume is in the `Looks`{:class="block3looks"} section. \--- /task \---
+
+\--- task \--- Click on your singer on the stage. Does she look like she is singing? \--- /task \---
+
+\--- task \--- Now make your drum look like it's being hit!
+
+![screenshot](images/band-drum-final.png)
+
+- Use the instructions for changing your singer sprite's costume to help you.
+
+Remember to test that your new code works! \--- /task \---
