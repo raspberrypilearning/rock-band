@@ -1,4 +1,4 @@
-## Sprites
+## Gambar
 
 Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
 
