@@ -1,15 +1,37 @@
-## El Escenario
+## Making a drum
 
-El **escenario** es la zona de la izquierda, y es donde tu proyecto cobra vida. Considéralo como la zona de actuación, ¡como si fuera un escenario real!
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-+ De momento el escenario es blanco, ¡y se ve bastante aburrido! Vamos a añadirle un fondo, haciendo clic en **Selecciona un fondo de la biblioteca**.
-    
-    ![captura de pantalla](images/band-stage-choose.png)
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
-+ Haz clic en **Interiores** a la izquierda, y luego haz clic en un fondo de escenario y haz clic en **OK**.
-    
-    ![captura de pantalla](images/band-backdrop.png)
+\--- task \---
 
-+ Ahora tu escenario debe tener este aspecto:
-    
-    ![captura de pantalla](images/band-stage.png)
+First add the **Music** extension so you can play instruments.
+
+Click on the **Add extension** button in the bottom left-hand corner.
+
+![add extension button highlighted](images/add-extension-annotated.png)
+
+Click on the **Music** extension to add it.
+
+![pen extension highlighted](images/click-music-annotated.png)
+
+\--- /task \---
+
+\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+
+\--- no-print \---
+
+![screenshot](images/connect-block.gif)
+
+\--- /no-print \---
+
+\--- print-only \---
+
+![blocks_1545292394_8911092](images/blocks_1545292394_8911092.png) \--- /print-only \---
+
+Make sure that the blocks are connected together (like LEGO bricks).
+
+\--- /task \---
+
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
