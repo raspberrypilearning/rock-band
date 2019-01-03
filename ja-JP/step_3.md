@@ -1,29 +1,15 @@
-## スプライト
+## The Stage
 
-コーディングをはじめる前に、ある「モノ」を取り入れる必要があります。この「モノ」はScratch(スクラッチ)では**スプライト**と呼ばれています。
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
-+ まず、Scratchエディタを開きます。オンラインのScratchエディタは、<a href="http://jumpto.cc/scratch-new" target="_blank"> jumpto.cc/scratch-new</a> にあります。これは次のようになります。
-    
-    ![screenshot](images/band-scratch.png)
+\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-+ 目の前に見えるネコのスプライトはScratchのマスコットです。右クリックしてから **削除 （さくじょ）**をクリックして、消しましょう。
-    
-    ![screenshot](images/band-delete.png)
+![screenshot](images/band-stage-choose.png) \--- /task \---
 
-+ **スプライトをライブラリーから選択 (せんたく) **をクリックすると、すべてのScratchスプライトのライブラリーが表示されます。
-    
-    ![screenshot](images/band-sprite-library.png)
+\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
-+ ドラムのスプライトが表示されるまで下にスクロールします。ドラムをクリックし、**OK** をクリックします。プロジェクトに追加しましょう。
-    
-    ![screenshot](images/band-sprite-drum.png)
+![screenshot](images/band-backdrop.png) \--- /task \---
 
-+ **縮小（しゅくしょう）**アイコンをクリックし、ドラムを数回クリックして小さくします。
-    
-    ![screenshot](images/band-shrink.png)
+\--- task \--- Your stage should now look similar to this:
 
-左上角にあるテキストボックスに名前を入力して、プログラムに名前を付けます。
-
-**ファイル** をクリックし、 **直ちに保存（ほぞん）** をクリックしてプロジェクトを保存することができます。 Scratchのアカウントを持っていない場合は、 **手元のコンピュータにダウンロード** をクリックしてプロジェクトのコピーを保存できます。
-
-![screenshot](images/band-save.png)
+![screenshot](images/band-stage.png) \--- /task \---
