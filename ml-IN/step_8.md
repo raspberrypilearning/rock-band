@@ -1,27 +1,29 @@
-## കോസ്റ്റ്യൂമുകൾ
+## Challenge: improve your band
 
-നിങ്ങളുടെ ഗായകൻ അവൾ പാടുന്നതുപോലെ തോന്നിക്കുമോ?
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-+ ഒരു പുതിയ വസ്ത്രധാരണം സൃഷ്ടിക്കുന്നതിലൂടെ നിങ്ങളുടെ ഗായകൻ സ്പ്രൈറ്റ് എങ്ങനെയാണ് ക്ലിക്കുചെയ്യുന്നത് എന്നത് നിങ്ങൾക്ക് മാറ്റാൻ കഴിയും. കോസ്റ്റ്യൂംസ് ടാബിൽ ക്ലിക്കുചെയ്യുക, നിങ്ങൾ ഗായകൻ ചിത്രം കാണും.
-    
-    ![സ്ക്രീൻഷോട്ട്](images/band-singer-costume.png)
+![screenshot](images/band-ideas-sounds.png)
 
-+ വസ്ത്രധാരണത്തിൽ വലത്-ക്ലിക്കുചെയ്ത്, വസ്ത്രത്തിന്റെ ഒരു പകർപ്പ് സൃഷ്ടിക്കാൻ **ഡ്യൂപ്ലിക്കേറ്റ്** ക്ലിക്കുചെയ്യുക.
-    
-    ![സ്ക്രീൻഷോട്ട്](images/band-singer-duplicate.png)
+![blocks_1545292400_722095](images/blocks_1545292400_722095.png)
 
-+ പുതിയ വസ്ത്രം ('Singer2' എന്ന പേരുള്ളത്) ക്ലിക്കുചെയ്യുക, തുടർന്ന് നിങ്ങളുടെ ഗായകൻ ശബ്ദമുണ്ടാക്കുന്നതായി തോന്നുന്നതിന് ലൈൻ ഉപകരണവും വര വരകളും തിരഞ്ഞെടുക്കുക.
-    
-    ![സ്ക്രീൻഷോട്ട്](images/band-singer-click.png)
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-+ ഈ സമയത്ത് വസ്ത്രങ്ങൾ പേരുകൾ വളരെ സഹായകരമല്ല. രണ്ട് വസ്ത്രങ്ങൾ പുനർനാമകരണം ചെയ്യുക, അതിനാലാണ് ടെക്സ്റ്റ് ബോക്സിലെ ഓരോ വേശ്യത്തിന്റെയും പേര് ടൈപ്പ് ചെയ്ത് 'പാട്ട്', 'പാട്ട്' എന്നിവ.
-    
-    ![സ്ക്രീൻഷോട്ട്](images/band-singer-name.png)
+![screenshot](images/band-piano.png)
 
-+ നിങ്ങളുടെ ഗായകന്റെ രണ്ട് വ്യത്യസ്ത വസ്ത്രം നിങ്ങൾക്കിപ്പോൾ, ഏത് വേഷമാണ് പ്രദർശിപ്പിക്കേണ്ടതെന്ന് നിങ്ങൾക്ക് തിരഞ്ഞെടുക്കാൻ കഴിയും! ഈ രണ്ട് ബ്ലോക്കുകൾ നിങ്ങളുടെ ഗായകന് നൽകുക:
-    
-    ![സ്ക്രീൻഷോട്ട്](images/band-looks.png)
-    
-    കോസ്റ്റ്യൂം മാറ്റുന്നതിനുള്ള കോഡ് ബ്ലോക്ക് `ലുക്സ്`ലുക്ക് ആണ്: {class = "blocklooks"} വിഭാഗം.
+You can use more sprites from the library, and you can also paint your own sprites!
 
-+ നിങ്ങളുടെ ഗായകൻ ക്ലിക്ക് ചെയ്യുക. അവൾ പാടുന്നുവെന്നതുപോലെ തോന്നുന്നു
+![screenshot](images/band-draw.png)
+
+## \--- collapse \---
+
+## title: Why is my sprite 'jumping' when it changes costume?
+
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+
+To fix this, make sure that the centres of your sprite's costumes are the same.
+
+\--- /collapse \---
+
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+
+![screenshot](images/band-io.png)
