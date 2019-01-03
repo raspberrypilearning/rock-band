@@ -1,15 +1,37 @@
-## 舞台
+## Making a drum
 
-**舞台**在左侧区域，它是为你的项目注入生命的地方。将它想象成一个表演区域，就像现实中的舞台一样！
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-+ 眼下，舞台是白色的，看上去非常单调！让我们点击**从背景库中选择背景**，来为舞台添加背景。
-    
-    ![截屏](images/band-stage-choose.png)
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
-+ 点击左侧的**室内**， 然后选择一个舞台背景并点击**确定**。
-    
-    ![截屏](images/band-backdrop.png)
+\--- task \---
 
-+ 现在你的舞台应该是这样子的：
-    
-    ![截屏](images/band-stage.png)
+First add the **Music** extension so you can play instruments.
+
+Click on the **Add extension** button in the bottom left-hand corner.
+
+![add extension button highlighted](images/add-extension-annotated.png)
+
+Click on the **Music** extension to add it.
+
+![pen extension highlighted](images/click-music-annotated.png)
+
+\--- /task \---
+
+\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+
+\--- no-print \---
+
+![screenshot](images/connect-block.gif)
+
+\--- /no-print \---
+
+\--- print-only \---
+
+![blocks_1545292394_8911092](images/blocks_1545292394_8911092.png) \--- /print-only \---
+
+Make sure that the blocks are connected together (like LEGO bricks).
+
+\--- /task \---
+
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
