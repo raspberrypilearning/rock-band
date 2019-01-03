@@ -1,39 +1,29 @@
 ---
 hero_image: images/hero-rock-band-large.png
-theme: червоний
-duration: 2
 listed: true
-ingredient: false
 copyedit: false
-curriculum: 1, дизайн-0, програмування-1, фізичні обчислення-0, виробництво-0, спільноти-0
 title: Рок-гурт
 description: У цьому проекті ви дізнаєтеся, як запрограмувати власні музичні інструменти!
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-interests: ''
-technologies: скреч
-site_areas: проекти
-hardware: ''
-software: скреч
-version: 4
-last_tested: 2017-10-01
+version: 4.1.0
+last_tested: 2018-10-12
 steps:
   - 
     title: Рок-гурт
   - 
-    title: Те, що вам знадобиться
+    title: Sprites
   - 
-    title: Спрайти
+    title: The Stage
   - 
-    title: Сцена
+    title: Making a drum
   - 
-    title: Робимо барабан
+    title: "Challenge: improve your drum"
+    challenge: true
   - 
-    title: "Завдання: вдоскональте свій барабан"
+    title: Making a singer
   - 
-    title: Робимо співачку
+    title: Costumes
   - 
-    title: Костюми
+    title: "Challenge: improve your band"
+    challenge: true
   - 
-    title: "Завдання: змініть костюм барабана"
-  - 
-    title: "Завдання: створіть власний гурт"
+    title: "What next?"
