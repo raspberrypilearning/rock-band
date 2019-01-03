@@ -1,16 +1,16 @@
 ## Gambar
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Sebelum kamu dapat mulai coding, Anda harus menambahkan 'hal' kode. Di awal, ini 'hal' disebut **sprite**.
 
-\--- task \--- Open a new Scratch project.
+\---tugas\--- membuka sebuah proyek awal yang baru.
 
-**Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+** Online: ** buka proyek Scratch online baru di [ rpf.io/scratchon ](http://rpf.io/scratchon) {: target = "_ blank"}.
 
-**Offline:** open a new project in the offline editor.
+** Offline: ** buka proyek baru di editor offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Jika Anda perlu mengunduh dan menginstal editor Scratch offline, Anda dapat menemukannya di [ rpf.io/scratchoff ](http://rpf.io/scratchoff) {: target = "_ blank"}.
 
-It looks like this:
+Tampak seperti ini:
 
 ![screenshot](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
