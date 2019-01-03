@@ -1,11 +1,13 @@
-## Rummun tekeminen
+## Challenge: improving your drum
 
-Let's koodi rumpu tehdä ääni, kun se on osuma.
+Can you change the sound that the drum makes when it's clicked?
 
-Löydät koodilohkot Skriptit-välilehdellä, ja ne ovat kaikki värikoodattuja!
+![screenshot](images/band-drum-sound.png)
 
-+ Napsauta rummun sprite ja vedä nämä kaksi lohkoa oikealle koodipaikalle varmistaen, että ne ovat yhdistettyinä (kuten Lego-lohkot):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![kuvakaappaus](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ Klikkaa rumpua kokeilemaan uutta instrumenttia!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
