@@ -1,15 +1,37 @@
-## Pentas
+## Making a drum
 
-The **Tahap** adalah kawasan yang di sebelah kiri, dan di mana projek anda datang untuk hidup. Fikirkan ia sebagai kawasan persembahan, seperti tahap sebenar!
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-+ Pada masa ini, panggung putih, dan kelihatan cantik membosankan! Mari tambahkan latar belakang ke panggung, dengan mengklik **Pilih latar belakang dari perpustakaan**.
-    
-    ![tangkapan skrin](images/band-stage-choose.png)
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
-+ Klik **Induk** di sebelah kiri, dan kemudian klik pada latar belakang panggung dan klik **OK**.
-    
-    ![tangkapan skrin](images/band-backdrop.png)
+\--- task \---
 
-+ Tahap anda sekarang harus kelihatan seperti ini:
-    
-    ![tangkapan skrin](images/band-stage.png)
+First add the **Music** extension so you can play instruments.
+
+Click on the **Add extension** button in the bottom left-hand corner.
+
+![add extension button highlighted](images/add-extension-annotated.png)
+
+Click on the **Music** extension to add it.
+
+![pen extension highlighted](images/click-music-annotated.png)
+
+\--- /task \---
+
+\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+
+\--- no-print \---
+
+![screenshot](images/connect-block.gif)
+
+\--- /no-print \---
+
+\--- print-only \---
+
+![blocks_1545292394_8911092](images/blocks_1545292394_8911092.png) \--- /print-only \---
+
+Make sure that the blocks are connected together (like LEGO bricks).
+
+\--- /task \---
+
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
