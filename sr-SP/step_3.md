@@ -1,29 +1,15 @@
-## Ликови
+## The Stage
 
-Пре него што почнеш са програмирањем, мораш да додаш оно што ћеш програмирати. У Скречу то се зове **лик**.
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
-+ Прво отвори Скреч уређивач. Скреч уређивач на мрежи можеш пронаћи на <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. Он изгледа овако:
-    
-    ![слика екрана](images/band-scratch.png)
+\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-+ Мачка коју видиш је маскота Скреча. Отараси је се тако што ћеш притиснути десни тастер миша и изабрати **обриши**.
-    
-    ![слика екрана](images/band-delete.png)
+![screenshot](images/band-stage-choose.png) \--- /task \---
 
-+ Затим кликни на **Изабери лик из библиотеке** да би отворио списак свих Скреч ликова.
-    
-    ![слика екрана](images/band-sprite-library.png)
+\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
-+ Скролуј ка доле док не угледаш лик бубња. Кликни на бубањ, а затим на **Уреду** да би га додао/ла у пројекат.
-    
-    ![слика екрана](images/band-sprite-drum.png)
+![screenshot](images/band-backdrop.png) \--- /task \---
 
-+ Кликни на икону **Умањи**, а затим неколико пута кликни на бубањ да би га смањио/ла.
-    
-    ![слика екрана](images/band-shrink.png)
+\--- task \--- Your stage should now look similar to this:
 
-Дај свом програму име, тако што ћеш га уписати у оквир за текст у горњем левом углу.
-
-Кликни на **Дадотека**, а затим на **Сачувај одмах** да би сачувао/ла пројекат. Ако немаш Скреч налог, можеш да сачуваш копију свог пројекта тако што чеш кликнути на **Преузми на свој рачунар**.
-
-![слика екрана](images/band-save.png)
+![screenshot](images/band-stage.png) \--- /task \---
