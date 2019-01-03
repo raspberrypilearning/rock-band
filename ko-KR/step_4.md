@@ -1,15 +1,37 @@
-## 단계
+## Making a drum
 
-왼쪽에 있는 **무대** 영역은 프로젝트가 살아 움직이는 공간입니다. 실제 무대처럼 공연이 이뤄지는 곳이라고 생각하면 됩니다!
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-+ 현재 무대는 흰색이며 꽤 지루해 보입니다. **저장소에서 스프라이트 선택**을 클릭하여 무대에 배경을 추가해 보세요.
-    
-    ![스크린 샷](images/band-stage-choose.png)
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
-+ 왼쪽에 있는 목록에서 **실내**를 클릭 한 다음 무대 배경(stage) 을 클릭하고 **확인**을 클릭하세요.
-    
-    ![스크린 샷](images/band-backdrop.png)
+\--- task \---
 
-+ 아래 그림처럼 무대가 보여야 합니다:
-    
-    ![스크린 샷](images/band-stage.png)
+First add the **Music** extension so you can play instruments.
+
+Click on the **Add extension** button in the bottom left-hand corner.
+
+![add extension button highlighted](images/add-extension-annotated.png)
+
+Click on the **Music** extension to add it.
+
+![pen extension highlighted](images/click-music-annotated.png)
+
+\--- /task \---
+
+\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+
+\--- no-print \---
+
+![screenshot](images/connect-block.gif)
+
+\--- /no-print \---
+
+\--- print-only \---
+
+![blocks_1545292394_8911092](images/blocks_1545292394_8911092.png) \--- /print-only \---
+
+Make sure that the blocks are connected together (like LEGO bricks).
+
+\--- /task \---
+
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
