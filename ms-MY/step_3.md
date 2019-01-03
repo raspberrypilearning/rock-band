@@ -1,29 +1,15 @@
-## Sprites
+## The Stage
 
-Sebelum anda dapat memulakan pengekodan, anda perlu menambah 'perkara' untuk kod. Dalam Scratch, 'perkara' ini dipanggil **sprite**.
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
-+ Pertama, buka editor Scratch. Anda boleh mencari editor Scratch dalam talian di <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. Ia kelihatan seperti ini:
-    
-    ![tangkapan skrin](images/band-scratch.png)
+\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-+ Spit kucing yang anda dapat lihat adalah maskot Scratch. Mari buangkannya dengan mengklik kanan dan kemudian klik **padam**.
-    
-    ![tangkapan skrin](images/band-delete.png)
+![screenshot](images/band-stage-choose.png) \--- /task \---
 
-+ Seterusnya, klik **Pilih sprite dari perpustakaan** untuk membuka senarai semua sprit Scratch.
-    
-    ![tangkapan skrin](images/band-sprite-library.png)
+\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
-+ Tatal ke bawah sehingga anda melihat sprit drum. Klik pada drum, dan klik **OK** untuk menambahkannya ke projek anda.
-    
-    ![tangkapan skrin](images/band-sprite-drum.png)
+![screenshot](images/band-backdrop.png) \--- /task \---
 
-+ Klik **mengecilkan** ikon, dan kemudian klik pada dram beberapa kali untuk menjadikannya lebih kecil.
-    
-    ![tangkapan skrin](images/band-shrink.png)
+\--- task \--- Your stage should now look similar to this:
 
-Beri nama program anda dengan menaipnya ke dalam kotak teks di sudut kiri atas.
-
-Anda boleh klik **Fail** dan kemudian **Simpan sekarang** untuk menyimpan projek anda. Jika anda tidak mempunyai akaun Scratch, anda boleh menyimpan salinan projek anda dengan mengklik **Muat turun ke komputer anda**.
-
-![tangkapan skrin](images/band-save.png)
+![screenshot](images/band-stage.png) \--- /task \---
