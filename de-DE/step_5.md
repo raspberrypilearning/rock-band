@@ -1,11 +1,13 @@
-## Eine Trommel machen
+## Challenge: improving your drum
 
-Lass uns deine Trommel so programmieren, dass sie ein Geräusch macht, wenn sie getroffen wird.
+Can you change the sound that the drum makes when it's clicked?
 
-Du findest die Codeblöcke auf der Registerkarte "Skripte" und sie sind alle farbcodiert!
+![screenshot](images/band-drum-sound.png)
 
-+ Klicke auf die Trommel-Figur und ziehe diese beiden Blöcke in den Code-Bereich rechts. Stelle sicher, dass sie miteinander verbunden sind (wie Lego-Steine):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![Screenshot](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ Klicke auf die Trommel, um dein neues Instrument auszuprobieren!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
