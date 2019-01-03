@@ -1,11 +1,13 @@
-## Bir baraban edilməsi
+## Challenge: improving your drum
 
-Hit vurulduğunda səs vermək üçün nağara kodu yazaq.
+Can you change the sound that the drum makes when it's clicked?
 
-Kod bloklarını Komutlar sekmesinde tapa bilərsiniz və bunların hamısı rəng kodlu!
+![screenshot](images/band-drum-sound.png)
 
-+ Drum sprite üzərinə basın və sonra bu iki blokları kod sahəsinin sağ tərəfinə süründürün, onların birlikdə (Lego blokları kimi) birləşdirildiklərinə əmin olun:
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![ekran görüntüsü](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ Yeni alətinizi sınamaq üçün nağara vurun!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
