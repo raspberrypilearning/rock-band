@@ -13,7 +13,7 @@ Pelajari cara membuat kode alat musik Kamu sendiri!
 \--- tidak-dicetak \--- Klik bendera hijau untuk memulai. Kemudian, klik penyanyi atau drum untuk mendengar seperti apa suaranya.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
 \--- /tidak-dicetak \---
