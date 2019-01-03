@@ -1,11 +1,13 @@
-## ڈھول بنانا
+## Challenge: improving your drum
 
-آو جب آپ کو ڈھونڈنا ہے تو آپ کے ڈھول کو آواز بنانا ہے.
+Can you change the sound that the drum makes when it's clicked?
 
-آپ کو کوڈ بلاکس سکرپٹ ٹیب میں تلاش کر سکتے ہیں، اور وہ تمام رنگ کوڈت ہیں!
+![screenshot](images/band-drum-sound.png)
 
-+ ڈھول سپرے پر کلک کریں، اور پھر ان دو بلاکس کو کوڈ کے علاقے میں دائیں طرف لے جائیں، اس بات کو یقینی بنائیں کہ وہ ایک ساتھ منسلک ہوتے ہیں (لیگو بلاکس کی طرح):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![اسکرین شاٹ](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ اپنا نیا آلہ آزمانے کے لئے ڈھول پر کلک کریں!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
