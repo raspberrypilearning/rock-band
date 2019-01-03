@@ -1,11 +1,13 @@
-## Pravljenje bubnja
+## Challenge: improving your drum
 
-Hajde da kodiramo tvoj bubanj tako da proizvodi zvuk kada se u njega udari.
+Can you change the sound that the drum makes when it's clicked?
 
-Blokove kôda možeš naći na kartici Scripts (Skripte) i svi su različito obojeni!
+![screenshot](images/band-drum-sound.png)
 
-+ Klikni na lik bubnja, a zatim prevuci sljedeća dva bloka u prostor za unošenje kôdova na desnoj strani, vodeći računa o tome da budu međusobno povezani (kao lego kocke):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![screenshot](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ Klikni na bubanj i isprobaj svoj novi instrument!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
