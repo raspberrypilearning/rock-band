@@ -1,19 +1,29 @@
-\--- challenge \---
+## Making a singer
 
-## Sfida: Perfeziona il tamburo
+Now you will add a singer to your band!
 
-+ Riesci a cambiare il suono che produce il tamburo quando viene premuto?
+\--- task \---
 
-![screenshot](images/band-drum-sound.png)
+Add a singer sprite to your Stage.
 
-+ Riesci a fare in modo che il tamburo produca un suono quando la barra spaziatrice viene premuta? Dovrai utilizzare questo blocco `situazione`{:class="blockevents"}:
+![screenshot](images/band-singer-mic.png)
 
-```blocks
-    quando si preme il tasto [spazio v]
-```
+[[[generic-scratch3-sprite-from-library]]]
 
-Puoi anche copiare il codice che hai creato cliccando, col tasto destro del mouse, sui blocchi già aggiunti nell'area lavoro e selezionando **duplica**.
+\--- /task \---
 
-![screenshot](images/band-duplicate-code.png)
+\--- task \---
 
-\--- /challenge \---
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+
+![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+
+\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png) \--- /task \---
+
+\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+
+![blocks_1545292398_5148375](images/blocks_1545292398_5148375.png) \--- /task \---
+
+\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
