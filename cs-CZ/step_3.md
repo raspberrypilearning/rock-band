@@ -1,29 +1,15 @@
-## Sprajty
+## The Stage
 
-Než začneš kódovat, musíš přidat do kódu různé viditelné 'prvky'. V aplikaci Scratch se tyto "prvky" nazývají ** sprajty **.
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
-+ Nejdříve otevři editor Scratch. Online editor Scratch najdeš na adrese <a href="http://jumpto.cc/scratch-new" target="_blank"> jumpto.cc/scratch-new </a>. Vypadá takto:
-    
-    ![screenshot](images/band-scratch.png)
+\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-+ Sprajt kočky, který vidíš, je maskot Scratche. Pojďme ho smazat, pravým tlačítkem myši klikni na Scratche a z menu vyber položku **smazat**.
-    
-    ![screenshot](images/band-delete.png)
+![screenshot](images/band-stage-choose.png) \--- /task \---
 
-+ Dále klikni na obrázek panáčka, kontextová nápověda je **Vybrat postavu z knihovny**, čímž otevřeš seznam všech sprajtů ve Scratchi.
-    
-    ![screenshot](images/band-sprite-library.png)
+\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
-+ Přejdi dolů, dokud neuvidíš sprajt bubínku. Klikněte na něj, a poté klikni na tlačítko **OK**, abys ho přidal do projektu.
-    
-    ![screenshot](images/band-sprite-drum.png)
+![screenshot](images/band-backdrop.png) \--- /task \---
 
-+ Klikni na ikonu šipek směřujících dovnitř představující funkci **Zmenši**, pak několikrát klikni na buben, aby se zmenšil.
-    
-    ![screenshot](images/band-shrink.png)
+\--- task \--- Your stage should now look similar to this:
 
-Dej programu vlastní názvem. Uděláš to tak, že ho zadáš do textového pole v levém horním rohu.
-
-Pak můžete klepnout na položku menu **Soubor** vybrat **Uložit aktuální stav** a uložit tak svůj projekt. Pokud nemáš účet Scratch, můžeš si místo toho uložit kopii projektu kliknutím na položku **Stáhnout do tvého počítače**.
-
-![screenshot](images/band-save.png)
+![screenshot](images/band-stage.png) \--- /task \---
