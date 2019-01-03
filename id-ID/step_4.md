@@ -1,10 +1,10 @@
-## Making a drum
+## Membuat drum
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+Sekarang Anda akan menambahkan kode ke drum Anda sehingga drum mengeluarkan suara saat diklik.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Anda dapat menemukan blok kode di tab Script, dan semuanya diberi kode warna!
 
-\--- task \---
+\--- tugas \---
 
 First add the **Music** extension so you can play instruments.
 
