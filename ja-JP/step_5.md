@@ -1,11 +1,13 @@
-## ドラムを作ろう
+## Challenge: improving your drum
 
-クリックすると音が出るようにコードしましょう。
+Can you change the sound that the drum makes when it's clicked?
 
-「スクリプト」のタブの中にコーディングのブロックがあります。すべて色付けされています。
+![screenshot](images/band-drum-sound.png)
 
-+ ドラムのスプライトをクリックして、この2つのブロックを右のスクリプトエリアにドラッグしてください。ブロックがレゴのように合体しているのを確認（かくにん）しましょう。
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![screenshot](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ ドラムをクリックして、鳴らしてみてください！
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
