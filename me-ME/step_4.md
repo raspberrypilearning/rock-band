@@ -1,15 +1,37 @@
-## Pozornica (stage)
+## Making a drum
 
-**Pozornica** (stage) je prostor na lijevoj strani i tamo će tvoj projekat oživjeti. Zamisli da je to prostor za izvođenje, baš kao stvarna pozornica!
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-+ Trenutno je pozornica bijela i izgleda prilično dosadno! Dodajmo joj pozadinu tako što ćemo kliknuti na **Choose backdrop from library** (Izaberi pozadinu iz biblioteke).
-    
-    ![screenshot](images/band-stage-choose.png)
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
-+ Klikni na **Indoors** (Unutrašnji prostor), zatim klikni na stage backdrop (pozadinu pozornice) i, nakon toga, na **OK**.
-    
-    ![screenshot](images/band-backdrop.png)
+\--- task \---
 
-+ Sada bi trebalo da tvoja pozornica izgleda ovako:
-    
-    ![screenshot](images/band-stage.png)
+First add the **Music** extension so you can play instruments.
+
+Click on the **Add extension** button in the bottom left-hand corner.
+
+![add extension button highlighted](images/add-extension-annotated.png)
+
+Click on the **Music** extension to add it.
+
+![pen extension highlighted](images/click-music-annotated.png)
+
+\--- /task \---
+
+\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+
+\--- no-print \---
+
+![screenshot](images/connect-block.gif)
+
+\--- /no-print \---
+
+\--- print-only \---
+
+![blocks_1545292394_8911092](images/blocks_1545292394_8911092.png) \--- /print-only \---
+
+Make sure that the blocks are connected together (like LEGO bricks).
+
+\--- /task \---
+
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
