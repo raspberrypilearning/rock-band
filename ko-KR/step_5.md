@@ -1,11 +1,13 @@
-## 드럼 만들기
+## Challenge: improving your drum
 
-드럼을 치면 소리가 나도록 코드를 만들어 봅시다.
+Can you change the sound that the drum makes when it's clicked?
 
-스크립트 탭에서 색으로 분류되어있는 코드 블럭들을 찾을 수 있어요.
+![screenshot](images/band-drum-sound.png)
 
-+ 드럼 스프라이트를 클릭하고 다음 두 블록을 오른쪽의 코드 공간으로 드래그 해 주세요. 블록들이 잘 연결 돼 있는지 확인하세요 (마치 레고처럼요!):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![스크린 샷](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ 드럼을 클릭하여 우리가 만든 새 악기를 테스트 해 봐요!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
