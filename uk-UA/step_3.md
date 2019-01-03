@@ -1,29 +1,15 @@
-## Спрайти
+## The Stage
 
-Перш ніж почати кодування, вам потрібно додати "щось", щоб кодувати. У Скретчі, це "щось" називають ** спрайтами **.
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
-+ Спочатку відкрийте редактор Скретч. Ви можете знайти онлайн-редактор Скретч за адресою <a href="http://jumpto.cc/scratch-new" target="_blank"> jumpto.cc/scratch-new </a>. Це виглядає так:
-    
-    ![скріншот](images/band-scratch.png)
+\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-+ Спрайт кіт, якого ви можете побачити, - це талісман Скретч. Давайте позбавимось кота, клацнувши на нього правою кнопкою миші, а потім **видалити**.
-    
-    ![скріншот](images/band-delete.png)
+![screenshot](images/band-stage-choose.png) \--- /task \---
 
-+ Далі, натисніть **вибрати спрайт з бібліотеки** щоб відкрити список всіх спрайтів Скретчу.
-    
-    ![скріншот](images/band-sprite-library.png)
+\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
-+ Прокрутіть вниз, поки не побачите барабанний спрайт. Натисніть на барабан і натисніть ** OK ** щоб додати його до вашого проекту.
-    
-    ![скріншот](images/band-sprite-drum.png)
+![screenshot](images/band-backdrop.png) \--- /task \---
 
-+ Натисніть значок ** зменшити **, а потім кілька разів клацніть по барабані, щоб зробити його меншим.
-    
-    ![скріншот](images/band-shrink.png)
+\--- task \--- Your stage should now look similar to this:
 
-Дайте назву вашій програмі, набравши її в текстовому полі в лівому верхньому куті.
-
-Згодом ви можете натиснути на ** Файл **, а потім ** Зберегти зараз **, щоб зберегти ваш проект. Якщо у вас немає облікового запису Скретч, ви можете зберегти копію свого проекту, натиснувши натомість ** Завантажити на свій комп'ютер **.
-
-![скріншот](images/band-save.png)
+![screenshot](images/band-stage.png) \--- /task \---
