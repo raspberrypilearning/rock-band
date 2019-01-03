@@ -1,29 +1,15 @@
-## الكائنات
+## The Stage
 
-قبل أن تتمكن من البدء في البرمجة، ستحتاج إلى إضافة 'شيء' لتبرمج. في برنامج Scratch، تسمى هذه "الأشياء" **بالكائنات**.
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
-+ أولًا، افتح محرر الرسم لبرنامج Scratch، يمكنك العثور على محرر الرسم لبرنامج Scratch عبر الإنترنت على <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>، و يبدو بهذا الشكل:
-    
-    ![لقطة شاشة](images/band-scratch.png)
+\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-+ إن كائن القطة الذي تراه هو شعار برنامج Scratch، لنحذف هذا الكائن بالنقر عليه بزر الماوس الأيمن ثم النقر فوق **حذف**.
-    
-    ![لقطة الشاشة](images/band-delete.png)
+![screenshot](images/band-stage-choose.png) \--- /task \---
 
-+ بعد ذلك، **انقر فوق اختيار كائن من المكتبة** لفتح قائمة تحتوي على كل كائنات برنامج Scratch.
-    
-    ![لقطة الشاشة](images/band-sprite-library.png)
+\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
-+ مرِّر إلى أسفل إلى أن ترى كائن الطبلة، وانقر فوق الطبلة، ثم انقر فوق **موافق** لإضافته إلى المشروع.
-    
-    ![لقطة الشاشة](images/band-sprite-drum.png)
+![screenshot](images/band-backdrop.png) \--- /task \---
 
-+ انقر فوق أيقونة **تقليص**، ثم انقر فوق الطبلة عدة مرات لتصغيرها.
-    
-    ![لقطة الشاشة](images/band-shrink.png)
+\--- task \--- Your stage should now look similar to this:
 
-سمِّ برنامجك بكتابة اسم في مربع النص في الزاوية العلوية اليمنى.
-
-يمكنك بعد ذلك النقر فوق **ملف** ثم **حفظ الآن** لحفظ مشروعك. إذا لم يكن لديك حساب على Scratch، فيمكنك أن تحفظ نسخة من مشروعك بالنقر فوق **تنزيل إلى جهازي** بدلًا من ذلك.
-
-![لقطة الشاشة](images/band-save.png)
+![screenshot](images/band-stage.png) \--- /task \---
