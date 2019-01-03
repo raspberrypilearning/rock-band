@@ -1,24 +1,35 @@
-## Роблячи виконавця
+## Costumes
 
-Давайте додамо виконавця до вашої групи!
+Now you will make your singer look like she's singing!
 
-+ Додайте ще два спрайта на вашу сцену: виконавця та мікрофон.
-    
-    ![скріншот](images/band-singer-mic.png)
+\--- task \--- You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
 
-+ Перш ніж ваш виконавець зможе співати, вам потрібно додати звук вашому спрайту. Переконайтеся, що ви вибрали свого виконавця, потім натисніть вкладку Звуки та натисніть ** Вибрати звук із бібліотеки **:
-    
-    ![скріншот](images/band-import-sound.png)
+![screenshot](images/band-singer-costume-annotated.png) \--- /task \---
 
-+ Якщо натиснути кнопку ** Вокал ** на лівій стороні, ви зможете вибрати відповідний звук для вашого спрайту.
-    
-    ![скріншот](images/band-choose-sound.png)
+\--- task \--- Right-click on the costume and then click on **duplicate** to create a copy of it.
 
-+ Тепер, коли звук був доданий, ви можете додати цей код до свого виконавця:
-    
-    ```blocks
-        коли клацаєте на спрайт
-        відіграти звук [singer1 v] поки не завершиться
-    ```
+![screenshot](images/band-singer-duplicate.png) \--- /task \---
 
-+ Натисніть на свою співачку і подивіться, що станеться. Вона співає?
+\--- task \--- Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+
+![screenshot](images/band-singer-click.png) \--- /task \---
+
+\--- task \--- The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+
+![screenshot](images/band-singer-name-annotated.png) \--- /task \---
+
+\--- task \--- Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
+
+![blocks_1545292399_6109073](images/blocks_1545292399_6109073.png)
+
+The code block for changing the costume is in the `Looks`{:class="block3looks"} section. \--- /task \---
+
+\--- task \--- Click on your singer on the stage. Does she look like she is singing? \--- /task \---
+
+\--- task \--- Now make your drum look like it's being hit!
+
+![screenshot](images/band-drum-final.png)
+
+- Use the instructions for changing your singer sprite's costume to help you.
+
+Remember to test that your new code works! \--- /task \---
