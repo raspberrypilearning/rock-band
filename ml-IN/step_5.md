@@ -1,11 +1,13 @@
-## ഒരു ഡ്രം ഉണ്ടാക്കുക
+## Challenge: improving your drum
 
-നിങ്ങളുടെ ശബ്ദം കേടുവരുമ്പോൾ ശബ്ദമുണ്ടാക്കാൻ അനുവദിക്കുക.
+Can you change the sound that the drum makes when it's clicked?
 
-നിങ്ങൾക്ക് സ്ക്രിപ്റ്റുകൾ ടാബിൽ കോഡ് ബ്ലോക്കുകൾ കണ്ടെത്താം, അവ എല്ലാ നിറത്തിലും നൽകിയിരിക്കുന്നു!
+![screenshot](images/band-drum-sound.png)
 
-+ ഡ്രം സ്പ്രിറ്റ് ക്ലിക്കുചെയ്യുക, തുടർന്ന് ഈ രണ്ട് ബ്ലോക്കുകൾ വലതുഭാഗത്ത് കോഡ് ഏരിയയിലേക്ക് വലിച്ചിടുക, അവർ ഒരുമിച്ച് കണക്റ്റുചെയ്തിട്ടുണ്ടെന്ന് ഉറപ്പുവരുത്തുക (ലെഗോ ബ്ലോക്കുകൾ പോലെ):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![സ്ക്രീൻഷോട്ട്](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ നിങ്ങളുടെ പുതിയ ഉപകരണം ശ്രമിക്കാൻ ഡ്രം ക്ലിക്കുചെയ്യുക!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
