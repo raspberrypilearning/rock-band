@@ -1,15 +1,37 @@
-## O palco
+## Making a drum
 
-O **palco** é a área à esquerda e é onde o seu projeto ganha vida. Pense nele como uma área de performance, assim como um palco real!
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-+ Até o momento, o palco é branco e parece muito chato! Vamos adicionar um pano de fundo ao palco, clicando em **Escolher pano de fundo da biblioteca**.
-    
-    ![screenshot](images/band-stage-choose.png)
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
-+ Clique **Interior** à esquerda e, em seguida, clique em um cenário e clique em **OK**.
-    
-    ![screenshot](images/band-backdrop.png)
+\--- task \---
 
-+ Seu palco deve ficar assim:
-    
-    ![screenshot](images/band-stage.png)
+First add the **Music** extension so you can play instruments.
+
+Click on the **Add extension** button in the bottom left-hand corner.
+
+![add extension button highlighted](images/add-extension-annotated.png)
+
+Click on the **Music** extension to add it.
+
+![pen extension highlighted](images/click-music-annotated.png)
+
+\--- /task \---
+
+\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+
+\--- no-print \---
+
+![screenshot](images/connect-block.gif)
+
+\--- /no-print \---
+
+\--- print-only \---
+
+![blocks_1545292394_8911092](images/blocks_1545292394_8911092.png) \--- /print-only \---
+
+Make sure that the blocks are connected together (like LEGO bricks).
+
+\--- /task \---
+
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
