@@ -1,27 +1,29 @@
-## Disfraces
+## Challenge: improve your band
 
-¡Hagamos que su cantante se vea como si estuviera cantando!
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-+ También puedes cambiar el aspecto de tu sprite cantante cuando se presiona creando un nuevo disfraz. Haga clic en la pestaña Disfraces y verá la imagen del cantante.
-    
-    ![captura de pantalla](images/band-singer-costume.png)
+![screenshot](images/band-ideas-sounds.png)
 
-+ Haz clic derecho en el disfraz y presiona **duplicar** para crear una copia del disfraz.
-    
-    ![captura de pantalla](images/band-singer-duplicate.png)
+![blocks_1545292400_722095](images/blocks_1545292400_722095.png)
 
-+ Haz clic en el nuevo disfraz (llamado 'Cantante2'), y selecciona la herramienta línea para dibujar líneas para que parezca que tu cantante haga un sonido.
-    
-    ![captura de pantalla](images/band-singer-click.png)
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-+ Los nombres de los disfraces no son muy útiles en este momento. Cambie el nombre de los dos disfraces para que se denominen "no cantando" y "cantando" escribiendo el nuevo nombre de cada disfraz en el cuadro de texto.
-    
-    ![captura de pantalla](images/band-singer-name.png)
+![screenshot](images/band-piano.png)
 
-+ Ahora que tienes dos disfraces diferentes para tu cantante, ¡puedes elegir qué disfraz se muestra! Agrega estos dos bloques a tu cantante:
-    
-    ![captura de pantalla](images/band-looks.png)
-    
-    El bloque de código para cambiar de disfraz se encuentra en la pestaña `Apariencia` {:class="blocklooks"}.
+You can use more sprites from the library, and you can also paint your own sprites!
 
-+ Haz clic en tu cantante. ¿Parece que está cantando?
+![screenshot](images/band-draw.png)
+
+## \--- collapse \---
+
+## title: Why is my sprite 'jumping' when it changes costume?
+
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+
+To fix this, make sure that the centres of your sprite's costumes are the same.
+
+\--- /collapse \---
+
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+
+![screenshot](images/band-io.png)
