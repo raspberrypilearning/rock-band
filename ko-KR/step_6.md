@@ -1,19 +1,29 @@
-\--- challenge \---
+## Making a singer
 
-## 도전 과제 : 더 좋은 드럼 만들기
+Now you will add a singer to your band!
 
-+ 드럼을 클릭했을 때 나는 소리를 바꿀 수 있나요?
+\--- task \---
 
-![스크린 샷](images/band-drum-sound.png)
+Add a singer sprite to your Stage.
 
-+ 또, 스페이스바를 눌렀을 때에도 드럼이 소리가 나게 할 수 있나요? 다음의 `이벤트`{:class="blockevents"} 블럭을 사용해야 됩니다:
+![스크린 샷](images/band-singer-mic.png)
 
-```blocks
-    [space v] 키를 눌렀을 때
-```
+[[[generic-scratch3-sprite-from-library]]]
 
-이미 있는 코드는 우클릭해서 **복사**를 눌러서 복사 할 수 있습니다.
+\--- /task \---
 
-![스크린 샷](images/band-duplicate-code.png)
+\--- task \---
 
-\--- /challenge \---
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+
+![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+
+\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png) \--- /task \---
+
+\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+
+![blocks_1545292398_5148375](images/blocks_1545292398_5148375.png) \--- /task \---
+
+\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
