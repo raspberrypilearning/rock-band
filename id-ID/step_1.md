@@ -33,15 +33,15 @@ Pelajari cara membuat kode alat musik Kamu sendiri!
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Apa yang kamu butuhkan
 
-#### Hardware
+#### Perangkat keras
 
-+ A computer capable of running Scratch 3
++ Komputer yang mampu menjalankan Scratch 3
 
-#### Software
+#### Perangkat lunak
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (baik [online](http://rpf.io/scratchon){:target="_blank"} atau [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
