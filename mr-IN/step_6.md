@@ -1,19 +1,29 @@
-\--- आव्हान \---
+## Making a singer
 
-## आव्हान: आपले ड्रम सुधारित करणे
+Now you will add a singer to your band!
 
-+ आपण क्लिक केले की ड्रम तयार करते तेव्हा ध्वनी बदलू शकता का?
+\--- task \---
 
-![स्क्रीनशॉट](images/band-drum-sound.png)
+Add a singer sprite to your Stage.
 
-+ स्पेसबार दाबल्यावरही आपण ड्रम प्राप्त करू शकता? आपल्याला हे `घटना`{: class = "blockevents"} ब्लॉक वापरण्याची आवश्यकता असेल:
+![स्क्रीनशॉट](images/band-singer-mic.png)
 
-```blocks
-    जेव्हा [space v] कळ दाबली
-```
+[[[generic-scratch3-sprite-from-library]]]
 
-आपण आपला विद्यमान कोड त्यावर उजवे क्लिक करुन कॉपी करून **डुप्लिकेट**वर क्लिक करू शकता.
+\--- /task \---
 
-![स्क्रीनशॉट](images/band-duplicate-code.png)
+\--- task \---
 
-\--- / आव्हान \---
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+
+![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+
+\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png) \--- /task \---
+
+\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+
+![blocks_1545292398_5148375](images/blocks_1545292398_5148375.png) \--- /task \---
+
+\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
