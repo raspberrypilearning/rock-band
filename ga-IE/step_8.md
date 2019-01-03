@@ -1,27 +1,29 @@
-## Costumes
+## Challenge: improve your band
 
-Let's make your singer look like she's singing!
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-+ You can also change how your singer sprite looks when it's clicked by creating a new costume. Click the Costumes tab, and you'll see the singer image.
-    
-    ![screenshot](images/band-singer-costume.png)
+![screenshot](images/band-ideas-sounds.png)
 
-+ Right-click on the costume and click **duplicate** to create a copy of the costume.
-    
-    ![screenshot](images/band-singer-duplicate.png)
+![blocks_1545292400_722095](images/blocks_1545292400_722095.png)
 
-+ Click on the new costume (called 'Singer2'), and then select the line tool and draw lines to make it look like your singer is making a sound.
-    
-    ![screenshot](images/band-singer-click.png)
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-+ The names of the costumes aren't very helpful at the moment. Rename the two costumes so they are called 'not singing' and 'singing' by typing the new name of each costume into the text box.
-    
-    ![screenshot](images/band-singer-name.png)
+![screenshot](images/band-piano.png)
 
-+ Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two blocks to your singer:
-    
-    ![screenshot](images/band-looks.png)
-    
-    The code block for changing the costume is in the `Looks`{:class="blocklooks"} section.
+You can use more sprites from the library, and you can also paint your own sprites!
 
-+ Click on your singer. Does she look like she is singing?
+![screenshot](images/band-draw.png)
+
+## \--- collapse \---
+
+## title: Why is my sprite 'jumping' when it changes costume?
+
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+
+To fix this, make sure that the centres of your sprite's costumes are the same.
+
+\--- /collapse \---
+
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+
+![screenshot](images/band-io.png)
