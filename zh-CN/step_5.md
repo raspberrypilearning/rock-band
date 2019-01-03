@@ -1,11 +1,13 @@
-## 制作一面鼓
+## Challenge: improving your drum
 
-让我们为鼓编写代码，让它被敲击时会发出声音。
+Can you change the sound that the drum makes when it's clicked?
 
-你可以在脚本选项卡中找到所有代码块，他们都用颜色做了区分。
+![screenshot](images/band-drum-sound.png)
 
-+ 点击鼓，然后将下面2个代码块拖动到右侧编码区域，确保他们像乐高积木一样拼接在一起：
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![截屏](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ 点击鼓，试一下你的新乐器！
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
