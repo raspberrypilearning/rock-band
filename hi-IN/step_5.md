@@ -1,11 +1,13 @@
-## ड्रम बनाना
+## Challenge: improving your drum
 
-आइए अपने ड्रम को कोड करें कि जब इसको मारा जाए तो यह ध्वनि निकले।
+Can you change the sound that the drum makes when it's clicked?
 
-आप Scripts टैब में कोड ब्लॉक खोज सकते हैं, और वे सभी कोड रंगीन होते हैं!
+![screenshot](images/band-drum-sound.png)
 
-+ ड्रम स्प्राइट पर क्लिक करें, और फिर इन दो ब्लॉक को दाईं ओर कोड क्षेत्र में खींचें, सुनिश्चित करते हुये कि वे सभी आपस में जुड़ जाए (Lego blocks की तरह):
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
-![स्क्रीनशॉट](images/connect-block.gif)
+![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
 
-+ अपने नए उपकरण को आजमाने के लिए ड्रम पर क्लिक करें!
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
+
+![screenshot](images/band-duplicate-code.png)
