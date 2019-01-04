@@ -12,7 +12,7 @@ Jika Anda perlu mengunduh dan menginstal editor Scratch offline, Anda dapat mene
 
 Tampak seperti ini:
 
-![tangkapan layar](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![tangkapan layar](images/band-scratch.png) \---/task\--- \---tugas\--- Sprite kucing yang dapat Anda lihat adalah maskot awal. Anda tidak perlu untuk permainan ini, sehingga menyingkirkan dengan mengklik kanan itu dan kemudian mengklik **Hapus**.
 
 ![tangkapan layar](images/band-delete-annotated.png) \--- /tugas \---
 
@@ -26,7 +26,7 @@ Tampak seperti ini:
 
 \--- /tugas \---
 
-\--- task \---
+\--- tugas \---
 
 Klik dan seret drum ke bawah panggung.
 
