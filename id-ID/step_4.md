@@ -6,27 +6,27 @@ Anda dapat menemukan blok kode di tab Script, dan semuanya diberi kode warna!
 
 \--- tugas \---
 
-First add the **Music** extension so you can play instruments.
+Pertama-tama tambahkan **Music** ekstensi sehingga Anda dapat memainkan instrumen.
 
 Click on the **Add extension** button in the bottom left-hand corner.
 
 ![add extension button highlighted](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+Klik pada ** Musik ** ekstensi untuk menambahkannya.
 
 ![pen extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- task \--- Klik pada drum sprite, lalu seret kedua blok ini ke area kode di sebelah kanan:
 
 \--- no-print \---
 
 ![screenshot](images/connect-block.gif)
 
-\--- /no-print \---
+\--- /tidak-dicetak \---
 
-\--- print-only \---
+\--- hanya-cetak \---
 
 ![blocks_1545292394_8911092](images/blocks_1545292394_8911092.png) \--- /print-only \---
 
