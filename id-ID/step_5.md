@@ -1,4 +1,4 @@
-## Challenge: improving your drum
+## Tantangan: tingkatkan band kamu
 
 Can you change the sound that the drum makes when it's clicked?
 
