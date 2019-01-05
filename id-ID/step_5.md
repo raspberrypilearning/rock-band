@@ -1,13 +1,13 @@
 ## Tantangan: tingkatkan band kamu
 
-Can you change the sound that the drum makes when it's clicked?
+Bisakah kamu mengubah suara yang dihasilkan drum saat diklik?
 
-![screenshot](images/band-drum-sound.png)
+![tangkapan layar](images/band-drum-sound.png)
 
-Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
+Bisakah Anda juga membuat drum mengeluarkan suara ketika bilah spasi ditekan? Anda harus menggunakan blok `event ` {: class = "block3events"} ini:
 
-![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
+![blok_1545292397_394398](images/blocks_1545292397_394398.png)
 
-If you want to copy your existing code, right-click on it and then click on **duplicate**.
+Jika kamu ingin menyalin kode yang ada, klik kanan dan kemudian klik ** duplikat **.
 
-![screenshot](images/band-duplicate-code.png)
+![tangkapan layar](images/band-duplicate-code.png)
