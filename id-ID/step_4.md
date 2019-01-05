@@ -10,11 +10,11 @@ Pertama-tama tambahkan **Music** ekstensi sehingga Anda dapat memainkan instrume
 
 Click on the **Add extension** button in the bottom left-hand corner.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![tambahkan tombol ekstensi yang disorot](images/add-extension-annotated.png)
 
 Klik pada ** Musik ** ekstensi untuk menambahkannya.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![ekstensi pena disorot](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -22,16 +22,16 @@ Klik pada ** Musik ** ekstensi untuk menambahkannya.
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![tangkapan layar](images/connect-block.gif)
 
 \--- /tidak-dicetak \---
 
 \--- hanya-cetak \---
 
-![blocks_1545292394_8911092](images/blocks_1545292394_8911092.png) \--- /print-only \---
+![blok_1545292394_8911092](images/blocks_1545292394_8911092.png) \--- /print-only \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Pastikan bahwa blok-blok tersebut saling terhubung (seperti batu bata LEGO).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- tugas \--- Klik pada drum untuk mencoba instrumen baru kamu! \--- / tugas \---
