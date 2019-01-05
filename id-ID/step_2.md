@@ -1,4 +1,4 @@
-## Gambar
+## Sprite
 
 Sebelum kamu dapat mulai coding, Anda harus menambahkan 'hal' kode. Di awal, ini 'hal' disebut **sprite**.
 
