@@ -1,4 +1,4 @@
-## Making a singer
+## Membuat penyanyi
 
 Now you will add a singer to your band!
 
