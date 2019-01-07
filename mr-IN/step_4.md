@@ -1,8 +1,8 @@
-## Making a drum
+## ड्रम बनवत आहे
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+आता आपण आपल्या ड्रममध्ये कोड जोडू शकता जेणेकरून क्लिक केल्यावर ड्रम आवाज निर्माण करेल.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+आपण स्क्रीप्ट टॅबमध्ये कोड ब्लॉक शोधू शकता आणि ते सर्व रंग-कोडित आहेत!
 
 \--- task \---
 
