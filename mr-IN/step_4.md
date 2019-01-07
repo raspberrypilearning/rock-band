@@ -6,15 +6,15 @@
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+प्रथम **Music** विस्तार म्हणून आपण वाद्य वाजवू शकता.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+** Add Extension ** वर क्लिक करा खाली डाव्या बाजूला कोपर्यात बटण.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![हायलाइट केलेले विस्तार बटण जोडा](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+** Music ** वर क्लिक करा तो जोडण्यासाठी विस्तार.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![कलम विस्तार हायलाइट](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -22,7 +22,7 @@ Click on the **Music** extension to add it.
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![स्क्रीनशॉट](images/connect-block.gif)
 
 \--- /no-print \---
 
