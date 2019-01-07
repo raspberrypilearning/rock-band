@@ -1,6 +1,6 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+हे ** स्क्रॅच 3 आहे ** प्रकल्पाची आवृत्ती. प्रकल्पाची [ स्क्रॅच 2 आवृत्ती देखील आहे ](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
@@ -18,43 +18,43 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- / no-print \---
 
-\--- only print \--- आपण गायन किंवा ड्रम आवाज ऐकण्यास गायक किंवा ड्रम वर क्लिक करू शकता, जेथे एक खेळ करेल.
+\--- print-only \--- आपण गायन किंवा ड्रम आवाज ऐकण्यास गायक किंवा ड्रम वर क्लिक करू शकता, जेथे एक खेळ करेल.
 
-![game screenshot](images/demo.png) \--- / केवळ प्रिंट \---
+![गेम स्क्रीनशॉट](images/demo.png) \--- / print-only \---
 
 ## \--- collapse \---
 
 ## आपण काय शिकू
 
 + स्क्रॅच प्रकल्पामध्ये स्पिट्ज आणि पार्श्वभूमी कशी जोडावी
-+ How to change a sprite's costume
-+ How to make sprites react when they are clicked
-+ How to play sounds in Scratch \--- /collapse \---
++ एक Sprite च्या पोशाख कसा बदलावा
++ जेव्हा स्प्रीट क्लिक करतात तेव्हा त्यांना कशी प्रतिक्रिया दिली जाते
++ कसे ओरखडा आवाज खेळायला \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: आपल्याला कशाची आवश्यकता लागेल
 
-#### Hardware
+#### हार्डवेअर
 
-+ A computer capable of running Scratch 3
++ स्क्रॅच 3 चालविण्यासाठी सक्षम संगणक
 
-#### Software
+#### सॉफ्टवेअर
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ स्क्रॅच 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: शिक्षकांसाठी अतिरिक्त माहिती
 
-\--- no-print \---
+\--- / no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+आपल्यला हा प्रकल्प प्रिंट करणे आवश्यक असल्यास, कृपया [छपाईयंत्र अनुकूल आवृत्ती](https://projects.raspberrypi.org/en/projects/rock-band/print){: target = "_ blank"}.
 
-\--- /no-print \---
+\--- / no-print \---
 
-You can download the completed project at [rpf.io/p/rock-band-get](http://rpf.io/p/en/rock-band-get).
+आपण पूर्ण प्रकल्प [ rpf.io/p/rock-band-get येथे डाउनलोड करू शकता ](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
