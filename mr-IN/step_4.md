@@ -18,7 +18,7 @@
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- task \--- ड्रम स्प्राइटवर क्लिक करा आणि नंतर या दोन ब्लॉक्सला कोड क्षेत्रामध्ये उजवीकडे खेचा:
 
 \--- no-print \---
 
@@ -30,8 +30,8 @@
 
 ![blocks_1545292394_8911092](images/blocks_1545292394_8911092.png) \--- /print-only \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+खात्री करा की ब्लॉक एकत्र जोडलेले आहेत (जसे की लेगो ब्रिक्स).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- आपले नवीन साधन वापरून ड्रमवर क्लिक करा! \--- /task \---
