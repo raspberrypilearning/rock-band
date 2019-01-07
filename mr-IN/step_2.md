@@ -1,18 +1,18 @@
-## Sprites
+## स्प्राइट्स
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+आपण कोडिंग प्रारंभ करण्यापूर्वी आपल्याला कोडवर 'गोष्टी' मध्ये जोडण्याची आवश्यकता असेल. स्क्रॅचमध्ये, या गोष्टींना ** स्पिट्स् म्हणतात **.
 
-\--- task \--- Open a new Scratch project.
+\--- task \--- नवीन स्क्रॅच प्रकल्प उघडा.
 
-**Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+** ऑनलाइन: ** [ rpf.io/scratchon वर एक नवीन ऑनलाइन स्क्रॅच प्रकल्प उघडा ](http://rpf.io/scratchon) {:target = "_ blank"}.
 
-**Offline:** open a new project in the offline editor.
+** ऑफलाइनः ** ऑफलाइन संपादकात नवीन प्रकल्प उघडा.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+आपल्याला स्क्रॅच ऑफलाइन संपादक डाउनलोड आणि स्थापित करणे आवश्यक असल्यास, आपण ते [ rpf.io/scratchoff येथे शोधू शकता ](http://rpf.io/scratchoff) {:target = "_ blank"}.
 
-It looks like this:
+असे दिसते:
 
-![screenshot](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![स्क्रीनशॉट](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
 ![screenshot](images/band-delete-annotated.png) \--- /task \---
 
