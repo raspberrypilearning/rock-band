@@ -1,15 +1,15 @@
-## The Stage
+## स्टेज
 
-The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+** Stage ** हे क्षेत्र उजवीकडे आहे आणि जिथे आपले प्रोजेक्ट आयुष्याकडे येते. वास्तविक टप्प्याप्रमाणे कार्यप्रदर्शन क्षेत्र म्हणून याचा विचार करा!
 
-\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+\--- task \--- या क्षणी, स्टेज पांढरा आहे आणि बरीच कंटाळवाणा वाटते! ** Choose a backdrop ** वर क्लिक करून त्यात एक पार्श्वभूमी जोडा.
 
-![screenshot](images/band-stage-choose.png) \--- /task \---
+![स्क्रीनशॉट](images/band-stage-choose.png) \--- /task \---
 
-\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+\--- task \--- **Indoors** वर क्लिक करा शीर्षस्थानी यादीमध्ये. नंतर थियेटर पार्श्वभूमीवर क्लिक करा.
 
-![screenshot](images/band-backdrop.png) \--- /task \---
+![स्क्रीनशॉट](images/band-backdrop.png) \--- /task \---
 
-\--- task \--- Your stage should now look similar to this:
+\--- task \--- आपला मंच आता या सारखाच दिसतो:
 
-![screenshot](images/band-stage.png) \--- /task \---
+![स्क्रीनशॉट](images/band-stage.png) \--- /task \---
