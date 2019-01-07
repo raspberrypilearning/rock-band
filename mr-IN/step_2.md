@@ -12,32 +12,32 @@
 
 असे दिसते:
 
-![स्क्रीनशॉट](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![स्क्रीनशॉट](images/band-scratch.png) \--- /task \--- \--- task \--- आपण पाहू शकता ती मांजर स्प्रेड स्क्रॅच मास्कॉट आहे. आपल्याला या गेमसाठी याची आवश्यकता नाही, म्हणून त्यास उजवे क्लिक करुन आणि ** delete **वर क्लिक करून त्यास सुटका करा.
 
-![screenshot](images/band-delete-annotated.png) \--- /task \---
+![स्क्रीनशॉट](images/band-delete-annotated.png) \--- /task \---
 
-\--- task \--- Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+\--- task \--- पुढे, लायब्ररीमधून स्पिईट निवडा ** वर क्लिक करा ** सर्व स्क्रॅच sprites एक यादी उघडण्यासाठी.
 
-![screenshot](images/band-sprite-library.png) \--- /task \---
+![स्क्रीनशॉट](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- Scroll down until you see a drum sprite. Click on a drum, and click on **OK** to add it to your project.
+\--- task \--- ड्रम स्प्राइट पहाईपर्यंत खाली स्क्रोल करा. ड्रमवर क्लिक करा आणि ** ओके वर क्लिक करा ** आपल्या प्रकल्पात जोडण्यासाठी.
 
-![screenshot](images/band-sprite-drum.png)
+![स्क्रीनशॉट](images/band-sprite-drum.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+स्टेजच्या तळाशी ड्रम क्लिक आणि ड्रॅग करा.
 
 \--- /task \---
 
-\--- task \--- Give your program a name by typing one into the text box in the top left-hand corner.
+\--- task \--- आपल्या डाव्या हाताच्या कोपर्यातील टेक्स्ट बॉक्समध्ये एक टाइप करून आपल्या प्रोग्रामला नाव द्या.
 
-![name](images/band-name.png)
+![नाव](images/band-name.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+मग ** File वर क्लिक करा **, आणि नंतर ** Save now करा ** आपला प्रकल्प जतन करण्यासाठी.
 
-If you don't have a Scratch account, you can save a copy of your project by clicking on **Download to your computer** instead.
+आपल्याकडे स्क्रॅच खाते नसल्यास, आपण आपल्या प्रोजेक्टची कॉपी **Download to your computer** क्लिक करुन जतन करू शकता त्याऐवजी.
 
-![screenshot](images/band-save.png) \--- /task \---
+![स्क्रीनशॉट](images/band-save.png) \--- /task \---
