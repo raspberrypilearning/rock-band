@@ -2,19 +2,19 @@
 
 आता तुम्ही गायक बनवल्यासारखे वाटेल!
 
-\--- task \--- You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
+\--- task \--- नवीन पोशाख तयार करून क्लिक केल्यावर आपल्या गायकांना कसे दिसते ते बदलू शकता. Costumes टॅबवर क्लिक करा आणि आपल्याला गायक पोशाख दिसेल.
 
-![screenshot](images/band-singer-costume-annotated.png) \--- /task \---
+![स्क्रीनशॉट](images/band-singer-costume-annotated.png) \--- /task \---
 
-\--- task \--- Right-click on the costume and then click on **duplicate** to create a copy of it.
+\--- task \--- पोशाखवर उजवे-क्लिक करा आणि नंतर ** Duplicate** वर क्लिक करा त्याची एक प्रत तयार करण्यासाठी.
 
-![screenshot](images/band-singer-duplicate.png) \--- /task \---
+![स्क्रीनशॉट](images/band-singer-duplicate.png) \--- /task \---
 
-\--- task \--- Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+\--- कार्य \--- नवीन पोशाख वर क्लिक करा ('Singer 2' म्हटले जाते), आणि नंतर लाइन टूल निवडा आणि रेषा काढा म्हणजे असे दिसते की आपला गायक आवाज काढत आहे.
 
-![screenshot](images/band-singer-click.png) \--- /task \---
+![स्क्रीनशॉट](images/band-singer-click.png) \--- /task \---
 
-\--- task \--- The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+\--- task \--- या वेळी पोशाखांची नावे फारच उपयुक्त नाहीत. त्यांचे नाव 'गायन' आणि 'गायन' मध्ये बदलण्यासाठी पोशाखांच्या मजकूर बॉक्समध्ये टाइप करा.
 
 ![स्क्रीनशॉट](images/band-singer-name-annotated.png) \--- /task \---
 
