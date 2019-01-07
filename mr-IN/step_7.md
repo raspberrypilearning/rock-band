@@ -1,6 +1,6 @@
-## Costumes
+## पोशाख
 
-Now you will make your singer look like she's singing!
+आता तुम्ही गायक बनवल्यासारखे वाटेल!
 
 \--- task \--- You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
 
