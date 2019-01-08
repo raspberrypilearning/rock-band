@@ -3,12 +3,12 @@ hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
 title: Rock band
-description: În acest proiect vei învăța să creezi propiul tău instrument muzical!
+description: Învață cum să creezi propriile tale instrumente muzicale
 version: 4.1.0
 last_tested: 2018-10-12
 steps:
   - 
-    title: Rock Band
+    title: Introducere
   - 
     title: Sprites
   - 
