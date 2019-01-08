@@ -1,29 +1,29 @@
 ## Membuat penyanyi
 
-Now you will add a singer to your band!
+Sekarang Anda akan menambahkan penyanyi ke band Anda!
 
-\--- task \---
+\--- tugas \---
 
-Add a singer sprite to your Stage.
+Tambahkan sprite penyanyi ke Panggung Anda.
 
 ![tangkapan layar](images/band-singer-mic.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
-\--- /task \---
+\--- /tugas \---
 
-\--- task \---
+\--- tugas \---
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+Sebelum Anda dapat membuat penyanyi Anda bernyanyi, Anda perlu menambahkan suara ke sprite penyanyi Anda. Pastikan Anda telah memilih sprite penyanyi Anda, lalu klik pada tab Suara, dan klik pada ** Pilih suara **:
 
-![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+![tangkapan layar](images/band-import-sound-annotated.png) \--- /tugas \---
 
-\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+\--- tugas \--- Klik pada ** Suara ** dalam daftar di bagian atas, dan kemudian pilih suara untuk ditambahkan ke sprite Anda.
 
-![screenshot](images/band-choose-sound.png) \--- /task \---
+![tangkapan layar](images/band-choose-sound.png) \--- /tugas \---
 
-\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+\--- tugas \--- Untuk menggunakan suara, tambahkan blok kode berikut ke sprite penyanyi Anda:
 
-![blocks_1545292398_5148375](images/blocks_1545292398_5148375.png) \--- /task \---
+![blok_1545292398_5148375](images/blocks_1545292398_5148375.png) \--- /tugas \---
 
-\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
+\--- tugas \--- Klik pada penyanyi Anda di atas panggung dan lihat apa yang terjadi. Apakah dia bernyanyi? \--- / tugas \---
