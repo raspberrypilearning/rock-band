@@ -8,7 +8,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 Learn how to code your own musical instruments!
 
-### Ce ai de făcut
+### Ce vei face
 
 \--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
