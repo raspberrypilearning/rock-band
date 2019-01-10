@@ -6,11 +6,11 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## Увод
 
-Learn how to code your own musical instruments!
+Научи како да програмираш сопствене музичке уређаје!
 
 ### Шта ћеш направити
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- no-print \--- Кликни на зелену заставицу да почнеш. Затим кликни на певачицу или бубањ да чујеш како звучи.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -20,11 +20,11 @@ Learn how to code your own musical instruments!
 
 \--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
 
-![game screenshot](images/demo.png) \--- /print-only \---
+![снимак екрана игре](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Шта ћеш научити
 
 + How to add sprites and backgrounds to a Scratch project
 + How to change a sprite's costume
@@ -33,28 +33,28 @@ Learn how to code your own musical instruments!
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Шта ће ти бити потребно
 
-#### Hardware
+#### Хардвер
 
-+ A computer capable of running Scratch 3
++ Рачунар који може да покрене Scratch 3
 
-#### Software
+#### Софтвер
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([на мрежи](http://rpf.io/scratchon){:target="_blank"} или [ван мреже](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Додатне информације за наставнике
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Уколико је потребно да одштампате овај пројекат, молимо Вас користите [Верзију за штампање](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can download the completed project at [rpf.io/p/rock-band-get](http://rpf.io/p/en/rock-band-get).
+Завршени пројекат можете преузети на [rpf.io/p/rock-band-get](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
