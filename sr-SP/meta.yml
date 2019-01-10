@@ -10,20 +10,20 @@ steps:
   - 
     title: Увод
   - 
-    title: Sprites
+    title: Ликови
   - 
-    title: The Stage
+    title: Позорница
   - 
-    title: Making a drum
+    title: Направи бубањ
   - 
-    title: "Challenge: improve your drum"
+    title: "Изазов: Побољшај бубањ"
     challenge: true
   - 
-    title: Making a singer
+    title: Направи певачицу
   - 
-    title: Costumes
+    title: Костими
   - 
-    title: "Challenge: improve your band"
+    title: "Изазов: Побољшај групу"
     challenge: true
   - 
-    title: "What next?"
+    title: "Шта је следеће?"
