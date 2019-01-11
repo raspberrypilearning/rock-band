@@ -1,6 +1,6 @@
-## Sprites
+## Ликови
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Пре него што почнеш са програмирањем, мораш да додаш оно што ћеш програмирати. У Скречу то се зове **лик**.
 
 \--- task \--- Open a new Scratch project.
 
