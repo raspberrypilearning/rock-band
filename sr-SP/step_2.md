@@ -16,7 +16,7 @@ It looks like this:
 
 ![screenshot](images/band-delete-annotated.png) \--- /task \---
 
-\--- task \--- Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+\--- task \--- Затим кликни на **Изабери лик** да би отворио списак свих Скреч ликова.
 
 ![screenshot](images/band-sprite-library.png) \--- /task \---
 
