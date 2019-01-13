@@ -4,9 +4,9 @@ Kodlamayı başlatabilmeniz için projeye bir 'obje' eklemeniz gerekir. Scratch 
 
 \--- task \--- Yeni bir Scratch projesi açın.
 
-**Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+**Çevrimiçi:** Çevrimiçi yeni bir Scratch projesi açmak için [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"} adresine gidin.
 
-**Offline:** open a new project in the offline editor.
+**Çevrimdışı:** Çevrimdışı Düzenleyicide yeni bir proje açın.
 
 If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
