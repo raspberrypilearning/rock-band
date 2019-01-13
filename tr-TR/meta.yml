@@ -10,20 +10,20 @@ steps:
   - 
     title: Giriş
   - 
-    title: Sprites
+    title: Kukla
   - 
-    title: The Stage
+    title: Sahne
   - 
-    title: Making a drum
+    title: Davul yapma
   - 
-    title: "Challenge: improve your drum"
+    title: "Meydan Okuma: Davulunuzu geliştirin"
     challenge: true
   - 
-    title: Making a singer
+    title: Şarkıcı oluşturma
   - 
-    title: Costumes
+    title: Kılık
   - 
-    title: "Challenge: improve your band"
+    title: "Meydan Okuma: müzik grubunuzu geliştirin"
     challenge: true
   - 
-    title: "What next?"
+    title: "Sırada ne var?"
