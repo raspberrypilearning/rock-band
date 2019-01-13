@@ -1,8 +1,8 @@
-## Sprites
+## Kuklalar
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Kodlamayı başlatabilmeniz için projeye bir 'obje' eklemeniz gerekir. Scratch 'de, bu 'objelere' **kukla** denir.
 
-\--- task \--- Open a new Scratch project.
+\--- task \--- Yeni bir Scratch projesi açın.
 
 **Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
 
