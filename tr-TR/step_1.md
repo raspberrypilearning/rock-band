@@ -1,16 +1,16 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+Bu, projenin **Scratch 3** sürümüdür. Projenin aynı zamanda [Scratch 2 sürümü](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) de vardır.
 
 \--- /no-print \---
 
 ## Giriş
 
-Learn how to code your own musical instruments!
+Kendi müzik aletlerinizi nasıl kodlayacağınızı öğrenin!
 
-### Ne yapacaksın
+### Neyi yapacaksınız
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- no-print \--- Başlamak için yeşil bayrağa tıklayın. Daha sonra şarkıcı veya davula tıklayarak seslerinin neye benzediğini duyacaksınız.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,17 +18,17 @@ Learn how to code your own musical instruments!
 
 \--- /no-print \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\--- print-only \--- Bu proje ile şarkıcı veya davula tıklayarak şarkı söylediği ve davul sesi çıkarttığı bir oyun yapacaksınız.
 
 ![game screenshot](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Ne öğreneceksiniz
 
-+ How to add sprites and backgrounds to a Scratch project
-+ How to change a sprite's costume
-+ How to make sprites react when they are clicked
++ Bir Scratch projesine kukla ve dekorun nasıl ekleneceğini
++ Kuklanın kılığını nasıl değiştireceğinizi
++ Tıklandığında kuklaların nasıl tepki vereceğini
 + How to play sounds in Scratch \--- /collapse \---
 
 ## \--- collapse \---
