@@ -20,7 +20,7 @@ It looks like this:
 
 ![screenshot](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- Scroll down until you see a drum sprite. Click on a drum, and click on **OK** to add it to your project.
+\--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
 
 ![screenshot](images/band-sprite-drum.png)
 
