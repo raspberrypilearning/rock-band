@@ -20,7 +20,7 @@ Tampak seperti ini:
 
 ![tangkapan layar](images/band-sprite-library.png) \--- /tugas \---
 
-\--- tugas \--- Gulir ke bawah hingga terlihat sprite drum. Klik pada drum, dan klik ** OK ** untuk menambahkannya ke proyek Anda.
+\--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
 
 ![tangkapan layar](images/band-sprite-drum.png)
 
