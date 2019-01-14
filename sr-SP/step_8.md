@@ -1,29 +1,29 @@
 ## Изазов: Побољшај групу
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+Употреби оно што си научио/ла у овом пројекту да би направио/ла сопствену групу! Можеш да направиш било који инструмент који ти се свиђа, погледај које звукове и инструменте имаш на располагању да би добио/ла идеје.
 
-![screenshot](images/band-ideas-sounds.png)
+![снимак екрана](images/band-ideas-sounds.png)
 
 ![blocks_1545292400_722095](images/blocks_1545292400_722095.png)
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+Твоји инструменти не морају да буду правог изгледа. Можеш, на пример, да направиш клавир од мафина!
 
-![screenshot](images/band-piano.png)
+![снимак екрана](images/band-piano.png)
 
 You can use more sprites from the library, and you can also paint your own sprites!
 
-![screenshot](images/band-draw.png)
+![снимак екрана](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## title: Зашто мој лик 'скаче' када промени костим?
 
-When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+Када прaвиш свог лика, можеш да приметиш, да када кликнеш на њега, лик 'скаче' док мења костим. То је зато што два костима нису центрирана на истом месту.
 
 To fix this, make sure that the centres of your sprite's costumes are the same.
 
 \--- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+Ако имаш микрофон, можеш да снимиш сопствене звукове или чак да користиш веб-камеру да свираш своје инструменте!
 
-![screenshot](images/band-io.png)
+![снимак екрана](images/band-io.png)
