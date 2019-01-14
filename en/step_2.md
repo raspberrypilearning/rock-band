@@ -28,7 +28,7 @@ Next, click on **Choose sprite from library** to open up a list of all the Scrat
 --- /task ---
 
 --- task ---
-Scroll down until you see a drum sprite. Click on a drum, and click on **OK** to add it to your project.
+Scroll down until you see a drum sprite. Click on a drum to add it to your project.
 
 ![screenshot](images/band-sprite-drum.png)
 
