@@ -1,8 +1,8 @@
-## Making a drum
+## Направи бубањ
 
 Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Блокове кода можеш да пронађеш на картици "Програм" и сви су различито обојени!
 
 \--- task \---
 
@@ -22,7 +22,7 @@ Click on the **Music** extension to add it.
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![снимак екрана](images/connect-block.gif)
 
 \--- /no-print \---
 
