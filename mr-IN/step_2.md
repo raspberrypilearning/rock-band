@@ -20,7 +20,7 @@
 
 ![स्क्रीनशॉट](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- ड्रम स्प्राइट पहाईपर्यंत खाली स्क्रोल करा. ड्रमवर क्लिक करा आणि ** ओके वर क्लिक करा ** आपल्या प्रकल्पात जोडण्यासाठी.
+\--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
 
 ![स्क्रीनशॉट](images/band-sprite-drum.png)
 
