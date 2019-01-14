@@ -20,7 +20,7 @@ It looks like this:
 
 ![screenshot](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+\--- task \--- Скролуј ка доле док не угледаш лик бубња. Кликни на бубањ да би га додао/ла у пројекат.
 
 ![screenshot](images/band-sprite-drum.png)
 
