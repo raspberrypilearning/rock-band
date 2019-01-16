@@ -6,8 +6,10 @@
 
 स्पेसबार दाबल्यावर आवाज काढण्यासाठी ड्रम देखील मिळवता येतो का? आपल्याला हे `event` वापरण्याची आवश्यकता असेल{:class= "block3events"} ब्लॉक:
 
-![blocks_1545292397_394398](images/blocks_1545292397_394398.png)
+```blocks3
+when [space v] key pressed
+```
 
-आपण आपला विद्यमान कोड कॉपी करू इच्छित असल्यास, त्यावर उजवे-क्लिक करा आणि नंतर **Duplicate** वर क्लिक करा.
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
 
-![स्क्रीनशॉट](images/band-duplicate-code.png)
+![screenshot](images/band-duplicate-code.png)
