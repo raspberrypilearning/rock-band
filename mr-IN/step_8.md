@@ -4,26 +4,30 @@
 
 ![स्क्रीनशॉट](images/band-ideas-sounds.png)
 
-![blocks_1545292400_722095](images/blocks_1545292400_722095.png)
+```blocks3
+when this sprite clicked
+set instrument to (\(1\) Piano v)
+play note (60) for (0.25) beats
+```
 
-आपले साधन यथार्थवादी असण्याची गरज नाही. उदाहरणार्थ, आपण मफिन्स बनविलेले पियानो बनवू शकता!
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-![स्क्रीनशॉट](images/band-piano.png)
+![screenshot](images/band-piano.png)
 
-आपण लायब्ररीमधील अधिक स्पिटेस वापरू शकता आणि आपण स्वत: चे स्पिरिट देखील रंगवू शकता!
+You can use more sprites from the library, and you can also paint your own sprites!
 
-![स्क्रीनशॉट](images/band-draw.png)
+![screenshot](images/band-draw.png)
 
 ## \--- collapse \---
 
 ## title: पोशाख बदलते तेव्हा माझे स्प्रीट 'जम्पिंग' का आहे?
 
-आपले स्वत: चे स्पिइट तयार करताना, आपल्याला असे दिसून येईल की आपण जेव्हा स्प्राइट क्लिक करता तेव्हा ते कपडे बदलते तेव्हा 'जंप' होते. हे असे आहे कारण दोन पोशाख एकाच ठिकाणी केंद्रित नाहीत.
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
 
-हे निराकरण करण्यासाठी, आपल्या स्प्राइटच्या पोशाखांचे केंद्र समान असल्याचे सुनिश्चित करा.
+To fix this, make sure that the centres of your sprite's costumes are the same.
 
 \--- /collapse \---
 
-आपल्याकडे मायक्रोफोन असल्यास, आपण आपले स्वतःचे ध्वनी रेकॉर्ड करू शकता आणि आपल्या वाद्यांना मारण्यासाठी आपण वेबकॅम देखील वापरू शकता!
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
-![स्क्रीनशॉट](images/band-io.png)
+![screenshot](images/band-io.png)
