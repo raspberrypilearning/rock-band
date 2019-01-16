@@ -20,16 +20,21 @@
 
 \--- task \--- आता आपल्या गायिकेसाठी दोन वेगवेगळ्या पोशाख आहेत, आपण कोणता पोशाख प्रदर्शित करू शकता ते निवडू शकता! आपल्या गायक स्प्राइटमध्ये या दोन कोड अवरोध जोडा:
 
-![blocks_1545292399_6109073](images/blocks_1545292399_6109073.png)
+```blocks3
+when this sprite clicked
++switch costume to [singing v]
+play sound [singer1 v] until done
++switch costume to [not singing]
+```
 
-पोशाख बदलण्यासाठी कोड ब्लॉक `Looks` {:class= "block3looks"} विभाग. \--- /task \---
+The code block for changing the costume is in the `Looks`{:class="block3looks"} section. \--- /task \---
 
-\--- task \--- स्टेजवर आपल्या गायकवर क्लिक करा. ती गायन करत असल्यासारखे दिसते आहे का? \--- /task \---
+\--- task \--- Click on your singer on the stage. Does she look like she is singing? \--- /task \---
 
-\--- task \--- आता ड्रम बनवल्यासारखे दिसते आहे!
+\--- task \--- Now make your drum look like it's being hit!
 
-![स्क्रीनशॉट](images/band-drum-final.png)
+![screenshot](images/band-drum-final.png)
 
 - आपल्याला मदत करण्यासाठी आपल्या गायक स्प्राइटच्या पोशाख बदलण्यासाठी निर्देश वापरा.
 
-आपला नवीन कोड कार्य करतो हे तपासण्याचे लक्षात ठेवा! \--- /task \---
+Remember to test that your new code works! \--- /task \---
