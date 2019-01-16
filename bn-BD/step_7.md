@@ -20,7 +20,12 @@ Now you will make your singer look like she's singing!
 
 \--- task \--- Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
 
-![blocks_1545292399_6109073](images/blocks_1545292399_6109073.png)
+```blocks3
+when this sprite clicked
++switch costume to [singing v]
+play sound [singer1 v] until done
++switch costume to [not singing]
+```
 
 The code block for changing the costume is in the `Looks`{:class="block3looks"} section. \--- /task \---
 
