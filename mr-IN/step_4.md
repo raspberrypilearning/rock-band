@@ -28,7 +28,12 @@
 
 \--- print-only \---
 
-![blocks_1545292394_8911092](images/blocks_1545292394_8911092.png) \--- /print-only \---
+```blocks3
+when this sprite clicked
+play drum (\(1\) Snare Drum v) for (0.25) beats
+```
+
+\--- /print-only \---
 
 खात्री करा की ब्लॉक एकत्र जोडलेले आहेत (जसे की लेगो ब्रिक्स).
 
