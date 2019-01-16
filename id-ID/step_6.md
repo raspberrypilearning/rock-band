@@ -24,6 +24,11 @@ Sebelum Anda dapat membuat penyanyi Anda bernyanyi, Anda perlu menambahkan suara
 
 \--- tugas \--- Untuk menggunakan suara, tambahkan blok kode berikut ke sprite penyanyi Anda:
 
-![blok_1545292398_5148375](images/blocks_1545292398_5148375.png) \--- /tugas \---
+```blocks3
+when this sprite clicked
+play sound [singer1 v] until done
+```
+
+\--- /tugas \---
 
 \--- tugas \--- Klik pada penyanyi Anda di atas panggung dan lihat apa yang terjadi. Apakah dia bernyanyi? \--- / tugas \---
