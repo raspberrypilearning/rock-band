@@ -30,7 +30,7 @@ To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 when this sprite clicked
-play sound [singer1 v] until done
+play sound (singer1 v) until done
 ```
 --- /task ---
 
