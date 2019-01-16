@@ -26,7 +26,7 @@ Sebelum Anda dapat membuat penyanyi Anda bernyanyi, Anda perlu menambahkan suara
 
 ```blocks3
 when this sprite clicked
-play sound [singer1 v] until done
+play sound (singer1 v) until done
 ```
 
 \--- /tugas \---
