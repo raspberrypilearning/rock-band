@@ -4,7 +4,11 @@ Use what you've learnt in this project to make your own band! You can create any
 
 ![screenshot](images/band-ideas-sounds.png)
 
-![blocks_1545292400_722095](images/blocks_1545292400_722095.png)
+```blocks3
+when this sprite clicked
+set instrument to (\(1\) Piano v)
+play note (60) for (0.25) beats
+```
 
 Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
