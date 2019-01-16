@@ -29,7 +29,10 @@ Click on the drum sprite, and then drag these two blocks into the code area on t
 
 --- print-only ---
 
-![blocks_1545292394_8911092](images/blocks_1545292394_8911092.png)
+```blocks3
+when this sprite clicked
+play drum (\(1\) Snare Drum v) for (0.25) beats
+```
 --- /print-only ---
 
 Make sure that the blocks are connected together (like LEGO bricks).
