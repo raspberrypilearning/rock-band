@@ -6,8 +6,10 @@ Bisakah kamu mengubah suara yang dihasilkan drum saat diklik?
 
 Bisakah Anda juga membuat drum mengeluarkan suara ketika bilah spasi ditekan? Anda harus menggunakan blok `event ` {: class = "block3events"} ini:
 
-![blok_1545292397_394398](images/blocks_1545292397_394398.png)
+```blocks3
+when [space v] key pressed
+```
 
-Jika kamu ingin menyalin kode yang ada, klik kanan dan kemudian klik ** duplikat **.
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
 
-![tangkapan layar](images/band-duplicate-code.png)
+![screenshot](images/band-duplicate-code.png)
