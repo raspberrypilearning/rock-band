@@ -24,6 +24,11 @@ Before you can make your singer sing, you need to add a sound to your singer spr
 
 \--- task \--- To use the sound, add the following code blocks to your singer sprite:
 
-![blocks_1545292398_5148375](images/blocks_1545292398_5148375.png) \--- /task \---
+```blocks3
+when this sprite clicked
+play sound [singer1 v] until done
+```
+
+\--- /task \---
 
 \--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
