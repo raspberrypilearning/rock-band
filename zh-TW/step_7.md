@@ -22,9 +22,9 @@ Now you will make your singer look like she's singing!
 
 ```blocks3
 when this sprite clicked
-+switch costume to [singing v]
-play sound [singer1 v] until done
-+switch costume to [not singing]
++switch costume to (singing v)
+play sound (singer1 v) until done
++switch costume to (not singing v)
 ```
 
 The code block for changing the costume is in the `Looks`{:class="block3looks"} section. \--- /task \---
