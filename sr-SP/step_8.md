@@ -4,26 +4,30 @@
 
 ![снимак екрана](images/band-ideas-sounds.png)
 
-![blocks_1545292400_722095](images/blocks_1545292400_722095.png)
+```blocks3
+when this sprite clicked
+set instrument to (\(1\) Piano v)
+play note (60) for (0.25) beats
+```
 
-Твоји инструменти не морају да буду правог изгледа. Можеш, на пример, да направиш клавир од мафина!
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-![снимак екрана](images/band-piano.png)
+![screenshot](images/band-piano.png)
 
 You can use more sprites from the library, and you can also paint your own sprites!
 
-![снимак екрана](images/band-draw.png)
+![screenshot](images/band-draw.png)
 
 ## \--- collapse \---
 
 ## title: Зашто мој лик 'скаче' када промени костим?
 
-Када прaвиш свог лика, можеш да приметиш, да када кликнеш на њега, лик 'скаче' док мења костим. То је зато што два костима нису центрирана на истом месту.
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
 
 To fix this, make sure that the centres of your sprite's costumes are the same.
 
 \--- /collapse \---
 
-Ако имаш микрофон, можеш да снимиш сопствене звукове или чак да користиш веб-камеру да свираш своје инструменте!
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
-![снимак екрана](images/band-io.png)
+![screenshot](images/band-io.png)
