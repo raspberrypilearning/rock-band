@@ -2,7 +2,7 @@
 
 Пре него што почнеш са програмирањем, мораш да додаш оно што ћеш програмирати. У Скречу то се зове **лик**.
 
-\--- task \--- Open a new Scratch project.
+\--- task \--- Започни нови Скреч пројекат.
 
 **Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
 
