@@ -26,7 +26,7 @@
 
 ## title: Шта ћеш научити
 
-+ How to add sprites and backgrounds to a Scratch project
++ Како да додаш ликове и позадине у Скреч пројекат
 + Како да промениш костим лика
 + How to make sprites react when they are clicked
 + How to play sounds in Scratch \--- /collapse \---
