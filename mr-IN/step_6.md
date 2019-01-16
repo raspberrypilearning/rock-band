@@ -26,7 +26,7 @@
 
 ```blocks3
 when this sprite clicked
-play sound [singer1 v] until done
+play sound (singer1 v) until done
 ```
 
 \--- /task \---
