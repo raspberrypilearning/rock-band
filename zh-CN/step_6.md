@@ -26,7 +26,7 @@ Before you can make your singer sing, you need to add a sound to your singer spr
 
 ```blocks3
 when this sprite clicked
-play sound [singer1 v] until done
+play sound (singer1 v) until done
 ```
 
 \--- /task \---
