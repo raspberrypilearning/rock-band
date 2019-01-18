@@ -18,7 +18,7 @@ Click on the **Music** extension to add it.
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- task \--- Кликни на лик бубња, а затим превуци ова два блока у област за код са десне стране:
 
 \--- no-print \---
 
