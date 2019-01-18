@@ -10,6 +10,6 @@
 when [space v] key pressed
 ```
 
-If you want to copy your existing code, right-click on it and then click on **duplicate**.
+Ако хоћеш да копираш свој постојећи код, кликни десним тастером миша на нега, а затим кликнути на **умножи**.
 
-![screenshot](images/band-duplicate-code.png)
+![снимак екрана](images/band-duplicate-code.png)
