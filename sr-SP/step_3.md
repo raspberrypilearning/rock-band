@@ -2,7 +2,7 @@
 
 **Позорница** је област са десне стране, тамо где твој пројекат настаје. Замисли је као простор за извођење, баш као права позорница!
 
-\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+\--- task \--- Тренутно је позорница бела и изгледа прилично досадно! Додај позадину тако што ћеш кликнути на **Одабери позадину**.
 
 ![снимак екрана](images/band-stage-choose.png) \--- /task \---
 
