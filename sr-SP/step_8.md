@@ -10,13 +10,13 @@ set instrument to (\(1\) Piano v)
 play note (60) for (0.25) beats
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+Твоји инструменти не морају да буду правог изгледа. Можеш, на пример, да направиш клавир од мафина!
 
-![screenshot](images/band-piano.png)
+![снимак екрана](images/band-piano.png)
 
 You can use more sprites from the library, and you can also paint your own sprites!
 
-![screenshot](images/band-draw.png)
+![снимак екрана](images/band-draw.png)
 
 ## \--- collapse \---
 
@@ -30,4 +30,4 @@ To fix this, make sure that the centres of your sprite's costumes are the same.
 
 If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
-![screenshot](images/band-io.png)
+![снимак екрана](images/band-io.png)
