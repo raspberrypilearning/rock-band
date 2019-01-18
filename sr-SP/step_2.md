@@ -8,7 +8,7 @@
 
 **Ван мреже:** започни нови пројекат на Скреч уређивачу ван мреже.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Ако је потребно да преузмеш и инсталираш Скреч уређивач ван мреже, можеш га пронаћи на [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 It looks like this:
 
