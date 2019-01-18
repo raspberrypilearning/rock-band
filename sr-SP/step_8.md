@@ -14,7 +14,7 @@ play note (60) for (0.25) beats
 
 ![снимак екрана](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+Можеш да употребиш више ликова из библиотеке, а можеш и да обојиш своје ликове!
 
 ![снимак екрана](images/band-draw.png)
 
@@ -22,12 +22,12 @@ You can use more sprites from the library, and you can also paint your own sprit
 
 ## title: Зашто мој лик 'скаче' када промени костим?
 
-When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+Када прaвиш свог лика, можеш да приметиш, да када кликнеш на њега, лик 'скаче' док мења костим. То је зато што два костима нису центрирана на истом месту.
 
 To fix this, make sure that the centres of your sprite's costumes are the same.
 
 \--- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+Ако имаш микрофон, можеш да снимиш сопствене звукове или чак да користиш веб-камеру да свираш своје инструменте!
 
 ![снимак екрана](images/band-io.png)
