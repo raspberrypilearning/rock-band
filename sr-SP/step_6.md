@@ -1,6 +1,6 @@
 ## Направи певачицу
 
-Now you will add a singer to your band!
+Сада ћеш у твоју групу додати певачицу!
 
 \--- task \---
 
@@ -14,7 +14,7 @@ Now you will add a singer to your band!
 
 \--- task \---
 
-Пре него што направиш да твоја певачица пева, мораш да лику певачице додаш звук. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+Пре него што направиш да твоја певачица пева, мораш да лику певачице додаш звук. Прво изабери лик певачице, затим кликни на картицу "Звукови" и, на крају кликни **Изабери звук**:
 
 ![снимак екрана](images/band-import-sound-annotated.png) \--- /task \---
 
@@ -31,4 +31,4 @@ play sound (singer1 v) until done
 
 \--- /task \---
 
-\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
+\--- task \--- Кликни на твоју певачицу на позорници и види шта се догађа. Да ли она пева? \--- /task \---
