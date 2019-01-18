@@ -27,14 +27,14 @@ play sound (singer1 v) until done
 +switch costume to (not singing v)
 ```
 
-The code block for changing the costume is in the `Looks`{:class="block3looks"} section. \--- /task \---
+Блок кода за промену костима налази се у одељку `Изглед`{:class="block3looks"}. \--- /task \---
 
-\--- task \--- Click on your singer on the stage. Does she look like she is singing? \--- /task \---
+\--- task \--- Кликни на твоју певачицу на позорници. Да ли изгледа као да пева? \--- /task \---
 
-\--- task \--- Now make your drum look like it's being hit!
+\--- task \--- Сада направи да твој бубањ изгледа као да је ударен!
 
-![screenshot](images/band-drum-final.png)
+![снимак екрана](images/band-drum-final.png)
 
 - Use the instructions for changing your singer sprite's costume to help you.
 
-Remember to test that your new code works! \--- /task \---
+Не заборави да испробаш да ли твој нови код ради! \--- /task \---
