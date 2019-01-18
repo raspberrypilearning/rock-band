@@ -4,7 +4,7 @@ Now you will add a singer to your band!
 
 \--- task \---
 
-Add a singer sprite to your Stage.
+Додај лик певачице на Позорницу.
 
 ![снимак екрана](images/band-singer-mic.png)
 
@@ -14,7 +14,7 @@ Add a singer sprite to your Stage.
 
 \--- task \---
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+Пре него што направиш да твоја певачица пева, мораш да лику певачице додаш звук. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
 
 ![снимак екрана](images/band-import-sound-annotated.png) \--- /task \---
 
