@@ -10,11 +10,11 @@ First add the **Music** extension so you can play instruments.
 
 Click on the **Add extension** button in the bottom left-hand corner.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![додај истакнуто дугме за проширењ](images/add-extension-annotated.png)
 
 Click on the **Music** extension to add it.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![проширење оловка истакнуто](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -39,4 +39,4 @@ Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- Кликни на бубањ да испробаш свој нови инструмент! \--- /task \---
