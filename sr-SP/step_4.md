@@ -12,7 +12,7 @@ Now you will add code to your drum so that the drum makes a sound when it's clic
 
 ![додај истакнуто дугме за проширењ](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+Кликни на проширење **Музика** да би је додао/ла.
 
 ![проширење оловка истакнуто](images/click-music-annotated.png)
 
