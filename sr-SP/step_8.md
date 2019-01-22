@@ -5,9 +5,9 @@
 ![снимак екрана](images/band-ideas-sounds.png)
 
 ```blocks3
-when this sprite clicked
-set instrument to (\(1\) Piano v)
-play note (60) for (0.25) beats
+када је кликнуто на овај лик :: events
+нека инструмент буде ((1) Клавир v) :: music
+свирај ноту (60) током (0.25) откуцаја :: music
 ```
 
 Твоји инструменти не морају да буду правог изгледа. Можеш, на пример, да направиш клавир од мафина!
