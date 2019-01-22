@@ -10,6 +10,6 @@
 
 ![снимак екрана](images/band-backdrop.png) \--- /task \---
 
-\--- task \--- Your stage should now look similar to this:
+\--- task \--- Твоја позорница би сада требало да изгледа слично овој:
 
 ![снимак екрана](images/band-stage.png) \--- /task \---
