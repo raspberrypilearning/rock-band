@@ -12,7 +12,7 @@
 
 Он изгледа овако:
 
-![снимак екрана](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![снимак екрана](images/band-scratch.png) \--- /task \--- \--- task \--- Лик мачке коју видиш је маскота Скреча. Она ти није потребна за ову игру, отараси је се тако што ћеш кликнути десним тастером миша на њу, а затим на **обриши**.
 
 ![снимак екрана](images/band-delete-annotated.png) \--- /task \---
 
