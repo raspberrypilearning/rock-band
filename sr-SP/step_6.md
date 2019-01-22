@@ -25,8 +25,8 @@
 \--- task \--- To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
-when this sprite clicked
-play sound (singer1 v) until done
+када је кликнуто на овај лик :: events
+репродукуј звук (певачица1 v) до краја :: sound
 ```
 
 \--- /task \---
