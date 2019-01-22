@@ -21,10 +21,10 @@
 \--- task \--- Сада када имаш два различита костима за певачицу, можеш да одабереш који костим ће бити приказан! Додај следећа два блока лику певачице:
 
 ```blocks3
-when this sprite clicked
-+switch costume to (singing v)
-play sound (singer1 v) until done
-+switch costume to (not singing v)
+када је кликнуто на овај лик :: events
++замени костим са (пева v) :: looks
+репродукуј звук (певачица1 v) до краја :: sound
++замени костим са (не пева v) :: looks
 ```
 
 Блок кода за промену костима налази се у одељку `Изглед`{:class="block3looks"}. \--- /task \---
