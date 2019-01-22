@@ -18,7 +18,7 @@
 
 ![снимак екрана](images/band-import-sound-annotated.png) \--- /task \---
 
-\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+\--- task \--- Кликни на **Глас** у листи на врху, а затим одабери звук који ћеш додати својем лику.
 
 ![снимак екрана](images/band-choose-sound.png) \--- /task \---
 
