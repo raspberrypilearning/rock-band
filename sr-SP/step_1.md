@@ -18,7 +18,7 @@
 
 \--- /no-print \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\--- print-only \--- Направићеш игру у којој ћеш моћи да кликнеш на певачицу или бубањ како би чуо певање или звук бубња.
 
 ![снимак екрана игре](images/demo.png) \--- /print-only \---
 
