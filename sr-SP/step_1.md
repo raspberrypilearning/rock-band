@@ -28,8 +28,8 @@
 
 + Како да додаш ликове и позадине у Скреч пројекат
 + Како да промениш костим лика
-+ How to make sprites react when they are clicked
-+ How to play sounds in Scratch \--- /collapse \---
++ Како да направиш да ликови реагују када се на њих кликне
++ Како да репродукујеш звукове у Скречу \--- /collapse \---
 
 ## \--- collapse \---
 
