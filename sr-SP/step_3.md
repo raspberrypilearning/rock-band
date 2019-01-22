@@ -6,7 +6,7 @@
 
 ![снимак екрана](images/band-stage-choose.png) \--- /task \---
 
-\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+\--- task \--- Кликни на **Унутра** у листи на врху. Затим кликни на позадину театар.
 
 ![снимак екрана](images/band-backdrop.png) \--- /task \---
 
