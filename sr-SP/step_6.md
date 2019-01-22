@@ -22,7 +22,7 @@
 
 ![снимак екрана](images/band-choose-sound.png) \--- /task \---
 
-\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+\--- task \--- Да употребиш звук, додај следеће блокове кода лику твоје певачице:
 
 ```blocks3
 када је кликнуто на овај лик :: events
