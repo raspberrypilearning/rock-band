@@ -6,9 +6,9 @@ Now you will add code to your drum so that the drum makes a sound when it's clic
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+Прво додај проширење **Музика**, да би могао/ла да свираш инструменте.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+Кликни на дугме **Додај проширење** које се налази у доњем левом углу.
 
 ![додај истакнуто дугме за проширењ](images/add-extension-annotated.png)
 
@@ -29,13 +29,13 @@ Click on the **Music** extension to add it.
 \--- print-only \---
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+када је кликнуто на овај лик :: events
+удараљка ((1) Добош v) током (0.25) откуцаја :: music
 ```
 
 \--- /print-only \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Побрини се да су блокови спојени заједно (као LEGO коцкице).
 
 \--- /task \---
 
