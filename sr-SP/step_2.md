@@ -10,7 +10,7 @@
 
 Ако је потребно да преузмеш и инсталираш Скреч уређивач ван мреже, можеш га пронаћи на [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-It looks like this:
+Он изгледа овако:
 
 ![снимак екрана](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
@@ -28,15 +28,15 @@ It looks like this:
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+Кликни и превуци бубањ на дно Позорнице.
 
 \--- /task \---
 
-\--- task \--- Give your program a name by typing one into the text box in the top left-hand corner.
+\--- task \--- Дај свом програму име, тако што ћеш га уписати у оквир за текст у горњем левом углу.
 
 ![име](images/band-name.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+Кликни на **Дадотека**, а затим на **Сачувај одмах** да би сачувао/ла свој пројекат.
 
 Ако немаш Скреч налог, можеш да сачуваш копију свог пројекта тако што чеш кликнути на **Сачувај на свој рачунар**.
 
