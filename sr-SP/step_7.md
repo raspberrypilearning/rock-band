@@ -35,6 +35,6 @@
 
 ![снимак екрана](images/band-drum-final.png)
 
-- Use the instructions for changing your singer sprite's costume to help you.
+- Употреби упутства за мењање костима лика певачице.
 
 Не заборави да испробаш да ли твој нови код ради! \--- /task \---
