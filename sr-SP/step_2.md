@@ -4,7 +4,7 @@
 
 \--- task \--- Започни нови Скреч пројекат.
 
-**Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+**На мрежи**: започни нови пројекат у Скреч уређивачу на мрежи на [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
 
 **Ван мреже:** започни нови пројекат на Скреч уређивачу ван мреже.
 
