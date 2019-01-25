@@ -14,7 +14,7 @@
 
 ![снимак екрана](images/band-singer-click.png) \--- /task \---
 
-\--- task \--- The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+\--- task \--- Имена костима тренутно нису од велике помоћи. Да промениш њихова имена, упиши у оквире за текст 'не пева ' и 'пева'.
 
 ![снимак екрана](images/band-singer-name-annotated.png) \--- /task \---
 
