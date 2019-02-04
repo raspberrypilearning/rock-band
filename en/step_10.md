@@ -17,8 +17,8 @@ switch costume to (costume2 v)
 
 <html>
 <ul>
-<li><input type="checkbox" id="A" name="A">
-<label for="A">A</label></li>
+<li><input type="checkbox" id="B" name="B">
+<label for="B">B</label></li>
 </ul>
 </html>
 ```blocks3
@@ -28,8 +28,8 @@ show
 
 <html>
 <ul>
-<li><input type="checkbox" id="A" name="A">
-<label for="A">A</label></li>
+<li><input type="checkbox" id="C" name="C">
+<label for="C">C</label></li>
 </ul>
 </html>
 ```blocks3
@@ -39,8 +39,8 @@ show
 
 <html>
 <ul>
-<li><input type="checkbox" id="A" name="A">
-<label for="A">A</label></li>
+<li><input type="checkbox" id="D" name="D">
+<label for="D">D</label></li>
 </ul>
 </html>
 ```blocks3
