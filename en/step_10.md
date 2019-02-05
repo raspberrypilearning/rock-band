@@ -4,19 +4,45 @@ Have a go at the questions below to see how well you've understood the project.
 
 1. Which of the following extensions contains the code blocks needed to play drum sounds?
 ![scratch extensions](images/extensions.png)
-<html>
-<ul>
-<li><input type="checkbox" id="A" name="A">
-<label for="A">A</label></li>
-<li><input type="checkbox" id="B" name="B">
-<label for="B">B</label></li>
-<li><input type="checkbox" id="C" name="C">
-<label for="C">C</label></li>
-<li><input type="checkbox" id="D" name="D">
-<label for="D">D</label></li>
-</ul>
+<head>
+<meta charset="utf-8">
+<title>jQuery Show Hide Elements Using Checkboxes</title>
+<style type="text/css">
+    .box{
+        color: #fff;
+        padding: 20px;
+        display: none;
+        margin-top: 20px;
+    }
+    .A{ background: #228B22; }
+    .B{ background: #ff0000; }
+    .C{ background: #ff0000; }
+    .D{ background: #ff0000; }
+    label{ margin-right: 15px; }
+</style>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    $('input[type="checkbox"]').click(function(){
+        var inputValue = $(this).attr("value");
+        $("." + inputValue).toggle();
+    });
+});
+</script>
+</head>
+<body>
+    <div>
+        <label><input type="checkbox" name="colorCheckbox" value="A"> A</label>
+        <label><input type="checkbox" name="colorCheckbox" value="B"> B</label>
+        <label><input type="checkbox" name="colorCheckbox" value="C"> C</label>
+        <label><input type="checkbox" name="colorCheckbox" value="D"> D</label>
+    </div>
+    <div class="A box">Well done, that is the correct extension</div>
+    <div class="B box">Try again, this extension lets you draw on the stage</div>
+    <div class="C box">Try again, this extension lets you use the computer's camera</div>
+    <div class="D box">Try again, this extension can get your computer to talk</div>
+</body>
 </html>
-
 2. Which of the following scripts would play a `Hand Clap` when the spacebar is pressed?
 
 A.
@@ -39,17 +65,45 @@ D.
 when this sprite clicked
 play drum [(8) Hand Clap v] for (0.25) beats
 ```
-<html>
-<ul>
-<li><input type="checkbox" id="A" name="A">
-<label for="A">A</label></li>
-<li><input type="checkbox" id="B" name="B">
-<label for="B">B</label></li>
-<li><input type="checkbox" id="C" name="C">
-<label for="C">C</label></li>
-<li><input type="checkbox" id="D" name="D">
-<label for="D">D</label></li>
-</ul>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>jQuery Show Hide Elements Using Checkboxes</title>
+<style type="text/css">
+    .box{
+        color: #fff;
+        padding: 20px;
+        display: none;
+        margin-top: 20px;
+    }
+    .A{ background: #ff0000; }
+    .B{ background: #228B22; }
+    .C{ background: #ff0000; }
+    .D{ background: #ff0000; }
+    label{ margin-right: 15px; }
+</style>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    $('input[type="checkbox"]').click(function(){
+        var inputValue = $(this).attr("value");
+        $("." + inputValue).toggle();
+    });
+});
+</script>
+</head>
+<body>
+    <div>
+        <label><input type="checkbox" name="colorCheckbox" value="A"> A</label>
+        <label><input type="checkbox" name="colorCheckbox" value="B"> B</label>
+        <label><input type="checkbox" name="colorCheckbox" value="C"> C</label>
+        <label><input type="checkbox" name="colorCheckbox" value="D"> D</label>
+    </div>
+    <div class="A box">Try again, this script works when the x key is pressed</div>
+    <div class="B box">Well done, this script plays a hand clap when space is pressed</div>
+    <div class="C box">Try again, this script plays the Hi Hat</div>
+    <div class="D box">Try again, this script works when the sprite is clicked</div>
+</body>
 </html>
 
 3. Which of the following scripts would change the costume of a sprite when it has been clicked on?
@@ -74,19 +128,6 @@ D.
 when I receive [change costume v]
 switch costume to [costume2 v]
 ```
-<html>
-<ul>
-<li><input type="checkbox" id="A" name="A">
-<label for="A">A</label></li>
-<li><input type="checkbox" id="B" name="B">
-<label for="B">B</label></li>
-<li><input type="checkbox" id="C" name="C">
-<label for="C">C</label></li>
-<li><input type="checkbox" id="D" name="D">
-<label for="D">D</label></li>
-</ul>
-</html>
-
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -98,9 +139,10 @@ switch costume to [costume2 v]
         display: none;
         margin-top: 20px;
     }
-    .red{ background: #ff0000; }
-    .green{ background: #228B22; }
-    .blue{ background: #0000ff; }
+    .A{ background: #228B22; }
+    .B{ background: #ff0000; }
+    .C{ background: #ff0000; }
+    .D{ background: #ff0000; }
     label{ margin-right: 15px; }
 </style>
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
@@ -115,12 +157,14 @@ $(document).ready(function(){
 </head>
 <body>
     <div>
-        <label><input type="checkbox" name="colorCheckbox" value="red"> red</label>
-        <label><input type="checkbox" name="colorCheckbox" value="green"> green</label>
-        <label><input type="checkbox" name="colorCheckbox" value="blue"> blue</label>
+        <label><input type="checkbox" name="colorCheckbox" value="A"> A</label>
+        <label><input type="checkbox" name="colorCheckbox" value="B"> B</label>
+        <label><input type="checkbox" name="colorCheckbox" value="C"> C</label>
+        <label><input type="checkbox" name="colorCheckbox" value="D"> D</label>
     </div>
-    <div class="red box">You have selected <strong>red checkbox</strong> so i am here</div>
-    <div class="green box">You have selected <strong>green checkbox</strong> so i am here</div>
-    <div class="blue box">You have selected <strong>blue checkbox</strong> so i am here</div>
+    <div class="A box">Well done, this script changes the costume when the sprite is clicked </div>
+    <div class="B box">Try again, this script changes costume when the green flag is clicked</div>
+    <div class="C box">Try again, this script shows a hidden sprite when it is clicked</div>
+    <div class="D box">Try again, this script switches the costume when it receives a broadcast</div>
 </body>
-</html>  
+</html>
