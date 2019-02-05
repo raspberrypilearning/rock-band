@@ -1,4 +1,4 @@
-## Test Yourself
+## Test yourself
 
 Have a go at the questions below to see how well you've understood the project.
 
