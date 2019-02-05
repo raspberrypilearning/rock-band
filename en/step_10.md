@@ -39,6 +39,19 @@ D.
 when this sprite clicked
 play drum [(8) Hand Clap v] for (0.25) beats
 ```
+<html>
+<ul>
+<li><input type="checkbox" id="A" name="A">
+<label for="A">A</label></li>
+<li><input type="checkbox" id="B" name="B">
+<label for="B">B</label></li>
+<li><input type="checkbox" id="C" name="C">
+<label for="C">C</label></li>
+<li><input type="checkbox" id="D" name="D">
+<label for="D">D</label></li>
+</ul>
+</html>
+
 3. Which of the following scripts would change the costume of a sprite when it has been clicked on?
 
 A.
@@ -74,3 +87,40 @@ switch costume to [costume2 v]
 </ul>
 </html>
 
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>jQuery Show Hide Elements Using Checkboxes</title>
+<style type="text/css">
+    .box{
+        color: #fff;
+        padding: 20px;
+        display: none;
+        margin-top: 20px;
+    }
+    .red{ background: #ff0000; }
+    .green{ background: #228B22; }
+    .blue{ background: #0000ff; }
+    label{ margin-right: 15px; }
+</style>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    $('input[type="checkbox"]').click(function(){
+        var inputValue = $(this).attr("value");
+        $("." + inputValue).toggle();
+    });
+});
+</script>
+</head>
+<body>
+    <div>
+        <label><input type="checkbox" name="colorCheckbox" value="red"> red</label>
+        <label><input type="checkbox" name="colorCheckbox" value="green"> green</label>
+        <label><input type="checkbox" name="colorCheckbox" value="blue"> blue</label>
+    </div>
+    <div class="red box">You have selected <strong>red checkbox</strong> so i am here</div>
+    <div class="green box">You have selected <strong>green checkbox</strong> so i am here</div>
+    <div class="blue box">You have selected <strong>blue checkbox</strong> so i am here</div>
+</body>
+</html>  
