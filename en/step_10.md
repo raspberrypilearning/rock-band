@@ -4,6 +4,7 @@ Have a go at the questions below to see how well you've understood the project.
 
 1. Which of the following extensions contains the code blocks needed to play drum sounds?
 ![scratch extensions](images/extensions.png)
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <title>jQuery Show Hide Elements Using Checkboxes</title>
