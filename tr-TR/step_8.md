@@ -1,8 +1,8 @@
-## Challenge: improve your band
+## Meydan Okuma: müzik grubunuzu geliştirin
 
 Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-![screenshot](images/band-ideas-sounds.png)
+![ekran alıntısı](images/band-ideas-sounds.png)
 
 ```blocks3
 when this sprite clicked
@@ -12,13 +12,13 @@ play note (60) for (0.25) beats
 
 Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-![screenshot](images/band-piano.png)
+![ekran görüntüsü](images/band-piano.png)
 
 You can use more sprites from the library, and you can also paint your own sprites!
 
-![screenshot](images/band-draw.png)
+![ekran görüntüsü](images/band-draw.png)
 
-## \--- collapse \---
+## \--- küçült \---
 
 ## title: Why is my sprite 'jumping' when it changes costume?
 
@@ -30,4 +30,4 @@ To fix this, make sure that the centres of your sprite's costumes are the same.
 
 If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
-![screenshot](images/band-io.png)
+![ekran alıntısı](images/band-io.png)
