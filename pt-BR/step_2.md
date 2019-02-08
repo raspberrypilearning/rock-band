@@ -1,6 +1,6 @@
-## Sprites
+## Atores
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Antes de começar a codificar, você precisará adicionar uma 'coisa' ao código. No Scratch, essas 'coisas' são chamadas de **atores**.
 
 \--- task \--- Open a new Scratch project.
 
