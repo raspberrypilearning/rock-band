@@ -2,7 +2,7 @@
 
 Você pode mudar o som produzido pelo tambor quando ele é clicado?
 
-![screenshot](images/band-drum-sound.png)
+![captura de tela](images/band-drum-sound.png)
 
 Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
@@ -12,4 +12,4 @@ quando a tecla [space v] for pressionada
 
 If you want to copy your existing code, right-click on it and then click on **duplicate**.
 
-![captura de tela](images/band-duplicate-code.png)
+![screenshot](images/band-duplicate-code.png)
