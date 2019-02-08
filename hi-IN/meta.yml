@@ -10,20 +10,20 @@ steps:
   - 
     title: परिचय
   - 
-    title: Sprites
+    title: स्प्राइट्स
   - 
-    title: The Stage
+    title: स्टेज
   - 
-    title: Making a drum
+    title: ड्रम बनाना
   - 
-    title: "Challenge: improve your drum"
+    title: "चुनौती: अपने ड्रम में सुधार करें"
     challenge: true
   - 
-    title: Making a singer
+    title: गायक बनाना
   - 
-    title: Costumes
+    title: पोशाकें
   - 
-    title: "Challenge: improve your band"
+    title: "पोशाकें"
     challenge: true
   - 
-    title: "What next?"
+    title: "आगे क्या?"
