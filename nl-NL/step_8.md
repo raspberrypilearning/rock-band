@@ -20,9 +20,9 @@ You can use more sprites from the library, and you can also paint your own sprit
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## titel: Waarom springt mijn sprite wanneer het uitelijk verandert?
 
-When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+Bij het maken van je eigen sprite, kan je merken dat wanneer je op de sprite klikt, deze verspringt wanneer het uiterlijk verandert. Dit komt omdat het centrum van de twee uiterlijken niet op precies dezelfde plek staan.
 
 To fix this, make sure that the centres of your sprite's costumes are the same.
 
