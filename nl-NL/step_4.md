@@ -1,20 +1,20 @@
-## Making a drum
+## Een trommel maken
 
 Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Je kunt de codeblokken vinden op het tabblad Scripts en ze zijn allemaal voorzien van een kleurcode!
 
-\--- task \---
+\--- task \----
 
 First add the **Music** extension so you can play instruments.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+Klik op de knop **Voeg een uitbreiding toe** in de linkerbenedenhoek.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![voeg een uitbreiding toe knop gemarkeerd](images/add-extension-annotated.png)
 
 Click on the **Music** extension to add it.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![penuitbreiding gemarkeerd](images/click-music-annotated.png)
 
 \--- /task \---
 
