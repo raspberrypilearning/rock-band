@@ -2,7 +2,7 @@
 
 Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-![screenshot](images/band-ideas-sounds.png)
+![لقطة شاشة](images/band-ideas-sounds.png)
 
 ```blocks3
 when this sprite clicked
@@ -12,17 +12,17 @@ play note (60) for (0.25) beats
 
 Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-![screenshot](images/band-piano.png)
+![لقطة الشاشة](images/band-piano.png)
 
 You can use more sprites from the library, and you can also paint your own sprites!
 
-![screenshot](images/band-draw.png)
+![لقطة الشاشة](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## العنوان: لماذا 'يقفز' الكائن عندما يتغير مظهره؟
 
-When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+عندما تنشئ كائنًا، ربما تلاحظ أنه عندما تنقر عليه، فإنه 'يقفز' إذا تغير مظهره، يحدث ذلك لأن المظهرين مختلفان في المركز.
 
 To fix this, make sure that the centres of your sprite's costumes are the same.
 
@@ -30,4 +30,4 @@ To fix this, make sure that the centres of your sprite's costumes are the same.
 
 If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
-![screenshot](images/band-io.png)
+![لقطة الشاشة](images/band-io.png)
