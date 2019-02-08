@@ -1,34 +1,34 @@
-## Making a singer
+## Ustvarjanje pevke
 
-Now you will add a singer to your band!
+Sedaj boste v svoj bend dodali pevca!
 
-\--- task \---
+\--- naloga \---
 
-Add a singer sprite to your Stage.
+Dodajte svojega pevca v svoj oder.
 
 ![screenshot](images/band-singer-mic.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
-\--- /task \---
+\--- / naloga \---
 
-\--- task \---
+\--- naloga \---
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+Preden boste lahko naredili, da bo vaš pevec pel, morate svojemu pevskemu duhu dodati zvok. Prepričajte se, da ste izbrali vašo pevsko hišo, nato kliknite zavihek Zvoki in kliknite **Izberite zvok**:
 
-![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+![posnetek zaslona](images/band-import-sound-annotated.png) \--- / naloga \---
 
-\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+\--- naloga \--- Kliknite **Voice** na seznamu na vrhu in nato izberite zvok, ki ga želite dodati svojemu duhu.
 
-![screenshot](images/band-choose-sound.png) \--- /task \---
+![posnetek zaslona](images/band-choose-sound.png) \--- / naloga \---
 
-\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+\--- naloga \--- Če želite uporabiti zvok, dodajte naslednje kodne bloke svojemu pevcu:
 
 ```blocks3
-when this sprite clicked
-play sound (singer1 v) until done
+ko je ta geslo kliknilo
+predvajaj zvok (pevec1 v), dokler ni končal
 ```
 
-\--- /task \---
+\--- / naloga \---
 
-\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
+\--- naloga \--- Kliknite na svojega pevca na odru in poglejte, kaj se zgodi. Ali poje? \--- / naloga \---
