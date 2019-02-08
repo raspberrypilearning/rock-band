@@ -1,8 +1,8 @@
-## Challenge: improve your band
+## 造型
 
 Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-![截屏](images/band-ideas-sounds.png)
+![截图](images/band-ideas-sounds.png)
 
 ```blocks3
 when this sprite clicked
@@ -16,7 +16,7 @@ Your instruments don't have to be realistic though. For example, you could make 
 
 You can use more sprites from the library, and you can also paint your own sprites!
 
-![截屏](images/band-draw.png)
+![截图](images/band-draw.png)
 
 ## \--- collapse \---
 
@@ -30,4 +30,4 @@ To fix this, make sure that the centres of your sprite's costumes are the same.
 
 If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
-![截图](images/band-io.png)
+![截屏](images/band-io.png)
