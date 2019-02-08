@@ -12,18 +12,18 @@ steps:
   - 
     title: Sprites
   - 
-    title: The Stage
+    title: Sân khấu
   - 
-    title: Making a drum
+    title: Làm trống
   - 
-    title: "Challenge: improve your drum"
+    title: "Thử thách: cải thiện trống của bạn"
     challenge: true
   - 
-    title: Making a singer
+    title: Làm ca sĩ
   - 
-    title: Costumes
+    title: Trang phục
   - 
-    title: "Challenge: improve your band"
+    title: "Thử thách: cải thiện ban nhạc của bạn"
     challenge: true
   - 
-    title: "What next?"
+    title: "Tiếp theo là gì?"
