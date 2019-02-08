@@ -1,8 +1,8 @@
-## Making a drum
+## 制作一面鼓
 
 Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+你可以在脚本选项卡中找到所有代码块，他们都用颜色做了区分。
 
 \--- task \---
 
@@ -22,7 +22,7 @@ Click on the **Music** extension to add it.
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![截屏](images/connect-block.gif)
 
 \--- /no-print \---
 
