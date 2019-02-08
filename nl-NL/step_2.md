@@ -1,6 +1,6 @@
 ## Sprites
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Voordat je met coderen kunt beginnen, moet je een 'ding' toevoegen aan de code. In Scratch worden deze 'dingen' ** sprites** genoemd.
 
 \--- task \--- Open a new Scratch project.
 
@@ -26,7 +26,7 @@ It looks like this:
 
 \--- /task \---
 
-\--- task \---
+\--- task \----
 
 Click and drag the drum to the bottom of the Stage.
 
