@@ -1,8 +1,8 @@
-## Making a drum
+## Fazendo um tambor
 
 Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Você pode encontrar os blocos de código na guia Scripts e eles são todos agrupados por cores!
 
 \--- task \---
 
