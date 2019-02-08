@@ -12,18 +12,18 @@ steps:
   - 
     title: Sprites
   - 
-    title: The Stage
+    title: Het speelveld
   - 
-    title: Making a drum
+    title: Een trommel maken
   - 
-    title: "Challenge: improve your drum"
+    title: "Uitdaging: verbeter je drumstel"
     challenge: true
   - 
-    title: Making a singer
+    title: Een zangeres maken
   - 
-    title: Costumes
+    title: Uiterlijken
   - 
     title: "Challenge: improve your band"
     challenge: true
   - 
-    title: "What next?"
+    title: "Wat kun je verder nog doen?"
