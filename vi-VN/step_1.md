@@ -1,60 +1,60 @@
-\--- no-print \---
+\--- không in \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+Đây là phiên bản **Scratch 3** của dự án. Ngoài ra còn có một [phiên bản Scratch 2 của dự án](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
-\--- /no-print \---
+\--- / không in \---
 
 ## Giới thiệu
 
-Learn how to code your own musical instruments!
+Tìm hiểu làm thế nào để mã hóa nhạc cụ của riêng bạn!
 
 ### Những gì bạn sẽ làm
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- không in \--- Nhấp vào cờ xanh để bắt đầu. Sau đó, bấm vào ca sĩ hoặc trống để nghe những gì họ nghe.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-\--- /no-print \---
+\--- / không in \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\--- chỉ in \--- Bạn sẽ tạo một trò chơi trong đó bạn có thể nhấp vào ca sĩ hoặc trống để nghe tiếng hát hoặc tiếng trống.
 
-![game screenshot](images/demo.png) \--- /print-only \---
+![ảnh chụp màn hình trò chơi](images/demo.png) \--- / chỉ in \---
 
-## \--- collapse \---
+## \--- sự sụp đổ \---
 
-## title: What you will learn
+## tiêu đề: bạn sẽ học được gì
 
-+ How to add sprites and backgrounds to a Scratch project
-+ How to change a sprite's costume
-+ How to make sprites react when they are clicked
-+ How to play sounds in Scratch \--- /collapse \---
++ Cách thêm họa tiết và hình nền vào dự án Scratch
++ Cách thay đổi trang phục của Sprite
++ Làm thế nào để làm cho các sprite phản ứng khi chúng được nhấp
++ Cách phát âm thanh trong Scratch \--- / sụp đổ \---
 
-## \--- collapse \---
+## \--- sự sụp đổ \---
 
-## title: What you will need
+## tiêu đề: Những gì bạn sẽ cần
 
-#### Hardware
+#### Phần cứng
 
-+ A computer capable of running Scratch 3
++ Một máy tính có khả năng chạy Scratch 3
 
-#### Software
+#### Phần mềm
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Cào 3 ( [trực tuyến](http://rpf.io/scratchon){: target = "_ blank"} hoặc [ngoại tuyến](http://rpf.io/scratchoff){: target = "_ blank"})
 
-\--- /collapse \---
+\--- /sự sụp đổ \---
 
-## \--- collapse \---
+## \--- sự sụp đổ \---
 
-## title: Additional information for educators
+## tiêu đề: Thông tin bổ sung cho các nhà giáo dục
 
-\--- no-print \---
+\--- không in \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Nếu bạn cần in dự án này, vui lòng sử dụng [phiên bản thân thiện với máy in](https://projects.raspberrypi.org/en/projects/rock-band/print){: target = "_ blank"}.
 
-\--- /no-print \---
+\--- / không in \---
 
-You can download the completed project at [rpf.io/p/rock-band-get](http://rpf.io/p/en/rock-band-get).
+Bạn có thể tải xuống dự án đã hoàn thành tại [rpf.io/p/rock-band-get](http://rpf.io/p/en/rock-band-get).
 
-\--- /collapse \---
+\--- /sự sụp đổ \---
