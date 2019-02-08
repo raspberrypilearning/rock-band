@@ -29,6 +29,6 @@ when this sprite clicked
 play sound (singer1 v) until done
 ```
 
-\---/task\---
+\--- /task \---
 
 \--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
