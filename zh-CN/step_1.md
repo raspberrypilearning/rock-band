@@ -8,7 +8,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 学习如何编码自己的乐器！
 
-### 学习成果
+### 你将做出什么
 
 \--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
