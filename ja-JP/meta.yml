@@ -4,26 +4,26 @@ listed: true
 copyedit: false
 title: ロックバンド
 description: このプロジェクトではプログラミングを使った楽器の作り方を学びます！
-version: 4.1.1
+version: 4
 last_tested: 2018-10-12
 steps:
   - 
-    title: ロックバンド
+    title: 前書き
   - 
-    title: Sprites
+    title: スプライト
   - 
-    title: The Stage
+    title: ステージ
   - 
-    title: Making a drum
+    title: ドラムを作ろう
   - 
-    title: "Challenge: improve your drum"
+    title: "チャレンジ：ドラムの改良（かいりょう）"
     challenge: true
   - 
-    title: Making a singer
+    title: 歌手を作ろう
   - 
-    title: Costumes
+    title: コスチューム
   - 
     title: "Challenge: improve your band"
     challenge: true
   - 
-    title: "What next?"
+    title: "次は何をしますか？"
