@@ -1,6 +1,6 @@
-## Sprites
+## 角色
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+在你开始编码之前，你需要添加一个“东西”来编码。在Scratch中，这个“东西”叫做**角色**。
 
 \--- task \--- Open a new Scratch project.
 
@@ -12,17 +12,17 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 It looks like this:
 
-![screenshot](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![截屏](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
-![screenshot](images/band-delete-annotated.png) \--- /task \---
+![截图](images/band-delete-annotated.png) \--- /task \---
 
 \--- task \--- Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
 
-![screenshot](images/band-sprite-library.png) \--- /task \---
+![截屏](images/band-sprite-library.png) \--- /task \---
 
 \--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
 
-![screenshot](images/band-sprite-drum.png)
+![截图](images/band-sprite-drum.png)
 
 \--- /task \---
 
@@ -40,4 +40,4 @@ Then click on **File**, and then on **Save now** to save your project.
 
 If you don't have a Scratch account, you can save a copy of your project by clicking on **Download to your computer** instead.
 
-![screenshot](images/band-save.png) \--- /task \---
+![截屏](images/band-save.png) \--- /task \---
