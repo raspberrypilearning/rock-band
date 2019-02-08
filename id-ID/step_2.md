@@ -12,32 +12,32 @@ Jika Anda perlu mengunduh dan menginstal editor Scratch offline, Anda dapat mene
 
 Tampak seperti ini:
 
-![tangkapan layar](images/band-scratch.png) \---/task\--- \---tugas\--- Sprite kucing yang dapat Anda lihat adalah maskot awal. Anda tidak perlu untuk permainan ini, sehingga menyingkirkan dengan mengklik kanan itu dan kemudian mengklik **Hapus**.
+![screenshot](images/band-scratch.png) \---/task\--- \---tugas\--- Sprite kucing yang dapat Anda lihat adalah maskot awal. Anda tidak perlu untuk permainan ini, sehingga menyingkirkan dengan mengklik kanan itu dan kemudian mengklik **Hapus**.
 
-![tangkapan layar](images/band-delete-annotated.png) \--- /tugas \---
+![screenshot](images/band-delete-annotated.png) \--- /tugas \---
 
 \---tugas\--- Selanjutnya, klik pada **Pilih sprite dari pustaka** untuk membuka daftar semua sprite Scratch.
 
-![tangkapan layar](images/band-sprite-library.png) \--- /tugas \---
+![screenshot](images/band-sprite-library.png) \--- /task \---
 
 \--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
 
-![tangkapan layar](images/band-sprite-drum.png)
+![screenshot](images/band-sprite-drum.png)
 
 \--- /tugas \---
 
-\--- tugas \---
+\--- task \---
 
 Klik dan seret drum ke bawah panggung.
 
 \--- /tugas \---
 
-\--- task \--- Beri nama program Anda dengan mengetikkannya di kotak teks di sudut kiri atas.
+\--- task \--- Give your program a name by typing into the text box at the top.
 
-![nama](images/band-name.png)
+![nama](images/band-name-annotated.png)
 
 Kemudian klik pada ** File **, dan kemudian ** Simpan sekarang ** untuk menyelamatkan proyek Anda.
 
-Jika Anda tidak memiliki akun Scratch, Anda dapat menyimpan salinan proyek Anda dengan mengklik ** Unduh ke komputer Anda ** sebagai gantinya.
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
 
-![tangkapan layar](images/band-save.png) \--- /tugas \---
+![screenshot](images/band-save.png) \--- /tugas \---
