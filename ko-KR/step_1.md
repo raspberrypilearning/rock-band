@@ -8,7 +8,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 자신만의 악기를 코드로 만드는 법을 배워보세요!
 
-### 만들게 될 것
+### 만들 작품
 
 \--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
@@ -31,7 +31,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 + How to make sprites react when they are clicked
 + How to play sounds in Scratch \--- /collapse \---
 
-## \--- collapse \---
+## \--- 중간생략 \---
 
 ## title: 준비물
 
@@ -45,7 +45,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 -- /collapse \---
 
-## \--- 중간생략 \---
+## \--- collapse \---
 
 ## title: Additional information for educators
 
