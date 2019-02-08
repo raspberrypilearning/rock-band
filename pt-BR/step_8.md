@@ -16,13 +16,13 @@ Your instruments don't have to be realistic though. For example, you could make 
 
 You can use more sprites from the library, and you can also paint your own sprites!
 
-![screenshot](images/band-draw.png)
+![captura de tela](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## title: Por que o meu ator está 'pulando' quando muda de roupa?
 
-When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+Ao criar o seu próprio ator, você pode descobrir que quando você clica nele, ele 'pula' quando muda de fantasia. Isso ocorre porque as duas fantasias não estão centralizadas no mesmo lugar.
 
 To fix this, make sure that the centres of your sprite's costumes are the same.
 
