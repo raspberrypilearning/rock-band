@@ -1,13 +1,5 @@
-\--- challenge \---
+## What next?
 
-## Изазов: Промени костим бубња
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space/) Scratch project?
 
-Можеш ли да направиш да твој бубањ изгледа као да је ударен?
-
-![слика екрана](images/band-drum-final.png)
-
-\--- hints \--- \--- hint \--- Користи упуства из претходног корака за промену костима певачице. \--- /hint \--- \--- /hints \---
-
-Не заборави да испробаш да ли твој нови код ради!
-
-\--- /challenge \---
+Or if you like the idea of doing more projects using sounds and music, you can try out the [Compose a tune](https://projects.raspberrypi.org/en/projects/compose-tune) Sonic Pi project!
