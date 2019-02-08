@@ -4,26 +4,26 @@ listed: true
 copyedit: false
 title: Kapela rockowa
 description: Wykonując ten projekt nauczysz się jak zaprogramować własne instrumenty muzyczne!
-version: 4.1.1
+version: 4
 last_tested: 2018-10-12
 steps:
   - 
     title: Wprowadzenie
   - 
-    title: Sprites
+    title: Duszki
   - 
-    title: The Stage
+    title: Scena
   - 
-    title: Making a drum
+    title: Tworzenie bębenka
   - 
-    title: "Challenge: improve your drum"
+    title: "Wyzwanie: popraw swój bębenek"
     challenge: true
   - 
-    title: Making a singer
+    title: Dodawanie wokalistki
   - 
-    title: Costumes
+    title: Kostiumy
   - 
     title: "Challenge: improve your band"
     challenge: true
   - 
-    title: "What next?"
+    title: "Co następne?"
