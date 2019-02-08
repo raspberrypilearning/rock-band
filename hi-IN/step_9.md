@@ -1,13 +1,5 @@
-\--- challenge \---
+## आगे क्या?
 
-## चुनौती: अपने ड्रम की पोशाक बदलें
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space/) Scratch project?
 
-क्या आप अपना ड्रम ऐसा दिखा सकते हैं कि जैसे इसे मारा गया हो?
-
-![स्क्रीनशॉट](images/band-drum-final.png)
-
-\--- hints \--- \--- hint \--- अपने गायक की पोशाक बदलने में मदद पाने के लिए पिछले चरण में दिए गए निर्देशों का उपयोग करें। \--- /hint \--- \--- /hints \---
-
-अपने नए कोड के काम की जाँच करना याद रखें।
-
-\--- /challenge \---
+Or if you like the idea of doing more projects using sounds and music, you can try out the [Compose a tune](https://projects.raspberrypi.org/en/projects/compose-tune) Sonic Pi project!
