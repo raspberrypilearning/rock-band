@@ -1,6 +1,6 @@
-## Challenge: improving your drum
+## Izazov: poboljšaj svoj bubanj
 
-Can you change the sound that the drum makes when it's clicked?
+Da li možeš da promijeniš zvuk koji proizvodi bubanj kada se klikne na njega?
 
 ![screenshot](images/band-drum-sound.png)
 
