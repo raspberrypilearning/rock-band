@@ -1,8 +1,8 @@
-## Making a drum
+## Creare un tamburo
 
 Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Puoi trovare i blocchi di codice nel pannello ‘Script’. Sono di vari colori, a seconda del tipo!
 
 \--- task \---
 
