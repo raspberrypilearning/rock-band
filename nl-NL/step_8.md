@@ -1,4 +1,4 @@
-## Challenge: improve your band
+## Uiterlijken
 
 Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
