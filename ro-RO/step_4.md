@@ -1,8 +1,8 @@
-## Making a drum
+## Creează toba
 
 Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Poți găsi blocurile de coduri în caseta Personajelor, toate având coduri de culori!
 
 \--- task \---
 
@@ -22,7 +22,7 @@ Click on the **Music** extension to add it.
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![captură de ecran](images/connect-block.gif)
 
 \--- /no-print \---
 
