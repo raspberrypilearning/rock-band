@@ -37,7 +37,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 #### العتاد/الأجهزة
 
-+ جهاز كمبيوتر يدعم تشغيل برنامج Scratch 3
++ جهاز حاسب آلي يدعم تشغيل برنامج Scratch 3
 
 #### البرمجيات
 
