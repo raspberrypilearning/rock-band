@@ -1,40 +1,40 @@
-## Costumes
+## Trang phục
 
-Now you will make your singer look like she's singing!
+Bây giờ bạn sẽ làm cho ca sĩ của bạn trông giống như cô ấy đang hát!
 
-\--- task \--- You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
+\--- task \--- Bạn có thể thay đổi cách ca sĩ của mình trông như thế nào khi được nhấp bằng cách tạo trang phục mới. Nhấp vào tab Trang phục và bạn sẽ thấy trang phục ca sĩ.
 
-![screenshot](images/band-singer-costume-annotated.png) \--- /task \---
+![ảnh chụp màn hình](images/band-singer-costume-annotated.png) \--- /bài tập \---
 
-\--- task \--- Right-click on the costume and then click on **duplicate** to create a copy of it.
+\--- task \--- Nhấp chuột phải vào trang phục và sau đó nhấp vào **bản sao** để tạo bản sao của trang phục.
 
-![screenshot](images/band-singer-duplicate.png) \--- /task \---
+![ảnh chụp màn hình](images/band-singer-duplicate.png) \--- /bài tập \---
 
-\--- task \--- Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+\--- task \--- Nhấp vào trang phục mới (được gọi là 'Singer2'), sau đó chọn công cụ đường và vẽ các đường sao cho có vẻ như ca sĩ của bạn đang phát ra âm thanh.
 
-![screenshot](images/band-singer-click.png) \--- /task \---
+![ảnh chụp màn hình](images/band-singer-click.png) \--- /bài tập \---
 
-\--- task \--- The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+\--- nhiệm vụ \--- Tên của trang phục không hữu ích vào lúc này. Nhập vào hộp văn bản của trang phục để thay đổi tên của chúng thành 'không hát' và 'hát'.
 
-![screenshot](images/band-singer-name-annotated.png) \--- /task \---
+![ảnh chụp màn hình](images/band-singer-name-annotated.png) \--- /bài tập \---
 
-\--- task \--- Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
+\--- task \--- Bây giờ bạn có hai trang phục khác nhau cho ca sĩ của mình, bạn có thể chọn trang phục nào được hiển thị! Thêm hai khối mã này vào sprite ca sĩ của bạn:
 
 ```blocks3
-when this sprite clicked
-+switch costume to (singing v)
-play sound (singer1 v) until done
-+switch costume to (not singing v)
+khi sprite này nhấp
++ chuyển trang phục sang (hát v)
+phát âm thanh (singer1 v) cho đến khi thực hiện
++ chuyển trang phục sang (không hát v)
 ```
 
-The code block for changing the costume is in the `Looks`{:class="block3looks"} section. \--- /task \---
+Khối mã để thay đổi trang phục nằm trong phần `Trông`{: class = "block3looks"}. \--- / nhiệm vụ \---
 
-\--- task \--- Click on your singer on the stage. Does she look like she is singing? \--- /task \---
+\--- task \--- Nhấp vào ca sĩ của bạn trên sân khấu. Cô ấy trông giống như đang hát? \--- / nhiệm vụ \---
 
-\--- task \--- Now make your drum look like it's being hit!
+\--- nhiệm vụ \--- Bây giờ làm cho trống của bạn trông giống như bị đánh!
 
-![screenshot](images/band-drum-final.png)
+![ảnh chụp màn hình](images/band-drum-final.png)
 
-- Use the instructions for changing your singer sprite's costume to help you.
+- Sử dụng các hướng dẫn để thay đổi trang phục ca sĩ của bạn để giúp bạn.
 
-Remember to test that your new code works! \--- /task \---
+Hãy nhớ kiểm tra rằng mã mới của bạn hoạt động! \--- / nhiệm vụ \---
