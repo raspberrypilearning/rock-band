@@ -1,13 +1,5 @@
-\--- വെല്ലുവിളി \---
+## What next?
 
-## വെല്ലുവിളി: നിങ്ങളുടെ ഡ്രം വസ്ത്രധാരണ മാറ്റുക
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space/) Scratch project?
 
-നിങ്ങളുടെ ഡ്രോം തോന്നിക്കുമോ?
-
-![സ്ക്രീൻഷോട്ട്](images/band-drum-final.png)
-
-\--- സൂചനകൾ \--- \--- സൂചന \--- നിങ്ങളെ സഹായിക്കുന്നതിന് മുമ്പത്തെ ഘട്ടത്തിൽ നിങ്ങളുടെ ഗായകന്റെ വസ്ത്രധാരണ മാറ്റുന്നതിനുള്ള നിർദ്ദേശങ്ങൾ ഉപയോഗിക്കുക. \--- / സൂചന \--- \--- / സൂചനകൾ \---
-
-നിങ്ങളുടെ പുതിയ കോഡ് പ്രവർത്തിക്കുന്നുണ്ടോ എന്ന് പരിശോധിക്കുന്നതിനായി ഓർമിക്കുക!
-
-\--- / വെല്ലുവിളി \---
+Or if you like the idea of doing more projects using sounds and music, you can try out the [Compose a tune](https://projects.raspberrypi.org/en/projects/compose-tune) Sonic Pi project!
