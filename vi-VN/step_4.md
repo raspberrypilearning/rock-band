@@ -1,42 +1,42 @@
-## Making a drum
+## Làm trống
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+Bây giờ bạn sẽ thêm mã vào trống của mình để trống phát ra âm thanh khi nhấp vào.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Bạn có thể tìm thấy các khối mã trong tab ScScript và tất cả chúng đều được mã hóa màu!
 
-\--- task \---
+\--- bài tập \---
 
-First add the **Music** extension so you can play instruments.
+Đầu tiên thêm tiện ích mở rộng **Music** để bạn có thể chơi nhạc cụ.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+Nhấp vào nút **Thêm tiện ích mở rộng** ở góc dưới bên trái.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![thêm nút mở rộng](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+Nhấp vào tiện ích mở rộng **Music** để thêm nó.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![bút mở rộng](images/click-music-annotated.png)
 
-\--- /task \---
+\--- /bài tập \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- task \--- Nhấp vào sprite trống, rồi kéo hai khối này vào vùng mã bên phải:
 
-\--- no-print \---
+\--- không in \---
 
-![screenshot](images/connect-block.gif)
+![ảnh chụp màn hình](images/connect-block.gif)
 
-\--- /no-print \---
+\--- / không in \---
 
-\--- print-only \---
+\--- chỉ in \---
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+khi sprite này nhấp
+phát trống (\ (1 \) Snare Drum v) cho (0,25) nhịp
 ```
 
-\--- /print-only \---
+\--- / chỉ in \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Đảm bảo rằng các khối được kết nối với nhau (như gạch LEGO).
 
-\--- /task \---
+\--- /bài tập \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- Nhấp vào trống để thử nhạc cụ mới của bạn! \--- / nhiệm vụ \---
