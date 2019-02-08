@@ -1,13 +1,5 @@
-\--- izziv \---
+## Kaj je naslednje?
 
-## Izziv: spremenite kostum bobna
+Zdaj, ko ste zgradili svoj prvi projekt Scratch, zakaj ne bi pogledali projekta [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space/) Scratch?
 
-Ali lahko naredite, da je vaš boben zadetek?
-
-![screenshot](images/band-drum-final.png)
-
-\--- namige \--- \--- namig \--- uporabite navodila za spreminjanje kostuma pevca v prejšnjem koraku, ki vam bo pomagal. \--- / namig \--- \--- / namigi \---
-
-Ne pozabite preizkusiti, ali deluje nova koda!
-
-\--- / izziv \---
+Ali pa, če vam je všeč zamisel o tem več projektov s pomočjo zvokov in glasbe, ki jih lahko preizkusite [Sestavite melodijo](https://projects.raspberrypi.org/en/projects/compose-tune) projekt Sonic Pi!
