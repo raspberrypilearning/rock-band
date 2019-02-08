@@ -6,9 +6,9 @@ Bu, projenin **Scratch 3** sürümüdür. Projenin aynı zamanda [Scratch 2 sür
 
 ## Giriş
 
-Kendi müzik aletlerinizi nasıl kodlayacağınızı öğrenin!
+Kendi müzik enstrümanlarınızı nasıl kodlayacağınızı öğrenin!
 
-### Neyi yapacaksınız
+### Ne yapacaksınız
 
 \--- no-print \--- Başlamak için yeşil bayrağa tıklayın. Daha sonra şarkıcı veya davula tıklayarak seslerinin neye benzediğini duyacaksınız.
 
@@ -22,9 +22,9 @@ Kendi müzik aletlerinizi nasıl kodlayacağınızı öğrenin!
 
 ![oyun ekran alıntısı](images/demo.png) \--- /print-only \---
 
-## \--- collapse \---
+## \--- küçült \---
 
-## title: Ne öğreneceksiniz
+## Öğrenecekleriniz
 
 + Bir Scratch projesine kukla ve dekorun nasıl eklenir
 + Kuklanın kılığını nasıl değiştirilir
@@ -33,7 +33,7 @@ Kendi müzik aletlerinizi nasıl kodlayacağınızı öğrenin!
 
 ## \--- collapse \---
 
-## title: Nelere ihtiyacınız var
+## İhtiyacınız olacak şeyler
 
 #### Donanım
 
@@ -41,11 +41,11 @@ Kendi müzik aletlerinizi nasıl kodlayacağınızı öğrenin!
 
 #### Yazılım
 
-+ Scratch 3 ([çevrimiçi](http://rpf.io/scratchon){:target="_blank"} veya [çevrimdışı](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([çevrimiçi](http://rpf.io/scratchon){:target="_blank"} ya da [çevrimdışı](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
-## \--- /collapse \---
+## \--- collapse \---
 
 ## title: Eğitimciler için ek bilgiler
 
