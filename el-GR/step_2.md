@@ -1,6 +1,6 @@
-## Sprites
+## Αντικείμενα
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Προτού ξεκινήσεις την κωδικοποίηση, θα πρέπει να προσθέσεις ένα "πράγμα" στον κώδικα. Στο Scratch, αυτά τα "πράγματα" ονομάζονται **αντικείμενα**.
 
 \--- task \--- Open a new Scratch project.
 
@@ -26,7 +26,7 @@ It looks like this:
 
 \--- /task \---
 
-\--- task \---
+\--- task --
 
 Click and drag the drum to the bottom of the Stage.
 
