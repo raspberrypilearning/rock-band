@@ -1,10 +1,10 @@
-## Making a drum
+## Κάνοντας ένα τύμπανο
 
 Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Μπορείς να βρεις τα μπλοκ κώδικα στην καρτέλα Σενάρια, τα οποία είναι χρωματιστά!
 
-\--- task \---
+\--- task --
 
 First add the **Music** extension so you can play instruments.
 
