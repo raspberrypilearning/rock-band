@@ -1,42 +1,42 @@
-## Making a drum
+## Виготовлення барабана
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+Тепер ви будете додавати код у ваш барабан так, щоб барабан видавав звук, коли його натискали.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Ви можете знайти кодові блоки на вкладці Сценарії, і всі вони мають колірний код!
 
-\--- task \---
+\--- завдання \---
 
-First add the **Music** extension so you can play instruments.
+Спочатку додайте розширення **Music** щоб можна було грати на інструментах.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+Натисніть кнопку **Додати розширення** в нижньому лівому куті.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![додайте кнопку розширення, виділену](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+Натисніть на розширення **Music** щоб додати його.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![підсвічування ручки виділено](images/click-music-annotated.png)
 
-\--- /task \---
+\--- / завдання \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- task \--- Натисніть на спрайт барабана, а потім перетягніть ці два блоки в область коду справа:
 
-\--- no-print \---
+\--- без друку \---
 
-![screenshot](images/connect-block.gif)
+![скріншот](images/connect-block.gif)
 
-\--- /no-print \---
+\--- / без друку \---
 
-\--- print-only \---
+\--- тільки для друку \---
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+коли цей спрайт натиснув
+грати барабан (1) Snare Drum v) для (0,25) ударів
 ```
 
-\--- /print-only \---
+\--- / тільки для друку \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Переконайтеся, що блоки з'єднані разом (наприклад, цегли LEGO).
 
-\--- /task \---
+\--- / завдання \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- завдання \--- Натисніть на барабан, щоб спробувати новий інструмент! \--- / завдання \---
