@@ -10,6 +10,6 @@ Bisakah Anda juga membuat drum mengeluarkan suara ketika bilah spasi ditekan? An
 when [space v] key pressed
 ```
 
-If you want to copy your existing code, right-click on it and then click on **duplicate**.
+Jika kamu ingin menyalin kode yang ada, klik kanan dan kemudian klik ** duplikat **.
 
 ![screenshot](images/band-duplicate-code.png)
