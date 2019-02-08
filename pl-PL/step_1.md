@@ -1,6 +1,6 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+Ta wersja projektu jest przeznaczona dla języka **Scratch 3**. Projekt dostępny jest również [w wersji dla języka Scratch 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
@@ -10,7 +10,7 @@ Wykonując ten projekt nauczysz się, jak zaprogramować własne instrumenty muz
 
 ### Co stworzysz
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- no-print \--- Aby rozpocząć, kliknij zieloną flagę. Następnie kliknij na wokalistkę lub na bębenek, żeby usłyszeć jak brzmią.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,7 +18,7 @@ Wykonując ten projekt nauczysz się, jak zaprogramować własne instrumenty muz
 
 \--- /no-print \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\--- print-only \--- Stworzysz grę, podczas której możesz klikać na piosenkarkę lub bębenek, żeby usłyszeć śpiew lub wybijany rytm.
 
 ![game screenshot](images/demo.png) \--- /print-only \---
 
@@ -26,10 +26,10 @@ Wykonując ten projekt nauczysz się, jak zaprogramować własne instrumenty muz
 
 ## title: Czego się nauczysz
 
-+ How to add sprites and backgrounds to a Scratch project
-+ How to change a sprite's costume
-+ How to make sprites react when they are clicked
-+ How to play sounds in Scratch \--- /collapse \---
++ Jak dodawać duszki i tła do projektu w Scratchu
++ Jak zmienić kostium duszka
++ Jak sprawić, żeby duszki reagowały, kiedy zostaną kliknięte
++ Jak odtwarzać dźwięki w Scratchu \--- /collapse \---
 
 ## \--- collapse \---
 
@@ -41,13 +41,13 @@ Wykonując ten projekt nauczysz się, jak zaprogramować własne instrumenty muz
 
 #### Oprogramowanie
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} lub [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Dodatkowe informacje dla nauczycieli
 
 \--- no-print \---
 
@@ -55,6 +55,6 @@ Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.
 
 \--- /no-print \---
 
-You can download the completed project at [rpf.io/p/rock-band-get](http://rpf.io/p/en/rock-band-get).
+Możesz pobrać gotowy projekt ze strony [rpf.io/p/rock-band-get](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
