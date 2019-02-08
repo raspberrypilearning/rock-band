@@ -1,4 +1,4 @@
-## Making a singer
+## Créer un chanteur
 
 Now you will add a singer to your band!
 
@@ -6,7 +6,7 @@ Now you will add a singer to your band!
 
 Add a singer sprite to your Stage.
 
-![Captures d'écran](images/band-singer-mic.png)
+![capture d'écran](images/band-singer-mic.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
