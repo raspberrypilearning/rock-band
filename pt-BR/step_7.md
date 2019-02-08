@@ -4,15 +4,15 @@ Now you will make your singer look like she's singing!
 
 \--- task \--- You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
 
-![screenshot](images/band-singer-costume-annotated.png) \--- /task \---
+![captura de tela](images/band-singer-costume-annotated.png) \--- /task \---
 
 \--- task \--- Right-click on the costume and then click on **duplicate** to create a copy of it.
 
-![screenshot](images/band-singer-duplicate.png) \--- /task \---
+![captura de tela](images/band-singer-duplicate.png) \--- /task \---
 
 \--- task \--- Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
 
-![captura de tela](images/band-singer-click.png) \--- /task \---
+![screenshot](images/band-singer-click.png) \--- /task \---
 
 \--- task \--- The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
 
@@ -33,7 +33,7 @@ The code block for changing the costume is in the `Looks`{:class="block3looks"} 
 
 \--- task \--- Now make your drum look like it's being hit!
 
-![captura de tela](images/band-drum-final.png)
+![screenshot](images/band-drum-final.png)
 
 - Use the instructions for changing your singer sprite's costume to help you.
 
