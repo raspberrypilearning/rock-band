@@ -1,13 +1,5 @@
-\--- challenge \---
+## Ce urmează?
 
-## Provocare: schimba costumul tobei
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space/) Scratch project?
 
-Poți schimba costumul tobei să arate ca și cum ar fi atins?
-
-![captură de ecran](images/band-drum-final.png)
-
-\--- hints \--- \--- hint \--- Folosește instructiunile anterioare, pentru pașii ce vor urma. \--- /hint \--- \--- /hints \---
-
-Nu uita să testezi dacă noul cod funcționează corect!
-
-\--- /challenge \---
+Or if you like the idea of doing more projects using sounds and music, you can try out the [Compose a tune](https://projects.raspberrypi.org/en/projects/compose-tune) Sonic Pi project!
