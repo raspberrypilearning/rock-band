@@ -1,13 +1,5 @@
-\--- challenge \---
+## ¿Qué sigue?
 
-## Desafío: cambia el disfraz de tu tambor
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space/) Scratch project?
 
-¿Sabes como hacer que parezca que tu tambor ha sido golpeado?
-
-![captura de pantalla](images/band-drum-final.png)
-
-\--- hints \--- \--- hint \--- Usa las instrucciones de cómo cambiar el disfraz de tu cantante en el paso anterior como ayuda. \--- /hint \--- \--- /hints \---
-
-¡Acuérdate de comprobar si tu nuevo código funciona!
-
-\--- /challenge \---
+Or if you like the idea of doing more projects using sounds and music, you can try out the [Compose a tune](https://projects.raspberrypi.org/en/projects/compose-tune) Sonic Pi project!
