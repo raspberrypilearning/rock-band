@@ -8,11 +8,11 @@ Now you will make your singer look like she's singing!
 
 \--- task \--- Right-click on the costume and then click on **duplicate** to create a copy of it.
 
-![captură de ecran](images/band-singer-duplicate.png) \--- /proba\---
+![captură de ecran](images/band-singer-duplicate.png) \--- /task \---
 
 \--- task \--- Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
 
-![captură de ecran](images/band-singer-click.png) \--- /proba\---
+![captură de ecran](images/band-singer-click.png) \--- /task \---
 
 \--- task \--- The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
 
