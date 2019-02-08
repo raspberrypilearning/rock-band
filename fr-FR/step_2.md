@@ -1,6 +1,6 @@
-## Sprites
+## Lutins
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Avant de commencer à coder, vous devez ajouter une «chose» au code. Dans Scratch, ces 'choses' sont appelées ** lutins ** .
 
 \--- task \--- Open a new Scratch project.
 
@@ -12,9 +12,9 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 It looks like this:
 
-![screenshot](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![capture d'écran](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
-![screenshot](images/band-delete-annotated.png) \--- /task \---
+![capture d'écran](images/band-delete-annotated.png) \--- /task \---
 
 \--- task \--- Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
 
@@ -40,4 +40,4 @@ Then click on **File**, and then on **Save now** to save your project.
 
 If you don't have a Scratch account, you can save a copy of your project by clicking on **Download to your computer** instead.
 
-![screenshot](images/band-save.png) \--- /task \---
+![capture d'écran](images/band-save.png) \--- /task \---
