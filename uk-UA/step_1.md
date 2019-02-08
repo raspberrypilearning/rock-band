@@ -1,60 +1,60 @@
-\--- no-print \---
+\--- без друку \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+Це **Подряпини 3** варіанти проекту. Існує також версія [Scratch 2 проекту](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
-\--- /no-print \---
+\--- / без друку \---
 
 ## Вступ
 
-Learn how to code your own musical instruments!
+Дізнайтеся, як кодувати власні музичні інструменти!
 
 ### Що ви будете робити
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- no-print \--- Щоб почати, натисніть зелений прапор. Потім натисніть на співаку або барабан, щоб почути, як вони звучать.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-\--- /no-print \---
+\--- / без друку \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\--- тільки для друку \--- Ви зробите гру, де ви зможете натиснути на співака або барабан, щоб почути звуки співу або барабана.
 
-![game screenshot](images/demo.png) \--- /print-only \---
+![скріншот гри](images/demo.png) \--- / тільки для друку \---
 
-## \--- collapse \---
+## \--- колапс \---
 
-## title: What you will learn
+## title: Що ви дізнаєтеся
 
-+ How to add sprites and backgrounds to a Scratch project
-+ How to change a sprite's costume
-+ How to make sprites react when they are clicked
-+ How to play sounds in Scratch \--- /collapse \---
++ Як додати спрайт і фони до проекту Scratch
++ Як змінити костюм спрайта
++ Як зробити спрайти реагують, коли вони натискаються
++ Як грати звуки в Scratch \--- / колапс \---
 
-## \--- collapse \---
+## \--- колапс \---
 
-## title: What you will need
+## title: Що вам потрібно
 
-#### Hardware
+#### Устаткування
 
-+ A computer capable of running Scratch 3
++ Комп'ютер, здатний працювати з Scratch 3
 
-#### Software
+#### Програмне забезпечення
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Скретч 3 ( [онлайн](http://rpf.io/scratchon){: target = "_ blank"} або [офлайн](http://rpf.io/scratchoff){: target = "_ blank"})
 
-\--- /collapse \---
+\--- / згорнути \---
 
-## \--- collapse \---
+## \--- колапс \---
 
-## title: Additional information for educators
+## назва: Додаткова інформація для педагогів
 
-\--- no-print \---
+\--- без друку \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Якщо вам потрібно роздрукувати цей проект, будь ласка , використовуйте [Версія для друку](https://projects.raspberrypi.org/en/projects/rock-band/print){: TARGET = "_blank"}.
 
-\--- /no-print \---
+\--- / без друку \---
 
-You can download the completed project at [rpf.io/p/rock-band-get](http://rpf.io/p/en/rock-band-get).
+Ви можете завантажити завершений проект за адресою [rpf.io/p/rock-band-get](http://rpf.io/p/en/rock-band-get).
 
-\--- /collapse \---
+\--- / згорнути \---
