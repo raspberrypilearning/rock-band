@@ -20,7 +20,7 @@
 
 ![स्क्रीनशॉट](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+\--- कार्य \--- ड्रम स्प्राइट पहाईपर्यंत खाली स्क्रोल करा. आपल्या प्रकल्पात जोडण्यासाठी ड्रमवर क्लिक करा.
 
 ![स्क्रीनशॉट](images/band-sprite-drum.png)
 
@@ -32,12 +32,12 @@
 
 \--- /task \---
 
-\--- task \--- आपल्या डाव्या हाताच्या कोपर्यातील टेक्स्ट बॉक्समध्ये एक टाइप करून आपल्या प्रोग्रामला नाव द्या.
+\--- task \--- Give your program a name by typing into the text box at the top.
 
-![नाव](images/band-name.png)
+![नाव](images/band-name-annotated.png)
 
 मग ** File वर क्लिक करा **, आणि नंतर ** Save now करा ** आपला प्रकल्प जतन करण्यासाठी.
 
-आपल्याकडे स्क्रॅच खाते नसल्यास, आपण आपल्या प्रोजेक्टची कॉपी **Download to your computer** क्लिक करुन जतन करू शकता त्याऐवजी.
+आपण ऑनलाइन नाहीत किंवा सुरवातीपासून खाते नसेल तर, आपण वर क्लिक करून आपल्या प्रकल्पाचा एक प्रत जतन शकतो **आपल्या संगणकावर जतन** त्याऐवजी.
 
 ![स्क्रीनशॉट](images/band-save.png) \--- /task \---
