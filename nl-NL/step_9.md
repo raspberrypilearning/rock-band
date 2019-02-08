@@ -1,13 +1,5 @@
-\--- challenge \---
+## Wat kun je verder nog doen?
 
-## Uitdaging: verander het uiterlijk van je trommel
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space/) Scratch project?
 
-Kun je je trommel laten lijken alsof erop wordt geslagen?
-
-![screenshot](images/band-drum-final.png)
-
-\--- hints \--- \--- hint \--- Gebruik de instructies in de vorige stap om het uiterlijk van je zangeres te veranderen. \--- /hint \--- \--- /hints \---
-
-Vergeet niet om je nieuwe code te testen!
-
-\--- /challenge \---
+Or if you like the idea of doing more projects using sounds and music, you can try out the [Compose a tune](https://projects.raspberrypi.org/en/projects/compose-tune) Sonic Pi project!
