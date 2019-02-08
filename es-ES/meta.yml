@@ -4,7 +4,7 @@ listed: true
 copyedit: false
 title: Banda de Rock
 description: Aprende cómo codificar tus propios instrumentos musicales
-version: 4.1.1
+version: 4
 last_tested: 2018-10-12
 steps:
   - 
@@ -23,7 +23,7 @@ steps:
   - 
     title: Disfraces
   - 
-    title: "Challenge: improve your band"
+    title: "Disfraces"
     challenge: true
   - 
     title: "¿Qué sigue?"
