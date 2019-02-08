@@ -10,20 +10,20 @@ steps:
   - 
     title: Introduction
   - 
-    title: Sprites
+    title: Lutins
   - 
-    title: The Stage
+    title: La scène
   - 
-    title: Making a drum
+    title: Créer un tambour
   - 
-    title: "Challenge: improve your drum"
+    title: "Défi : Améliore ton tambour"
     challenge: true
   - 
-    title: Making a singer
+    title: Faire un chanteur
   - 
     title: Costumes
   - 
     title: "Challenge: improve your band"
     challenge: true
   - 
-    title: "What next?"
+    title: "Que faire ensuite?"
