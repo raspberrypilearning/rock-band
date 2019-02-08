@@ -1,13 +1,5 @@
-\--- challenge \---
+## ما التالي؟
 
-## التحدي: تغيير مظهر طبلتك
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space/) Scratch project?
 
-هل يمكنك أن تجعل طبلتك تبدو وكأنها تُدق؟
-
-![لقطة الشاشة](images/band-drum-final.png)
-
-\--- hints \--- \--- hint \--- استخدم التعليمات لتغيير زي المغنية الموجودة في الخطوة السابقة لمساعدتك \--- /hint \--- \--- /hints \---
-
-تذكَّر أن تختبر التعليمة البرمجية الجديدة للتأكد من أنها تعمل بالشكل المطلوب!
-
-\--- /challenge \---
+Or if you like the idea of doing more projects using sounds and music, you can try out the [Compose a tune](https://projects.raspberrypi.org/en/projects/compose-tune) Sonic Pi project!
