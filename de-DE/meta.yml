@@ -10,18 +10,18 @@ steps:
   - 
     title: Einleitung
   - 
-    title: Sprites
+    title: Figuren
   - 
-    title: The Stage
+    title: Die Bühne
   - 
-    title: Making a drum
+    title: Eine Trommel machen
   - 
-    title: "Challenge: improve your drum"
+    title: "Herausforderung: Verbessere deine Trommel"
     challenge: true
   - 
-    title: Making a singer
+    title: Einen Sänger machen
   - 
-    title: Costumes
+    title: Kostüme
   - 
     title: "Challenge: improve your band"
     challenge: true
