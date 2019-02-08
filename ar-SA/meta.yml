@@ -10,20 +10,20 @@ steps:
   - 
     title: المقدمة
   - 
-    title: Sprites
+    title: الكائنات
   - 
-    title: The Stage
+    title: المنصة
   - 
-    title: Making a drum
+    title: إنشاء طبلة
   - 
-    title: "Challenge: improve your drum"
+    title: "التحدي: تحسين طبلتك"
     challenge: true
   - 
-    title: Making a singer
+    title: إنشاء مغنية
   - 
-    title: Costumes
+    title: المظاهر
   - 
     title: "Challenge: improve your band"
     challenge: true
   - 
-    title: "What next?"
+    title: "ما التالي؟"
