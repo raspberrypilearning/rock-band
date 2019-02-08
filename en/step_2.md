@@ -47,7 +47,7 @@ Give your program a name by typing one into the text box in the top left-hand co
 
 Then click on **File**, and then on **Save now** to save your project.
 
-If you don't have a Scratch account, you can save a copy of your project by clicking on **Download to your computer** instead.
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
 
 ![screenshot](images/band-save.png)
 --- /task ---
