@@ -1,8 +1,8 @@
-## Making a drum
+## ड्रम बनाना
 
 Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+आप Scripts टैब में कोड ब्लॉक खोज सकते हैं, और वे सभी कोड रंगीन होते हैं!
 
 \--- task \---
 
@@ -22,7 +22,7 @@ Click on the **Music** extension to add it.
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![स्क्रीनशॉट](images/connect-block.gif)
 
 \--- /no-print \---
 
