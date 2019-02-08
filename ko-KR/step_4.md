@@ -1,8 +1,8 @@
-## Making a drum
+## 드럼 만들기
 
 Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+스크립트 탭에서 색으로 분류되어있는 코드 블럭들을 찾을 수 있어요.
 
 \--- task \---
 
@@ -22,7 +22,7 @@ Click on the **Music** extension to add it.
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![스크린샷](images/connect-block.gif)
 
 \--- /no-print \---
 
