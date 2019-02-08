@@ -1,60 +1,60 @@
-\--- no-print \---
+\--- brez tiskanja \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+To je različica projekta **Scratch 3** . Obstaja tudi različica projekta [Scratch 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
-\--- /no-print \---
+\--- / brez natisa \---
 
 ## Uvod
 
-Learn how to code your own musical instruments!
+Naučite se kodirati svoje glasbene instrumente!
 
 ### Kaj boš naredil
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- no-print \--- Za začetek kliknite zeleno zastavo. Nato kliknite pevec ali boben in slišite, kako zvenijo.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-\--- /no-print \---
+\--- / brez natisa \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\--- samo za tiskanje \--- Izdelali boste igro, kjer lahko kliknete na pevca ali boben, če želite slišati petje ali zvoke bobna.
 
-![game screenshot](images/demo.png) \--- /print-only \---
+![posnetek igre](images/demo.png) \--- / samo za tiskanje \---
 
-## \--- collapse \---
+## \--- kolaps \---
 
-## title: What you will learn
+## naslov: Kaj se boste naučili
 
-+ How to add sprites and backgrounds to a Scratch project
-+ How to change a sprite's costume
-+ How to make sprites react when they are clicked
-+ How to play sounds in Scratch \--- /collapse \---
++ Dodajanje duhov in ozadij v projekt Scratch
++ Kako zamenjati kača
++ Kako narediti duhove, ko se kliknejo
++ Kako igrati zvoke v Scratch \--- / collapse \---
 
-## \--- collapse \---
+## \--- kolaps \---
 
-## title: What you will need
+## naslov: Kaj boste potrebovali
 
-#### Hardware
+#### Strojna oprema
 
-+ A computer capable of running Scratch 3
++ Računalnik, ki lahko izvaja Scratch 3
 
-#### Software
+#### Programska oprema
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ( [spletu](http://rpf.io/scratchon){: target = "_ blank"} ali [brez povezave](http://rpf.io/scratchoff){: target = "_ blank"})
 
-\--- /collapse \---
+\--- / strni \---
 
-## \--- collapse \---
+## \--- kolaps \---
 
-## title: Additional information for educators
+## naslov: Dodatne informacije za učitelje
 
-\--- no-print \---
+\--- brez tiskanja \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Če želite natisniti ta projekt, uporabite [tiskalniku prijazno različico](https://projects.raspberrypi.org/en/projects/rock-band/print){: target = "_ blank"}.
 
-\--- /no-print \---
+\--- / brez natisa \---
 
-You can download the completed project at [rpf.io/p/rock-band-get](http://rpf.io/p/en/rock-band-get).
+Dokončani projekt lahko prenesete na [rpf.io/p/rock-band-get](http://rpf.io/p/en/rock-band-get).
 
-\--- /collapse \---
+\--- / strni \---
