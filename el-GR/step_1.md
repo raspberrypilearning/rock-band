@@ -33,7 +33,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## \--- collapse \---
 
-## title: Τι θα χρειαστείτε
+## title: Τι θα χρειαστείς
 
 #### Υλικό
 
