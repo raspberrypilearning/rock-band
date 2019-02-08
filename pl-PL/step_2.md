@@ -1,6 +1,6 @@
 ## Duszki
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Zanim zaczniesz kodować, musisz dodać pewną „rzecz”, której będzie dotyczył twój kod. W Scratchu takie „rzeczy” nazywane są **duszkami**.
 
 \--- task \--- Open a new Scratch project.
 
