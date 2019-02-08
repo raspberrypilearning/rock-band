@@ -20,9 +20,9 @@ You can use more sprites from the library, and you can also paint your own sprit
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## title: Γιατί αναπηδά το αντικείμενό μου όταν αλλάζει ενδυμασία;
 
-When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+Όταν δημιουργείς το δικό σου αντικείμενο, μπορεί να διαπιστώσεις ότι όταν κάνεις κλικ πάνω του, αυτό 'αναπηδά' καθώς αλλάζει ενδυμασία. Αυτό συμβαίνει επειδή οι δύο ενδυμασίες δεν είναι στοιχισμένες στο ίδιο μέρος.
 
 To fix this, make sure that the centres of your sprite's costumes are the same.
 
