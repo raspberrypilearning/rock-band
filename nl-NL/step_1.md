@@ -43,7 +43,7 @@ Leer hoe je je eigen muziekinstrumenten kunt coderen!
 
 + Scratch 3 (of [online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:Target="_blank"})
 
-\--- / collapse \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
