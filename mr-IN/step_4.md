@@ -29,8 +29,8 @@
 \--- print-only \---
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+जेव्हा या स्प्राइटने
+प्ले ड्रम (\ (1 \) स्नॅर ड्रम v) (0.25) बिट्सवर क्लिक केले
 ```
 
 \--- /print-only \---
