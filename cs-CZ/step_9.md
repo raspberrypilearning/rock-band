@@ -1,13 +1,5 @@
-\--- challenge \---
+## What next?
 
-## Výzva: změň kostým bubnu
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space/) Scratch project?
 
-Dokážeš změnit buben tak, aby to vypadalo, jako že na něj někdo bubnuje?
-
-![screenshot](images/band-drum-final.png)
-
-\--- hints \--- \--- hint \--- Jako nápovědu využij instrukce pro změnu kostýmu zpěvačky z předchozího kroku. \--- /hint \--- \--- /hints \---
-
-Nezapomeň vyzkoušet, že tvůj nový kód funguje!
-
-\--- /challenge \---
+Or if you like the idea of doing more projects using sounds and music, you can try out the [Compose a tune](https://projects.raspberrypi.org/en/projects/compose-tune) Sonic Pi project!
