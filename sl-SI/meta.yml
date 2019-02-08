@@ -12,18 +12,18 @@ steps:
   - 
     title: Sprites
   - 
-    title: The Stage
+    title: Faza
   - 
-    title: Making a drum
+    title: Izdelava bobna
   - 
-    title: "Challenge: improve your drum"
+    title: "Izziv: izboljšajte svoj boben"
     challenge: true
   - 
-    title: Making a singer
+    title: Ustvarjanje pevke
   - 
-    title: Costumes
+    title: Kostumi
   - 
-    title: "Challenge: improve your band"
+    title: "Izziv: izboljšajte svoj band"
     challenge: true
   - 
-    title: "What next?"
+    title: "Kaj je naslednje?"
