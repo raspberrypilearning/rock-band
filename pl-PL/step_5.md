@@ -12,4 +12,4 @@ when [space v] key pressed
 
 If you want to copy your existing code, right-click on it and then click on **duplicate**.
 
-![screenshot](images/band-duplicate-code.png)
+![zrzut ekranu](images/band-duplicate-code.png)
