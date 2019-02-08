@@ -1,4 +1,4 @@
-## Challenge: improve your band
+## Fantasias
 
 Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
@@ -30,4 +30,4 @@ To fix this, make sure that the centres of your sprite's costumes are the same.
 
 If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
-![screenshot](images/band-io.png)
+![captura de tela](images/band-io.png)
