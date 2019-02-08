@@ -10,20 +10,20 @@ steps:
   - 
     title: Εισαγωγή
   - 
-    title: Sprites
+    title: Αντικείμενα
   - 
-    title: The Stage
+    title: Το σκηνικό
   - 
-    title: Making a drum
+    title: Κάνοντας ένα τύμπανο
   - 
-    title: "Challenge: improve your drum"
+    title: "Πρόκληση: βελτίωσε το τύμπανό σου"
     challenge: true
   - 
-    title: Making a singer
+    title: Κάνοντας μία τραγουδίστρια
   - 
-    title: Costumes
+    title: Ενδυμασίες
   - 
     title: "Challenge: improve your band"
     challenge: true
   - 
-    title: "What next?"
+    title: "Και τώρα;"
