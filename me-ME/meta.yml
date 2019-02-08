@@ -4,26 +4,26 @@ listed: true
 copyedit: false
 title: Rok grupa
 description: Nauči kako da programiraš sopstvene muzičke instrumente
-version: 4.1.1
+version: 4
 last_tested: 2018-10-12
 steps:
   - 
     title: Uvod
   - 
-    title: Sprites
+    title: Likovi (sprites)
   - 
-    title: The Stage
+    title: Pozornica (stage)
   - 
-    title: Making a drum
+    title: Pravljenje bubnja
   - 
-    title: "Challenge: improve your drum"
+    title: "Izazov: poboljšaj svoj bubanj"
     challenge: true
   - 
-    title: Making a singer
+    title: Stvaranje pjevačice
   - 
-    title: Costumes
+    title: Kostimi (costumes)
   - 
-    title: "Challenge: improve your band"
+    title: "Kostimi (costumes)"
     challenge: true
   - 
-    title: "What next?"
+    title: "Izazov: više prepreka!"
