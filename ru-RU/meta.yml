@@ -1,5 +1,5 @@
 ---
-hero_image: Изображения / герой-рок-группа-large.png
+hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
 title: Рок-группа
@@ -26,4 +26,4 @@ steps:
     title: "Challenge: improve your band"
     challenge: true
   - 
-    title: "What next?"
+    title: "Что дальше?"
