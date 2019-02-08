@@ -12,22 +12,22 @@ play note (60) for (0.25) beats
 
 Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-![screenshot](images/band-piano.png)
+![capture d'écran](images/band-piano.png)
 
 You can use more sprites from the library, and you can also paint your own sprites!
 
-![screenshot](images/band-draw.png)
+![capture d'écran](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## title: Pourquoi mon lutin «saute» quand il change de costume?
 
-When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+Lorsque tu crées ton propre lutin, tu peux constater que lorsque tu cliques dessus, celui-ci «saute» lorsqu'il change de costume. C'est parce que les deux costumes ne sont pas centrés au même endroit.
 
 To fix this, make sure that the centres of your sprite's costumes are the same.
 
-\--- /collapse \---
+Question
 
 If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
-![screenshot](images/band-io.png)
+![capture d'écran](images/band-io.png)
