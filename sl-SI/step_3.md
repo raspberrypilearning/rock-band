@@ -1,15 +1,15 @@
-## The Stage
+## Faza
 
-The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+**stopnja** je območje na desni, kjer je vaš projekt oživljen. Razmislite o tem kot o območju uspešnosti, prav tako kot prava faza!
 
-\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+\--- naloga \--- Trenutno je oder bel in izgleda precej dolgočasno! Dodajte ozadje, tako da kliknete na **Izberite ozadje**.
 
-![screenshot](images/band-stage-choose.png) \--- /task \---
+![posnetek zaslona](images/band-stage-choose.png) \--- / naloga \---
 
-\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+\--- naloga \--- Kliknite na **zaprtem prostoru** na seznamu na vrhu. Nato kliknite na gledališko ozadje.
 
-![screenshot](images/band-backdrop.png) \--- /task \---
+![posnetek zaslona](images/band-backdrop.png) \--- / naloga \---
 
-\--- task \--- Your stage should now look similar to this:
+\--- naloga \--- Vaša faza naj bi bila zdaj podobna:
 
-![screenshot](images/band-stage.png) \--- /task \---
+![posnetek zaslona](images/band-stage.png) \--- / naloga \---
