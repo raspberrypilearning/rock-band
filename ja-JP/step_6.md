@@ -1,4 +1,4 @@
-## Making a singer
+## 歌手を作ろう
 
 Now you will add a singer to your band!
 
@@ -6,7 +6,7 @@ Now you will add a singer to your band!
 
 Add a singer sprite to your Stage.
 
-![screenshot](images/band-singer-mic.png)
+![スクリーンショット](images/band-singer-mic.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -16,11 +16,11 @@ Add a singer sprite to your Stage.
 
 Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
 
-![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+![スクリーンショット](images/band-import-sound-annotated.png) \--- /task \---
 
 \--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
 
-![screenshot](images/band-choose-sound.png) \--- /task \---
+![スクリーンショット](images/band-choose-sound.png) \--- /task \---
 
 \--- task \--- To use the sound, add the following code blocks to your singer sprite:
 
