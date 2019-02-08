@@ -1,8 +1,8 @@
-## Making a drum
+## Pravljenje bubnja
 
 Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Blokove kôda možeš naći na kartici Scripts (Skripte) i svi su različito obojeni!
 
 \--- task \---
 
