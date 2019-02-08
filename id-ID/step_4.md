@@ -4,7 +4,7 @@ Sekarang Anda akan menambahkan kode ke drum Anda sehingga drum mengeluarkan suar
 
 Anda dapat menemukan blok kode di tab Script, dan semuanya diberi kode warna!
 
-\--- tugas \---
+\--- task \---
 
 Pertama-tama tambahkan **Music** ekstensi sehingga Anda dapat memainkan instrumen.
 
@@ -20,20 +20,20 @@ Klik pada ** Musik ** ekstensi untuk menambahkannya.
 
 \--- task \--- Klik pada drum sprite, lalu seret kedua blok ini ke area kode di sebelah kanan:
 
-\--- no-print \---
+\--- tidak-dicetak \---
 
 ![tangkapan layar](images/connect-block.gif)
 
-\--- /tidak-dicetak \---
+\--- /tidak dicetak \---
 
-\--- hanya-cetak \---
+\--- print-only \---
 
 ```blocks3
 when this sprite clicked
 play drum (\(1\) Snare Drum v) for (0.25) beats
 ```
 
-\--- /print-only \---
+\--- /hanya-cetak \---
 
 Pastikan bahwa blok-blok tersebut saling terhubung (seperti batu bata LEGO).
 
