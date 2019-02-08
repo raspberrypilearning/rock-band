@@ -1,13 +1,5 @@
-\--- challenge \---
+## 더 나아가기
 
-## 도전 과제 : 드럼 모양 바꾸기
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space/) Scratch project?
 
-드럼이 소리나고 있는 것처럼 보이게 만들 수 있나요?
-
-![스크린 샷](images/band-drum-final.png)
-
-\--- hints \--- \--- hint \--- 이전 단계에서 가수의 모양을 바꿨던 방법을 활용 해 보세요. \--- /hint \--- \--- /hints \---
-
-새 코드들이 잘 작동하는지 확인하는 걸 잊지 마세요!
-
-\--- /challenge \---
+Or if you like the idea of doing more projects using sounds and music, you can try out the [Compose a tune](https://projects.raspberrypi.org/en/projects/compose-tune) Sonic Pi project!
