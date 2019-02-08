@@ -36,8 +36,8 @@ Kliknij i przeciągnij bębenek ku dolnej części Sceny.
 
 ![name](images/band-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+Następnie kliknij **Plik**, a potem **Zapisz teraz**, aby zapisać swój projekt.
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+Jeśli nie korzystasz z wersji online lub nie masz konta Scratcha, możesz zapisać kopię projektu, klikając zamiast tego **Zapisz na swoim komputerze**.
 
 ![zrzut ekranu](images/band-save.png) \--- /task \---
