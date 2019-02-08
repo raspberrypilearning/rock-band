@@ -1,20 +1,20 @@
-## Making a drum
+## Davul yapmak
 
 Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Kod bloklarını Scripts sekmesinde bulabilirsiniz ve hepsi de renk kodludur!
 
 \--- task \---
 
 First add the **Music** extension so you can play instruments.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+Sol alt köşedeki **Eklenti Ekle** düğmesine tıklayın.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![uzantı ekleme düğmesi vurgulanmış](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+Eklemek için **Müzik** uzantısına tıklayın.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![kalem uzantısı vurgulanmış](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -22,7 +22,7 @@ Click on the **Music** extension to add it.
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![ekran alıntısı](images/connect-block.gif)
 
 \--- /no-print \---
 
@@ -37,6 +37,6 @@ play drum (\(1\) Snare Drum v) for (0.25) beats
 
 Make sure that the blocks are connected together (like LEGO bricks).
 
-\--- /task \---
+\--- /görev \---
 
 \--- task \--- Click on the drum to try out your new instrument! \--- /task \---
