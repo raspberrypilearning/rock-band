@@ -12,4 +12,4 @@ The **Stage** is the area on the right, and is where your project comes to life.
 
 \--- task \--- Your stage should now look similar to this:
 
-![截屏](images/band-stage.png) \--- /task \---
+![截图](images/band-stage.png) \--- /task \---
