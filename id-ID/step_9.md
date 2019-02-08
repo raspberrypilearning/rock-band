@@ -1,13 +1,5 @@
-\--- tantangan \---
+## Apa selanjutnya?
 
-## Tantangan: ubah kostum drum Anda
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space/) Scratch project?
 
-Bisakah Anda membuat drum Anda terlihat seperti dipukul?
-
-![tangkapan layar](images/band-drum-final.png)
-
-\--- petunjuk \--- \--- petunjuk \--- Gunakan instruksi untuk mengubah kostum penyanyi Anda di langkah sebelumnya untuk membantu Anda. \--- / petunjuk \--- \--- / petunjuk \---
-
-Ingatlah untuk menguji bahwa kode baru Anda berfungsi!
-
-\--- / tantangan \---
+Or if you like the idea of doing more projects using sounds and music, you can try out the [Compose a tune](https://projects.raspberrypi.org/en/projects/compose-tune) Sonic Pi project!
