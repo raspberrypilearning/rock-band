@@ -6,7 +6,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## Uvod
 
-Learn how to code your own musical instruments!
+Nauči kako da programiraš sopstvene muzičke instrumente!
 
 ### Šta ćeš napraviti
 
@@ -24,7 +24,7 @@ Learn how to code your own musical instruments!
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Šta ćeš naučiti
 
 + How to add sprites and backgrounds to a Scratch project
 + How to change a sprite's costume
@@ -33,15 +33,15 @@ Learn how to code your own musical instruments!
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Šta će ti biti potrebno
 
-#### Hardware
+#### Hardver
 
-+ A computer capable of running Scratch 3
++ Računar koji može da pokrene Scratch 3
 
-#### Software
+#### Softver
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} ili [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -51,7 +51,7 @@ Learn how to code your own musical instruments!
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Ukoliko je potrebno da odštampate ovaj projekat, koristite [verziju za štampu](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
