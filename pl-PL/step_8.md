@@ -12,15 +12,15 @@ play note (60) for (0.25) beats
 
 Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-![screenshot](images/band-piano.png)
+![zrzut ekranu](images/band-piano.png)
 
 You can use more sprites from the library, and you can also paint your own sprites!
 
-![screenshot](images/band-draw.png)
+![zrzut ekranu](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## title: Dlaczego mój duszek „podskakuje”, kiedy zmienia kostium?
 
 When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
 
@@ -30,4 +30,4 @@ To fix this, make sure that the centres of your sprite's costumes are the same.
 
 If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
-![screenshot](images/band-io.png)
+![zrzut ekranu](images/band-io.png)
