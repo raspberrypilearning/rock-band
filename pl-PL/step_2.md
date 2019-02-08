@@ -2,7 +2,7 @@
 
 Zanim zaczniesz kodować, musisz dodać pewną „rzecz”, której będzie dotyczył twój kod. W Scratchu takie „rzeczy” nazywane są **duszkami**.
 
-\--- task \--- Open a new Scratch project.
+\--- task \--- Otwórz nowy projekt Scratcha.
 
 **Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
 
