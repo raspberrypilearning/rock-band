@@ -1,13 +1,5 @@
-\--- challenge \---
+## What next?
 
-## Challenge: change your drum's costume
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space/) Scratch project?
 
-Can you make your drum look like it's being hit?
-
-![screenshot](images/band-drum-final.png)
-
-\--- hints \--- \--- hint \--- Use the instructions for changing your singer's costume in the previous step to help you. \--- /hint \--- \--- /hints \---
-
-Remember to test that your new code works!
-
-\--- /challenge \---
+Or if you like the idea of doing more projects using sounds and music, you can try out the [Compose a tune](https://projects.raspberrypi.org/en/projects/compose-tune) Sonic Pi project!
