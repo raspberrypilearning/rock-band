@@ -4,7 +4,7 @@ listed: true
 copyedit: false
 title: 摇滚乐队
 description: 学习如何编自己的乐器
-version: 4.1.1
+version: 4
 last_tested: 2018-10-12
 steps:
   - 
@@ -23,7 +23,7 @@ steps:
   - 
     title: 造型
   - 
-    title: "Challenge: improve your band"
+    title: "造型"
     challenge: true
   - 
     title: "接下来还有什么？"
