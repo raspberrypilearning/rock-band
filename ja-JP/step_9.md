@@ -1,13 +1,5 @@
-\--- challenge \---
+## 次は何をしますか？
 
-## チャレンジ: ドラムのコスチュームを変える
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space/) Scratch project?
 
-ドラムが叩かれているように見た目を変えることができますか？
-
-![screenshot](images/band-drum-final.png)
-
-\--- hints \--- \--- hint \--- 前のステップで歌手のコスチュームを変えた時と同じようにしてみましょう。 \--- /hint \--- \--- /hints \---
-
-新しいコードが動くかどうか、テストするのを忘れないようにしましょう！
-
-\--- /challenge \---
+Or if you like the idea of doing more projects using sounds and music, you can try out the [Compose a tune](https://projects.raspberrypi.org/en/projects/compose-tune) Sonic Pi project!
