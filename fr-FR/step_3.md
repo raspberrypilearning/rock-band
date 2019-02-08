@@ -8,7 +8,7 @@ The **Stage** is the area on the right, and is where your project comes to life.
 
 \--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
-![capture d'écran](images/band-backdrop.png) \--- /task \---
+![screenshot](images/band-backdrop.png) \--- /task \---
 
 \--- task \--- Your stage should now look similar to this:
 
