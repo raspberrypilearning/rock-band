@@ -12,22 +12,22 @@ play note (60) for (0.25) beats
 
 Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-![screenshot](images/band-piano.png)
+![스크린샷](images/band-piano.png)
 
 You can use more sprites from the library, and you can also paint your own sprites!
 
-![screenshot](images/band-draw.png)
+![스크린샷](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## title: 제 스프라이트는 왜 모양이 바뀔때 '점프'를 하죠?
 
-When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+자신의 스프라이트를 만들 때 스프라이트를 클릭하면 의상이 바뀌면서 스프라이트가 튀어 나오는 것을 볼 수 있습니다. 이것은 두 모양이 같은 중심에 있지 않기 때문입니다.
 
 To fix this, make sure that the centres of your sprite's costumes are the same.
 
-\--- /collapse \---
+-- /collapse \---
 
 If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
-![screenshot](images/band-io.png)
+![스크린샷](images/band-io.png)
