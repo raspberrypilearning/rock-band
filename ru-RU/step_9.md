@@ -1,13 +1,5 @@
-\--- вызов \---
+## Что дальше?
 
-## Задача: изменить костюм своего барабана
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space/) Scratch project?
 
-Можете ли вы сделать свой барабан похожим на его удар?
-
-![Скриншот](images/band-drum-final.png)
-
-\--- hints \--- \--- hint \--- Используйте инструкции по изменению костюма певца на предыдущем шаге, чтобы помочь вам. \--- / hint \--- \--- / подсказки \---
-
-Не забудьте проверить, работает ли ваш новый код!
-
-\--- /вызов \---
+Or if you like the idea of doing more projects using sounds and music, you can try out the [Compose a tune](https://projects.raspberrypi.org/en/projects/compose-tune) Sonic Pi project!
