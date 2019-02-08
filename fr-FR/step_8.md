@@ -2,7 +2,7 @@
 
 Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-![screenshot](images/band-ideas-sounds.png)
+![capture d'écran](images/band-ideas-sounds.png)
 
 ```blocks3
 when this sprite clicked
@@ -16,7 +16,7 @@ Your instruments don't have to be realistic though. For example, you could make 
 
 You can use more sprites from the library, and you can also paint your own sprites!
 
-![capture d'écran](images/band-draw.png)
+![screenshot](images/band-draw.png)
 
 ## \--- collapse \---
 
@@ -30,4 +30,4 @@ Question
 
 If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
-![capture d'écran](images/band-io.png)
+![screenshot](images/band-io.png)
