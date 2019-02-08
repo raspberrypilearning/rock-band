@@ -1,4 +1,4 @@
-## Making a singer
+## Creare un cantante
 
 Now you will add a singer to your band!
 
@@ -20,7 +20,7 @@ Before you can make your singer sing, you need to add a sound to your singer spr
 
 \--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
 
-![screenshot](images/band-choose-sound.png) \--- /task \---
+![schermata](images/band-choose-sound.png) \--- /task \---
 
 \--- task \--- To use the sound, add the following code blocks to your singer sprite:
 
