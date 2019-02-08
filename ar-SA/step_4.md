@@ -1,8 +1,8 @@
-## Making a drum
+## إنشاء طبلة
 
 Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+يمكنك العثور على قوالب التعليمات البرمجية في علامة التبويب المقاطع البرمجية، وكلها مصنفة حسب اللون!
 
 \--- task \---
 
@@ -22,7 +22,7 @@ Click on the **Music** extension to add it.
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![لقطة الشاشة](images/connect-block.gif)
 
 \--- /no-print \---
 
