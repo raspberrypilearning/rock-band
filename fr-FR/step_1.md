@@ -6,9 +6,9 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## Introduction
 
-Learn how to code your own musical instruments!
+Apprend à programmer tes propres instruments de musique !
 
-### Ce que tu vas faire
+### Ce que tu feras
 
 \--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
@@ -24,7 +24,7 @@ Learn how to code your own musical instruments!
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Ce que tu vas apprendre
 
 + How to add sprites and backgrounds to a Scratch project
 + How to change a sprite's costume
@@ -33,17 +33,17 @@ Learn how to code your own musical instruments!
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Ce qu'il faut avoir
 
-#### Hardware
+#### Matériel
 
-+ A computer capable of running Scratch 3
++ Un ordinateur capable d'exécuter Scratch 3
 
-#### Software
+#### Logiciel
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ( [en ligne](http://rpf.io/scratchon) ou [hors ligne](http://rpf.io/scratchoff)")
 
-\--- /collapse \---
+Question
 
 ## \--- collapse \---
 
@@ -51,7 +51,7 @@ Learn how to code your own musical instruments!
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/rock-band/print) {: target = "_ blank"}.
 
 \--- /no-print \---
 
