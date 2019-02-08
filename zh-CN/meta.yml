@@ -10,20 +10,20 @@ steps:
   - 
     title: 简介
   - 
-    title: Sprites
+    title: 角色
   - 
-    title: The Stage
+    title: 舞台
   - 
-    title: Making a drum
+    title: 制作一面鼓
   - 
-    title: "Challenge: improve your drum"
+    title: "挑战：改进你的鼓"
     challenge: true
   - 
-    title: Making a singer
+    title: 创建一个歌手
   - 
-    title: Costumes
+    title: 造型
   - 
     title: "Challenge: improve your band"
     challenge: true
   - 
-    title: "What next?"
+    title: "接下来还有什么？"
