@@ -38,6 +38,6 @@ Click and drag the drum to the bottom of the Stage.
 
 Then click on **File**, and then on **Save now** to save your project.
 
-If you don't have a Scratch account, you can save a copy of your project by clicking on **Download to your computer** instead.
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
 
 ![screenshot](images/band-save.png) \--- /task \---
