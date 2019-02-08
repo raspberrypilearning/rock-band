@@ -4,7 +4,7 @@ listed: true
 copyedit: false
 title: فرقة الروك الموسيقية
 description: تعلَّم كيف تُبرمج الآلات الموسيقية الخاصة بك
-version: 4.1.1
+version: 4
 last_tested: 2018-10-12
 steps:
   - 
@@ -23,7 +23,7 @@ steps:
   - 
     title: المظاهر
   - 
-    title: "Challenge: improve your band"
+    title: "المظاهر"
     challenge: true
   - 
     title: "ما التالي؟"
