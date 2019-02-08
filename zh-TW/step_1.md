@@ -43,9 +43,9 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 + Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-\--- /collapse \---
+- - 自動隱藏選單 - -
 
-## - - 自動隱藏選單 - -
+## \--- collapse \---
 
 ## title: Additional information for educators
 
@@ -57,4 +57,4 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 You can download the completed project at [rpf.io/p/rock-band-get](http://rpf.io/p/en/rock-band-get).
 
-\--- /collapse \---
+- - 自動隱藏選單 - -
