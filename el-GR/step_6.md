@@ -1,8 +1,8 @@
-## Making a singer
+## Κάνοντας μία τραγουδίστρια
 
 Now you will add a singer to your band!
 
-\--- task \---
+\--- task --
 
 Add a singer sprite to your Stage.
 
@@ -12,7 +12,7 @@ Add a singer sprite to your Stage.
 
 \--- /task \---
 
-\--- task \---
+\--- task --
 
 Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
 
