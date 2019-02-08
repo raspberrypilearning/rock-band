@@ -1,10 +1,10 @@
-## Costumes
+## Uiterlijken
 
 Now you will make your singer look like she's singing!
 
 \--- task \--- You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
 
-![screenshot](images/band-singer-costume-annotated.png) \--- /task \---
+![screenshot](images/band-singer-costume-annotated.png) \---/task\---
 
 \--- task \--- Right-click on the costume and then click on **duplicate** to create a copy of it.
 
