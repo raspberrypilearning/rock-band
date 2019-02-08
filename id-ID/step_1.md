@@ -1,12 +1,12 @@
-\--- tidak-dicetak \---
+\--- no-print \---
 
 Ini adalah versi proyek ** Scratch 3 **. Ada juga versi proyek [ Scratch 2 ](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
-\--- /tidak dicetak \---
+\--- /no-print \---
 
 ## pengantar
 
-Pelajari cara membuat kode alat musik Kamu sendiri!
+Pelajari cara membuat kode alat musik Anda sendiri!
 
 ### Apa yang akan Anda buat
 
@@ -20,11 +20,11 @@ Pelajari cara membuat kode alat musik Kamu sendiri!
 
 \--- hanya cetak \--- Kamu akan membuat permainan di mana kamu dapat mengeklik penyanyi atau drum untuk mendengar suara bernyanyi atau gendang.
 
-![tangkapan layar permainan](images/demo.png) \--- /hanya-cetak \---
+![tangkapan layar permainan](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
-## judul: Apa yang akan kamu pelajari
+## title: Apa yang akan kamu pelajari
 
 + Bagaimana menambahkan sprite dan latar belakang untuk sebuah proyek awal
 + Bagaimana cara mengubah kostum sprite
@@ -45,16 +45,16 @@ Pelajari cara membuat kode alat musik Kamu sendiri!
 
 \--- /collapse \---
 
-## --menggulung--
+## \--- collapse \---
 
 ## judul: Informasi tambahan untuk pendidik
 
-\--- tidak-dicetak \---
+\--- no-print \---
 
-Jika Kamu perlu mencetak proyek ini, silakan gunakan [versi cetak](https://projects.raspberrypi.org/en/projects/rock-band/print){:target = "_ blank"}.
+Jika Anda perlu mencetak proyek ini, silakan gunakan versi ramah-printer [](https://projects.raspberrypi.org/en/projects/rock-band/print){: target = "_ blank"}.
 
-\--- /tidak-dicetak \---
+\--- /tidak dicetak \---
 
 Kamu dapat mengunduh proyek yang sudah selesai di [ rpf.io/p/rock-band-get ](http://rpf.io/p/en/rock-band-get).
 
-\--- /menggulung \---
+\--- /collapse \---
