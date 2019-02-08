@@ -1,13 +1,5 @@
-\--- haaste \---
+## What next?
 
-## Haaste: vaihda rumpusi puku
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space/) Scratch project?
 
-Voitko tehdä rumpusi näyttämään siltä, ​​että se osuu?
-
-![kuvakaappaus](images/band-drum-final.png)
-
-\--- vinkit \--- \--- vinkka \--- Käytä ohjeita muuttaaksesi laulajan pukuasi edellisessä vaiheessa auttamaan sinua. \--- / hint \--- \--- / vinkit \---
-
-Muista testata, että uusi koodi toimii!
-
-\--- /haaste \---
+Or if you like the idea of doing more projects using sounds and music, you can try out the [Compose a tune](https://projects.raspberrypi.org/en/projects/compose-tune) Sonic Pi project!
