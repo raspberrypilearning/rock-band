@@ -7,9 +7,9 @@
 स्पेसबार दाबल्यावर आवाज काढण्यासाठी ड्रम देखील मिळवता येतो का? आपल्याला हे `event` वापरण्याची आवश्यकता असेल{:class= "block3events"} ब्लॉक:
 
 ```blocks3
-when [space v] key pressed
+जेव्हा [स्पेस वी] की दाबली
 ```
 
-If you want to copy your existing code, right-click on it and then click on **duplicate**.
+आपण आपला विद्यमान कोड कॉपी करू इच्छित असल्यास, त्यावर राइट-क्लिक करा आणि त्यानंतर **डुप्लिकेट**वर क्लिक करा.
 
-![screenshot](images/band-duplicate-code.png)
+![स्क्रीनशॉट](images/band-duplicate-code.png)
