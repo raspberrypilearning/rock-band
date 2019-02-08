@@ -4,7 +4,7 @@ listed: true
 copyedit: false
 title: Groupe de rock
 description: Apprends à programmer tes propres instruments de musique
-version: 4.1.1
+version: 4
 last_tested: 2018-10-12
 steps:
   - 
@@ -14,7 +14,7 @@ steps:
   - 
     title: La scène
   - 
-    title: Créer un tambour
+    title: Faire un tambour
   - 
     title: "Défi : Améliore ton tambour"
     challenge: true
