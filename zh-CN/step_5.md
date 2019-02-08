@@ -12,4 +12,4 @@ Can you also get the drum to make a sound when the space bar is pressed? You'll 
 
 If you want to copy your existing code, right-click on it and then click on **duplicate**.
 
-![截屏](images/band-duplicate-code.png)
+![截图](images/band-duplicate-code.png)
