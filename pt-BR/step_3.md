@@ -4,7 +4,7 @@ The **Stage** is the area on the right, and is where your project comes to life.
 
 \--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-![screenshot](images/band-stage-choose.png) \--- /task \---
+![captura de tela](images/band-stage-choose.png) \--- /task \---
 
 \--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
