@@ -3,27 +3,27 @@ hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
 title: Rock band
-description: Învață cum să creezi propriile tale instrumente muzicale
+description: Învață cu să creezi propriul tău instrument muzical
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
     title: Introducere
   - 
-    title: Sprites
+    title: Personaje
   - 
-    title: The Stage
+    title: Scena
   - 
-    title: Making a drum
+    title: Creează toba
   - 
     title: "Challenge: improve your drum"
     challenge: true
   - 
-    title: Making a singer
+    title: Creează o cântăreață
   - 
-    title: Costumes
+    title: Costume
   - 
     title: "Challenge: improve your band"
     challenge: true
   - 
-    title: "What next?"
+    title: "Ce urmează?"
