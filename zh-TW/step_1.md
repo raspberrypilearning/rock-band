@@ -6,9 +6,9 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## 介紹
 
-Learn how to code your own musical instruments!
+學習如何編碼自己的樂器！
 
-### 你會做什麼
+### 你將會做出
 
 \--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
@@ -22,7 +22,7 @@ Learn how to code your own musical instruments!
 
 ![game screenshot](images/demo.png) \--- /print-only \---
 
-## \--- collapse \---
+## - - 自動隱藏選單 - -
 
 ## title: What you will learn
 
@@ -35,23 +35,23 @@ Learn how to code your own musical instruments!
 
 ## title: What you will need
 
-#### Hardware
+#### 硬體
 
-+ A computer capable of running Scratch 3
++ 可運行Scratch 3的電腦
 
-#### Software
+#### 軟體
 
 + Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
-## \--- collapse \---
+## - - 自動隱藏選單 - -
 
 ## title: Additional information for educators
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+如果您需要打印此項目，請使用 [打印機友好版本](https://projects.raspberrypi.org/en/projects/rock-band/print){:target =“_ blank”}.
 
 \--- /no-print \---
 
