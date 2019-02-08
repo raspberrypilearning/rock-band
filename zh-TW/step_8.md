@@ -1,4 +1,4 @@
-## Challenge: improve your band
+## 造型
 
 Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
@@ -18,7 +18,7 @@ You can use more sprites from the library, and you can also paint your own sprit
 
 ![截圖](images/band-draw.png)
 
-## \--- collapse \---
+## - - 自動隱藏選單 - -
 
 ## title: 為什麼我的角色在改變造型時會“跳躍”？
 
@@ -26,7 +26,7 @@ You can use more sprites from the library, and you can also paint your own sprit
 
 To fix this, make sure that the centres of your sprite's costumes are the same.
 
-- - 自動隱藏選單 - -
+\--- /collapse \---
 
 If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
