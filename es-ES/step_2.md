@@ -12,9 +12,9 @@ Si necesitas descargar e instalar el editor offline de Scratch, puedes encontrar
 
 It looks like this:
 
-![screenshot](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![captura de pantalla](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
-![captura de pantalla](images/band-delete-annotated.png) \--- /task \---
+![screenshot](images/band-delete-annotated.png) \--- /task \---
 
 \--- task \--- Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
 
@@ -32,12 +32,12 @@ Click and drag the drum to the bottom of the Stage.
 
 \--- /task \---
 
-\--- task \--- Give your program a name by typing one into the text box in the top left-hand corner.
+\--- task \--- Give your program a name by typing into the text box at the top.
 
-![name](images/band-name.png)
+![name](images/band-name-annotated.png)
 
 Then click on **File**, and then on **Save now** to save your project.
 
-If you don't have a Scratch account, you can save a copy of your project by clicking on **Download to your computer** instead.
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
 
 ![captura de pantalla](images/band-save.png) \--- /task \---
