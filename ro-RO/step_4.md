@@ -4,7 +4,7 @@ Now you will add code to your drum so that the drum makes a sound when it's clic
 
 Poți găsi blocurile de coduri în caseta Personajelor, toate având coduri de culori!
 
-\--- task \---
+\--- proba\---
 
 First add the **Music** extension so you can play instruments.
 
