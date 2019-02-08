@@ -12,15 +12,15 @@ Jeśli musisz pobrać i zainstalować edytor Scratcha, znajdziesz go na stronie 
 
 Wygląda to tak:
 
-![zrzut ekranu](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![zrzut ekranu](images/band-scratch.png) \--- /task \--- \--- task \--- Kot widoczny na ekranie to maskotka Scratcha. Nie jest potrzebny do tej gry, więc usuń go, klikając go prawym przyciskiem myszy, a następnie klikając **usuń**.
 
 ![screenshot](images/band-delete-annotated.png) \--- /task \---
 
-\--- task \--- Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+\--- task \--- Następnie kliknij **Wybierz duszka z biblioteki**, żeby otworzyć listę wszystkich duszków dostępnych w Scratchu.
 
 ![zrzut ekranu](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+\--- task \--- Przewijaj menu w dół, aż zobaczysz duszka wyglądającego jak bębenek. Kliknij na ten bębenek, żeby dodać go do swojego projektu.
 
 ![zrzut ekranu](images/band-sprite-drum.png)
 
@@ -28,11 +28,11 @@ Wygląda to tak:
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+Kliknij i przeciągnij bębenek ku dolnej części Sceny.
 
 \--- /task \---
 
-\--- task \--- Give your program a name by typing into the text box at the top.
+\--- task \--- Wpisz nazwę programu w polu tekstowym w górnej części ekranu.
 
 ![name](images/band-name-annotated.png)
 
