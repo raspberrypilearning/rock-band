@@ -41,9 +41,9 @@ Click and drag the drum to the bottom of the Stage.
 --- /task ---
 
 --- task ---
-Give your program a name by typing one into the text box in the top left-hand corner.
+Give your program a name by typing into the text box at the top.
 
-![name](images/band-name.png)
+![name](images/band-name-annotated.png)
 
 Then click on **File**, and then on **Save now** to save your project.
 
