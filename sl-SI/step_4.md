@@ -1,42 +1,42 @@
-## Making a drum
+## Izdelava bobna
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+Sedaj boste dodali kodo na svoj boben, tako da boben ustvari zvok, ko ga kliknete.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+V zavihku Scripts lahko najdete kodne bloke in vsi so barvno kodirani!
 
-\--- task \---
+\--- naloga \---
 
-First add the **Music** extension so you can play instruments.
+Najprej dodajte razširitev **Music** , da lahko predvajate instrumente.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+Kliknite na gumb **Dodaj razširitev** v spodnjem levem kotu.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![označite gumb za razširitev](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+Kliknite razširitev **Glasba** da jo dodate.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![označena je razširitev pisala](images/click-music-annotated.png)
 
-\--- /task \---
+\--- / naloga \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- naloga \--- Kliknite na žganje bobna in ta dva bloka povlecite v območje kode na desni:
 
-\--- no-print \---
+\--- brez tiskanja \---
 
-![screenshot](images/connect-block.gif)
+![posnetek zaslona](images/connect-block.gif)
 
-\--- /no-print \---
+\--- / brez natisa \---
 
-\--- print-only \---
+\--- samo za tiskanje \---
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+ko je ta geslo kliknilo
+predvajaj boben (1. Snare Drum v) za (0,25) utripov
 ```
 
-\--- /print-only \---
+\--- / samo za tiskanje \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Prepričajte se, da so bloki povezani skupaj (kot LEGO opeke).
 
-\--- /task \---
+\--- / naloga \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- naloga \--- Kliknite na boben in preizkusite svoj novi instrument! \--- / naloga \---
