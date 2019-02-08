@@ -1,8 +1,8 @@
-## Challenge: improve your band
+## Kostüme
 
 Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-![Screenshot](images/band-ideas-sounds.png)
+![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
 when this sprite clicked
