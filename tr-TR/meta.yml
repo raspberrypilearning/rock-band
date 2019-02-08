@@ -1,5 +1,5 @@
 ---
-hero_image: images/hero-rock-band-large.png
+hero_image: images / hero-rock-band-large.png
 listed: true
 copyedit: false
 title: Rock grubu
@@ -10,18 +10,18 @@ steps:
   - 
     title: Giriş
   - 
-    title: Kukla
+    title: Sprite
   - 
     title: Sahne
   - 
-    title: Davul yapma
+    title: Davul yapmak
   - 
-    title: "Meydan Okuma: Davulunuzu geliştirin"
+    title: "Zorluk: Davulunuzu geliştirin"
     challenge: true
   - 
-    title: Şarkıcı oluşturma
+    title: Bir şarkıcı yapmak
   - 
-    title: Kılık
+    title: Kostümler
   - 
     title: "Meydan Okuma: müzik grubunuzu geliştirin"
     challenge: true
