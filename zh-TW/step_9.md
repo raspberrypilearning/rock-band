@@ -1,13 +1,5 @@
-\--- challenge \---
-
 ## 挑戰：改變鼓的造型
 
-你可以讓你的鼓看起來像被擊中？
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space/) Scratch project?
 
-![截圖](images/band-drum-final.png)
-
-\--- hints \--- \--- hint \--- 使用前面步驟中更改歌手造型的說明來幫助你。 \--- /hint \--- \--- /hints \---
-
-記住要測試你的新代碼的是否正常工作！
-
-\--- /challenge \---
+Or if you like the idea of doing more projects using sounds and music, you can try out the [Compose a tune](https://projects.raspberrypi.org/en/projects/compose-tune) Sonic Pi project!
