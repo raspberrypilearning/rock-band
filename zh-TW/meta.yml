@@ -10,18 +10,18 @@ steps:
   - 
     title: 介紹
   - 
-    title: Sprites
+    title: 角色
   - 
-    title: The Stage
+    title: 舞臺
   - 
-    title: Making a drum
+    title: 製作鼓
   - 
-    title: "Challenge: improve your drum"
+    title: "挑戰：改進你的鼓"
     challenge: true
   - 
-    title: Making a singer
+    title: 製作歌手
   - 
-    title: Costumes
+    title: 造型
   - 
     title: "Challenge: improve your band"
     challenge: true
