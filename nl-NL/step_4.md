@@ -4,7 +4,7 @@ Now you will add code to your drum so that the drum makes a sound when it's clic
 
 Je kunt de codeblokken vinden op het tabblad Scripts en ze zijn allemaal voorzien van een kleurcode!
 
-\--- task \----
+\--- task \---
 
 First add the **Music** extension so you can play instruments.
 
