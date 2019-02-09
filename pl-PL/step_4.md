@@ -8,17 +8,17 @@ Bloki kodu znajdziesz w zakładce Skrypty. Wszystkie są opisane kolorami!
 
 Najpierw włącz dodatek **Muzyka**, żeby móc grać na instrumentach.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+Kliknij na przycisk **Dodaj rozszerzenie** w lewym dolnym rogu.
 
 ![add extension button highlighted](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+Kliknij na opcję **Muzyka**, żeby dodać to rozszerzenie.
 
 ![pen extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- task \--- Kliknij na duszka-bębenek, a następnie przeciągnij oba bloki do miejsca na kod po prawej stronie:
 
 \--- no-print \---
 
