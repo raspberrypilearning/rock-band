@@ -2,11 +2,11 @@
 
 Dodasz do swojego bębenka kod, dzięki któremu po kliknięciu będzie wydawał dźwięk.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Bloki kodu znajdziesz w zakładce Skrypty. Wszystkie są opisane kolorami!
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+Najpierw włącz dodatek **Muzyka**, żeby móc grać na instrumentach.
 
 Click on the **Add extension** button in the bottom left-hand corner.
 
