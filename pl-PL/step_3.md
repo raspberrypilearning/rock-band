@@ -1,15 +1,15 @@
 ## Scena
 
-The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+**Scena** to obszar po prawej stronie i miejsce, w którym twój projekt ożywa. To miejsce, w którym odbywają się występy – jak na prawdziwej scenie!
 
-\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+\--- task \--- Obecnie scena jest biała i wygląda dość nieciekawie! Dodajmy do niej tło, klikając **Wybierz tło**.
 
 ![zrzut ekranu](images/band-stage-choose.png) \--- /task \---
 
-\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+Wybierz z listy u góry opcję **Wnętrza**. Następnie kliknij na tło przedstawiające teatr.
 
 ![zrzut ekranu](images/band-backdrop.png) \--- /task \---
 
-\--- task \--- Your stage should now look similar to this:
+\--- task \--- Twoja scena powinna teraz wyglądać podobnie do tej:
 
 ![zrzut ekranu](images/band-stage.png) \--- /task \---
