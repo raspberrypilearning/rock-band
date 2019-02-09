@@ -1,6 +1,6 @@
 ## Tworzenie bębenka
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+Dodasz do swojego bębenka kod, dzięki któremu po kliknięciu będzie wydawał dźwięk.
 
 You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
