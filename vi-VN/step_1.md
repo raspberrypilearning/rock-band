@@ -55,6 +55,6 @@ Nếu bạn cần in dự án này, vui lòng sử dụng [phiên bản thân th
 
 \--- / không in \---
 
-Bạn có thể tải xuống dự án đã hoàn thành tại [rpf.io/p/rock-band-get](http://rpf.io/p/en/rock-band-get).
+You can download the completed project at [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
 
 \--- /sự sụp đổ \---
