@@ -55,6 +55,6 @@
 
 \--- / no-print \---
 
-आपण पूर्ण प्रकल्प [ rpf.io/p/rock-band-get येथे डाउनलोड करू शकता ](http://rpf.io/p/en/rock-band-get).
+You can download the completed project at [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
