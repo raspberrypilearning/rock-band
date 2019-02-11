@@ -55,6 +55,6 @@ Naučite se kodirati svoje glasbene instrumente!
 
 \--- / brez natisa \---
 
-Dokončani projekt lahko prenesete na [rpf.io/p/rock-band-get](http://rpf.io/p/en/rock-band-get).
+You can download the completed project at [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
 
 \--- / strni \---
