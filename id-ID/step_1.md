@@ -55,6 +55,6 @@ Jika Anda perlu mencetak proyek ini, silakan gunakan versi ramah-printer [](http
 
 \--- /tidak dicetak \---
 
-Kamu dapat mengunduh proyek yang sudah selesai di [ rpf.io/p/rock-band-get ](http://rpf.io/p/en/rock-band-get).
+You can download the completed project at [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
