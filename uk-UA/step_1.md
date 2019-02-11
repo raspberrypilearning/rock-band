@@ -55,6 +55,6 @@
 
 \--- / без друку \---
 
-Ви можете завантажити завершений проект за адресою [rpf.io/p/rock-band-get](http://rpf.io/p/en/rock-band-get).
+You can download the completed project at [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
 
 \--- / згорнути \---
