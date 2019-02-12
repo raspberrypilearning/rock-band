@@ -1,4 +1,4 @@
-## What next?
+## Шта је следеће?
 
 Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space/) Scratch project?
 
