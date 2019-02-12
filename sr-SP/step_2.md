@@ -32,12 +32,12 @@
 
 \--- /task \---
 
-\--- task \--- Give your program a name by typing into the text box at the top.
+\--- task \--- Дај свом програму име, тако што ћеш га уписати у поље за текст у горњем делу.
 
 ![име](images/band-name-annotated.png)
 
 Кликни на **Дадотека**, а затим на **Сачувај одмах** да би сачувао/ла свој пројекат.
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+Ако не користиш Скреч на мрежи или немаш Скреч налог, можеш да сачуваш копију свог пројекта тако што ћеш кликнути на **Сачувај на свом рачунару**.
 
 ![снимак екрана](images/band-save.png) \--- /task \---
