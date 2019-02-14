@@ -1,5 +1,18 @@
 ## Шта је следеће?
 
-Сада када сте направили свој први Скреч пројекат, зашто не би погледали у Скреч пројекат [Изгубљени у свемиру](https://projects.raspberrypi.org/en/projects/lost-in-space/)?
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-Или ако вам се свиђа идеја да урадите још пројеката користећи звукове и музику. Можете пробати Sonic Pi пројекат [Компонуј мелодију](https://projects.raspberrypi.org/en/projects/compose-tune)!
+\--- no-print \--- Click on the green flag to see the animation.
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
+
+\--- /no-print \---
+
+\--- print-only \---
+
+![Complete project](images/lost-in-space-static.png)
+
+\--- /print-only \---
