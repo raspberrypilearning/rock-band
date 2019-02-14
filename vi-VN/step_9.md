@@ -1,5 +1,18 @@
 ## Tiếp theo là gì?
 
-Bây giờ bạn đã xây dựng dự án Scratch đầu tiên của mình, tại sao không xem qua dự án [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space/) Scratch?
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-Hoặc nếu bạn thích ý tưởng thực hiện nhiều dự án hơn bằng âm thanh và âm nhạc, bạn có thể thử dự án [Compose a Tune](https://projects.raspberrypi.org/en/projects/compose-tune) Sonic Pi!
+\--- no-print \--- Click on the green flag to see the animation.
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
+
+\--- /no-print \---
+
+\--- print-only \---
+
+![Complete project](images/lost-in-space-static.png)
+
+\--- /print-only \---
