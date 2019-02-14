@@ -1,5 +1,18 @@
 ## Що далі?
 
-Тепер, коли ви створили свій перший проект на порожньому місці, чому б не глянути на [Загублені в космосі](https://projects.raspberrypi.org/en/projects/lost-in-space/) Подряпини проекту?
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-Або , якщо вам подобається ідея робити більше проектів з допомогою звуків і музики, ви можете випробувати [Придумайте мелодія](https://projects.raspberrypi.org/en/projects/compose-tune) проект Соник Пі!
+\--- no-print \--- Click on the green flag to see the animation.
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
+
+\--- /no-print \---
+
+\--- print-only \---
+
+![Complete project](images/lost-in-space-static.png)
+
+\--- /print-only \---
