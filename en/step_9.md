@@ -95,7 +95,7 @@ if (!("scramble" in Array.prototype)) {
                                     "D"
                                 ],
             "correct"       :   "A",
-            "explanation"   :   "When this sprite clicked detect clicking on the sprite and the change costume block changes the spries appearance.",
+            "explanation"   :   "The change costume block is below the block to detect sprite clicks.",
         },
 
     ];
