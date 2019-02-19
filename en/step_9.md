@@ -373,4 +373,4 @@ quiz = shuffle(quiz);
 </body>
 </html>
 
-This quiz may not work in Internet Explorer. Please try using another browser.
+*This quiz may not work in Internet Explorer. If you can't see the quiz then please try using another browser.*
