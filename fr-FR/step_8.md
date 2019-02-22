@@ -1,13 +1,13 @@
-## Challenge: improve your band
+## Défi : améliorer ton groupe
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+Utilise ce que tu as appris dans ce projet pour créer ton propre groupe! Tu peux créer tous les instruments que tu aimes - regardes les instruments disponibles et les sons pour te donner des idées.
 
 ![capture d'écran](images/band-ideas-sounds.png)
 
 ```blocks3
-when this sprite clicked
-set instrument to (\(1\) Piano v)
-play note (60) for (0.25) beats
+lorsque ce lutin est cliqué
+définis l'instrument sur (\(1\) Piano v)
+joue la note (60) pour (0,25) battements
 ```
 
 Tes instruments ne doivent pas forcément être réalistes cependant. Par exemple, Tu pourrais créer un piano fait de muffins !
