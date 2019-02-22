@@ -1,24 +1,24 @@
 ## Créer un tambour
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+Maintenant, tu vas ajouter du code à ta batterie afin que le tambour fasse un son quand il est cliqué.
 
 Tu peux trouver les blocs de code dans l'onglet Scripts, et ils ont tous un code couleur !
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+Ajoute d'abord l'extension **Musique** pour pouvoir jouer des instruments.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+Clique sur le bouton **Ajouter une extension** dans le coin en bas, à gauche.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![bouton ajouter une extension en surbrillance](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+Clique sur l'extension **Musique** pour l'ajouter.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![extension stylo en surbrillance](images/click-music-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- tâche \--- Clique sur le lutin de batterie, puis fait glisser ces deux blocs dans la zone de code à droite :
 
 \--- no-print \---
 
@@ -29,14 +29,14 @@ Click on the **Music** extension to add it.
 \--- print-only \---
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+lorsque ce lutin est cliqué
+joue le tambour (\(1\) Snare Drum v) pour (0.25) battements
 ```
 
 \--- /print-only \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Assure-toi que les blocs sont connectés ensemble (comme des briques de construction).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- tâche \--- Clique sur le tambour pour essayer ton nouvel instrument ! \--- /tâche \---
