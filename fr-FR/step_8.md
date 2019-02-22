@@ -10,11 +10,11 @@ set instrument to (\(1\) Piano v)
 play note (60) for (0.25) beats
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+Tes instruments ne doivent pas forcément être réalistes cependant. Par exemple, Tu pourrais créer un piano fait de muffins !
 
 ![capture d'écran](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+Tu peux utiliser plus de lutins de la bibliothèque, et tu peux aussi peindre tes propres lutins !
 
 ![screenshot](images/band-draw.png)
 
@@ -24,10 +24,10 @@ You can use more sprites from the library, and you can also paint your own sprit
 
 Lorsque tu crées ton propre lutin, tu peux constater que lorsque tu cliques dessus, celui-ci «saute» lorsqu'il change de costume. C'est parce que les deux costumes ne sont pas centrés au même endroit.
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+Pour résoudre ce problème, assure-toi que les centres des costumes de tes lutins sont les mêmes.
 
 Question
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+Si tu as un microphone, tu peux enregistrer vos propres sons, ou tu peux même utiliser une webcam pour frapper tes instruments !
 
 ![screenshot](images/band-io.png)
