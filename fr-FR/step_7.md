@@ -21,20 +21,20 @@ Maintenant, tu vas faire en sorte que l'on voit que ton chanteur ait l'air de ch
 \--- tâche \--- Maintenant que tu as deux costumes différents pour ton chanteur, tu peux choisir quel costume est affiché ! Ajoute ces deux blocs de code à ton lutin chanteur :
 
 ```blocks3
-when this sprite clicked
-+switch costume to (singing v)
-play sound (singer1 v) until done
-+switch costume to (not singing v)
+lorsque ce lutin est cliqué
++ bascule le costume sur (chanter v)
+jouer du son (singer1 v) jusqu'à ce que l'opération soit terminée
++ basculer costume sur (ne pas chanter v)
 ```
 
-The code block for changing the costume is in the `Looks`{:class="block3looks"} section. \--- /task \---
+Le bloc de code pour changer le costume est dans le `Apparence`{:class="block3looks"} section \--- /tâche \---
 
-\--- task \--- Click on your singer on the stage. Does she look like she is singing? \--- /task \---
+\--- tâche \--- Clique sur ton chanteur sur la scène. Est-ce qu'elle semble en train de chanter ? \--- / tâche \---
 
-\--- task \--- Now make your drum look like it's being hit!
+Maintenant tu vas faire en sorte que ton tambour ai l'air d'être frappé !
 
 ![capture d'écran](images/band-drum-final.png)
 
-- Use the instructions for changing your singer sprite's costume to help you.
+- Utilise les instructions pour changer le costume de ton lutin chanteur pour t'aider.
 
-Remember to test that your new code works! \--- /task \---
+N'oublie pas de tester que ton nouveau code fonctionne \--- /tâche \---
