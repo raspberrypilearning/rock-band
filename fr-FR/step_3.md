@@ -1,8 +1,8 @@
 ## La scène
 
-The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+La **scène** est la zone sur la droite et c'est où ton projet prend vie. Considère-le comme une zone de performance, tout comme une scène réelle !
 
-\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+\--- tâche \--- Pour le moment, la scène est blanche et semble plutôt ennuyeuse ! Ajoute un arrière-plan en cliquant sur **Choisir un arrière-plan**.
 
 ![capture d'écran](images/band-stage-choose.png) \--- /task \---
 
