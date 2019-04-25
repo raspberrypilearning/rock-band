@@ -1,6 +1,6 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+Αυτή είναι η έκδοση **Scratch 3** του έργου. Υπάρχει επίσης και μία έκδοση [Scratch 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) του έργου.
 
 \--- /no-print \---
 
@@ -10,7 +10,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ### Τι θα φτιάξεις
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- no-print \--- Κάνε κλικ στην πράσινη σημαία για να ξεκινήσεις. Στη συνέχεια, κάνε κλικ στην τραγουδίστρια ή στο τύμπανο για να ακούσεις πως παίζουν.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,7 +18,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\--- print-only \--- Θα φτιάξεις ένα παιχνίδι όπου μπορείς να κάνεις κλικ στον τραγουδιστή ή στο τύμπανο για να ακούσεις ήχους τραγουδιού ή τύμπανου.
 
 ![game screenshot](images/demo.png) \--- /print-only \---
 
@@ -26,10 +26,10 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## title: Τι θα μάθεις
 
-+ How to add sprites and backgrounds to a Scratch project
-+ How to change a sprite's costume
-+ How to make sprites react when they are clicked
-+ How to play sounds in Scratch \--- /collapse \---
++ Πώς να προσθέσεις χαρακτήρες και φόντο σε ένα έργο Scratch
++ Πώς να αλλάξεις την εμφάνιση ενός χαρακτήρα
++ Πώς να κάνεις τους χαρακτήρες να αντιδρούν όταν γίνονται κλικ
++ Πώς να παίζεις ήχους στο Scratch \--- / collapse \---
 
 ## \--- collapse \---
 
@@ -47,7 +47,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## \--- collapse \---
 
-## Πρόσθετες πληροφορίες για εκπαιδευτικούς
+## title: Πρόσθετες πληροφορίες για εκπαιδευτικούς
 
 \--- no-print \---
 
@@ -55,6 +55,6 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-You can download the completed project at [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
+Μπορείς να κατεβάσεις το ολοκληρωμένο έργο στο [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
