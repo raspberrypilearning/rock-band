@@ -1,15 +1,15 @@
-## Challenge: improving your drum
+## האתגר: שפר את התוף שלך
 
-Can you change the sound that the drum makes when it's clicked?
+האם תוכל לשנות את הצליל שהתוף עושה כאשר מקליקים עליו?
 
-![screenshot](images/band-drum-sound.png)
+![צילום מסך](images/band-drum-sound.png)
 
-Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
+האם אתה יכול גם לגרום לתוף להשמיע צליל כאשר כפתור הרווח נלחץ? יהיה עליך להשתמש ב `ארוע` זה {:class="block3events"} block:
 
 ```blocks3
 when [space v] key pressed
 ```
 
-If you want to copy your existing code, right-click on it and then click on **duplicate**.
+אם ברצונך להעתיק את הקוד ההנוכחי שלך, לחץ עליו באמצעות לחצן העכבר הימני ולאחר מכן לחץ על ** שכפל **.
 
-![screenshot](images/band-duplicate-code.png)
+![צילום מסך](images/band-duplicate-code.png)
