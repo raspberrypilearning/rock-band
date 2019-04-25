@@ -4,12 +4,12 @@
 
 ![screenshot](images/band-drum-sound.png)
 
-Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
+Μπορείς επίσης να κάνεις το τύμπανο να βγάζει έναν ήχο όταν πατηθεί το πλήκτρο διαστήματος; Θα χρειαστεί να χρησιμοποιήσεις αυτό το μπλοκ `συμβάντος`{:class="blockevents"}:
 
 ```blocks3
 όταν πατηθεί το πλήκτρο [space]
 ```
 
-If you want to copy your existing code, right-click on it and then click on **duplicate**.
+Μπορείς να αντιγράψεις τον τρέχοντα κώδικα κάνοντας δεξί κλικ πάνω του και επιλέγοντας **διπλασιασμός**.
 
 ![screenshot](images/band-duplicate-code.png)
