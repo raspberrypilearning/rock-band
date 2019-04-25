@@ -1,33 +1,31 @@
-## Challenge: improve your band
+## האתגר: שפר את הלהקה שלך
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+השתמש במה שלמדת בפרויקט זה כדי ליצור את הלהקה שלך! אתה יכול ליצור כל כלי נגינה שתרצה - הסתכל בדמויות כלי הנגינה הזמינים והצלילים הזמינים כדי לקבל כמה רעיונות.
 
-![screenshot](images/band-ideas-sounds.png)
+![צילום מסך](images/band-ideas-sounds.png)
 
 ```blocks3
-when this sprite clicked
-set instrument to (\(1\) Piano v)
-play note (60) for (0.25) beats
+when this sprite clicked set instrument to (\(1\) Piano v) play note (60) for (0.25) beats
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+כלי הנגינה שלך לא חייב להיות מציאותי. לדוגמה, אתה יכול לעשות פסנתר עשוי מעוגיות!
 
-![screenshot](images/band-piano.png)
+![צילום מסך](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+אתה יכול להשתמש בדמויות נוספות מהספרייה, ואתה יכול אפילו לצייר דמויות משלך!
 
-![screenshot](images/band-draw.png)
+![צילום מסך](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## title: מדוע הדמות שלי "קופצת" כאשר משנים תלבושת?
 
-When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+בעת יצירת דמות משלך, אתה עשוי לגלות כי כאשר אתה לוחץ על דמות, היא "קופצת" כאשר התלבושת משתנה. זאת משום ששתי התלבושות אינן ממורכזות באותה נקודה.
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+כדי לתקן זאת, ודא כי המרכזים של התלבושות של דמות שלך נמצאים באותה נקודה.
 
 \--- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+אם יש לך מיקרופון, אתה יכול להקליט צלילים משלך, ואתה יכול אפילו להשתמש במצלמת האינטרנט כדי לנגן בכלי הנגינה שלך!
 
-![screenshot](images/band-io.png)
+![צילום מסך](images/band-io.png)
