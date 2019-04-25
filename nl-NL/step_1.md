@@ -1,6 +1,6 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+Dit is de **Scratch 3** versie van het project. Er is ook een [Scratch 2 versie van het project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
@@ -10,7 +10,7 @@ Leer hoe je je eigen muziekinstrumenten kunt coderen!
 
 ### Wat ga je maken
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- no-print \--- Klik op de groene vlag om te beginnen. Klik vervolgens op de zanger of de drum om te horen hoe ze klinken.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,7 +18,7 @@ Leer hoe je je eigen muziekinstrumenten kunt coderen!
 
 \--- /no-print \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\--- print-only \--- Je gaat een spel maken waar je op de zangeres of de drum kunt klikken om te horen hoe ze klinken.
 
 ![game screenshot](images/demo.png) \--- /print-only \---
 
@@ -26,10 +26,10 @@ Leer hoe je je eigen muziekinstrumenten kunt coderen!
 
 ## title: Wat ga je leren
 
-+ How to add sprites and backgrounds to a Scratch project
-+ How to change a sprite's costume
-+ How to make sprites react when they are clicked
-+ How to play sounds in Scratch \--- /collapse \---
++ Hoe sprites en achtergronden aan een Scratch project toe te voegen
++ Hoe het uiterlijk van een sprite te veranderen
++ Hoe sprites te laten reageren wanneer op ze geklikt wordt
++ Hoe geluiden in Scratch af te spelen \--- / collapse \---
 
 ## \--- collapse \---
 
@@ -47,7 +47,7 @@ Leer hoe je je eigen muziekinstrumenten kunt coderen!
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Aanvullende informatie voor docenten
 
 \--- no-print \---
 
@@ -55,6 +55,6 @@ Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](h
 
 \--- /no-print \---
 
-You can download the completed project at [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
+Je kunt het voltooide project downloaden op [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
