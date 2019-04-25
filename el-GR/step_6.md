@@ -1,10 +1,10 @@
-## Κάνοντας μία τραγουδίστρια
+## Φτιάχνοντας μία τραγουδίστρια
 
-Now you will add a singer to your band!
+Τώρα θα προσθέσεις μια τραγουδίστρια στη μπάντα σου!
 
 \--- task --
 
-Add a singer sprite to your Stage.
+Πρόσθεσε ένα χαρακτήρα τραγουδίστριας στο σκηνικό σου.
 
 ![screenshot](images/band-singer-mic.png)
 
@@ -14,15 +14,15 @@ Add a singer sprite to your Stage.
 
 \--- task --
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+Για να τραγουδήσει η τραγουδίστριά σου, πρέπει να προσθέσεις σε αυτή έναν ήχο. Βεβαιώσου ότι έχεις επιλέξει την τραγουδίστριά σου και στη συνέχεια κάνε κλικ στην καρτέλα Ήχοι και ξανά κλικ στο **Διαλέξτε έναν ήχο από τη βιβλιοθήκη**:
 
 ![screenshot](images/band-import-sound-annotated.png) \--- /task \---
 
-\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+\--- task \--- Κάνε κλικ στο **Voice** στη λίστα που βρίσκεται στην κορυφή και, στη συνέχεια, επιλέξε έναν ήχο που θα προσθέσεις στο χαρακτήρα σου.
 
 ![screenshot](images/band-choose-sound.png) \--- /task \---
 
-\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+\--- task \--- Για να χρησιμοποιήσεις τον ήχο, πρόσθεσε τα ακόλουθα μπλοκ κώδικα στον χαρακτήρα τραγουδίστριας σου:
 
 ```blocks3
 when this sprite clicked
@@ -31,4 +31,4 @@ play sound (singer1 v) until done
 
 \--- /task \---
 
-\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
+\--- task \--- Κάντε κλικ στην τραγουδίστρια σου στο σκηνικό και δες τι συμβαίνει. Τραγουδάει; \--- /task \---
