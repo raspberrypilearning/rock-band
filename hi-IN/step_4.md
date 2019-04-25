@@ -8,13 +8,13 @@ Now you will add code to your drum so that the drum makes a sound when it's clic
 
 First add the **Music** extension so you can play instruments.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+नीचे बाएँ हाथ के कोने में **Add extension** (एड एक्सटेंशन) बटन पर क्लिक करें।
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![हाइलाइट किया हुआ एक्सटेंशन बटन जोड़ें](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+इसे जोड़ने के लिए **Music** एक्सटेंशन पर क्लिक करें।
 
-![pen extension highlighted](images/click-music-annotated.png)
+![हाइलाइट किया हुआ पेन एक्सटेंशन](images/click-music-annotated.png)
 
 \--- /task \---
 
