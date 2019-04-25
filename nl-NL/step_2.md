@@ -2,25 +2,25 @@
 
 Voordat je met coderen kunt beginnen, moet je een 'ding' toevoegen aan de code. In Scratch worden deze 'dingen' ** sprites** genoemd.
 
-\--- task \--- Open a new Scratch project.
+\--- task \--- Open een nieuw Scratch project.
 
-**Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** open een nieuw online Scratch project op [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Offline:** open een nieuw project in de offline editor.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Als je de Scratch offline editor wilt downloaden en installeren dan kan je die vinden op [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-It looks like this:
+Het ziet er zo uit:
 
-![screenshot](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![screenshot](images/band-scratch.png) \--- / task \--- \--- task \--- De kat-sprite die je ziet, is de Scratch-mascotte. Je hebt het niet nodig voor deze game, dus doe het weg door er met de rechtermuisknop op te klikken en vervolgens op **verwijderen** te klikken.
 
 ![screenshot](images/band-delete-annotated.png) \--- /task \---
 
-\--- task \--- Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+\--- task -- Klik op **Kies een sprite** om de bibliotheek van alle Scratch-sprites te openen.
 
 ![screenshot](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+\---task \--- Blader naar beneden tot je een drum sprite ziet. Klik op deze drum sprite om het aan je project toe te voegen.
 
 ![screenshot](images/band-sprite-drum.png)
 
@@ -28,16 +28,16 @@ It looks like this:
 
 \--- task \----
 
-Click and drag the drum to the bottom of the Stage.
+Klik en sleep de trommel naar de onderkant van het werkgebied.
 
 \--- /task \---
 
-\--- task \--- Give your program a name by typing into the text box at the top.
+\--- task -- Geef je programma een naam door deze in het tekstvak boven in de balk te typen.
 
 ![name](images/band-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+Klik vervolgens op **Bestand** en vervolgens op **Nu opslaan** om je project op te slaan.
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+Als je niet online bent of geen Scratch account hebt, kun je in plaats daarvan een kopie van jouw project opslaan op je eigen computer door op **Opslaan op je computer** te klikken.
 
 ![screenshot](images/band-save.png) \--- /task \---
