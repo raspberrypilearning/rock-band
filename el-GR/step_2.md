@@ -1,26 +1,26 @@
-## Αντικείμενα
+## Χαρακτήρες
 
-Προτού ξεκινήσεις την κωδικοποίηση, θα πρέπει να προσθέσεις ένα "πράγμα" στον κώδικα. Στο Scratch, αυτά τα "πράγματα" ονομάζονται **αντικείμενα**.
+Προτού ξεκινήσεις την κωδικοποίηση, θα πρέπει να προσθέσεις ένα "πράγμα" στον κώδικα. Στο Scratch, αυτά τα "πράγματα" ονομάζονται **χαρακτήρες**.
 
-\--- task \--- Open a new Scratch project.
+\--- task \--- Άνοιξε ένα νέο έργο Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** άνοιξε το αρχικό έργο στο [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Offline: ** άνοιξε ένα νέο έργο στον επεξεργαστή εκτός σύνδεσης.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Αν χρειαστεί να κατεβάσεις και να εγκαταστήσεις τον offline editor για το Scratch, μπορείς να το βρεις στο [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-It looks like this:
+Δείχνει κάπως έτσι:
 
-![screenshot](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![screenshot](images/band-scratch.png) \---/task\--- \--- task \--- Ο χαρακτήρας γάτας που μπορείς να δεις είναι η μασκότ του Scratch. Δεν τον χρειάζεσαι για αυτό το παιχνίδι, οπότε τον αφαιρείς κάνοντας δεξί κλικ και στη συνέχεια κάντε κλικ στη **διαγραφή** .
 
 ![screenshot](images/band-delete-annotated.png) \--- /task \---
 
-\--- task \--- Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+\--- Στη συνέχεια, κάνε κλικ στο **Διαλέξτε ένα αντικείμενο από τη βιβλιοθήκη** για να ανοίξεις μια λίστα με όλα τα αντικείμενα του Scratch.
 
 ![screenshot](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+\--- task \--- Κύλισε προς τα κάτω έως ότου δεις ένα αντικείμενο τύμπανο. Κάνε κλικ σε ένα τύμπανο και ξανά κλικ στο OK για να το προσθέσεις στο έργο σου.
 
 ![screenshot](images/band-sprite-drum.png)
 
@@ -28,16 +28,16 @@ It looks like this:
 
 \--- task --
 
-Click and drag the drum to the bottom of the Stage.
+Κάνε κλικ και σύρε το τύμπανο στο κάτω μέρος του σκηνικού.
 
 \--- /task \---
 
-\--- task \--- Give your program a name by typing into the text box at the top.
+\--- task \--- Δώσε στο πρόγραμμα σου ένα όνομα πληκτρολογώντας το στο πλαίσιο κειμένου στην πάνω πλευρά.
 
 ![name](images/band-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+Μπορείς να κάνεις κλικ στο **Αρχείο** και, στη συνέχεια, **Αποθήκευση τώρα** για να αποθηκεύσεις το έργο σου.
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+Αν δεν έχεις λογαριασμό Scratch, μπορείς εναλλακτικά να αποθηκεύσεις ένα αντίγραφο του έργου σου κάνοντας κλικ στο **Κατέβασμα έργου στον υπολογιστή**.
 
 ![screenshot](images/band-save.png) \--- /task \---
