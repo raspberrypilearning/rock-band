@@ -1,20 +1,20 @@
 ## Uiterlijken
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+Gebruik wat je in dit project hebt geleerd om je eigen band te maken! Je kunt elk gewenst instrument maken - bekijk de beschikbare geluiden en instrumenten om ideeën op te doen.
 
 ![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
-when this sprite clicked
-set instrument to (\(1\) Piano v)
-play note (60) for (0.25) beats
+wanneer op deze sprite wordt geklikt :: events
+gebruik instrument ((1) Piano v) :: music
+speel noot (60) (0.25) tellen :: music
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+Je instrumenten hoeven niet te bestaan. Je zou bijvoorbeeld een piano kunnen maken van muffins!
 
 ![screenshot](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+Je kunt meer sprites uit de bibliotheek gebruiken en je kunt ook je eigen sprites maken!
 
 ![screenshot](images/band-draw.png)
 
@@ -24,10 +24,10 @@ You can use more sprites from the library, and you can also paint your own sprit
 
 Bij het maken van je eigen sprite, kan je merken dat wanneer je op de sprite klikt, deze verspringt wanneer het uiterlijk verandert. Dit komt omdat het centrum van de twee uiterlijken niet op precies dezelfde plek staan.
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+Om dit op te lossen, zorg je ervoor dat het centrum van je beide sprite kostuums op hetzelfde punt liggen.
 
 \--- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+Als je een microfoon hebt kun je je eigen geluiden opnemen of zelfs een webcam gebruiken om je instrumenten te bespelen!
 
 ![screenshot](images/band-io.png)
