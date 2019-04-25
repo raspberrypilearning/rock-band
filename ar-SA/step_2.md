@@ -2,7 +2,7 @@
 
 قبل أن تتمكن من البدء في البرمجة، ستحتاج إلى إضافة 'شيء' لتبرمج. في برنامج Scratch، تسمى هذه "الأشياء" **بالكائنات**.
 
-\--- task \--- Open a new Scratch project.
+\--- task \--- افتح مشروع Scratch جديد.
 
 **Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
 
