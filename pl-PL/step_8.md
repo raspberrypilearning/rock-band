@@ -2,7 +2,7 @@
 
 Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-![screenshot](images/band-ideas-sounds.png)
+![zrzut ekranu](images/band-ideas-sounds.png)
 
 ```blocks3
 when this sprite clicked
