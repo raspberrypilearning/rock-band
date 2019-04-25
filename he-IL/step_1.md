@@ -1,16 +1,16 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+זוהי גרסה ** Scratch 3 **של הפרויקט. יש גם גרסה [ Scratch 2 של הפרויקט ](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## הקדמה
 
-Learn how to code your own musical instruments!
+למד כיצד לקודד את כלי הנגינה שלך!
 
-### What you will make
+### מה תעשה
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- no-print \--- לחץ על הדגל הירוק כדי להתחיל. לאחר מכן, לחץ על הזמר או על התוף כדי לשמוע איך הם נשמעים.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,43 +18,43 @@ Learn how to code your own musical instruments!
 
 \--- /no-print \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\--- print-only \--- אתה תיצור משחק שבו אתה יכול ללחוץ על הזמר או התוף לשמוע קולות שירה או תוף.
 
-![game screenshot](images/demo.png) \--- /print-only \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-+ How to add sprites and backgrounds to a Scratch project
-+ How to change a sprite's costume
-+ How to make sprites react when they are clicked
-+ How to play sounds in Scratch \--- /collapse \---
+![צילום מסך של המשחק](images/demo.png) \--- / print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: מה תלמד
 
-#### Hardware
++ כיצד להוסיף דמויותו ורקעים לפרויקט סקרטץ
++ כיצד לשנות תלבושת של דמות
++ כיצד לגרום לדמויות להגיב כאשר הם נלחצים
++ כיצד לנגן צלילים בסקראטץ \--- / Collapse \---
 
-+ A computer capable of running Scratch 3
+## \--- collapse \---
 
-#### Software
+## title: למה תזדקק
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+#### חומרה
+
++ מחשב המסוגל להריץ סקראטץ 3
+
+#### תוכנה
+
++ Scratch 3 (או [מכוון](http://rpf.io/scratchon){:target="_blank"} or [לא מקוון](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: מידע נוסף למורי המועדון
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+אם עליך להדפיס את הפרויקט הזה, השתמש בגרסה [ידידותית למדפסת](https://projects.raspberrypi.org/en/projects/rock-band/print): {target = "_ _ blank"}.
 
 \--- /no-print \---
 
-You can download the completed project at [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
+ניתן להוריד את הפרויקט שהושלם בכתובת [ rpf.io/p/en/rock-band-get ](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
