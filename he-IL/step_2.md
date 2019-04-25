@@ -1,43 +1,43 @@
-## Sprites
+## דמויות
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+לפני שתוכל להתחיל לקודד, יהיה עליך להוסיף 'משהו ' לקוד. ב Scratch, "משהו" כאלה נקראים ** דמויות **.
 
-\--- task \--- Open a new Scratch project.
+\--- task \--- פתח פרוייקט חדש של Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+** מקוון: ** לפתוח פרוייקט חדש באינטרנט Scratch ב [ rpf.io / scratchon ](http://rpf.io/scratchon) {:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+** לא מקוון: ** פתח פרוייקט חדש בעורך הלא מקוון.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+אם עליך להוריד ולהתקין את העורך הלא מקוון של Scratch, תוכל למצוא אותו בכתובת [ rpf.io/scratchoff ](http://rpf.io/scratchoff) {:target="_blank"}.
 
-It looks like this:
+זה נראה כך:
 
-![screenshot](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![צילום מסך](images/band-scratch.png) \--- / task \--- \--- task \--- דמות החתול שאתה יכול לראות הוא קוד סקראטץ. אתה לא תזדקק לו במשחק הזה, אז הסר אותו על ידי לחיצה ימנית ולאחר מכן לחיצה על ** מחק **.
 
-![screenshot](images/band-delete-annotated.png) \--- /task \---
+![צילום מסך](images/band-delete-annotated.png) \--- /task \---
 
-\--- task \--- Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+\--- task \--- לאחר מכן, לחץ על ** בחר דמות מהספרייה ** כדי לפתוח רשימה של כל דמויות סקראטץ.
 
-![screenshot](images/band-sprite-library.png) \--- /task \---
+![צילום מסך](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+\--- משימה \--- גלול למטה עד שתראה דמות תוף. לחץ על תוף כדי להוסיף אותו לפרויקט שלך.
 
-![screenshot](images/band-sprite-drum.png)
+![צילום מסך](images/band-sprite-drum.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+לחץ וגרור את התוף לתחתית הבמה.
 
 \--- /task \---
 
-\--- task \--- Give your program a name by typing into the text box at the top.
+\--- task \--- תן לתוכנית שם על ידי הקלדה לתוך תיבת הטקסט בחלק העליון.
 
-![name](images/band-name-annotated.png)
+![שם](images/band-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+לאחר מכן לחץ על ** קובץ **, ולאחר מכן על ** שמור כעת ** כדי לשמור את הפרוייקט.
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+אם אינך מחובר או שאין לך משתמש בסקראטץ', באפשרותך לשמור עותק של הפרויקט על-ידי לחיצה על ** שמור במחשב שלך ** במקום זאת.
 
-![screenshot](images/band-save.png) \--- /task \---
+![צילום מסך](images/band-save.png) \--- /task \---
