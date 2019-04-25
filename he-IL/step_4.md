@@ -1,42 +1,41 @@
-## Making a drum
+## יצירת תוף
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+עכשיו תוסיף קוד לתוף שלך, כך שישמיע צליל כאשר הוא נלחץ.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+ניתן למצוא את בלוקי הקוד בכרטיסיית הסקריפטים, והם כולם מסודרים לפי צבעים!
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+תחילה הוסף את הרחבת ה** מוסיקה ** כדי שתוכל לנגן בכלים השונים.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+לחץ על כפתור ** הוסף הרחבה ** בפינה הימנית התחתונה.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![הלחצן 'הוסף הרחבה' מודגש](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+לחץ על הרחבת ** מוסיקה ** כדי להוסיף אותה.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![הרחבת עט מודגשת](images/click-music-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- משימה \--- לחץ על דמות התוף, ולאחר מכן גרור את שני הבלוקים האלה לאזור הקוד משמאל:
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![צילום מסך](images/connect-block.gif)
 
 \--- /no-print \---
 
-\--- print-only \---
+\--- / print-only \---
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+when this sprite clicked play drum (\(1\) Snare Drum v) for (0.25) beats
 ```
 
-\--- /print-only \---
+\--- / print-only \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+ודא כי הבלוקים מחוברים יחד (כמו לבני לגו).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- לחץ על התוף כדי לנסות את הכלי החדש שלך! \--- /task \---
