@@ -1,24 +1,24 @@
 ## Een trommel maken
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+Nu ga je code aan je drum toevoegen zodat de drum een geluid maakt wanneer er op geklikt wordt.
 
 Je kunt de codeblokken vinden op het tabblad Scripts en ze zijn allemaal voorzien van een kleurcode!
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+Voeg eerst de **Muziek** extensie toe zodat je instrumenten kunt bespelen.
 
 Klik op de knop **Voeg een uitbreiding toe** in de linkerbenedenhoek.
 
 ![voeg een uitbreiding toe knop gemarkeerd](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+Klik op de **Muziek** extensie om het toe te voegen.
 
 ![penuitbreiding gemarkeerd](images/click-music-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- task \--- Klik op de drum sprite (rechtsonder) en sleep vervolgens deze twee blokken naar het code gebied:
 
 \--- no-print \---
 
@@ -29,14 +29,14 @@ Click on the **Music** extension to add it.
 \--- print-only \---
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+wanneer op deze sprite wordt geklikt :: events
+speel drum ((1) Snare Drum v) gedurende (0.25) maten :: music
 ```
 
 \--- /print-only \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Zorg ervoor dat de blokken met elkaar zijn verbonden (net zoals LEGO-stenen).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- Klik op de drum om je nieuwe instrument uit te proberen! \--- / task \---
