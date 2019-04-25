@@ -1,24 +1,24 @@
-## Κάνοντας ένα τύμπανο
+## Φτιάχνοντας ένα τύμπανο
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+Τώρα, θα προσθέσεις κώδικα στο τύμπανο σου, έτσι ώστε να κάνει έναν ήχο όταν είναι πατημένο.
 
-Μπορείς να βρεις τα μπλοκ κώδικα στην καρτέλα Σενάρια, τα οποία είναι χρωματιστά!
+Μπορείς να βρεις τα μπλοκ κώδικα στην καρτέλα Σενάρια και είναι όλα χρωματιστά!
 
 \--- task --
 
-First add the **Music** extension so you can play instruments.
+Πρόσθεσε πρώτα την επέκταση **μουσική** ώστε να μπορείς να παίξεις μουσικά όργανα.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+Κάνε κλικ στην **Προσθήκη επέκτασης** στην κάτω αριστερή γωνία.
 
 ![add extension button highlighted](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+Κάνε κλικ στην επέκταση **Μουσική** για να την προσθέσεις.
 
 ![pen extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- task \--- Κάνε κλικ στον χαρακτήρα του τύμπανου και, στη συνέχεια, σύρε αυτά τα δύο μπλοκ στην περιοχή κώδικα στα δεξιά:
 
 \--- no-print \---
 
@@ -35,8 +35,8 @@ play drum (\(1\) Snare Drum v) for (0.25) beats
 
 \--- /print-only \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Βεβαιώσου ότι τα μπλοκ είναι συνδεδεμένα μεταξύ τους (όπως τα τουβλάκια LEGO).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- Κάνε κλικ στο τύμπανο για να δοκιμάσεις το νέο σου όργανο! \--- /task \---
