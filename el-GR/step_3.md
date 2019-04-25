@@ -1,15 +1,15 @@
 ## Το σκηνικό
 
-The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+Το **Σκηνικό** είναι η περιοχή στα αριστερά και είναι εκεί που ζωντανεύει το έργο σου. Σκέψου το ως ένα χώρο εκδηλώσεων, ακριβώς όπως μια πραγματική σκηνή!
 
-\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+\--- task \--- Αυτή τη στιγμή, η σκηνή είναι άσπρη και φαίνεται αρκετά βαρετή! Πρόσθεσε ένα σκηνικό σε αυτό κάνοντας κλικ στο ** Επίλεξε ένα σκηνικό ** .
 
 ![screenshot](images/band-stage-choose.png) \--- /task \---
 
-\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+\--- task \--- Κάνε κλικ στο **Indoors** στη λίστα στην κορυφή. Στη συνέχεια, κάνε κλικ στο φόντο θεάτρου.
 
 ![screenshot](images/band-backdrop.png) \--- /task \---
 
-\--- task \--- Your stage should now look similar to this:
+\--- task \--- Η σκηνή σου θα πρέπει τώρα να μοιάζει με αυτή:
 
 ![screenshot](images/band-stage.png) \--- /task \---
