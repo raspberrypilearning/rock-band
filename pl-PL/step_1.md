@@ -55,6 +55,6 @@ Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.
 
 \--- /no-print \---
 
-You can download the completed project at [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
+Możesz pobrać gotowy projekt ze strony [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
