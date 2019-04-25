@@ -1,40 +1,37 @@
-## Costumes
+## תילבושות
 
-Now you will make your singer look like she's singing!
+עכשיו תגרום לזמרת שלך להראות כאילו היא שרה!
 
-\--- task \--- You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
+\--- משימה \--- אתה יכול לשנות את האופן שבו דמות הזמרת שלך תראה כאשר לוחצים עליה על ידי יצירת תלבושת חדשה. לחץ על הכרטיסייה תלבושות, ואתה תראה את התלבושת זמרת.
 
-![screenshot](images/band-singer-costume-annotated.png) \--- /task \---
+![צילום מסך](images/band-singer-costume-annotated.png) \--- /task \---
 
-\--- task \--- Right-click on the costume and then click on **duplicate** to create a copy of it.
+\--- task \--- לחץ לחיצה ימנית על התלבושת ולאחר מכן לחץ על ** שכפל ** כדי ליצור עותק שלה.
 
-![screenshot](images/band-singer-duplicate.png) \--- /task \---
+![צילום מסך](images/band-singer-duplicate.png) \--- /task \---
 
-\--- task \--- Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+\--- task \--- לחץ על התחפושת החדשה (הנקראת "Singer2"), ולאחר מכן בחר באפשרות ה"קו" כדי לצייר קווים, כדי שייראה כאילו הזמרת שלך משמיעת קולות.
 
-![screenshot](images/band-singer-click.png) \--- /task \---
+![צילום מסך](images/band-singer-click.png) \--- /task \---
 
-\--- task \--- The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+\--- task \--- שמות התלבושות אינן מועילים מאוד כרגע. הקלד לתוך תיבות הטקסט של התלבושות כדי לשנות את השמות שלהם ל 'לא שרה' ו 'שרה'.
 
-![screenshot](images/band-singer-name-annotated.png) \--- /task \---
+![צילום מסך](images/band-singer-name-annotated.png) \--- /task \---
 
-\--- task \--- Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
+\--- task \--- עכשיו שיש לך שתי תלבושות שונות עבור הזמרת שלך, אתה יכול לבחור איזו תלבושת מוצגת! הוסף את שני הבלוקים של הקוד לדמות הזמרת:
 
 ```blocks3
-when this sprite clicked
-+switch costume to (singing v)
-play sound (singer1 v) until done
-+switch costume to (not singing v)
+when this sprite clicked +switch costume to (singing v) play sound (singer1 v) until done +switch costume to (not singing v)
 ```
 
-The code block for changing the costume is in the `Looks`{:class="block3looks"} section. \--- /task \---
+בלוק הקוד לשינוי התלבושת נמצא ב ` מראה ` {: class = "block3looks"}. \--- /task \---
 
-\--- task \--- Click on your singer on the stage. Does she look like she is singing? \--- /task \---
+\--- task \--- לחץ על הזמרת שלך על הבמה וראה מה קורה. היא נראית שרה? \--- /task \---
 
-\--- task \--- Now make your drum look like it's being hit!
+\--- task \--- עכשיו עשה שהתוף שלך יראה כאילו הקישו עליו!
 
-![screenshot](images/band-drum-final.png)
+![צילום מסך](images/band-drum-final.png)
 
-- Use the instructions for changing your singer sprite's costume to help you.
+- העזר בהוראות לשינוי תלבושת הזמרת שלך.
 
-Remember to test that your new code works! \--- /task \---
+זכור לבדוק אם הקוד החדש שלך עובד! \--- /task \---
