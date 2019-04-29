@@ -1,6 +1,6 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+이 프로젝트의 **스크래치 3** 버전입니다. [프로젝트의 스크래치 2 버전](https://projects.raspberrypi.org/en/projects/rock-band-scratch2)도 있습니다.
 
 \--- /no-print \---
 
@@ -10,7 +10,9 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ### 만들 작품
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+--no print--   
+  
+시작하려면 녹색 깃발을 클릭하세요. 그런 다음, 가수 또는 드럼을 클릭하여 어떤 소리가 나는지 들어보세요.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,7 +20,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\--- 인쇄 전용 \--- 가수 또는 드럼을 클릭하여 노래 또는 드럼 소리를 들을 수있는 게임을 만들게요.
 
 ![game screenshot](images/demo.png) \--- /print-only \---
 
