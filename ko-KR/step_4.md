@@ -1,6 +1,6 @@
 ## 드럼 만들기
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+이제 드럼에 코드를 추가하여 클릭 할 때 소리가납니다.
 
 스크립트 탭에서 색으로 분류되어있는 코드 블럭들을 찾을 수 있어요.
 
