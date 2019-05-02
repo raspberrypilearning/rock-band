@@ -12,15 +12,15 @@
 
 그림으로 보면 다음과 같습니다.
 
-![스크린샷](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![스크린샷](images/band-scratch.png) \--- / task \--- \--- task \--- 당신이 볼 수 있는 고양이 스프라이트는 스크래치 마스코트입니다. 이 게임에서는 필요하지 않으므로 마우스 오른쪽 버튼으로 클릭 한 다음 **을 클릭하여 제거하십시오. **.
 
 ![스크린샷](images/band-delete-annotated.png) \--- /task \---
 
-\--- task \--- Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+\--- task \--- 그런 다음 **저장소에서 스프라이트 선택**을 클릭하여 모든 스크래치 스프라이트의 목록을 엽니다.
 
 ![스크린샷](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+\--- task \--- 드럼 스프라이트가 보일 때까지 아래로 스크롤하십시오. 드럼을 클릭하고 확인 을 클릭하여 프로젝트에 추가하십시오.
 
 ![스크린샷](images/band-sprite-drum.png)
 
@@ -28,11 +28,11 @@
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+드럼을 클릭하여 스테이지 아래쪽으로 끕니다.
 
 \--- /task \---
 
-\--- task \--- Give your program a name by typing into the text box at the top.
+\--- task \--- 왼쪽 위 모서리에 있는 텍스트 상자에 원하는 프로젝트 이름을 입력해주세요.
 
 ![name](images/band-name-annotated.png)
 
