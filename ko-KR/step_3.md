@@ -6,10 +6,10 @@
 
 ![스크린샷](images/band-stage-choose.png) \--- /task \---
 
-\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+\--- task \--- 위에 있는 목록에서 **실내** 를 클릭하십시오. 그런 다음 극장 배경을 클릭하십시오.
 
 ![스크린샷](images/band-backdrop.png) \--- /task \---
 
-\--- task \--- Your stage should now look similar to this:
+\--- task \--- 무대는 이제 다음과 비슷하게 보입니다:
 
 ![스크린샷](images/band-stage.png) \--- /task \---
