@@ -6,7 +6,7 @@
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+먼저 악기를 재생할 수 있는 **음악** 확장명을 추가 합니다.
 
 Click on the **Add extension** button in the bottom left-hand corner.
 
