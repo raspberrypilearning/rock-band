@@ -28,8 +28,8 @@
 
 ## title: 배우게 될 것
 
-+ How to add sprites and backgrounds to a Scratch project
-+ How to change a sprite's costume
++ 스크래치 프로젝트에 스프라이트와 배경을 추가하는 방법
++ 스프라이트의 의상을 바꾸는 법
 + How to make sprites react when they are clicked
 + How to play sounds in Scratch \--- /collapse \---
 
