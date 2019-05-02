@@ -22,7 +22,7 @@
 
 \--- 인쇄 전용 \--- 가수 또는 드럼을 클릭하여 노래 또는 드럼 소리를 들을 수있는 게임을 만들게요.
 
-![game screenshot](images/demo.png) \--- /print-only \---
+![게임 스크린샷](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
@@ -30,8 +30,8 @@
 
 + 스크래치 프로젝트에 스프라이트와 배경을 추가하는 방법
 + 스프라이트의 의상을 바꾸는 법
-+ How to make sprites react when they are clicked
-+ How to play sounds in Scratch \--- /collapse \---
++ 클릭 할 때 스프라이트를 반응하게 만드는법
++ 스크래치에서 소리를내는 법 \--- / collapse \---
 
 ## \--- 중간생략 \---
 
@@ -49,7 +49,7 @@
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: 교육자를 위한 추가 정보
 
 \--- no-print \---
 
@@ -57,6 +57,6 @@
 
 \--- /no-print \---
 
-You can download the completed project at [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
+완성 된 프로젝트는 [ rpf.io/p/en/rock-band-get에서 다운로드 할 수 있습니다. ](http://rpf.io/p/en/rock-band-get)
 
 -- /collapse \---
