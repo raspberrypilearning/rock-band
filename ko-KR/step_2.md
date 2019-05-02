@@ -36,7 +36,7 @@
 
 ![name](images/band-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+그런 다음 **파일**을 클릭하고, **저장하기**를 클릭하여 프로젝트를 저장할 수 있습니다.
 
 If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
 
