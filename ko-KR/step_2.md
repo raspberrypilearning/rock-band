@@ -34,10 +34,10 @@
 
 \--- task \--- 왼쪽 위 모서리에 있는 텍스트 상자에 원하는 프로젝트 이름을 입력해주세요.
 
-![name](images/band-name-annotated.png)
+![이름](images/band-name-annotated.png)
 
 그런 다음 **파일**을 클릭하고, **저장하기**를 클릭하여 프로젝트를 저장할 수 있습니다.
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+온라인 아난 경우나 스크래치 계정이없는 경우에 **내 컴퓨터에 프로젝트 다운로드하기**를 클릭하여 프로젝트 사본을 저장할 수 있습니다.
 
 ![스크린샷](images/band-save.png) \--- /task \---
