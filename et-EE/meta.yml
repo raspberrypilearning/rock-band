@@ -1,0 +1,29 @@
+---
+hero_image: images / hero-rock-band-large.png
+listed: true
+copyedit: false
+title: Rockbänd
+description: Lugege, kuidas oma muusikariistu kodeerida
+version: 4.1.1
+last_tested: 2018-10-12
+steps:
+  - 
+    title: Sissejuhatus
+  - 
+    title: Sprites
+  - 
+    title: Etapp
+  - 
+    title: Trumli tegemine
+  - 
+    title: "Väljakutse: parandada oma trumlit"
+    challenge: true
+  - 
+    title: Laulja tegemine
+  - 
+    title: Kostüümid
+  - 
+    title: "Väljakutse: parandage oma bändi"
+    challenge: true
+  - 
+    title: "Mis edasi?"
