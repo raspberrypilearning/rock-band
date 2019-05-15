@@ -4,12 +4,12 @@
 
 ![screenshot](images/band-drum-sound.png)
 
-Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
+또, 스페이스바를 눌렀을 때에도 드럼이 소리가 나게 할 수 있나요? 다음의 `이벤트`{:class="blockevents"} 블럭을 사용해야 됩니다:
 
 ```blocks3
 [space v] 키를 눌렀을 때
 ```
 
-If you want to copy your existing code, right-click on it and then click on **duplicate**.
+이미 있는 코드는 우클릭해서 **복사**를 눌러서 복사 할 수 있습니다.
 
 ![screenshot](images/band-duplicate-code.png)
