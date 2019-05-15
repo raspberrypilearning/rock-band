@@ -22,6 +22,6 @@ Laten we ervoor zorgen dat je zangeres eruitziet alsof ze zingt!
     
     ![screenshot](images/band-looks.png)
     
-    Het codeblok voor het veranderen van het uiterlijk vindt je in de `Uiterlijken` {:class="blocklooks"} sectie.
+    Het codeblok voor het veranderen van het uiterlijk vindt je in de `Uiterlijken`{:class="blocklooks"} sectie.
 
 + Klik op je zangeres. Lijkt het alsof ze zingt?

@@ -32,7 +32,6 @@ Als je een microfoon hebt kun je je eigen geluiden opnemen of zelfs een webcam g
 
 --- /challenge ---
 
-***
 
 ### Door de community geleverde vertaling
 
