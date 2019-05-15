@@ -8,17 +8,17 @@
 
 먼저 악기를 재생할 수 있는 **음악** 확장명을 추가 합니다.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+왼쪽 하단에 **추가 확장** 버튼을 클릭 하십시오.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![강조된 확장 버튼 추가합니다](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+**음악** 확장 추가를 하기 위해서 클릭 하십시오.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![강조된 펜 확장](images/click-music-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- task \--- 드럼 스프라이트를 클릭하고 이 두 블록을 오른쪽의 코드 영역으로 드래그합니다:
 
 \--- no-print \---
 
@@ -29,14 +29,14 @@ Click on the **Music** extension to add it.
 \--- print-only \---
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+이 스프라이트를 클릭 하면
+재생 드럼 (\(1\) Snare Drum v) (0.25) 박동
 ```
 
 \--- /print-only \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+블록이 서로 연결되어 있는지 확인하십시오 (예: LEGO블록).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- 드럼을 클릭하여 새 악기를 사용해보십시오! \--- / task \---
