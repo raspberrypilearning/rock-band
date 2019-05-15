@@ -10,7 +10,7 @@
 
 ### ما الذي ستصنعه
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+انقر العلم الأخضر لتبدأ. ثم انقر المغنية أو الطبلة لتسمع صوتها.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,18 +18,18 @@
 
 \--- /no-print \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+ستقوم بصنع لعبة حيث يمكنك النقر فوق المغنية او الطبلة لتسمع العناء او صوت الطبلة.
 
-![game screenshot](images/demo.png) \--- /print-only \---
+![لقطة شاشة للعبة](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
 ## title: ما الذي ستتعلمه
 
-+ How to add sprites and backgrounds to a Scratch project
-+ How to change a sprite's costume
-+ How to make sprites react when they are clicked
-+ How to play sounds in Scratch \--- /collapse \---
++ كيف يتم اضافة كائنات ومنصات لمشروع السكراتش Scratch
++ كيف تغير مظهر الكائن
++ كيف تجعل الكائنات تتفاعل عند النقر عليها
++ كيف تشغل الاصوات في سكراتش Scratch
 
 ## \--- collapse \---
 
@@ -55,6 +55,6 @@
 
 \--- /no-print \---
 
-You can download the completed project at [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
+يمكنك تحميل المشروع كامل من [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
