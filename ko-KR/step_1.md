@@ -10,7 +10,7 @@
 
 ### 만들 작품
 
---no print-- 
+--- no-print-- 
 
 시작하려면 녹색 깃발을 클릭하세요. 그런 다음, 가수 또는 드럼을 클릭하여 어떤 소리가 나는지 들어보세요.
 
@@ -51,7 +51,7 @@ title: 준비물
 
 + 스크래치 3 ([온라인](http://rpf.io/scratchon){:target="_ blank"} 또는 [offline](http://rpf.io/scratchoff){:target="_ blank"})
 
--- /collapse ---
+--- /collapse ---
 
 --- collapse ---
 ---
@@ -66,4 +66,4 @@ title: 교육자를 위한 추가 정보
 
 완성 된 프로젝트는 [rpf.io/p/ko-KR/rock-band-get에서 다운로드 할 수 있습니다.](http://rpf.io/p/ko-KR/rock-band-get)
 
--- /collapse ---
+--- /collapse ---
