@@ -4,23 +4,23 @@
 
 \--- task \--- افتح مشروع Scratch جديد.
 
-**Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+**اتصال بالانترنيت:** افتح مشروع سكراتش Scratch جديد عبر الانترنيت من [rpf.io/scratchon](http://rpf.io/scratchon) {:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+**من دون اتصال انترنيت:** افتح مشروع سكراتش Scratch جديد عبر برنامج المحرر الموجود على على جهازك دون اتصال بالانترنيت.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+اذا تحتاج تنزيل وتنصيب برنامج السكراتش Scratch على جهازك الشخصي، ستجده في [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-It looks like this:
+وهو يبدو بهذا الشكل:
 
-![لقطة الشاشة](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![لقطة الشاشة](images/band-scratch.png) ان كائن القطة الذي تراه هو شعار برنامج سكراتش Scratch. لا تحتاجه في هذه اللعبة، لذلك لنحذف هذا الكائن بالنقر عليه بزر الماوس الأيمن ثم النقر فوق </strong>حذف**.</p> 
 
 ![لقطة الشاشة](images/band-delete-annotated.png) \--- /task \---
 
-\--- task \--- Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+بعد ذلك، انقر فوق **اختيار كائن من المكتبة** لفتح قائمة تحتوي على كل كائنات برنامج السكراتش Scratch.
 
 ![لقطة الشاشة](images/band-sprite-library.png) \---/task\---
 
-\--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+مرِّر إلى أسفل إلى أن ترى كائن الطبلة. وانقر فوق الطبلة لإضافتها إلى مشروعك.
 
 ![لقطة الشاشة](images/band-sprite-drum.png)
 
@@ -28,16 +28,16 @@ It looks like this:
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+انقر واسحب كائن الطبلة الى اسفل المنصة.
 
 \--- /task \---
 
-\--- task \--- Give your program a name by typing into the text box at the top.
+امنح برنامجك اسم من خلال كتابة الاسم في مربع النص بالاعلى.
 
-![name](images/band-name-annotated.png)
+![الاسم](images/band-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+اضغط على القائمة **ملف** ومن ثم **ااحفظ الان** لخزن مشروعك.
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+اذا لم تكن مرتبط بالانترنيت او لا تملك حساب سكراتش Scratch، بامكانك خزن نسخة من مشروعك على جهازك الخاص بالضغط على **حفظ على جهاز الحاسوب الخاص بك**.
 
 ![لقطة الشاشة](images/band-save.png) \--- /task \---
