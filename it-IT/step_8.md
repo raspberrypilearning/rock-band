@@ -5,3 +5,5 @@ Riesci a fare apparire il tamburo come se venisse colpito? Se hai bisogno di aiu
 ![screenshot](images/band-drum-final.png)
 
 Ricordati di provare che il nuovo codice funzioni!
+
+--- /challenge ---
