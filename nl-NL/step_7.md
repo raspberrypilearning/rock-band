@@ -16,9 +16,9 @@ Laten we een zangeres aan je band toevoegen!
 
 + Nu het geluid is toegevoegd, kun je deze code aan je zangeres toevoegen:
     
-    ```blocks
-    wanneer op deze sprite wordt geklikt 
-   start geluid [singer1] en wacht
+```blocks
+wanneer op deze sprite wordt geklikt 
+start geluid [singer1] en wacht
 ```
 
 + Klik op je zangeres en kijk wat er gebeurt. Zingt ze?
