@@ -15,6 +15,6 @@
 
 --- print-only ---
 
-![완료 된 프로젝트](images/lost-in-space-static.png)
+![완료 된 프로젝트](images/space-final.png)
 
 --- /print-only ---
