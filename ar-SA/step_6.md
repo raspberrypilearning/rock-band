@@ -1,10 +1,10 @@
 ## إنشاء مغنية
 
-Now you will add a singer to your band!
+والان ستضيف مغنية إلى فرقتك!
 
 \--- task \---
 
-Add a singer sprite to your Stage.
+أضف كائنَ مغنية إلى منصتك.
 
 ![لقطة الشاشة](images/band-singer-mic.png)
 
@@ -14,21 +14,21 @@ Add a singer sprite to your Stage.
 
 \--- task \---
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+قبل أن تتمكن من أن تجعل المغنية تغني، ستحتاج إلى إضافة صوت إلى كائن المغنية. تأكد من أنك قمت بتحديد كائن المغنية، وانقر فوق علامة التبويب (الأصوات)، ثم انقر فوق **اختيار صوت من المكتبة**:
 
 ![لقطة الشاشة](images/band-import-sound-annotated.png) \--- /task \---
 
-\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+انقر على قائمة **الاصوات** الموجودة في الاعلى، ثم اختيار صوت مناسب لإضافته إلى الكائن.
 
 ![لقطة الشاشة](images/band-choose-sound.png) \--- /task \---
 
-\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+لكي تستخدم الصوت، قم باضافة هذه التعليمة البرمجية إلى كان المغنية:
 
 ```blocks3
-when this sprite clicked
-play sound (singer1 v) until done
+عند النقر على هذا الكائن
+تشغيل الصوت (singer1 v) وانتظر انتهائه
 ```
 
 \--- /task \---
 
-\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
+انقر على المعنية في المنصة ولاحظ ما يحدث. هل تغني؟
