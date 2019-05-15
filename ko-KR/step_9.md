@@ -1,19 +1,20 @@
---- challenge ---
+## 더 나아가기
 
-## 도전 과제 : 드럼 모양 바꾸기
+이제는 처음으로 Scratch 프로젝트를 만들었으므로 [우주에서 길을 잃다](https://projects.raspberrypi.org/ko-KR/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)를 해보는 것이 어떨까요?
 
-드럼이 소리나고 있는 것처럼 보이게 만들 수 있나요?
+--- no-print --- 
 
-![스크린 샷](images/band-drum-final.png)
+녹색 깃발을 클릭하면 애니메이션을 볼 수 있습니다.
 
---- hints --- 
---- hint --- 
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-이전 단계에서 가수의 모양을 바꿨던 방법을 활용 해 보세요. 
+--- /no-print ---
 
---- /hint --- 
---- /hints ---
+--- print-only ---
 
-새 코드들이 잘 작동하는지 확인하는 걸 잊지 마세요!
+![완료 된 프로젝트](images/lost-in-space-static.png)
 
---- /challenge ---
+--- /print-only ---
