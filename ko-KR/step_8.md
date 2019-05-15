@@ -1,20 +1,20 @@
 ## 의상
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+이 프로젝트에서 배운 것을 사용하여 밴드를 만들어봐요! 원하는 어떤 악기든 만들 수 있어요. 소리 저장소와 스프라이트 저장소를 보면서 새 아이디어를 떠올려 보세요.
 
 ![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
-when this sprite clicked
-set instrument to (\(1\) Piano v)
-play note (60) for (0.25) beats
+이 스프라이트를 클릭하면 
+악기는 (\ (1 \) Piano v) (0.25) 박자에 대해
+연주 음표 (60)
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+말도 안되는 악기도 괜찮아요! 머핀이나 오렌지로 이루어진 피아노처럼 말이에요.
 
 ![스크린샷](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+라이브러리에서 더 많은 스프라이트를 사용할 수 있으며 스프라이트를 직접 페인트 할 수도 있습니다.
 
 ![스크린샷](images/band-draw.png)
 
@@ -24,10 +24,10 @@ You can use more sprites from the library, and you can also paint your own sprit
 
 자신의 스프라이트를 만들 때 스프라이트를 클릭하면 의상이 바뀌면서 스프라이트가 튀어 나오는 것을 볼 수 있습니다. 이것은 두 모양이 같은 중심에 있지 않기 때문입니다.
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+이 문제를 해결하려면 스프라이트의 의상 중심이 동일한 지 확인하십시오.
 
 -- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+마이크가 있다면 자신의 소리를 녹음하거나 심지어 웹캠을 사용하여 악기를 연주 할 수도 있습니다!
 
 ![스크린샷](images/band-io.png)
