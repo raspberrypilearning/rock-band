@@ -1,10 +1,10 @@
 ---
-hero_image: images / hero-rock-band-large.png
+hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
 title: 락 밴드
 description: 자신만의 악기를 코드로 만드는 법을 배워보세요
-version: 4
+version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
@@ -23,7 +23,7 @@ steps:
   - 
     title: 의상
   - 
-    title: "의상"
+    title: "도전 과제: 더 좋은 밴드 만들기"
     challenge: true
   - 
     title: "더 나아가기"
