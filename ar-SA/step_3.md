@@ -1,15 +1,15 @@
 ## المنصة
 
-The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+</strong>المنصة** هي المساحة الموجودة على اليمين، وهي المكان الذي يخرج فيه مشروعك للحياة. لذا فكِّر فيها كمساحة للأداء، تمامًا كمنصة مسرح حقيقية!</p> 
 
-\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+حالياً، تأخذ المنصة اللون الأبيض وتبدو مملة بعض الشيء! لنضِف خلفية إلى المنصة بالنقر فوق **اختيار خلفية من المكتبة**.
 
 ![لقطة الشاشة](images/band-stage-choose.png) \--- /task \---
 
-\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+انقر فوق </strong>Indoors</0> من القائمة بالاعلى، وثم انقر فوق خلفية منصة مسرح (theatre).
 
 ![لقطة الشاشة](images/band-backdrop.png) \---/task--
 
-\--- task \--- Your stage should now look similar to this:
+منصتك يجب ان تكون مشابهة لما يلي:
 
 ![لقطة الشاشة](images/band-stage.png) \--- /task \---
