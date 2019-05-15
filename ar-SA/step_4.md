@@ -1,24 +1,24 @@
 ## إنشاء طبلة
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+الان لنُبرمج الطبلة بحيث تُحدث صوتًا عند النقر عليها.
 
 يمكنك العثور على قوالب التعليمات البرمجية في علامة التبويب المقاطع البرمجية، وكلها مصنفة حسب اللون!
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+اولا اضف استطالة **الموسيقى** لتتمكن من تشغيل الالات الموسيقية.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+اضغط على زر **اضف استطالة** في الزاوية اليسرى السفلى.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![اضف زر الاستطالة المؤشر](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+ثم اضغط على **الموسيقى** لاضافته.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![استطالة القلم مظللة](images/click-music-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+انقر فوق كائن الطبلة ثم اسحب هاتين الكتلتَين إلى مساحة التعليمات البرمجية الموجودة على اليمين:
 
 \--- no-print \---
 
@@ -29,14 +29,14 @@ Click on the **Music** extension to add it.
 \--- print-only \---
 
 ```blocks3
-when this sprite clicked
+عند النقر على هذا الكائن
 play drum (\(1\) Snare Drum v) for (0.25) beats
 ```
 
 \--- /print-only \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+تأكد من أنهما مرتبطتان معًا (كمكعبات لعبة ليغو).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+انقر فوق الطبلة لتجرِّب آلتك الجديدة!
