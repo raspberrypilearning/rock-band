@@ -1,20 +1,20 @@
 ## المظاهر
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+استخدم ما تعلمتَه في هذا المشروع لابتكار فرقتك الموسيقية. يمكنك إنشاء أي آلات تريدها — ألق نظرة على الآلات والأصوات المتوفرة للحصول على بعض الأفكار.
 
 ![لقطة شاشة](images/band-ideas-sounds.png)
 
 ```blocks3
-when this sprite clicked
-set instrument to (\(1\) Piano v)
+عند النقر على هذا الكائن
+set instrument to (\(1\) بيانو v)
 play note (60) for (0.25) beats
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+ليس بالضرورة أن تكون الآلات كما هي في الواقع. فيمكنك مثلًا إنشاء بيانو مكوَّن من قطع فطائر مدوَّرة!
 
 ![لقطة الشاشة](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+يمكنك رسم كائنات من عندك إلى جانب استخدام الكائنات الموجودة بالمكتبة!
 
 ![لقطة الشاشة](images/band-draw.png)
 
@@ -24,10 +24,10 @@ You can use more sprites from the library, and you can also paint your own sprit
 
 عندما تنشئ كائنًا، ربما تلاحظ أنه عندما تنقر عليه، فإنه 'يقفز' إذا تغير مظهره، يحدث ذلك لأن المظهرين مختلفان في المركز.
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+لإصلاح هذا الخطأ، انقر فوق تعيين مركز المظهر لكلا المظهرين، وتأكد من أن المركز عند النقطة نفسها في كلا المظهرين.
 
 \--- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+إذا كان لديك ميكروفون، فيمكنك تسجيل أصوات من عندك، بل ويمكنك استخدام كاميرا الويب لضرب الآلات!
 
 ![لقطة الشاشة](images/band-io.png)
