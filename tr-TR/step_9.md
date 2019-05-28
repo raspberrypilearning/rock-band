@@ -13,6 +13,6 @@ Now that you've built your first Scratch project, why not take a look at the [Lo
 
 \--- print-only \---
 
-![Complete project](images/lost-in-space-static.png)
+![Complete project](images/space-final.png)
 
 \--- /print-only \---
