@@ -4,7 +4,7 @@
 
 \--- task \--- افتح مشروع Scratch جديد.
 
-**اتصال بالانترنيت:** افتح مشروع سكراتش Scratch جديد عبر الانترنيت من [rpf.io/scratchon](http://rpf.io/scratchon) {:target="_blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
 **من دون اتصال انترنيت:** افتح مشروع سكراتش Scratch جديد عبر برنامج المحرر الموجود على على جهازك دون اتصال بالانترنيت.
 
