@@ -4,7 +4,7 @@ Avant de commencer à coder, vous devez ajouter une «chose» au code. Dans Scra
 
 \--- tâche \--- Ouvre un nouveau projet Scratch.
 
-** En ligne :** ouvre un nouveau projet Scratch en ligne à [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
 **Hors ligne : ** ouvre un nouveau projet dans l'éditeur hors ligne.
 
