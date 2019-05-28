@@ -4,7 +4,7 @@ Zanim zaczniesz kodować, musisz dodać pewną „rzecz”, której będzie doty
 
 \--- task \--- Otwórz nowy projekt Scratcha.
 
-**Online:** otwórz nowy projekt Scratcha na stronie [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
 **Offline:** otwórz nowy projekt w edytorze offline.
 
