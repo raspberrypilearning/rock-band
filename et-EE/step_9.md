@@ -13,6 +13,6 @@ Nüüd, kui olete ehitatud oma esimese Scratch projekti, siis miks mitte võtta 
 
 \--- ainult printimiseks \---
 
-![Täielik projekt](images/lost-in-space-static.png)
+![Täielik projekt](images/space-final.png)
 
 \--- / ainult printimiseks \---
