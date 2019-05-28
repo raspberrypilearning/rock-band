@@ -13,6 +13,6 @@
 
 \--- print-only \---
 
-![Ολοκληρωμένο έργο](images/lost-in-space-static.png)
+![Ολοκληρωμένο έργο](images/space-final.png)
 
 \--- /print-only \---
