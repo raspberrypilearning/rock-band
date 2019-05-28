@@ -26,10 +26,9 @@ Tìm hiểu làm thế nào để mã hóa nhạc cụ của riêng bạn!
 
 ## tiêu đề: bạn sẽ học được gì
 
-+ Cách thêm họa tiết và hình nền vào dự án Scratch
-+ Cách thay đổi trang phục của Sprite
-+ Làm thế nào để làm cho các sprite phản ứng khi chúng được nhấp
-+ Cách phát âm thanh trong Scratch \--- / sụp đổ \---
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
++ Add sounds to a sprite in Scratch \--- /collapse \---
 
 ## \--- sự sụp đổ \---
 
