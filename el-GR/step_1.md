@@ -26,10 +26,9 @@
 
 ## title: Τι θα μάθεις
 
-+ Πώς να προσθέσεις χαρακτήρες και φόντο σε ένα έργο Scratch
-+ Πώς να αλλάξεις την εμφάνιση ενός χαρακτήρα
-+ Πώς να κάνεις τους χαρακτήρες να αντιδρούν όταν γίνονται κλικ
-+ Πώς να παίζεις ήχους στο Scratch \--- / collapse \---
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
++ Add sounds to a sprite in Scratch \--- /collapse \---
 
 ## \--- collapse \---
 
