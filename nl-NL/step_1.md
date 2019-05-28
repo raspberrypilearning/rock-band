@@ -26,10 +26,9 @@ Leer hoe je je eigen muziekinstrumenten kunt coderen!
 
 ## title: Wat ga je leren
 
-+ Hoe sprites en achtergronden aan een Scratch project toe te voegen
-+ Hoe het uiterlijk van een sprite te veranderen
-+ Hoe sprites te laten reageren wanneer op ze geklikt wordt
-+ Hoe geluiden in Scratch af te spelen \--- / collapse \---
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
++ Add sounds to a sprite in Scratch \--- /collapse \---
 
 ## \--- collapse \---
 
