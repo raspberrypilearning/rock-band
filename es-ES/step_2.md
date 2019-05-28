@@ -4,7 +4,7 @@ Antes de comenzar la codificación, necesitas añadir una “cosa” que animar.
 
 \--- task \--- Open a new Scratch project.
 
-**Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
 **Offline:** open a new project in the offline editor.
 
