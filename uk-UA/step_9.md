@@ -13,6 +13,6 @@
 
 \--- print-only \---
 
-![Complete project](images/lost-in-space-static.png)
+![Complete project](images/space-final.png)
 
 \--- /print-only \---
