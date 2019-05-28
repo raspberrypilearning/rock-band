@@ -13,6 +13,6 @@
 
 \--- print-only \---
 
-![Завршени пројекат](images/lost-in-space-static.png)
+![Завршени пројекат](images/space-final.png)
 
 \--- /print-only \---
