@@ -1,8 +1,8 @@
-\--- no-print \---
+.
 
 Bu, projenin **Scratch 3** sürümüdür. Projenin aynı zamanda [Scratch 2 sürümü](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) de vardır.
 
-\--- /no-print \---
+.
 
 ## Giriş
 
@@ -26,10 +26,9 @@ Kendi müzik enstrümanlarınızı nasıl kodlayacağınızı öğrenin!
 
 ## Öğrenecekleriniz
 
-+ Bir Scratch projesine kukla ve dekorun nasıl eklenir
-+ Kuklanın kılığını nasıl değiştirilir
-+ Tıklandığında kuklaların nasıl tepki verir
-+ Scratch 'de sesler nasıl oynatılır \--- /collapse \---
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
++ Add sounds to a sprite in Scratch \--- /collapse \---
 
 ## \--- collapse \---
 
@@ -47,14 +46,14 @@ Kendi müzik enstrümanlarınızı nasıl kodlayacağınızı öğrenin!
 
 ## \--- collapse \---
 
-## title: Eğitimciler için ek bilgiler
+## Eğitimciler için ek bilgiler
 
-\--- no-print \---
+.
 
 Bu projeyi yazdırmanız gerekiyorsa lütfen [yazıcı-dostu sürümü](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"} kullanın.
 
-\--- /no-print \---
+.
 
-You can download the completed project at [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
+Tamamlanan projeyi adresinden indirebilirsiniz. [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get)
 
-\--- /collapse \---
+.
