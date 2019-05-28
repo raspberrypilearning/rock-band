@@ -4,7 +4,7 @@
 
 \--- task \--- Άνοιξε ένα νέο έργο Scratch.
 
-**Online:** άνοιξε το αρχικό έργο στο [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
 **Offline: ** άνοιξε ένα νέο έργο στον επεξεργαστή εκτός σύνδεσης.
 
