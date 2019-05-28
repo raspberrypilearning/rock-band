@@ -4,7 +4,7 @@
 
 \--- task \--- नवीन स्क्रॅच प्रकल्प उघडा.
 
-** ऑनलाइन: ** [ rpf.io/scratchon वर एक नवीन ऑनलाइन स्क्रॅच प्रकल्प उघडा ](http://rpf.io/scratchon) {:target = "_ blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
 ** ऑफलाइनः ** ऑफलाइन संपादकात नवीन प्रकल्प उघडा.
 
