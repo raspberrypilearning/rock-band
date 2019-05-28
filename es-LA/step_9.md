@@ -13,6 +13,6 @@ Ahora que ha creado su primer proyecto Scratch, ¿por qué no echa un vistazo al
 
 \--- print-only \---
 
-![Proyecto completo](images/lost-in-space-static.png)
+![Proyecto completo](images/space-final.png)
 
 \--- /print-only \---
