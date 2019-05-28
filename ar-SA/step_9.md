@@ -13,6 +13,6 @@
 
 \--- print-only \---
 
-![المشروع كامل](images/lost-in-space-static.png)
+![المشروع كامل](images/space-final.png)
 
 \--- /print-only \---
