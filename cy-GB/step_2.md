@@ -4,7 +4,7 @@ Cyn i ti allu dechrau codio, bydd angen i ti ychwanegu ‘rhywbeth’ i godio. Y
 
 \--- task \--- Agor prosiect Scratch newydd.
 
-**Arlein:** agora brosiect Scratch newydd yma [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
 **All-lein** agora brosiect newydd yn y golygydd all-lein.
 
