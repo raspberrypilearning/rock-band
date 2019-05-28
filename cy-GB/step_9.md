@@ -13,6 +13,6 @@ Nawr dy fod wedi adeiladu dy brosiect cyntaf Scratch, beth am edrych ar y prosie
 
 \--- print-only \---
 
-![Cwblhau'r prosiect](images/lost-in-space-static.png)
+![Cwblhau'r prosiect](images/space-final.png)
 
 \--- /print-only \---
