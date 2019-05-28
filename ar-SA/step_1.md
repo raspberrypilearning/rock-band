@@ -26,10 +26,9 @@
 
 ## title: ما الذي ستتعلمه
 
-+ كيف يتم اضافة كائنات ومنصات لمشروع السكراتش Scratch
-+ كيف تغير مظهر الكائن
-+ كيف تجعل الكائنات تتفاعل عند النقر عليها
-+ كيف تشغل الاصوات في سكراتش Scratch
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
++ Add sounds to a sprite in Scratch \--- /collapse \---
 
 ## \--- collapse \---
 
