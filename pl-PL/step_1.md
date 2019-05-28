@@ -26,10 +26,9 @@ Wykonując ten projekt nauczysz się, jak zaprogramować własne instrumenty muz
 
 ## title: Czego się nauczysz
 
-+ Jak dodawać duszki i tła do projektu w Scratchu
-+ Jak zmienić kostium duszka
-+ Jak sprawić, żeby duszki reagowały, kiedy zostaną kliknięte
-+ Jak odtwarzać dźwięki w Scratchu \--- /collapse \---
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
++ Add sounds to a sprite in Scratch \--- /collapse \---
 
 ## \--- collapse \---
 
