@@ -26,10 +26,9 @@ See on projekti **Scratch 3** versioon. Samuti on projekti [Scratch 2 versioon](
 
 ## pealkiri: Mida sa õpid
 
-+ Kuidas lisada skripte ja tausta taustale
-+ Kuidas muuta sprite'i kostüümi
-+ Kuidas teha sprites reageerimist, kui neid klõpsatakse
-+ Helide esitamine Scratchis \--- / kollaps \---
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
++ Add sounds to a sprite in Scratch \--- /collapse \---
 
 ## \--- kollaps \---
 
