@@ -13,6 +13,6 @@ Nu je je eerste Scratch-project hebt gebouwd, kijk dan eens naar het [Verdwaald 
 
 \--- print-only \---
 
-![Voltooid project](images/lost-in-space-static.png)
+![Voltooid project](images/space-final.png)
 
 \--- /print-only \---
