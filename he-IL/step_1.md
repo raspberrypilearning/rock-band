@@ -26,10 +26,9 @@
 
 ## title: מה תלמד
 
-+ כיצד להוסיף דמויותו ורקעים לפרויקט סקרטץ
-+ כיצד לשנות תלבושת של דמות
-+ כיצד לגרום לדמויות להגיב כאשר הם נלחצים
-+ כיצד לנגן צלילים בסקראטץ \--- / Collapse \---
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
++ Add sounds to a sprite in Scratch \--- /collapse \---
 
 ## \--- collapse \---
 
