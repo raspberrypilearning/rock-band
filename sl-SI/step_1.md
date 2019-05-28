@@ -26,10 +26,9 @@ Naučite se kodirati svoje glasbene instrumente!
 
 ## naslov: Kaj se boste naučili
 
-+ Dodajanje duhov in ozadij v projekt Scratch
-+ Kako zamenjati kača
-+ Kako narediti duhove, ko se kliknejo
-+ Kako igrati zvoke v Scratch \--- / collapse \---
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
++ Add sounds to a sprite in Scratch \--- /collapse \---
 
 ## \--- kolaps \---
 
