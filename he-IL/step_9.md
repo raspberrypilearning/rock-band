@@ -13,6 +13,6 @@
 
 \--- / print-only \---
 
-![פרוייקט שלם](images/lost-in-space-static.png)
+![פרוייקט שלם](images/space-final.png)
 
 \--- / print-only \---
