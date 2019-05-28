@@ -26,10 +26,9 @@
 
 ## title: 배우게 될 것
 
-+ 스크래치 프로젝트에 스프라이트와 배경을 추가하는 방법
-+ 스프라이트의 의상을 바꾸는 법
-+ 클릭 할 때 스프라이트를 반응하게 만드는법
-+ 스크래치에서 소리를내는 법 \--- / collapse \---
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
++ Add sounds to a sprite in Scratch \--- /collapse \---
 
 ## \--- 중간생략 \---
 
