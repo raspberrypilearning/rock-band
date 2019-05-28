@@ -4,7 +4,7 @@ Sebelum kamu dapat mulai coding, Anda harus menambahkan 'hal' kode. Di awal, ini
 
 \---tugas\--- membuka sebuah proyek awal yang baru.
 
-** Online: ** buka proyek Scratch online baru di [ rpf.io/scratchon ](http://rpf.io/scratchon) {: target = "_ blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
 ** Offline: ** buka proyek baru di editor offline.
 
