@@ -4,7 +4,7 @@ Preden lahko začnete s kodiranjem, morate v kodo dodati »stvar«. V Scratchu s
 
 \--- naloga \--- Odprite nov projekt Scratch.
 
-**Online:** odprite nov spletni Scratch projekt na [rpf.io/scratchon](http://rpf.io/scratchon){: target = "_ blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
 **Offline:** odprite nov projekt v urejevalniku brez povezave.
 
