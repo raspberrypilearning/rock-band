@@ -26,10 +26,9 @@ Apprend à programmer tes propres instruments de musique !
 
 ## title: Ce que tu vas apprendre
 
-+ Comment ajouter des lutins et des arrière-plans à un projet Scratch
-+ Comment changer le costume d'un lutin
-+ Comment faire réagir les lutins quand ils sont cliqués
-+ Comment jouer des sons dans Scratch \--- / collapse \---
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
++ Add sounds to a sprite in Scratch \--- /collapse \---
 
 ## \--- collapse \---
 
