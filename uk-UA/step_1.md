@@ -26,10 +26,9 @@
 
 ## title: Що ви дізнаєтеся
 
-+ Як додати спрайт і фони до проекту Scratch
-+ Як змінити костюм спрайта
-+ Як зробити спрайти реагують, коли вони натискаються
-+ Як грати звуки в Scratch \--- / колапс \---
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
++ Add sounds to a sprite in Scratch \--- /collapse \---
 
 ## \--- collapse \---
 
