@@ -26,10 +26,9 @@
 
 ## title: Шта ћеш научити
 
-+ Како да додаш ликове и позадине у Скреч пројекат
-+ Како да промениш костим лика
-+ Како да направиш да ликови реагују када се на њих кликне
-+ Како да репродукујеш звукове у Скречу \--- /collapse \---
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
++ Add sounds to a sprite in Scratch \--- /collapse \---
 
 ## \--- collapse \---
 
