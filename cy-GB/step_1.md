@@ -26,10 +26,9 @@ Dysga sut i godio offerynnau cerddorol!
 
 ## title: Yr hyn byddi di'n ei ddysgu
 
-+ Sut i ychwanegu corluniau a cefnlenni i dy brosiect Scratch
-+ Sut i newid gwisg corlun
-+ Sut i wneud i gorluniau ymateb pan maent yn cael eu clicio
-+ Sut i chwarae sain yn Scratch \--- /collapse \---
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
++ Add sounds to a sprite in Scratch \--- /collapse \---
 
 ## \---collapse\---
 
