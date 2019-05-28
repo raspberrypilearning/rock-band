@@ -4,7 +4,7 @@
 
 \--- завдання \--- Відкрити новий проект Scratch.
 
-**Online:** відкрити новий онлайн проект Scratch на [rpf.io/scratchon](http://rpf.io/scratchon){: target = "_ blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
 **Offline:** відкрийте новий проект у редакторі офлайн.
 
