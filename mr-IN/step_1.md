@@ -26,10 +26,9 @@
 
 ## आपण काय शिकू
 
-+ स्क्रॅच प्रकल्पामध्ये स्पिट्ज आणि पार्श्वभूमी कशी जोडावी
-+ एक Sprite च्या पोशाख कसा बदलावा
-+ जेव्हा स्प्रीट क्लिक करतात तेव्हा त्यांना कशी प्रतिक्रिया दिली जाते
-+ कसे ओरखडा आवाज खेळायला \--- /collapse \---
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
++ Add sounds to a sprite in Scratch \--- /collapse \---
 
 ## \--- collapse \---
 
