@@ -4,7 +4,7 @@ Trước khi bạn có thể bắt đầu viết mã, bạn sẽ cần thêm m�
 
 \--- task \--- Mở một dự án Scratch mới.
 
-**Trực tuyến:** mở dự án Scratch trực tuyến mới tại [rpf.io/scratchon](http://rpf.io/scratchon){: target = "_ blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
 **Ngoại tuyến:** mở một dự án mới trong trình chỉnh sửa ngoại tuyến.
 
