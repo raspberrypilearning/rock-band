@@ -26,10 +26,9 @@ Aprende cómo codificar tus propios instrumentos musicales!
 
 ## title: Lo que vas a aprender
 
-+ Cómo agregar objetos y fondos a un proyecto de Scratch
-+ Cómo cambiar el disfraz de un objeto
-+ Cómo hacer que los objetos reaccionen cuando se hacen clic
-+ Cómo reproducir sonidos en Scratch \--- / collapse \---
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
++ Add sounds to a sprite in Scratch \--- /collapse \---
 
 ## \--- collapse \---
 
