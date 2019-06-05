@@ -26,9 +26,9 @@
 
 ## title: ما الذي ستتعلمه
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ استخدام البرمجة لتغيير زي كائن في برنامج السكراتش (Scratch)
++ استخدام البرمجة لجعل الكائنات تتفاعل مع مدخل في السكراتش (Scratch)
++ اضافة اصوات للكائن في السكراتش (Scratch)
 
 ## \--- collapse \---
 
