@@ -4,11 +4,11 @@ Voordat je met coderen kunt beginnen, moet je een 'ding' toevoegen aan de code. 
 
 \--- task \--- Open een nieuw Scratch project.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**Online:** open een nieuw online Scratch project op [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
 **Offline:** open een nieuw project in de offline editor.
 
-Als je de Scratch offline editor wilt downloaden en installeren dan kan je die vinden op [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Als je de Scratch offline editor wilt downloaden en installeren dan kun je die vinden op [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 Het ziet er zo uit:
 
