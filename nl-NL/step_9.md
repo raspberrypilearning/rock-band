@@ -1,4 +1,4 @@
-## Wat kun je verder nog doen?
+## Wat nu?
 
 Nu je je eerste Scratch-project hebt gebouwd, kijk dan eens naar het [Verdwaald in de ruimte](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch-project?
 
