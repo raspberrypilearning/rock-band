@@ -26,9 +26,9 @@ Leer hoe je je eigen muziekinstrumenten kunt coderen!
 
 ## title: Wat ga je leren
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ Gebruik code om het kostuum van een sprite in Scratch te veranderen
++ Gebruik code om sprites te laten reageren op invoer in Scratch
++ Geluiden aan een sprite toevoegen in Scratch \---/collapse\---
 
 ## \--- collapse \---
 
