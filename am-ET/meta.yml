@@ -1,0 +1,29 @@
+---
+hero_image: images / hero-rock-band-large.png
+listed: true
+copyedit: false
+title: የሮክ ባንድ
+description: የራስዎን የሙዚቃ መሳሪያዎች እንዴት እንደሚሰሩ ይወቁ
+version: 4.1.1
+last_tested: 2018-10-12
+steps:
+  - 
+    title: መግቢያ
+  - 
+    title: Sprites
+  - 
+    title: ደረጃው
+  - 
+    title: ድራማ ማድረግ
+  - 
+    title: "ተፈታታኝ ሁኔታ: ጥንካሬህን ማሻሻል"
+    challenge: true
+  - 
+    title: ዘፋኝ ማድረግ
+  - 
+    title: ሱቆች
+  - 
+    title: "ተፈታታኝ-ባንድዎን ያሻሽሉ"
+    challenge: true
+  - 
+    title: "ቀጥሎ ምን ይሆናል?"
