@@ -15,12 +15,13 @@ Leer hoe je je eigen muziekinstrumenten kunt coderen!
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
-
 --- /no-print ---
 
---- print-only --- Je gaat een spel maken waar je op de zangeres of de drum kunt klikken om te horen hoe ze klinken.
+--- print-only --- 
+Je gaat een spel maken waar je op de zangeres of de drum kunt klikken om te horen hoe ze klinken.
 
-![game screenshot](images/demo.png) --- /print-only ---
+![game screenshot](images/demo.png) 
+--- /print-only ---
 
 --- collapse ---
 ---
