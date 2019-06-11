@@ -1,27 +1,34 @@
-## Uiterlijken
+## Uitdaging: verbeter je band
 
-Laten we ervoor zorgen dat je zangeres eruitziet alsof ze zingt!
+Gebruik wat je in dit project hebt geleerd om je eigen band te maken! Je kunt elk gewenst instrument maken - bekijk de beschikbare geluiden en instrumenten om ideeën op te doen.
 
-+ Als er op de zangeres sprite wordt geklikt kun je het plaatje aanpassen door een nieuw uiterlijk te maken. Klik op het tabblad Uiterlijken en je ziet de afbeelding van de zangeres.
-    
-    ![screenshot](images/band-singer-costume.png)
+![screenshot](images/band-ideas-sounds.png)
 
-+ Klik met de rechtermuisknop op het uiterlijk en klik op **kopie maken** om een ​​kopie van het uiterlijk te maken.
-    
-    ![screenshot](images/band-singer-duplicate.png)
+```blocks3
+wanneer op deze sprite wordt geklikt :: events
+gebruik instrument ((1) Piano v) :: music
+speel noot (60) (0.25) tellen :: music
+```
 
-+ Klik op het nieuwe kostuum (genaamd 'Singer2') en selecteer vervolgens het lijngereedschap en teken lijnen om het te laten lijken alsof je zangeres een geluid maakt.
-    
-    ![screenshot](images/band-singer-click.png)
+Je instrumenten hoeven niet te bestaan. Je zou bijvoorbeeld een piano kunnen maken van muffins!
 
-+ De namen van de uiterlijken zijn op dit moment niet erg behulpzaam. Hernoem de twee uiterlijken zodat ze not singing' en 'singing' worden genoemd door de nieuwe naam van elk kostuum in het tekstvak te typen.
-    
-    ![screenshot](images/band-singer-name.png)
+![screenshot](images/band-piano.png)
 
-+ Nu je twee verschillende kostuums hebt voor je zangeres, kun je kiezen welk kostuum wordt weergegeven! Voeg deze twee blokken toe aan je zangeres:
-    
-    ![screenshot](images/band-looks.png)
-    
-    Het codeblok voor het veranderen van het uiterlijk vindt je in de `Uiterlijken`{:class="blocklooks"} sectie.
+Je kunt meer sprites uit de bibliotheek gebruiken en je kunt ook je eigen sprites maken!
 
-+ Klik op je zangeres. Lijkt het alsof ze zingt?
+![screenshot](images/band-draw.png)
+
+--- collapse ---
+---
+title: Waarom springt mijn sprite wanneer het uitelijk verandert?
+---
+
+Bij het maken van je eigen sprite, kan je merken dat wanneer je op de sprite klikt, deze verspringt wanneer het uiterlijk verandert. Dit komt omdat het centrum van de twee uiterlijken niet op precies dezelfde plek staan.
+
+Om dit op te lossen, zorg je ervoor dat het centrum van je beide sprite kostuums op hetzelfde punt liggen.
+
+--- /collapse ---
+
+Als je een microfoon hebt kun je je eigen geluiden opnemen of zelfs een webcam gebruiken om je instrumenten te bespelen!
+
+![screenshot](images/band-io.png)

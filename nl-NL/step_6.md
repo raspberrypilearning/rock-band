@@ -1,19 +1,34 @@
---- challenge ---
+## Een zangeres maken
 
-## Challenge: je trommel verbeteren
+Nu ga je een zangeres aan je band toevoegen!
 
-+ Kun je het geluid veranderen dat de trommel maakt als erop wordt geklikt?
+--- task ---
 
-![screenshot](images/band-drum-sound.png)
+Voeg een zangeres sprite toe aan je werkgebied.
 
-+ Kun je de trommel ook laten horen als de spatiebalk wordt ingedrukt? Je moet dit `gebeurtenis`{:class="blockevents"} blok gebruiken:
+![screenshot](images/band-singer-mic.png)
 
-```blocks
-    wanneer [spatiebalk] wordt ingedrukt
+[[[generic-scratch3-sprite-from-library]]]
+
+--- /task ---
+
+--- task ---
+
+Voordat je je zangeres kunt laten zingen, moet je een geluid aan je sprite toevoegen. Zorg ervoor dat je de zangeres hebt geselecteerd, klik vervolgens op het tabblad Geluiden en klik op **Kies een geluid**:
+
+![screenshot](images/band-import-sound-annotated.png) --- /task ---
+
+--- task --- Klik op **Stem** in de lijst bovenaan en kies vervolgens een geluid die je aan je sprite wilt toevoegen.
+
+![screenshot](images/band-choose-sound.png) --- /task ---
+
+--- task --- Om het geluid te gebruiken, voeg je de volgende codeblokken toe aan je zangeres sprite:
+
+```blocks3
+wanneer op deze sprite wordt geklikt :: events
+start geluid (singer1 v) en wacht :: sound
 ```
 
-Je kunt je bestaande code kopiëren door er met de rechtermuisknop op te klikken en op **kopie maken** te klikken.
+--- /task ---
 
-![screenshot](images/band-duplicate-code.png)
-
---- /challenge ---
+--- task --- Klik op je zangeres op het podium en kijk wat er gebeurt. Zingt ze? --- /task ---

@@ -1,29 +1,20 @@
 ---
 hero_image: images/hero-rock-band-large.png
-theme: red
-duration: 2
 listed: true
-ingredient: false
 copyedit: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Rockband
 description: Leer hoe je je eigen muziekinstrumenten kunt coderen
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-interests: ''
-technologies: scratch
-site_areas: projects
-hardware: ''
-software: scratch
-version: 4
-last_tested: 2017-10-01
+version: 4.1.1
+last_tested: 2018-10-12
 steps:
   - title: Inleiding
-  - title: Wat heb je nodig
   - title: Sprites
   - title: Het speelveld
   - title: Een trommel maken
-  - title: 'Uitdaging: verbeter je drumstel'
+  - title: "Uitdaging: verbeter je drumstel"
+    challenge: true
   - title: Een zangeres maken
   - title: Uiterlijken
-  - title: 'Uitdaging: verander het uiterlijk van je drumstel'
-  - title: 'Uitdaging: maak je eigen band'
+  - title: "Uitdaging: verbeter je band"
+    challenge: true
+  - title: Wat nu?
