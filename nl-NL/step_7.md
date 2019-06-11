@@ -1,24 +1,40 @@
-## Een zangeres maken
+## Uiterlijken
 
-Laten we een zangeres aan je band toevoegen!
+Laten we ervoor zorgen dat je zangeres eruitziet alsof ze zingt!
 
-+ Voeg nog twee sprites toe aan je speelveld: een zangeres en een microfoon.
-    
-    ![screenshot](images/band-singer-mic.png)
+--- task --- Je kunt de zangeres sprite aanpassen hoe deze eruit ziet als er op wordt geklikt door een nieuw uiterlijk te maken. Klik op het tabblad Uiterlijken en je ziet de afbeelding van de zangeres.
 
-+ Voordat je je zangeres kunt laten zingen, moet je een geluid aan je sprite toevoegen. Zorg ervoor dat je de zangeres hebt geselecteerd, klik vervolgens op het tabblad Geluiden en klik op **Kies geluid uit bibliotheek**:
-    
-    ![screenshot](images/band-import-sound.png)
+![screenshot](images/band-singer-costume-annotated.png) --- /task ---
 
-+ Als je aan de linkerkant op **Stemmen** klikt, kun je een geschikt geluid kiezen om toe te voegen aan jouw sprite.
-    
-    ![screenshot](images/band-choose-sound.png)
+--- task --- Klik met de rechtermuisknop op het kostuum en klik vervolgens op **dupliceren** om er een kopie van te maken.
 
-+ Nu het geluid is toegevoegd, kun je deze code aan je zangeres toevoegen:
-    
-```blocks
-wanneer op deze sprite wordt geklikt 
-start geluid [singer1] en wacht
+![screenshot](images/band-singer-duplicate.png) --- /task ---
+
+--- task --- Klik op het nieuwe kostuum (genaamd 'Singer2') en selecteer vervolgens het lijn gereedschap en teken lijnen om het te laten lijken alsof je zangeres een geluid maakt.
+
+![screenshot](images/band-singer-click.png) --- /task ---
+
+--- task --- De namen van de kostuums zijn op dit moment niet erg behulpzaam. Typ in de tekstvakken van de kostuums om hun naam te wijzigen in 'not singing' en 'singing'.
+
+![screenshot](images/band-singer-name-annotated.png) --- /task ---
+
+--- task --- Nu je twee verschillende kostuums hebt voor je zangeres, kun je kiezen welk kostuum wordt weergegeven! Voeg deze twee blokken toe aan je zangeres:
+
+```blocks3
+wanneer op deze sprite wordt geklikt :: events
+verander uiterlijk naar (singing v) :: looks
+start geluid (singer1 v) en wacht :: sound
+verander uiterlijk naar (not singing v) :: looks
 ```
 
-+ Klik op je zangeres en kijk wat er gebeurt. Zingt ze?
+Het codeblok voor het veranderen van het uiterlijk vindt je in de `Uiterlijken`{:class="blocklooks"} sectie --- /task ---
+
+--- task --- Klik op je zangeres op het podium en kijk wat er gebeurt. Zingt ze? --- /task ---
+
+--- task --- Kun je je trommel laten lijken alsof erop wordt geslagen!
+
+![screenshot](images/band-drum-final.png)
+
+- Gebruik de instructies om je te helpen om het kostuum van je zanger sprite te veranderen.
+
+Vergeet niet om je nieuwe code te testen! --- /task ---

@@ -1,11 +1,15 @@
-## Een trommel maken
+## Uitdaging: verbeter je drumstel
 
-Laten we de trommel coderen om een ​​geluid te laten maken wanneer het wordt geraakt.
+Kun je het geluid veranderen dat de trommel maakt als erop wordt geklikt?
 
-Je kunt de codeblokken vinden op het tabblad Scripts en ze zijn allemaal voorzien van een kleurcode!
+![screenshot](images/band-drum-sound.png)
 
-+ Klik op de drum sprite en sleep deze twee blokken naar het codegebied rechts, zorg ervoor dat ze met elkaar zijn verbonden (net als Lego-stenen):
+Kun je de trommel ook laten horen als de spatiebalk wordt ingedrukt? Je moet dit `gebeurtenis` blok gebruiken{:class="blockevents"}:
 
-![screenshot](images/connect-block.gif)
+```blocks3
+wanneer [spatiebalk] wordt ingedrukt
+```
 
-+ Klik op de drum om je nieuwe instrument uit te proberen!
+Als je je bestaande code wilt kopiëren, klik je er met de rechtermuisknop op en vervolgens op **dupliceren**.
+
+![screenshot](images/band-duplicate-code.png)
