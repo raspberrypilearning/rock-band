@@ -46,7 +46,7 @@ Aprenda a programar os seus próprios instrumentos musicais!
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## informações adicionais para educadores
 
 \--- no-print \---
 
