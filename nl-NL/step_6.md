@@ -4,7 +4,7 @@ Nu ga je een zangeres aan je band toevoegen!
 
 \--- task \----
 
-Voeg een zangeres sprite toe aan je werkgebied.
+Voeg een zangeres sprite toe aan je speelveld.
 
 ![screenshot](images/band-singer-mic.png)
 
