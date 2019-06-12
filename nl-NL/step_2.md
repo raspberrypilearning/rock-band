@@ -28,7 +28,7 @@ Het ziet er zo uit:
 
 \--- task \----
 
-Klik en sleep de trommel naar de onderkant van het werkgebied.
+Klik en sleep de trommel naar de onderkant van het speelveld.
 
 \--- /task \---
 
