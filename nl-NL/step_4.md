@@ -6,13 +6,13 @@ Je kunt de codeblokken vinden op het tabblad Scripts en ze zijn allemaal voorzie
 
 \--- task \---
 
-Voeg eerst de **Muziek** extensie toe zodat je instrumenten kunt bespelen.
+Voeg eerst de **Muziek** uitbreiding toe zodat je instrumenten kunt bespelen.
 
 Klik op de knop **Voeg een uitbreiding toe** in de linkerbenedenhoek.
 
 ![voeg een uitbreiding toe knop gemarkeerd](images/add-extension-annotated.png)
 
-Klik op de **Muziek** extensie om het toe te voegen.
+Klik op de **Muziek** uitbreiding om het toe te voegen.
 
 ![penuitbreiding gemarkeerd](images/click-music-annotated.png)
 
