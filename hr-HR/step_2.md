@@ -10,17 +10,17 @@ Prije nego li započneš s kodiranjem, moraš dodati nekakvu 'stvar' koju ćeš 
 
 Ako trebaš preuzeti i instalirati offline Scratch uređivač, to možeš napraviti na [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-It looks like this:
+Ovako izgleda uređivač:
 
-![screenshot](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![screenshot](images/band-scratch.png) \--- /task \--- \--- task \--- Lik mačke koji vidiš je maskota Scratcha. Za ovu igru ga ne trebaš pa ga možeš obrisati tako da klikneš na njega desnom tipkom miša, a zatim odabereš **obriši**.
 
 ![screenshot](images/band-delete-annotated.png) \--- /task \---
 
-\--- task \--- Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+\--- task \--- Sada klikni na **Odaberi lik** da otvoriš knjižnicu u kojoj se nalaze svi Scratch likovi.
 
 ![screenshot](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+\--- task \--- Pronađi lik bubnja (Drum). Klikni na bubanj da ga dodaš svom projektu.
 
 ![screenshot](images/band-sprite-drum.png)
 
@@ -28,16 +28,16 @@ It looks like this:
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+Klikni na bubanj i odvuci ga na dno Pozornice.
 
 \--- /task \---
 
-\--- task \--- Give your program a name by typing into the text box at the top.
+\--- task \--- Daj naziv svom programu tako da ga upišeš u tekstualni okvir na vrhu stranice.
 
-![name](images/band-name-annotated.png)
+![naziv](images/band-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+Zatim klikni na **Datoteka** pa **Spremi sada** da spremiš svoj projekt.
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+Ako koristiš Scratch bez intrenetske veze ili nemaš korisnički račun, možeš spremiti kopiju svog projekta klikom na **Spremi na računalo**.
 
 ![screenshot](images/band-save.png) \--- /task \---
