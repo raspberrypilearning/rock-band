@@ -20,25 +20,25 @@ Nauč kako programirati vlastite glazbene instrumente!
 
 \--- print-only \--- Napravit ćeš igru u kojoj ćeš klikom na pjevača/pjevačicu ili bubanj čuti pjevanje ili bubnjanje.
 
-![game screenshot](images/demo.png) \--- /print-only \---
+![screenshot igre](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
 ## title: Naučit ćeš
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ Koristiti kôd za mijenjanje kostima likova u Scratchu
++ Koristiti kôd kako bi likovi reagirali na naredbe u Scratchu
++ Dodati zvukove liku u Scratchu \--- /collapse \---
 
 ## \--- collapse \---
 
 ## title: Trebat ćeš
 
-#### Hardware
+#### Hardver
 
 + Računalo koje može pokrenuti Scratch 3
 
-#### Software
+#### Softver
 
 + Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} ili [offline](http://rpf.io/scratchoff) verziju{:target="_blank"})
 
@@ -46,14 +46,14 @@ Nauč kako programirati vlastite glazbene instrumente!
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Dodatne informacije za voditelje kluba
 
 \--- no-print \---
 
-Ako trebate ispisati ovaj projekt, koristite [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:Target="_ blank"}.
+Ako želite ispisati ovaj projekt, koristite [verziju koja je prilagođena za ispis](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank".
 
 \--- /no-print \---
 
-You can download the completed project at [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
+Dovršeni projekt možete preuzeti s [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
