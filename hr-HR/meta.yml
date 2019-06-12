@@ -10,20 +10,20 @@ steps:
   - 
     title: Sretan rođendan
   - 
-    title: Sprites
+    title: Likovi
   - 
-    title: The Stage
+    title: Pozornica
   - 
-    title: Making a drum
+    title: Napravi bubanj
   - 
-    title: "Challenge: improve your drum"
+    title: "Izazov: Poboljšaj svoj bubanj"
     challenge: true
   - 
-    title: Making a singer
+    title: Dodaj pjevača ili pjevačicu
   - 
-    title: Costumes
+    title: Kostimi
   - 
-    title: "Challenge: improve your band"
+    title: "Izazov: Poboljšaj svoj bend"
     challenge: true
   - 
-    title: "What next?"
+    title: "Što dalje?"
