@@ -1,14 +1,14 @@
-## Sprites
+## Likovi
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Prije nego li započneš s kodiranjem, moraš dodati nekakvu 'stvar' koju ćeš isprogramirati. U Scratchu se ove 'stvari' zovu **likovi**.
 
-\--- task \--- Open a new Scratch project.
+\--- task \--- Otvori novi Scratch projekt.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**Online:** otvori novi Scratch projekt s [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Offline:** otvori novi projekt u offline uređivaču.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Ako trebaš preuzeti i instalirati offline Scratch uređivač, to možeš napraviti na [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 It looks like this:
 
