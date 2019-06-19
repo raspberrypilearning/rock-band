@@ -1,16 +1,16 @@
-\--- አትም \---
+\--- no-print \---
 
-ይህ የ **ፕሮጀክቱ 3 ክሶርድ** ነው. በተጨማሪም የፕሮጀክቱ [የስኬታ 2 ቅጂ](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+ይህ የፕሮጀክቱ **<0> Scratch 3** ስሪት ነው። በተጨማሪ [ የፕሮጀክቱ Scratch 2 ስሪትም አለ](https://projects.raspberrypi.org/en/projects/rock-band-scratch2)።
 
 \--- / no-print \---
 
 ## መግቢያ
 
-የራስዎን የሙዚቃ መሳሪያዎች እንዴት እንደሚሰሩ ይወቁ!
+የራስዎን የሙዚቃ መሳሪያዎች እንዴት እንደሚሰሩ ይማሩ!
 
 ### የምትሰሩት ነገር
 
-\--- no-print \--- ለመጀመር አረንጓዴ ጠቋሚውን ጠቅ ያድርጉ. ከዚያም ምን እንደሚመስሉ ዘፋኙን ወይም ታሪኩን ጠቅ ያድርጉ.
+\--- no-print \--- ለመጀመር አረንጓዴውን ባንዲራ ጠቅ ያድርጉ። ከዚያም ዘፋኙን ወይም ከበሮውን ጠቅ በማድረግ የሚያሰሙትን ድምጽ ስሙ።
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,21 +18,21 @@
 
 \--- / no-print \---
 
-\--- ማተም ብቻ \--- ዘፈን ወይም ከበሮ ድምፆች ለማዳመጥ በቃለ መጠይቁ ወይም በከባዱ ላይ ጠቅ ማድረግ ይችላሉ.
+\--- print-only \--- ዘፋኙን ወይም ከበሮውን ጠቅ በማድረግ ዘፈን ወይም የከበሮ ድምጽ የሚያወጣ ጌም ትሰራላቹህ። 
 
-![የጨዋታ ቅጽበታዊ ገጽ እይታ](images/demo.png) \--- / print-only \---
+![የጌም ቅጽበታዊ ገጽ እይታ](images/demo.png) \--- / print-only \---
 
 ## \--- collapse \---
 
 ## ርእሱ: ምን ይማራሉ
 
-+ በካርታዎች ላይ ስፔርተርን ልብስ ለመቀየር ኮድ ይጠቀሙ
-+ በካርታዎች ውስጥ ግቤቶች ምላሽ እንዲሰጡ ለማድረግ ኮዶችን ይጠቀሙ
-+ ድምጾችን ወደ ስፒት ውስጥ ጨምር በ <Scratch \--- / collapse \---
++ Scratch ውስጥ ኮድ በመጠቀም የ ስፕራይቱን ልብስ ቀይሩ
++ Scratch ውስጥ ኮዶችን በመጠቀም ስፕራይቶች ለግቤቶች ምላሽ እንዲሰጡ ማድረግ
++ በ Scratch ድምጾችን ወደ ስፕራይቶች ውስጥ ጨምሩ \--- / collapse \---
 
 ## \--- collapse \---
 
-## title: ምን እንደሚያስፈልግ
+## ርእስ: ሚያስፈልጉ ነገሮች
 
 #### ሃርድ ዌር
 
@@ -40,20 +40,20 @@
 
 #### ሶፍትዌር
 
-+ በጥግ 3 (ወይ [መስመር](http://rpf.io/scratchon){: target = "_ blank"} ወይም [ከመስመር](http://rpf.io/scratchoff){: target = "_ blank"})
++ Scratch 3 (ወይ [ኦንላይን](http://rpf.io/scratchon){: target = "_ blank"} ወይም [ኦፍላይን](http://rpf.io/scratchoff){: target = "_ blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## ርእስ-ለአስተማሪዎች ተጨማሪ መረጃ
+## ርእስ፡ ለአስተማሪዎች ተጨማሪ መረጃ
 
-\--- አትም \---
+\--- no-print \---
 
-ይህንን ፕሮጀክት ማተም የሚያስፈልግዎ ከሆነ, [ለህት-ምቹ የሆነውን ስሪት](https://projects.raspberrypi.org/en/projects/rock-band/print){: target = "_ blank"} ይጠቀሙ.
+ይህንን ፕሮጀክት ማተም የሚያስፈልግዎ ከሆነ, [ለህት-ምቹ የሆነውን ስሪት](https://projects.raspberrypi.org/en/projects/rock-band/print){: target = "_ blank"} ይጠቀሙ።
 
 \--- / no-print \---
 
-የተጠናቀቁትን ፕሮጄክቶች በ [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get)ማውረድ ይችላሉ.
+የተጠናቀቀውን ፕሮጄክት ከ [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get)ማውረድ ይችላሉ።
 
 \--- /collapse \---
