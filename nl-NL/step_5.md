@@ -1,4 +1,4 @@
-## Challenge: je trommel verbeteren
+## Uitdaging: je trommel verbeteren
 
 Kun je het geluid veranderen dat de trommel maakt als erop wordt geklikt?
 
