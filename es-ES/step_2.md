@@ -2,7 +2,7 @@
 
 Antes de comenzar la codificación, necesitas añadir una “cosa” que animar. En Scratch, estas “cosas” se llaman **objetos**.
 
-\--- task \--- Open a new Scratch project.
+\--- tarea \--- Abrir un nuevo proyecto Scratch.
 
 **Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
