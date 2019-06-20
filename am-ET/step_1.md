@@ -54,6 +54,6 @@
 
 \--- / no-print \---
 
-የተጠናቀቀውን ፕሮጄክት ከ [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get)ማውረድ ይችላሉ።
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
