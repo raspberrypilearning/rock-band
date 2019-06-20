@@ -54,6 +54,6 @@
 
 \--- /no-print \---
 
-ניתן להוריד את הפרויקט שהושלם בכתובת [ rpf.io/p/en/rock-band-get ](http://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
