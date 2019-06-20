@@ -54,6 +54,6 @@ Kui teil on vaja seda projekti printida, kasutage [printeri sõbralikku versioon
 
 \--- / no-print \---
 
-Lõpetatud projekti saate alla laadida aadressil [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- / kollaps \---
