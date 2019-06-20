@@ -54,6 +54,6 @@ Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](h
 
 \--- /no-print \---
 
-Je kunt het voltooide project downloaden op [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
