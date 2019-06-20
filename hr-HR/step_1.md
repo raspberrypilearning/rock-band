@@ -54,6 +54,6 @@ Ako želite ispisati ovaj projekt, koristite [verziju koja je prilagođena za is
 
 \--- /no-print \---
 
-Dovršeni projekt možete preuzeti s [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
