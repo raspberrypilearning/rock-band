@@ -54,6 +54,6 @@
 
 \--- /no-print \---
 
-완성 된 프로젝트는 [ rpf.io/p/en/rock-band-get에서 다운로드 할 수 있습니다. ](http://rpf.io/p/en/rock-band-get)
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 -- /collapse \---
