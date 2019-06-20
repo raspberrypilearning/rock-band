@@ -54,6 +54,6 @@ Bu projeyi yazdırmanız gerekiyorsa lütfen [yazıcı-dostu sürümü](https://
 
 .
 
-Tamamlanan projeyi adresinden indirebilirsiniz. [rpf.io/p/en/rock-band-get](http://rpf.io/p/en/rock-band-get)
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 .
