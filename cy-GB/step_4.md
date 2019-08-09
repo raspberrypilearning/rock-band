@@ -14,7 +14,7 @@ Clicia'r botwm **Ychwanegu Estyniad** yng ngwaelod-chwith y dudalen.
 
 Clicia'r estyniad **Cerddoriaeth** i'w ychwanegu.
 
-![estyniad pen wedi uwcholeuo](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -29,8 +29,8 @@ Clicia'r estyniad **Cerddoriaeth** i'w ychwanegu.
 \--- print-only \---
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+pan gaiff y ciplun yma ei glicio
+chwarae drwm ((1) Drwm Gwifrau v) am (0.25) curiad
 ```
 
 \--- /print-only \---
