@@ -14,7 +14,7 @@ Kliknite na gumb **Dodaj razširitev** v spodnjem levem kotu.
 
 Kliknite razširitev **Glasba** da jo dodate.
 
-![označena je razširitev pisala](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- / naloga \---
 
