@@ -54,6 +54,6 @@
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+Завршени пројекат можете пронаћи [овде](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
