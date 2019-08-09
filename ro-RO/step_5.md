@@ -1,15 +1,15 @@
 ## Provocare: Creează o tobă mai bună
 
-Poți schimba sunetul pe care toba îl face, atunci când este apăsată?
+Poți schimba sunetul pe care îl face toba, atunci când se dă click pe ea?
 
 ![captură de ecran](images/band-drum-sound.png)
 
-Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
+Poți face ca toba să scoată un sunet atunci când e apăsată tasta spațiu? Va trebui să folosești acest bloc de tipul `eveniment`{:class="block3events"}:
 
 ```blocks3
-când tasta [space v] e apăsată
+când tasta [space v] este apăsată
 ```
 
-If you want to copy your existing code, right-click on it and then click on **duplicate**.
+Dacă vrei sa copiezi codul tău existent, dă click pe el și apoi pe **duplică**.
 
 ![captură de ecran](images/band-duplicate-code.png)
