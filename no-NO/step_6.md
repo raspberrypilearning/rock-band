@@ -1,4 +1,4 @@
-## Making a singer
+## Lag en sangerinne
 
 Now you will add a singer to your band!
 
