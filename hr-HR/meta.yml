@@ -4,11 +4,11 @@ listed: true
 copyedit: false
 title: Rock bend
 description: U ovom projektu naučit ćeš kako programirati vlastite glazbene instrumente!
-version: 4
+version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
-    title: Sretan rođendan
+    title: Rock bend
   - 
     title: Likovi
   - 
@@ -16,14 +16,14 @@ steps:
   - 
     title: Napravi bubanj
   - 
-    title: "Izazov: Poboljšaj svoj bubanj"
+    title: "Izazov: poboljšaj svoj bubanj"
     challenge: true
   - 
-    title: Dodaj pjevača ili pjevačicu
+    title: Dodaj pjevačicu
   - 
     title: Kostimi
   - 
-    title: "Izazov: Poboljšaj svoj bend"
+    title: "Izazov: poboljšaj svoj bend"
     challenge: true
   - 
     title: "Što dalje?"
