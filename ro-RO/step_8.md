@@ -1,33 +1,33 @@
-## Challenge: improve your band
+## Provocare: îmbunătăţeşte-ţi formația
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+Folosește tot ceea ce ai învățat în acest proiect pentru a-ți face propria ta formație! Poți crea orice instrument dorești — uită-te la sunetele și instrumentele disponibile, pentru a-ți face o idee.
 
 ![captură de ecran](images/band-ideas-sounds.png)
 
 ```blocks3
-when this sprite clicked
-set instrument to (\(1\) Piano v)
-play note (60) for (0.25) beats
+când se dă click pe acest personaj
+setează instrument la ((1) Piano v)
+cântă nota (60) pentru (0.25) bătăi
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+Instrumentele tale nu trebuie să arate real totuși. Spre exemplu, poți crea un pian făcut din brioșe!
 
 ![captură de ecran](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+Poți folosi mai multe personaje din bibliotecă, și îți poți desena și propriile tale personaje!
 
 ![captură de ecran](images/band-draw.png)
 
 ## \--- collapse \---
 
-## titlu: De ce ‘sare’ persoanjul atunci când i se schimbă costumul?
+## titlu: De ce „sare” personajul meu atunci când i se schimbă costumul?
 
-Atunci când creezi personajul tau, vei vedea că la apasarea pe el, ‘sare’ atunci când iși schimbă costumul. Asta se întâmplă deoarece cele două costume nu sunt așezate centrat în același loc.
+Atunci când îți creezi propriul personaj, e posibil să vezi că atunci când dai click pe el, „sare” atunci când își schimbă costumul. Asta se întâmplă deoarece cele două costume nu sunt centrate în același loc.
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+Pentru a fixa asta, asigură-te ca centrul costumelor personajelor este același.
 
 \--- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+Dacă ai un microfon, poți înregistra sunetele tale, și poți să folosești chiar și o cameră web pentru a lovi instrumentele tale!
 
 ![captură de ecran](images/band-io.png)
