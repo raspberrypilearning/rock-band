@@ -4,7 +4,7 @@ Antes de comenzar la codificación, necesitas añadir una “cosa” que animar.
 
 \--- tarea \--- Abrir un nuevo proyecto Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+** Online **: abra un nuevo proyecto Scratch en línea en [ rpf.io/scratch-new ](http://rpf.io/scratch-new)"}.
 
 **Offline**: abra un nuevo proyecto en el editor fuera de línea.
 
@@ -14,23 +14,23 @@ Se parece a esto:
 
 ![captura de pantalla](images/band-scratch.png) \--- / task \--- \--- task \--- El objeto del gato que puedes ver es la mascota Scratch. No lo necesitas para este juego, así que deshazte de él haciendo clic con el botón derecho y luego presionando ** delete** borrar.
 
-![captura de pantalla](images/band-delete-annotated.png) \--- /task \---
+![captura de pantalla](images/band-delete-annotated.png) \--- / tarea \---
 
 \--- Luego, haz clic en **Choose sprite from library** Selecciona un objeto de la biblioteca para abrir una lista con todos los objetos de Scratch.
 
-![captura de pantalla](images/band-sprite-library.png) \--- /task \---
+![captura de pantalla](images/band-sprite-library.png) \--- / tarea \---
 
 \--- task \--- Baja hasta encontrar el objeto de un tambor. Selecciona un tambor, y haz clic en “Ok” para añadirlo a tu proyecto.
 
 ![screenshot](images/band-sprite-drum.png)
 
-\--- /task \---
+\--- / tarea \---
 
-\--- task \---
+\--- tarea \---
 
 Haga clic y arrastre el tambor a la parte inferior del escenario.
 
-\--- /task \---
+\--- / tarea \---
 
 \--- task \--- Dale un nombre a tu programa escribiéndolo en el cuadro de texto en la esquina superior.
 
@@ -40,4 +40,4 @@ Para guardar tu proyecto, puedes hacer clic en **File** Archivo y luego en **Sav
 
 Si no estás en línea o no tiene una cuenta de Scratch, puede guardar una copia de su proyecto haciendo clic en ** Save to your computer ** Guardar en su computadora.
 
-![captura de pantalla](images/band-save.png) \--- /task \---
+![captura de pantalla](images/band-save.png) \--- / tarea \---
