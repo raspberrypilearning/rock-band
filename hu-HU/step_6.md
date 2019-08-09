@@ -1,12 +1,12 @@
-## Making a singer
+## Készíts egy énekest
 
-Now you will add a singer to your band!
+Most adj hozzá egy énekest a zenekarodhoz!
 
 \--- task \---
 
-Add a singer sprite to your Stage.
+Add hozzá egy énekes szereplőt a színpadhoz.
 
-![screenshot](images/band-singer-mic.png)
+![képernyőkép](images/band-singer-mic.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -14,21 +14,21 @@ Add a singer sprite to your Stage.
 
 \--- task \---
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+Mielőtt az énekesed énekelni tudna, hangot kell hozzá adnod az énekes szereplőhöz. Győződj meg róla, hogy kiválasztottad az énekes szereplőt, kattints a Hangok fülre, majd a **Válassz hangot** gombra:
 
-![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+![képernyőkép](images/band-import-sound-annotated.png) \--- /task \---
 
-\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+\--- task \--- Kattints a lista tetején lévő **Hang** gombra, majd válassz egy hangot a szereplődhöz.
 
-![screenshot](images/band-choose-sound.png) \--- /task \---
+![képernyőkép](images/band-choose-sound.png) \--- /task \---
 
-\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+\--- task \--- A hang használatához add hozzá az alábbi kódblokkot az énekes szereplőhöz:
 
 ```blocks3
-when this sprite clicked
-play sound (singer1 v) until done
+ezen szereplőre kattintáskor
+játszd végig (singer1 v) hangot
 ```
 
 \--- /task \---
 
-\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
+\--- task \--- Kattints az énekesre a színpadon és nézd meg mi történik. Énekel? \--- / task \---
