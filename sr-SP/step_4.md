@@ -14,7 +14,7 @@
 
 Кликни на проширење **Музика** да би је додао/ла.
 
-![проширење оловка истакнуто](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
