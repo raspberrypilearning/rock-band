@@ -4,12 +4,12 @@ Het **Speelveld** is het gebied linksboven, waar je project tot leven komt. Zie 
 
 \--- task \--- Op dit moment is het podium wit en ziet het er behoorlijk saai uit! Voeg een achtergrond toe door op **Kies een achtergrond** te klikken.
 
-![screenshot](images/band-stage-choose.png) \---/task\---
+![screenshot](images/band-stage-choose.png) \--- /task \---
 
-\--- taak \--- Klik op **Binnen** in de lijst bovenaan. Klik vervolgens op de Theater achtergrond.
+\--- task \--- Klik op **Binnen** in de lijst bovenaan. Klik vervolgens op de Theater achtergrond.
 
 ![screenshot](images/band-backdrop.png) \--- /task \---
 
-\--- taak \--- Je speelveld zou er nu ongeveer zo uit moeten zien:
+\--- task \--- Je speelveld zou er nu ongeveer zo uit moeten zien:
 
 ![screenshot](images/band-stage.png) \--- /task \---
