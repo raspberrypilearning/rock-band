@@ -14,7 +14,7 @@ Click on the **Add extension** button in the bottom left-hand corner.
 
 Klik pada ** Musik ** ekstensi untuk menambahkannya.
 
-![ekstensi pena disorot](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
