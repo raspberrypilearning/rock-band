@@ -4,12 +4,12 @@
 
 ![screenshot](images/band-drum-sound.png)
 
-Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
+क्या स्पेस बार दबाने पर साउंड बनाने के लिए ड्रम भी मिल सकता है? आपको इस `ईवेंट`{: class = "block3events"} ब्लॉक का उपयोग करने की आवश्यकता होगी:
 
 ```blocks3
 जब [space v] कुंजी दबाया जाए
 ```
 
-If you want to copy your existing code, right-click on it and then click on **duplicate**.
+यदि आप अपने मौजूदा कोड को कॉपी करना चाहते हैं, तो उस पर राइट-क्लिक करें और फिर **डुप्लिकेट**पर क्लिक करें।
 
 ![स्क्रीनशॉट](images/band-duplicate-code.png)
