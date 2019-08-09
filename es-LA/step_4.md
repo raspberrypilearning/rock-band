@@ -14,13 +14,13 @@ Hax clic en el botón de ** Add extension ** Agregar Extensión en la esquina in
 
 Haz clic en la extensión de **Music** Música extensión para agregarlo.
 
-![extensión de la pluma resaltada](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
-\--- /task \---
+\--- / tarea \---
 
 \--- task\--- Haga clic en el elemento de escritura del tambor y luego arrastre estos dos bloques al área de código de la derecha:
 
-\--- no-print \---
+\--- no imprimir \---
 
 ![captura de pantalla](images/connect-block.gif)
 
