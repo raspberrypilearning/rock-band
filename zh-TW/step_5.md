@@ -4,12 +4,12 @@
 
 ![截圖](images/band-drum-sound.png)
 
-Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
+當空格鍵被按下時，你還可以讓鼓聲發出聲音嗎？你需要使用這個 `事件`{：class =“block3events”}塊：
 
 ```blocks3
 當 [空白 v] 鍵被按下
 ```
 
-If you want to copy your existing code, right-click on it and then click on **duplicate**.
+如果要復制現有代碼，請右鍵單擊它，然後單擊 **複製**。
 
 ![截圖](images/band-duplicate-code.png)
