@@ -1,16 +1,16 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+Acesta este versiunea **Scratch 3** a proiectului. Există, de asemenea, o [versiune Scratch 2 a proiectului](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
 ## Introducere
 
-Învață cu să creezi propriul tău instrument muzical!
+Învață cum să programezi propriile tale instrumente muzicale!
 
-### Ce veți face
+### Ce vei face
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- no-print \--- Apasă steagul verde pentru a începe. Apoi, apasă pe cântăreață sau pe tobă pentru a auzi cum sună.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,42 +18,42 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\--- print-only \--- Vei face un joc în care poți da click pe cântăreață pentru a o auzi cum cântă sau pe tobă pentru a auzi sunete de tobă.
 
-![game screenshot](images/demo.png) \--- /print-only \---
+![captură de ecran de joc](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
-## titlu: Ce veți învăța
+## title: Ce vei învăța
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ Să folosești cod pentru a schimba costumul unui personaj în Scratch
++ Sa folosești cod pentru a face ca personajele să reacționeze la input în Scratch
++ Să adaugi sunete la un personaj în Scratch \--- /collapse \---
 
 ## \--- collapse \---
 
 ## title: De ce vei avea nevoie
 
-#### Dispozitiv
+#### Hardware
 
-+ Un computer capabil de a rula Scratch 3
++ Un computer capabil să ruleze Scratch 3
 
-#### Aplicații
+#### Software
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (fie [online](http://rpf.io/scratchon){:target="_blank"} fie [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Informații suplimentare pentru educatori
 
 \--- no-print \---
 
-Dacă doriți să printați acest proiect, folosiți[printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Dacă trebuie să printezi acest proiect, folosește te rog [versiunea printabilă](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+Poți găsi [ proiectul finalizat aici](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
