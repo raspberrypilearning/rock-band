@@ -2,25 +2,25 @@
 
 在你開始編碼之前，你需要添加一個'東西'來編碼。在Scratch中，這些'東西'被稱為 **角色**。
 
-\--- task \--- Open a new Scratch project.
+\--- task \--- 打開一個新的Scratch項目。
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**在線：** 在 [rpf.io/scratch-new](http://rpf.io/scratch-new){：target =“_ blank”}打開一個新的在線Scratch項目。
 
-**Offline:** open a new project in the offline editor.
+**離線：** 在離線編輯器中打開一個新項目。
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+如果您需要下載並安裝Scratch離線編輯器，可以在 [rpf.io/scratchoff](http://rpf.io/scratchoff){：target =“_ blank”}找到它。
 
-It looks like this:
+它看起來像這樣：
 
-![截圖](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![截圖](images/band-scratch.png) \--- / task \--- \---任務\--- 你可以看到的貓精靈是Scratch吉祥物。你不需要這個遊戲，所以通過右鍵單擊然後點擊 **刪除**來擺脫它。
 
 ![截圖](images/band-delete-annotated.png) \--- /task \---
 
-\--- task \--- Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+\--- task \--- 接下來，單擊 **從庫** 選擇sprite打開所有Scratch sprite的列表。
 
 ![截圖](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+\--- task \--- 向下滾動直到看到鼓精靈。單擊鼓將其添加到項目中。
 
 ![截圖](images/band-sprite-drum.png)
 
@@ -28,16 +28,16 @@ It looks like this:
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+單擊並將鼓拖到舞台底部。
 
 \--- /task \---
 
-\--- task \--- Give your program a name by typing into the text box at the top.
+\--- task \--- 在頂部的文本框中輸入您的程序名稱。
 
-![name](images/band-name-annotated.png)
+![名稱](images/band-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+然後單擊 **文件**，然後單擊 **保存** 以保存項目。
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+如果您不在線或沒有Scratch帳戶，則可以通過單擊 **保存到計算機** 來保存項目的副本。
 
 ![截圖](images/band-save.png) \--- /task \---
