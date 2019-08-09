@@ -1,14 +1,14 @@
-## Sprites
+## Sprajty
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Než začneš kódovat, musíš přidat do kódu různé viditelné 'prvky'. V aplikaci Scratch se tyto "prvky" nazývají ** sprajty **.
 
 \--- task \--- Open a new Scratch project.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**Online:** otevři nový online Scratch projekt na adrese [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Offline:** otevři nový projekt v offline editoru.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Pokud chceš Scratch používat offline, stáhni si jej a nainstaluj z adresy [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 It looks like this:
 
