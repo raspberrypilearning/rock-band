@@ -14,7 +14,7 @@
 
 Κάνε κλικ στην επέκταση **Μουσική** για να την προσθέσεις.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
