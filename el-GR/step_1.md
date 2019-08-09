@@ -10,7 +10,7 @@
 
 ### Τι θα φτιάξεις
 
-\--- no-print \--- Κάνε κλικ στην πράσινη σημαία για να ξεκινήσεις. Στη συνέχεια, κάνε κλικ στην τραγουδίστρια ή στο τύμπανο για να ακούσεις πως παίζουν.
+\--- no-print \--- Κάνε κλικ στην πράσινη σημαία για να ξεκινήσεις. Στη συνέχεια, κάνε κλικ στην τραγουδίστρια ή στο τύμπανο για να ακούσεις πώς παίζουν.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -26,9 +26,9 @@
 
 ## title: Τι θα μάθεις
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ Να χρησιμοποιείς κώδικα για να αλλάξεις την ενδυμασία ενός χαρακτήρα στη Scratch
++ Να χρησιμοποιείς κώδικα για να κάνεις το χαρακτήρα να αντιδρά σε κάτι που θα εισάγεις στη Scratch
++ Να προσθέτεις ήχους σε ένα χαρακτήρα στη Scratch \--- /collapse \---
 
 ## \--- collapse \---
 
@@ -54,6 +54,6 @@
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
