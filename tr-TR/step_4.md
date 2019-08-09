@@ -14,7 +14,7 @@ Sol alt köşedeki **Eklenti Ekle** düğmesine tıklayın.
 
 Eklemek için **Müzik** uzantısına tıklayın.
 
-![kalem uzantısı vurgulanmış](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
