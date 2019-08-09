@@ -1,8 +1,8 @@
-\--- no-print \---
+\---沒有印刷\---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+這是該項目的 **Scratch 3** 版本。項目</a>還有 Scratch 2版本。</p> 
 
-\--- /no-print \---
+\--- /無印刷\---
 
 ## 介紹
 
@@ -10,29 +10,29 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ### 你將會做出
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- no-print \--- 單擊綠色標記開始。然後，單擊歌手或鼓聲，聽聽它們的聲音。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-\--- /no-print \---
+\--- /無印刷\---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\---只打印\--- 您將製作一個遊戲，您可以點擊歌手或鼓來聽到唱歌或鼓聲。
 
-![game screenshot](images/demo.png) \--- /print-only \---
+![遊戲截圖](images/demo.png) \--- /僅打印\---
 
 ## - - 自動隱藏選單 - -
 
-## title: What you will learn
+## 標題：你將學到什麼
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ 使用代碼在Scratch中更改精靈的服裝
++ 使用代碼使精靈對Scratch中的輸入作出反應
++ 在Scratch 添加聲音給精靈\--- /崩潰\---
 
 ## \--- collapse \---
 
-## title: What you will need
+## 標題：你需要什麼
 
 #### 硬體
 
@@ -40,20 +40,20 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 #### 軟體
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ 從頭開始3（ [在線](http://rpf.io/scratchon){：target =“_ blank”}或 [離線](http://rpf.io/scratchoff){：target =“_ blank”}）
 
 - - 自動隱藏選單 - -
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## 標題：教育工作者的附加信息
 
-\--- no-print \---
+\---沒有印刷\---
 
 如果您需要打印此項目，請使用 [打印機友好版本](https://projects.raspberrypi.org/en/projects/rock-band/print){:target =“_ blank”}.
 
-\--- /no-print \---
+\--- /無印刷\---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+你可以在這裡找到 [完成的項目](http://rpf.io/p/en/rock-band-get)。
 
 - - 自動隱藏選單 - -
