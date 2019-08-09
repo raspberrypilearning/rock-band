@@ -8,13 +8,13 @@ Puedes encontrar los bloques de código en la pestaña Programas, ¡y todos est�
 
 First add the **Music** extension so you can play instruments.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+Haz click en el botón ** Añadir Extensión ** en la esquina inferior izquierda.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![botón añadir extensión marcado](images/add-extension-annotated.png)
 
 Click on the **Music** extension to add it.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
