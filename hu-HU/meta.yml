@@ -2,28 +2,28 @@
 hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
-title: Rock band
-description: Learn how to code your own musical instruments
+title: Rockegyüttes
+description: Ismerd meg, hogyan programozhatsz saját hangszereket
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
-    title: Introduction
+    title: Bevezetés
   - 
-    title: Sprites
+    title: Szereplők
   - 
-    title: The Stage
+    title: A színpad
   - 
-    title: Making a drum
+    title: Készíts egy dobot
   - 
-    title: "Challenge: improve your drum"
+    title: "Kihívás: fejleszd a dobot"
     challenge: true
   - 
-    title: Making a singer
+    title: Készíts egy énekest
   - 
-    title: Costumes
+    title: Jelmezek
   - 
-    title: "Challenge: improve your band"
+    title: "Kihívás: fejleszd a zenekart"
     challenge: true
   - 
-    title: "What next?"
+    title: "Mi a következő lépés?"
