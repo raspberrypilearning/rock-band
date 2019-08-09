@@ -20,9 +20,9 @@ You can use more sprites from the library, and you can also paint your own sprit
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## title: Proč postava 'skáče', když se změní kostým?
 
-When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+Při vytváření vlastního kostýmy se může stát, že postava "skáče", když se změní kostým. Je to proto, že oba kostýmy nejsou stejně umístěné.
 
 To fix this, make sure that the centres of your sprite's costumes are the same.
 
