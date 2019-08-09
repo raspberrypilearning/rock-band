@@ -14,7 +14,7 @@
 
 ثم اضغط على **الموسيقى** لاضافته.
 
-![استطالة القلم مظللة](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
