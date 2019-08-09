@@ -20,15 +20,15 @@ Wykonując ten projekt nauczysz się, jak zaprogramować własne instrumenty muz
 
 \--- print-only \--- Stworzysz grę, podczas której możesz klikać na piosenkarkę lub bębenek, żeby usłyszeć śpiew lub wybijany rytm.
 
-![game screenshot](images/demo.png) \--- /print-only \---
+![zrzut ekranu z gry](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
 ## title: Czego się nauczysz
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ Używania kodu, żeby zmienić kostium duszka w Scratch
++ Używania kodu, żeby duszki reagowały na dane wejściowe w Scratch
++ Dodawania dźwięków do duszka w Scratch \--- /collapse \---
 
 ## \--- collapse \---
 
@@ -54,6 +54,6 @@ Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+Możesz znaleźć [ukończoną wersję projektu tutaj](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
