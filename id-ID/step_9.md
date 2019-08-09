@@ -9,7 +9,7 @@ Now that you've built your first Scratch project, why not take a look at the [Lo
   <img src="images/space-final.png">
 </div>
 
-\--- /no-print \---
+\--- /tidak dicetak \---
 
 \--- print-only \---
 
