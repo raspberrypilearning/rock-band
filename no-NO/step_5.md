@@ -1,15 +1,15 @@
-## Challenge: improving your drum
+## Utfordring: lag trommen bedre
 
-Can you change the sound that the drum makes when it's clicked?
+Klarer du å endre lyden som trommen lager når du klikker på den?
 
-![screenshot](images/band-drum-sound.png)
+![skjermbilde](images/band-drum-sound.png)
 
-Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
+Klarer du også å få trommen til å lage lyd når du trykker på mellomromtasten? Du må bruke `Hendelser`{:class="block3events"} klossen:
 
 ```blocks3
-when [space v] key pressed
+når [mellomrom v] trykkes
 ```
 
-If you want to copy your existing code, right-click on it and then click on **duplicate**.
+Hvis du vil kopiere en eksisterende kodeblokk, kan du høyreklikke på den og velge **Lag en kopi**.
 
-![screenshot](images/band-duplicate-code.png)
+![skjermbilde](images/band-duplicate-code.png)
