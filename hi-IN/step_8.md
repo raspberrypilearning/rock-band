@@ -1,20 +1,20 @@
 ## पोशाकें
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+अपने स्वयं के बैंड बनाने के लिए इस परियोजना में आपने जो सीखा है उसका उपयोग करें! आप अपनी पसंद के किसी भी उपकरण को बना सकते हैं - कुछ विचारों को प्राप्त करने के लिए उपलब्ध यंत्र स्प्राइट और ध्वनियों को देखें।
 
 ![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
-when this sprite clicked
-set instrument to (\(1\) Piano v)
-play note (60) for (0.25) beats
+जब इस स्प्राइट ने (0.4%) के लिए
+सेट इंस्ट्रूमेंट (\ (1 \) पियानो v)
+प्ले नोट (60) पर क्लिक किया
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+आपके उपकरणों को यथार्थवादी होना जरूरी नहीं है। उदाहरण के लिए, आप मफ़िन से बना एक पियानो बना सकते हैं!
 
 ![स्क्रीनशॉट](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+आप पुस्तकालय से अधिक स्प्राइट्स का उपयोग कर सकते हैं, और आप अपने स्वयं के स्प्राइट्स भी पेंट कर सकते हैं!
 
 ![स्क्रीनशॉट](images/band-draw.png)
 
@@ -24,10 +24,10 @@ You can use more sprites from the library, and you can also paint your own sprit
 
 अपना स्वयं का स्प्राइट बनाते समय, आप यह देख सकते हैं कि जब आप स्प्राइट पर क्लिक करते हैं, तो यह पोशाक बदलने पर 'उछलता' है। ऐसा इसलिए है, क्योंकि दो पोशाकें एक ही स्थान पर केंद्रित नहीं होती।
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+इसे ठीक करने के लिए, सुनिश्चित करें कि आपके स्प्राइट की वेशभूषा के केंद्र समान हैं।
 
 \--- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+यदि आपके पास एक माइक्रोफोन है, तो आप अपनी खुद की आवाज़ रिकॉर्ड कर सकते हैं, और आप अपने उपकरणों को हिट करने के लिए एक वेब कैमरा का उपयोग भी कर सकते हैं!
 
 ![स्क्रीनशॉट](images/band-io.png)
