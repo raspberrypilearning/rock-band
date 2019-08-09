@@ -1,20 +1,20 @@
 ## Sfida: Cambiare il costume del tamburo
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+Usa quello che hai imparato in questo progetto per creare la tua band! Puoi creare tutti gli strumenti che ti piacciono: guarda gli sprite e i suoni disponibili per ottenere qualche idea.
 
 ![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
-when this sprite clicked
-set instrument to (\(1\) Piano v)
-play note (60) for (0.25) beats
+quando questo sprite fa clic su
+imposta lo strumento su (\ (1 \) Piano v)
+nota di esecuzione (60) per (0,25) battiti
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+Tuttavia, i tuoi strumenti non devono essere realistici. Ad esempio, potresti fare un piano fatto di muffin!
 
 ![schermata](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+Puoi usare più sprite dalla libreria e puoi anche dipingere i tuoi sprite!
 
 ![schermata](images/band-draw.png)
 
@@ -24,10 +24,10 @@ You can use more sprites from the library, and you can also paint your own sprit
 
 Creando il tuo sprite, potresti notare che quando fai clic sullo sprite, questo "salta" mentre cambia costume. Questo perché i due costumi non sono centrati nello stesso punto.
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+Per risolvere questo problema, assicurati che i centri dei costumi dello sprite siano gli stessi.
 
 \--- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+Se hai un microfono, puoi registrare i tuoi suoni e puoi persino usare una webcam per colpire i tuoi strumenti!
 
 ![screenshot](images/band-io.png)
