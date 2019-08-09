@@ -1,6 +1,6 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+यह प्रोजेक्ट का **स्क्रैच 3** संस्करण है। प्रोजेक्ट का [स्क्रैच 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) संस्करण भी है।
 
 \--- /no-print \---
 
@@ -10,7 +10,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ### आप क्या बनाएँगे
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- नो-प्रिंट \--- शुरू करने के लिए हरी झंडी पर क्लिक करें। फिर, गायक या ड्रम पर क्लिक करके सुनें कि वे क्या पसंद करते हैं।
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,17 +18,17 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\--- प्रिंट-ओनली \--- आप एक गेम बनाएंगे जहाँ आप गायक या ड्रम पर क्लिक करके गाने या ड्रम की आवाज़ सुन सकते हैं।
 
-![game screenshot](images/demo.png) \--- /print-only \---
+![खेल स्क्रीनशॉट](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
 ## title: आप क्या सीखेंगे
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ स्क्रैच में स्प्राइट की पोशाक को बदलने के लिए कोड का उपयोग करें
++ स्प्रिट बनाने के लिए कोड का उपयोग करें स्क्रैच में इनपुट पर प्रतिक्रिया करें
++ स्क्रैच \--- / पतन \--- में एक स्प्राइट में ध्वनि जोड़ें
 
 ## \--- collapse \---
 
@@ -46,7 +46,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: शिक्षकों के लिए अतिरिक्त जानकारी
 
 \--- no-print \---
 
@@ -54,6 +54,6 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+आप पा सकते हैं [पूरा परियोजना यहाँ](http://rpf.io/p/en/rock-band-get)।
 
 \--- /collapse \---
