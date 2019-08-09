@@ -2,9 +2,9 @@
 
 Avant de commencer à coder, vous devez ajouter une «chose» au code. Dans Scratch, ces 'choses' sont appelées ** lutins ** .
 
-\--- tâche \--- Ouvre un nouveau projet Scratch.
+\--- task \--- Ouvre un nouveau projet Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**En ligne:** ouvre un nouveau projet Scratch en ligne sur [rpf.io/scratch-new](http://rpf.io/scratch-new) {:target="_blank"}.
 
 **Hors ligne : ** ouvre un nouveau projet dans l'éditeur hors ligne.
 
@@ -12,15 +12,15 @@ Si tu dois télécharger et installer l'éditeur hors ligne Scratch, tu peux le 
 
 Ça ressemble ça :
 
-![screenshot](images/band-scratch.png) \--- /tâche \--- \--- tâche \--- Le lutin de chat que tu peux voir est la mascotte de Scratch. Tu n’en as pas besoin pour ce jeu, alors tu peux t’en débarrasser en cliquant avec le bouton droit et puis en cliquant sur **supprimer**.
+![screenshot](images/band-scratch.png) \--- /task \--- \--- task \--- Le sprite de chat que tu peux voir est la mascotte de Scratch. Tu n’en as pas besoin pour ce jeu, alors tu peux t’en débarrasser en cliquant avec le bouton droit et puis en cliquant sur **supprimer**.
 
 ![capture d'écran](images/band-delete-annotated.png) \--- /task \---
 
-\--- tâche \--- Ensuite, clique sur ** Choisir un lutin dans la bibliothèque ** pour ouvrir une liste de tous les lutins Scratch.
+\--- task \--- Ensuite, clique sur ** Choisir un sprite à partir de la bibliothèque ** pour ouvrir une liste de tous les sprite Scratch.
 
 ![screenshot](images/band-sprite-library.png) \--- /task \---
 
-\--- tâche \--- Fais défiler jusqu'à ce que tu trouves un lutin de tambour. Clique sur un tambour pour l'ajouter à ton projet.
+\--- task \--- Fais défiler jusqu'à ce que tu trouves un sprite de tambour. Clique sur un tambour pour l'ajouter à ton projet.
 
 ![screenshot](images/band-sprite-drum.png)
 
@@ -28,11 +28,11 @@ Si tu dois télécharger et installer l'éditeur hors ligne Scratch, tu peux le 
 
 \--- task \---
 
-Cliquez et fait glisser le tambour en bas de la scène.
+Clique et fait glisser le tambour en bas de la scène.
 
 \--- /task \---
 
-\--- tâche \--- Donne un nom à ton programme en tapant dans la zone de texte en haut.
+\--- task \--- Donne un nom à ton programme en tapant dans la zone de texte en haut.
 
 ![nom](images/band-name-annotated.png)
 
