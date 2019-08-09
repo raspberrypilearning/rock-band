@@ -1,40 +1,41 @@
 ## 造型
 
-Now you will make your singer look like she's singing!
+现在你会让你的歌手看起来像她在唱歌！
 
-\--- task \--- You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
+\---任务\--- 你可以通过创造一个新的服装来改变你的歌手精灵在点击时的样子。点击服装标签，你会看到歌手服装。
 
 ![截图](images/band-singer-costume-annotated.png) \--- /task \---
 
-\--- task \--- Right-click on the costume and then click on **duplicate** to create a copy of it.
+\---任务\--- 右键单击服装，然后单击 **副本** 以创建它的副本。
 
 ![截屏](images/band-singer-duplicate.png) \--- /task \---
 
-\--- task \--- Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+\---任务\--- 点击新服装（称为'Singer2'），然后选择线条工具并画线，这样看起来你的歌手正在发出声音。
 
 ![截图](images/band-singer-click.png) \--- /task \---
 
-\--- task \--- The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+\---任务\--- 目前服装的名称不是很有帮助。输入服装的文本框，将其名称更改为“不唱歌”和“唱歌”。
 
 ![截屏](images/band-singer-name-annotated.png) \--- /task \---
 
-\--- task \--- Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
+\---任务\--- 现在您的歌手有两种不同的服装，您可以选择显示哪种服装！将这两个代码块添加到歌手精灵中：
 
 ```blocks3
-when this sprite clicked
-+switch costume to (singing v)
-play sound (singer1 v) until done
-+switch costume to (not singing v)
+当这个精灵点击
++开关服装（唱歌v）
+播放声音（歌手
+ v）直到完成
++开关服装到（不唱歌v）
 ```
 
-The code block for changing the costume is in the `Looks`{:class="block3looks"} section. \--- /task \---
+更改服装的代码块位于 `Look`{：class =“block3looks”}部分。 \--- /任务\---
 
-\--- task \--- Click on your singer on the stage. Does she look like she is singing? \--- /task \---
+\---任务\--- 在舞台上点击你的歌手。她看起来像是在唱歌吗？ \--- /任务\---
 
-\--- task \--- Now make your drum look like it's being hit!
+\---任务\--- 现在让你的鼓看起来像被击中！
 
 ![截屏](images/band-drum-final.png)
 
-- Use the instructions for changing your singer sprite's costume to help you.
+- 使用说明更改歌手雪碧的服装来帮助您。
 
-Remember to test that your new code works! \--- /task \---
+请记住测试您的新代码是否有效！ \--- /任务\---
