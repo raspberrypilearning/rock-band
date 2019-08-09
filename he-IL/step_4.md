@@ -14,7 +14,7 @@
 
 לחץ על הרחבת ** מוסיקה ** כדי להוסיף אותה.
 
-![הרחבת עט מודגשת](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
