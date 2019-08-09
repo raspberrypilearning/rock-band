@@ -14,7 +14,7 @@ Klõpsake nupul **Lisa laiendus** vasakus alumises nurgas.
 
 Klõpsake selle laiendamiseks nuppu **Muusika**.
 
-![pliiatsi laiendus on esile tõstetud](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- / ülesanne \---
 
