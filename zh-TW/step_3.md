@@ -1,15 +1,15 @@
 ## 舞臺
 
-The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+**階段** 是右側區域，是您的項目生命的地方。把它想像成一個表演區，就像一個真正的舞台！
 
-\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+\---任務\--- 目前，舞台是白色的，看起來很無聊！單擊 **選擇背景**為其添加背景。
 
 ![截圖](images/band-stage-choose.png) \--- /task \---
 
-\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+\---任務\--- 點擊頂部列表中的 **室內** 。然後點擊劇院背景。
 
 ![截圖](images/band-backdrop.png) \--- /task \---
 
-\--- task \--- Your stage should now look similar to this:
+\---任務\--- 你的舞台現在應該看起來像這樣：
 
 ![截圖](images/band-stage.png) \--- /task \---
