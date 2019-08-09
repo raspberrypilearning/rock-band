@@ -13,6 +13,6 @@ Maintenant que tu as construit ton premier projet Scratch, pourquoi ne pas regar
 
 \--- print-only \---
 
-![Projet clôturé](images/space-final.png)
+![Projet terminé](images/space-final.png)
 
 \--- /print-only \---
