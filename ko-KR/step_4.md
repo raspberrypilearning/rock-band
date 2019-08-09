@@ -14,7 +14,7 @@
 
 **음악** 확장 추가를 하기 위해서 클릭 하십시오.
 
-![강조된 펜 확장](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
