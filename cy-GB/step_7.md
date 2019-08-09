@@ -21,10 +21,10 @@ Dewisa clic-dde ar y wisg, a clicia **dyblygu** i greu copi o’r wisg.
 Nawr bod gyda ti ddau wisg gwahanol i dy ganwr, galli di ddewis pa wisg sydd yn cael ei arddangos! Ychwanega y ddau floc yma i gorlun dy ganwr:
 
 ```blocks3
-when this sprite clicked
-+switch costume to (singing v)
-play sound (singer1 v) until done
-+switch costume to (not singing v)
+pan gaiff y ciplun yma ei glicio
++newid gwisg i (singing v)
+chwarae sain (Singer1 v) tan y diwedd
++newid gwisg i (not singing v)
 ```
 
 Mae’r côd ar gyfer newid y wisg yn yr adran `Edrychiad`{:class="block3looks"}. \--- /task \---
