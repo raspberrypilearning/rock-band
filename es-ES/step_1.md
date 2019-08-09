@@ -20,7 +20,7 @@ Este es el ** Scratch 3 ** Versión del proyecto. También hay una versión [ Sc
 
 \--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
 
-![game screenshot](images/demo.png) \--- /print-only \---
+![captura de pantalla del juego](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
