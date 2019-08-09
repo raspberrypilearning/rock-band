@@ -1,42 +1,42 @@
-## Making a drum
+## Készíts egy dobot
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+Most hozzá fogsz adni egy kódot a dobhoz úgy, hogy kiadjon egy hangot amikor rákattintasz.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+A kódblokkokat a Kód fülön találod meg és ezek mindegyike színkódolt!
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+Először add hozzá a **Zene** bővítményt, hogy játszhass a hangszerekkel.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+Kattints a **Bővítmény hozzáadása** gombra a bal alsó sarokban.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![add meg a bővítmény gombot kiemelve](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+Kattints a **Zene** bővítményre a hozzáadáshoz.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- task \--- Kattints a dob szereplőre, majd húzd ezt a két blokkot a jobb oldali kódterületre:
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![képernyőkép](images/connect-block.gif)
 
 \--- /no-print \---
 
 \--- print-only \---
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+ezen szereplőre kattintáskor
+játssz ((1) Pergődob v) dobon (0.25) ütemig
 ```
 
 \--- /print-only \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Győződj meg róla, hogy a blokkok egymáshoz vannak csatlakoztatva (mint a LEGO kockák).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- Kattints a dobra, hogy kipróbáld az új hangszered! \--- /task \---
