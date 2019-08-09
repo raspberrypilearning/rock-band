@@ -1,6 +1,6 @@
-## Challenge: improve your band
+## Wyzwanie: ulepsz swój zespół muzyczny
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+Wykorzystaj to, czego nauczyłeś się w tym projekcie, aby stworzyć własny zespół! Możesz tworzyć dowolne instrumenty - popatrz na dostępne dźwięki oraz duszki instrumentów, żeby się zainspirować.
 
 ![zrzut ekranu](images/band-ideas-sounds.png)
 
@@ -10,11 +10,11 @@ set instrument to (\(1\) Piano v)
 play note (60) for (0.25) beats
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+Twoje instrumenty nie muszą być realistyczne. Możesz na przykład stworzyć pianino z babeczek!
 
 ![zrzut ekranu](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+Możesz używać więcej duszków z biblioteki, a także możesz malować własne duszki!
 
 ![zrzut ekranu](images/band-draw.png)
 
@@ -22,12 +22,12 @@ You can use more sprites from the library, and you can also paint your own sprit
 
 ## title: Dlaczego mój duszek „podskakuje”, kiedy zmienia kostium?
 
-When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+Podczas tworzenia własnego duszka może się okazać, że po kliknięciu duszka „podskakuje”, gdy zmienia kostium. Dzieje się tak, ponieważ dwa kostiumy nie są wyśrodkowane w tym samym miejscu.
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+Aby to naprawić, upewnij się, że centra kostiumów duszka są takie same.
 
 \--- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+Jeśli masz mikrofon, możesz nagrywać własne dźwięki, a nawet użyć kamery internetowej, aby uderzać w swoje instrumenty!
 
 ![zrzut ekranu](images/band-io.png)
