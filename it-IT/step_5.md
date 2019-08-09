@@ -4,12 +4,12 @@ Riesci a cambiare il suono che produce il tamburo quando viene premuto?
 
 ![screenshot](images/band-drum-sound.png)
 
-Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
+Puoi anche far sì che il tamburo emetta un suono quando viene premuta la barra spaziatrice? Dovrai utilizzare questo blocco `eventi`{: class = "block3events"}:
 
 ```blocks3
 quando si preme il tasto [spazio v]
 ```
 
-If you want to copy your existing code, right-click on it and then click on **duplicate**.
+Se si desidera copiare il codice esistente, fare clic con il tasto destro su di esso e quindi fare clic su **duplicato**.
 
 ![screenshot](images/band-duplicate-code.png)
