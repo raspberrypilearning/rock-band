@@ -1,12 +1,12 @@
 ## ड्रम बनाना
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+अब आप अपने ड्रम में कोड जोड़ेंगे ताकि क्लिक करने पर ड्रम एक आवाज़ करे।
 
 आप Scripts टैब में कोड ब्लॉक खोज सकते हैं, और वे सभी कोड रंगीन होते हैं!
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+पहले **संगीत** एक्सटेंशन जोड़ें ताकि आप वाद्ययंत्र बजा सकें।
 
 नीचे बाएँ हाथ के कोने में **Add extension** (एड एक्सटेंशन) बटन पर क्लिक करें।
 
@@ -14,11 +14,11 @@ First add the **Music** extension so you can play instruments.
 
 इसे जोड़ने के लिए **Music** एक्सटेंशन पर क्लिक करें।
 
-![हाइलाइट किया हुआ पेन एक्सटेंशन](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- कार्य \--- ड्रम स्प्राइट पर क्लिक करें, और फिर इन दो ब्लॉकों को दाईं ओर कोड क्षेत्र में खींचें:
 
 \--- no-print \---
 
@@ -29,14 +29,14 @@ First add the **Music** extension so you can play instruments.
 \--- print-only \---
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+जब यह स्प्राइट (0.25) बीट के लिए
+प्ले ड्रम (\ (1 \) स्नेयर ड्रम वी) पर क्लिक करता है
 ```
 
 \--- /print-only \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+सुनिश्चित करें कि ब्लॉक एक साथ जुड़े हुए हैं (जैसे लेगो ईंटें)।
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- कार्य \--- अपने नए उपकरण को आज़माने के लिए ड्रम पर क्लिक करें! \--- / कार्य \---
