@@ -1,16 +1,16 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+Dette er en **Scratch 3-versjon** av prosjektet. Det finnes også en [Scratch 2-versjon av prosjektet](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Introduksjon
 
-Learn how to code your own musical instruments!
+Lær hvordan du kan kode dine egne musikkinstrumenter!
 
-### What you will make
+### Hva du vil lage
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- no-print \--- Klikk på det grønne flagger for å starte. Deretter klikker du på sangerinnen eller trommen for å høre hva slags lyd de lager.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,42 +18,42 @@ Learn how to code your own musical instruments!
 
 \--- /no-print \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\--- print-only \--- Du skal lage et spill der du kan klikke på en sangerinne eller trommer for å høre hva slags lyd de lager.
 
-![game screenshot](images/demo.png) \--- /print-only \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
+![skjermbilde av spillet](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Hva du vil lære
 
-#### Hardware
++ Bruke kode for å endre en figurs drakt Scratch
++ Bruke kode for å få en figur til å reagere når du klikker på noe i Scratch
++ Legge til lyd på en figur i Scratch \--- /collapse \---
 
-+ A computer capable of running Scratch 3
+## \--- collapse \---
 
-#### Software
+## title: Hva du trenger
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+#### Maskinvare
+
++ En datamaskin som kan kjøre Scratch 3
+
+#### Programvare
+
++ Scratch 3 (enten [online](http://rpf.io/scratchon){:target="_blank"} eller [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Tilleggsinformasjon for lærere
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Hvis du trenger å skrive ut dette prosjektet, bruk [utskriftsvennlig versjon](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+Du kan finne det [ferdige prosjektet her](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
