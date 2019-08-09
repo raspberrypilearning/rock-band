@@ -1,15 +1,15 @@
 ## Lo Stage
 
-The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+Lo **Stage** è l'area sulla destra, ed è dove il tuo progetto prende vita. Pensala come un'area di spettacolo, proprio come un vero palcoscenico!
 
-\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+\--- compito \--- Al momento, il palco è bianco e sembra piuttosto noioso! Aggiungi uno sfondo ad esso facendo clic su **Scegli uno sfondo**.
 
 ![schermata](images/band-stage-choose.png) \--- /task \---
 
-\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+\--- task \--- Fare clic su **Indoors** nell'elenco in alto. Quindi fare clic su uno sfondo del teatro.
 
 ![schermata](images/band-backdrop.png) \--- /task \---
 
-\--- task \--- Your stage should now look similar to this:
+\--- task \--- Il tuo stage dovrebbe ora assomigliare a questo:
 
 ![schermata](images/band-stage.png) \--- /task \---
