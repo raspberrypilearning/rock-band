@@ -14,7 +14,7 @@
 
 ለማከል በ **ሙዚቃ** ቅጥያ ላይ ጠቅ ያድርጉ.
 
-![የግራ ቅጥያ ተመርጧል](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- / task \---
 
