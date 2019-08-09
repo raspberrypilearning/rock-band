@@ -1,6 +1,6 @@
-\--- no-print \---
+--无打印--
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+这个项目是基于**Scratch 3**版本的，另外还有一个基于[Scratch 2的版本](https://projects.raspberrypi.org/en/projects/rock-band-scratch2)。
 
 \--- /no-print \---
 
@@ -10,29 +10,29 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ### 你将做出什么
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- no-print \--- 单击绿色标记开始。然后，单击歌手或鼓声，听听它们的声音。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-\--- /no-print \---
+\--- /no-prnt \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\---只打印\--- 您将制作一个游戏，您可以点击歌手或鼓来听到唱歌或鼓声。
 
-![game screenshot](images/demo.png) \--- /print-only \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
+![游戏截图](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: 你将学到什么
+
++ 使用代码在Scratch中更改精灵的服装
++ 使用代码使精灵对Scratch中的输入作出反应
++ 在Scratch 添加声音给精灵\--- /崩溃\---
+
+## \--- collapse \---
+
+## 题目：你需要准备什么
 
 #### 硬件
 
@@ -40,20 +40,20 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 #### 软件
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([在线版本](http://rpf.io/scratchon){:target="_blank"}或[离线版本](http://rpf.io/scratchoff){:target="_blank"}）
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: 教师附加信息
 
-\--- no-print \---
+--无打印--
 
 如果你需要打印此项目，请使用[打印机友好版本](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}。
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+你可以在这里找到 [完成的项目](http://rpf.io/p/en/rock-band-get)。
 
 \--- /collapse \---
