@@ -2,7 +2,7 @@
 
 Nu ga je een zangeres aan je band toevoegen!
 
-\--- task \----
+\--- task \---
 
 Voeg een zangeres sprite toe aan je speelveld.
 
@@ -31,4 +31,4 @@ start geluid (singer1 v) en wacht :: sound
 
 \--- /task \---
 
-\--- task \--- Klik op je zangeres op het podium en kijk wat er gebeurt. Zingt ze? \--- / task \---
+\--- task \--- Klik op je zangeres op het podium en kijk wat er gebeurt. Zingt ze? \--- /task \---
