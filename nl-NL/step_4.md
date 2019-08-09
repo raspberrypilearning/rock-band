@@ -14,7 +14,7 @@ Klik op de knop **Voeg een uitbreiding toe** in de linkerbenedenhoek.
 
 Klik op de **Muziek** uitbreiding om het toe te voegen.
 
-![penuitbreiding gemarkeerd](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -39,4 +39,4 @@ Zorg ervoor dat de blokken met elkaar zijn verbonden (net zoals LEGO-stenen).
 
 \--- /task \---
 
-\--- task \--- Klik op de drum om je nieuwe instrument uit te proberen! \--- / task \---
+\--- task \--- Klik op de drum om je nieuwe instrument uit te proberen! \--- /task \---
