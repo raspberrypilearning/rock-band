@@ -1,6 +1,6 @@
-## Making a drum
+## Lage en tromme
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+Nå skal du legge til kode på trommen din, slik at den lager lyd når du trykker på den.
 
 You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
@@ -14,7 +14,7 @@ Click on the **Add extension** button in the bottom left-hand corner.
 
 Click on the **Music** extension to add it.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
