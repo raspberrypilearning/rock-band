@@ -1,15 +1,15 @@
-## Challenge: improving your drum
+## Kihívás: fejleszd a dobot
 
-Can you change the sound that the drum makes when it's clicked?
+Meg tudod változtatni a dob hangját, amikor rákattintasz?
 
-![screenshot](images/band-drum-sound.png)
+![képernyőkép](images/band-drum-sound.png)
 
-Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
+Meg tudod csinálni, hogy a dob akkor adjon ki hangot, ha lenyomod a szóközt? Ezt a `esemény`{:class="block3events"} blokkot kell használnod:
 
 ```blocks3
-when [space v] key pressed
+amikor [space v] gomb lenyomva
 ```
 
-If you want to copy your existing code, right-click on it and then click on **duplicate**.
+Ha másolni szeretnéd a meglévő kódot, kattints rá jobb egérgombbal, majd kattints a **duplikálás**ra.
 
-![screenshot](images/band-duplicate-code.png)
+![képernyőkép](images/band-duplicate-code.png)
