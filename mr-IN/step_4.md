@@ -14,7 +14,7 @@
 
 ** Music ** वर क्लिक करा तो जोडण्यासाठी विस्तार.
 
-![कलम विस्तार हायलाइट](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
