@@ -1,24 +1,24 @@
 ## Creare un tamburo
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+Ora aggiungerai il codice al tuo tamburo in modo che il tamburo emetta un suono quando viene cliccato.
 
 Puoi trovare i blocchi di codice nel pannello ‘Script’. Sono di vari colori, a seconda del tipo!
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+Per prima cosa aggiungi l'estensione **Music** modo da poter suonare gli strumenti.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+Fai clic sul pulsante **Aggiungi estensione** nell'angolo in basso a sinistra.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![aggiungi il pulsante di estensione evidenziato](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+Fare clic sull'estensione **Musica** per aggiungerla.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- task \--- Fare clic su drum sprite, quindi trascinare questi due blocchi nell'area del codice a destra:
 
 \--- no-print \---
 
@@ -29,14 +29,14 @@ Click on the **Music** extension to add it.
 \--- print-only \---
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+quando questo folletto ha cliccato su
+suonare il tamburo (\ (1 \) Rullante v) per (0,25) battiti
 ```
 
 \--- /print-only \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Assicurati che i blocchi siano collegati insieme (come i mattoncini LEGO).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- Clicca sul tamburo per provare il tuo nuovo strumento! \--- / compito \---
