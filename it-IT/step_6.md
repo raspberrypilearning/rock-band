@@ -1,10 +1,10 @@
 ## Creare un cantante
 
-Now you will add a singer to your band!
+Ora aggiungerai un cantante alla tua band!
 
 \--- task \---
 
-Add a singer sprite to your Stage.
+Aggiungi uno sprite cantante al tuo Stage.
 
 ![screenshot](images/band-singer-mic.png)
 
@@ -14,21 +14,21 @@ Add a singer sprite to your Stage.
 
 \--- task \---
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+Prima di poter cantare il tuo cantante, devi aggiungere un suono allo sprite del tuo cantante. Assicurati di aver selezionato il tuo sprite del cantante, quindi fai clic sulla scheda Suoni e fai clic su **Scegli un suono**:
 
 ![screenshot](images/band-import-sound-annotated.png) \--- /task \---
 
-\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+\--- task \--- Fai clic su **Voice** nell'elenco in alto, quindi scegli un suono da aggiungere al tuo sprite.
 
 ![schermata](images/band-choose-sound.png) \--- /task \---
 
-\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+\--- task \--- Per usare il suono, aggiungi i seguenti blocchi di codice al tuo sprite del cantante:
 
 ```blocks3
-when this sprite clicked
-play sound (singer1 v) until done
+quando questo folletto ha fatto clic su
+riproduce il suono (cantore 1 v) fino al completamento
 ```
 
 \--- /task \---
 
-\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
+\--- compito \--- Clicca sul tuo cantante sul palco e guarda cosa succede. Lei canta? \--- / compito \---
