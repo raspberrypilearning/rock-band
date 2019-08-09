@@ -1,42 +1,42 @@
 ## 製作鼓
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+現在，您將為鼓添加代碼，以便鼓在點擊時發出聲音。
 
 您可以在腳本選項卡中找到代碼塊，並且它們都是以顏色編碼的！
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+首先添加 **音樂** 擴展，以便您可以播放樂器。
 
-Click on the **Add extension** button in the bottom left-hand corner.
+單擊左下角的 **添加擴展** 按鈕。
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![添加擴展按鈕突出顯示](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+單擊 **Music** 擴展名以添加它。
 
-![pen extension highlighted](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- task \--- 點擊鼓精靈，然後將這兩個塊拖到右邊的代碼區：
 
-\--- no-print \---
+\---沒有印刷\---
 
 ![截圖](images/connect-block.gif)
 
-\--- /no-print \---
+\--- /無印刷\---
 
-\--- print-only \---
+\---只打印\---
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+當這個精靈點擊
+播放鼓（\（1 \）Snare Drum v）為（0.25）節拍
 ```
 
-\--- /print-only \---
+\--- /僅打印\---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+確保塊連接在一起（如樂高積木）。
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\---任務\--- 點擊鼓來試用你的新樂器！ \--- /任務\---
