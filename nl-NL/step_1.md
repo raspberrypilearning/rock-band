@@ -28,7 +28,7 @@ Leer hoe je je eigen muziekinstrumenten kunt coderen!
 
 + Gebruik code om het kostuum van een sprite in Scratch te veranderen
 + Gebruik code om sprites te laten reageren op invoer in Scratch
-+ Geluiden aan een sprite toevoegen in Scratch \---/collapse\---
++ Geluiden aan een sprite toevoegen in Scratch \--- /collapse \---
 
 ## \--- collapse \---
 
@@ -40,7 +40,7 @@ Leer hoe je je eigen muziekinstrumenten kunt coderen!
 
 #### Software
 
-+ Scratch 3 (of [online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:Target="_blank"})
++ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -54,6 +54,6 @@ Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](h
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+Je kunt het [afgeronde project](http://rpf.io/p/en/rock-band-get) hier vinden.
 
 \--- /collapse \---
