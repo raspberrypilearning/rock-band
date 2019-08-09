@@ -14,7 +14,7 @@
 
 Натисніть на розширення **Music** щоб додати його.
 
-![підсвічування ручки виділено](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
