@@ -1,40 +1,40 @@
-## Costumes
+## Jelmezek
 
-Now you will make your singer look like she's singing!
+Most át fogod alakítani az énekesed úgy, mintha énekelne!
 
-\--- task \--- You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
+\--- task \--- Megváltoztathatod az énekes szereplő kinézetét, amikor rákattintasz egy új jelmez létrehozásával. Kattints a Jelmezek fülre, és láthatod az énekes jelmezt.
 
-![screenshot](images/band-singer-costume-annotated.png) \--- /task \---
+![képernyőkép](images/band-singer-costume-annotated.png) \--- /task \---
 
-\--- task \--- Right-click on the costume and then click on **duplicate** to create a copy of it.
+\--- task \--- Kattints a jobb egérgombbal a jelmezre, majd a **duplikálás** gombra hogy létrehozz egy másolatot.
 
-![screenshot](images/band-singer-duplicate.png) \--- /task \---
+![képernyőkép](images/band-singer-duplicate.png) \--- /task \---
 
-\--- task \--- Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+\--- task \--- Kattints az új jelmezre (Singer2), majd válaszd ki a vonal eszközt és rajzolj vonalakat, hogy úgy tűnjön, mintha az énekes hangot adna ki.
 
-![screenshot](images/band-singer-click.png) \--- /task \---
+![képernyőkép](images/band-singer-click.png) \--- /task \---
 
-\--- task \--- The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+\--- task \--- A jelmezek nevei jelenleg nem túl átláthatóak. Írj a jelmezek szövegmezőibe, változtasd meg a neveiket 'nem énekel' és 'énekel'-re.
 
-![screenshot](images/band-singer-name-annotated.png) \--- /task \---
+![képernyőkép](images/band-singer-name-annotated.png) \--- /task \---
 
-\--- task \--- Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
+\--- task \--- Most, hogy két különböző jelmeze van az énekesednek, kiválaszthatod, hogy melyik jelmez jelenjen meg! Add hozzá ezt a két kódblokkot az énekes szereplőhöz:
 
 ```blocks3
-when this sprite clicked
-+switch costume to (singing v)
-play sound (singer1 v) until done
-+switch costume to (not singing v)
+ezen szereplőre kattintáskor
+jelmez legyen (énekel v)
+játszd végig (singer1 v) hangot
+jelmez legyen (nem énekel v)
 ```
 
-The code block for changing the costume is in the `Looks`{:class="block3looks"} section. \--- /task \---
+A jelmez megváltoztatásához szükséges kódblokkot a `Kinézet`{:class="block3looks"} részen találod. \--- / task \---
 
-\--- task \--- Click on your singer on the stage. Does she look like she is singing? \--- /task \---
+\--- task \--- Kattints az énekesre a színpadon. Úgy néz ki, mintha énekelne? \--- / task\---
 
-\--- task \--- Now make your drum look like it's being hit!
+\--- task \--- Most alakítsd át a dobot, hogy úgy nézzen ki, mintha megütnék!
 
-![screenshot](images/band-drum-final.png)
+![képernyőkép](images/band-drum-final.png)
 
-- Use the instructions for changing your singer sprite's costume to help you.
+- Használd az énekes szereplő jelmezének megváltoztatásához szükséges utasításokat segítségként.
 
-Remember to test that your new code works! \--- /task \---
+Ne felejtsd el tesztelni, hogy az új kódod működik-e! \--- / task \---
