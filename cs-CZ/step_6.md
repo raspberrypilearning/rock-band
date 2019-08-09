@@ -1,4 +1,4 @@
-## Making a singer
+## Přidání zpěvačky
 
 Now you will add a singer to your band!
 
