@@ -10,20 +10,20 @@ steps:
   - 
     title: Banda de Rock
   - 
-    title: Sprites
+    title: Objetos
   - 
-    title: The Stage
+    title: El Escenario
   - 
-    title: Making a drum
+    title: Haciendo un tambor
   - 
     title: "Challenge: improve your drum"
     challenge: true
   - 
-    title: Making a singer
+    title: Haciendo un cantante
   - 
-    title: Costumes
+    title: Disfraces
   - 
-    title: "Challenge: improve your band"
+    title: "Challenge: mejora tu banda"
     challenge: true
   - 
-    title: "What next?"
+    title: "¿Que sigue?"
