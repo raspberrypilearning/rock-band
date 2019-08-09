@@ -4,7 +4,7 @@ Zanim zaczniesz kodować, musisz dodać pewną „rzecz”, której będzie doty
 
 \--- task \--- Otwórz nowy projekt Scratcha.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**Online:** otwórz nowy projekt Scratch na stronie [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
 **Offline:** otwórz nowy projekt w edytorze offline.
 
@@ -14,7 +14,7 @@ Wygląda to tak:
 
 ![zrzut ekranu](images/band-scratch.png) \--- /task \--- \--- task \--- Kot widoczny na ekranie to maskotka Scratcha. Nie jest potrzebny do tej gry, więc usuń go, klikając go prawym przyciskiem myszy, a następnie klikając **usuń**.
 
-![screenshot](images/band-delete-annotated.png) \--- /task \---
+![zrzut ekranu](images/band-delete-annotated.png) \--- /task \---
 
 \--- task \--- Następnie kliknij **Wybierz duszka z biblioteki**, żeby otworzyć listę wszystkich duszków dostępnych w Scratchu.
 
@@ -34,7 +34,7 @@ Kliknij i przeciągnij bębenek ku dolnej części Sceny.
 
 \--- task \--- Wpisz nazwę programu w polu tekstowym w górnej części ekranu.
 
-![name](images/band-name-annotated.png)
+![nazwa](images/band-name-annotated.png)
 
 Następnie kliknij **Plik**, a potem **Zapisz teraz**, aby zapisać swój projekt.
 
