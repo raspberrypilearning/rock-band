@@ -26,9 +26,9 @@ Apprend à programmer tes propres instruments de musique !
 
 ## title: Ce que tu vas apprendre
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ Utiliser le code pour changer le costume du sprite dans Scratch
++ Utiliser le code pour faire réagir les sprites à une entrée dans Scratch
++ Ajouter des sons à un sprite dans Scratch \--- /collapse \---
 
 ## \--- collapse \---
 
@@ -54,6 +54,6 @@ Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](h
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+Tu peux trouver le [projet terminé ici](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
