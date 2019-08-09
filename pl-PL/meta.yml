@@ -4,7 +4,7 @@ listed: true
 copyedit: false
 title: Kapela rockowa
 description: Wykonując ten projekt nauczysz się jak zaprogramować własne instrumenty muzyczne!
-version: 4
+version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
@@ -23,7 +23,7 @@ steps:
   - 
     title: Kostiumy
   - 
-    title: "Challenge: improve your band"
+    title: "Wyzwanie: ulepsz swój zespół muzyczny"
     challenge: true
   - 
     title: "Co następne?"
