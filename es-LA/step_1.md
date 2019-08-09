@@ -1,4 +1,4 @@
-\--- no-print \---
+\--- no imprimir \---
 
 Esta es la versión **Scratch 3** del proyecto. También existe una version [Scratch 2 del proyecto](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
@@ -16,11 +16,11 @@ Aprende cómo codificar tus propios instrumentos musicales!
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-\--- /no-print \---
+\--- no imprimir \---
 
 \--- print-only \--- Harás un juego en el que puedes hacer clic en el cantante o el tambor para escuchar el canto o los sonidos del tambor.
 
-![captura de pantalla del juego](images/demo.png) \--- /print-only \---
+![captura de pantalla del juego](images/demo.png) \--- /solo imprimir \---
 
 ## \--- collapse \---
 
@@ -48,12 +48,12 @@ Aprende cómo codificar tus propios instrumentos musicales!
 
 ## title: Información adicional para educadores
 
-\--- no-print \---
+\--- no imprimir \---
 
 Si necesita imprimir este proyecto, use la [versión imprimible](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+Puedes [ descargar el proyecto completo aquí ](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
