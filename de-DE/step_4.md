@@ -14,7 +14,7 @@ Klicken Sie auf die Schaltfläche **Erweiterung hinzufügen** in der unteren lin
 
 Klicken Sie auf die Erweiterung **Musik**, um sie hinzuzufügen.
 
-![Erweiterung Malstift hervorgehoben](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
