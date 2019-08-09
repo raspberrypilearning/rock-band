@@ -1,43 +1,43 @@
-## Sprites
+## Figurer
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Før du kan starte kodingen, må du legge til en "ting" som kan kodes. I Scratch kalles disse "tingene" **figurer**.
 
-\--- task \--- Open a new Scratch project.
+\--- task \--- Åpne et nytt Scratch-prosjekt.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**Online:** åpne et nytt nettbasert Scratch-prosjekt på [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Offline:** åpne et nytt prosjekt i den frakoblede editoren.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Hvis du trenger å laste ned og installere Scratch editoren, finner du den på [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-It looks like this:
+Den ser slik ut:
 
-![screenshot](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![skjermbilde](images/band-scratch.png) \--- /task \--- \--- task \--- Kattefiguren som du ser er Scratch sin maskot. Du trenger den ikke i dette spillet, så du kan fjerne den ved å høyreklikke på den og så velge **slett**.
 
-![screenshot](images/band-delete-annotated.png) \--- /task \---
+![skjermbilde](images/band-delete-annotated.png) \--- /task \---
 
-\--- task \--- Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+\--- task \--- Klikk deretter **Velg en figur** for å åpne en liste med alle figurene i Scratch.
 
-![screenshot](images/band-sprite-library.png) \--- /task \---
+![skjermbilde](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+\--- task \--- Bla nedover til du ser en figur med tromme. Klikk på en tromme for å legge den til i prosjektet ditt.
 
-![screenshot](images/band-sprite-drum.png)
+![skjermbilde](images/band-sprite-drum.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+Klikk og dra trommen til bunnen av scenen.
 
 \--- /task \---
 
-\--- task \--- Give your program a name by typing into the text box at the top.
+\--- task \--- Gi programmet et navn ved å skrive inn i tekstboksen øverst.
 
-![name](images/band-name-annotated.png)
+![navn](images/band-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+Så klikker du **Fil** og deretter **Lagre nå** for å lagre prosjektet.
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+Hvis du ikke er online eller ikke har en Scratch-konto, kan du lagre en kopi av prosjektet ved å klikke på **Lagre på datamaskinen** i stedet.
 
-![screenshot](images/band-save.png) \--- /task \---
+![skjermbilde](images/band-save.png) \--- /task \---
