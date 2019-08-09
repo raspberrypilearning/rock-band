@@ -1,24 +1,24 @@
-## Creează toba
+## Creează o tobă
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+Acum vei adăuga cod tobei tale, astfel încât toba să scoată un sunet atunci când se dă click pe ea.
 
-Poți găsi blocurile de coduri în caseta Personajelor, toate având coduri de culori!
+Poți găsi blocurile în tabul Cod, toate blocurile având coduri de culori!
 
-\--- proba\---
+\--- task \---
 
-First add the **Music** extension so you can play instruments.
+Mai întâi adăugă extensia **Muzica** astfel încât să poți cânta la instrumente.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+Dă click pe butonul **Adaugă o extensie** în colțul din stânga jos.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![butonul de adaugă extensie evidențiat](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+Dă click pe extensia **Muzica** pentru a o adăuga.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- task \--- Dă click pe personajul tobă, și apoi trage aceste două blocuri în zona de cod din dreapta:
 
 \--- no-print \---
 
@@ -29,14 +29,14 @@ Click on the **Music** extension to add it.
 \--- print-only \---
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+când se dă click pe acest personaj
+cântă la tobă ((1) Snare Drum v) pentru (0.25) bătăi
 ```
 
 \--- /print-only \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Asigură-te că blocurile sunt conectate între ele (ca piesele de LEGO).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- Dă click pe tobă ca să încerci noul tău instrument! \--- /task \---
