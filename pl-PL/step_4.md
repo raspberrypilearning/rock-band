@@ -14,7 +14,7 @@ Kliknij na przycisk **Dodaj rozszerzenie** w lewym dolnym rogu.
 
 Kliknij na opcję **Muzyka**, żeby dodać to rozszerzenie.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -35,8 +35,8 @@ play drum (\(1\) Snare Drum v) for (0.25) beats
 
 \--- /print-only \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Upewnij się, że bloki są połączone ze sobą (jak klocki LEGO).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- Kliknij na bębenek, żeby wypróbować nowy instrument! \--- /task \---
