@@ -1,6 +1,6 @@
 ## Sprites
 
-Voordat je met coderen kunt beginnen, moet je een 'ding' toevoegen aan de code. In Scratch worden deze 'dingen' ** sprites** genoemd.
+Voordat je met coderen kunt beginnen, moet je een 'ding' toevoegen aan de code. In Scratch worden deze 'dingen' **sprites** genoemd.
 
 \--- task \--- Open een nieuw Scratch project.
 
@@ -12,15 +12,15 @@ Als je de Scratch offline editor wilt downloaden en installeren dan kun je die v
 
 Het ziet er zo uit:
 
-![screenshot](images/band-scratch.png) \--- / task \--- \--- task \--- De kat-sprite die je ziet, is de Scratch-mascotte. Je hebt het niet nodig voor deze game, dus doe het weg door er met de rechtermuisknop op te klikken en vervolgens op **verwijderen** te klikken.
+![screenshot](images/band-scratch.png) \--- /task \--- \--- task \--- De kat-sprite die je ziet, is de Scratch-mascotte. Je hebt het niet nodig voor deze game, dus doe het weg door er met de rechtermuisknop op te klikken en vervolgens op **verwijderen** te klikken.
 
 ![screenshot](images/band-delete-annotated.png) \--- /task \---
 
-\--- task -- Klik op **Kies een sprite** om de bibliotheek van alle Scratch-sprites te openen.
+\--- task \--- Klik op **Kies een sprite** om de bibliotheek van alle Scratch-sprites te openen.
 
 ![screenshot](images/band-sprite-library.png) \--- /task \---
 
-\---task \--- Blader naar beneden tot je een drum sprite ziet. Klik op deze drum sprite om het aan je project toe te voegen.
+\--- task \--- Blader naar beneden tot je een drum sprite ziet. Klik op deze drum sprite om het aan je project toe te voegen.
 
 ![screenshot](images/band-sprite-drum.png)
 
