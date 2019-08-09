@@ -4,7 +4,7 @@ listed: true
 copyedit: false
 title: Ροκ μπάντα
 description: Μάθε πώς να προγραμματίζεις τα δικά σου μουσικά όργανα
-version: 4
+version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
@@ -23,7 +23,7 @@ steps:
   - 
     title: Ενδυμασίες
   - 
-    title: "Ενδυμασίες"
+    title: "Πρόκληση: βελτίωσε τη μπάντα σου"
     challenge: true
   - 
     title: "Και τώρα;"
