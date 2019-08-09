@@ -14,7 +14,7 @@ Click on the **Add extension** button in the bottom left-hand corner.
 
 Click on the **Music** extension to add it.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
