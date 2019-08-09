@@ -5,25 +5,25 @@ copyedit: false
 title: Rocková skupina
 description: Nauč se, jak kódovat vlastní hudební nástroje
 version: 4
-last_tested: 2017-10-01
+last_tested: 2018-10-12
 steps:
   - 
     title: Úvod
   - 
-    title: Sprites
+    title: Sprajty
   - 
-    title: The Stage
+    title: Jeviště
   - 
-    title: Making a drum
+    title: Vytvoření bubnu
   - 
-    title: "Challenge: improve your drum"
+    title: "Výzva: vylepšení bubnu"
     challenge: true
   - 
-    title: Making a singer
+    title: Přidání zpěvačky
   - 
-    title: Costumes
+    title: Kostýmy
   - 
     title: "Challenge: improve your band"
     challenge: true
   - 
-    title: "What next?"
+    title: "Co dál?"
