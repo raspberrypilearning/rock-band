@@ -4,7 +4,7 @@ Laten we ervoor zorgen dat je zangeres eruitziet alsof ze zingt!
 
 \--- task \--- Je kunt de zangeres sprite aanpassen hoe deze eruit ziet als er op wordt geklikt door een nieuw uiterlijk te maken. Klik op het tabblad Uiterlijken en je ziet de afbeelding van de zangeres.
 
-![screenshot](images/band-singer-costume-annotated.png) \---/task\---
+![screenshot](images/band-singer-costume-annotated.png) \--- /task \---
 
 \--- task \--- Klik met de rechtermuisknop op het kostuum en klik vervolgens op **dupliceren** om er een kopie van te maken.
 
