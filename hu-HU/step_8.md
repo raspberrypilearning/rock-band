@@ -1,33 +1,33 @@
-## Challenge: improve your band
+## Kihívás: fejleszd a zenekarod
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+Használd a projektben megtanultakat, hogy saját zenekarod legyen! Létrehozhatsz tetszőleges hangszereket - nézd meg a rendelkezésedre álló hangszereket és hangokat, hogy ötleteket kapj.
 
-![screenshot](images/band-ideas-sounds.png)
+![képernyőkép](images/band-ideas-sounds.png)
 
 ```blocks3
-when this sprite clicked
-set instrument to (\(1\) Piano v)
-play note (60) for (0.25) beats
+ezen szereplőre kattintáskor
+hangszer legyen ((1) Zongora v)
+játszd le (60) hangjegyet (0.25) ütemig
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+A hangszereidnek azonban nem kell reálisnak lenniük. Például, muffinokból készíthetsz egy zongorát!
 
-![screenshot](images/band-piano.png)
+![képernyőkép](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+Több szereplőt használhatsz a könyvtárból és akár saját szereplőt is készíthetsz!
 
-![screenshot](images/band-draw.png)
+![képernyőkép](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## title: Miért ugrál a szereplő, amikor megváltozik a jelmez?
 
-When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+A saját szereplő létrehozásakor előfordulhat, hogy ha rákattintasz a szereplőre, akkor 'ugrik', amikor megváltozik a jelmeze. Ez azért történik, mert a két jelmez nem ugyanabban a pozícióban van.
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+Ennek megoldásához győződj meg arról, hogy a szereplőd jelmezeinek középpontjai azonosak.
 
 \--- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+Ha van mikrofonod, rögzíthetsz saját hangokat és akár webkamerát is használhatsz a hangszerek aktiválásához!
 
-![screenshot](images/band-io.png)
+![képernyőkép](images/band-io.png)
