@@ -1,8 +1,8 @@
-## What next?
+## Što dalje?
 
-Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
+Sada kada je tvoj prvi Scratch projekt napravljen, zašto se ne okušaš u novom Scratch projektu poput [Izgubljeni u svemiru](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)?
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- Klikni na zelenu zastavicu kako bi se animacija pokrenula.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -13,6 +13,6 @@ Now that you've built your first Scratch project, why not take a look at the [Lo
 
 \--- print-only \---
 
-![Complete project](images/space-final.png)
+![Dovršen projekt](images/space-final.png)
 
 \--- /print-only \---
