@@ -1,15 +1,15 @@
-## The Stage
+## Scenen
 
-The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+**Scenen** er området til høyre, og det er her prosjektet ditt kommer til live. Tenk på det som et forestillingsområde, akkurat som en ekte scene!
 
-\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+\--- task \--- For øyeblikket er scenen hvit og ser ganske kjedelig ut! Legg til en bakgrunn ved å klikke på **Velg et bakgrunnsbilde**.
 
-![screenshot](images/band-stage-choose.png) \--- /task \---
+![skjermbilde](images/band-stage-choose.png) \--- /task \---
 
-\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+\--- task \--- Klikk på **Innendørs** i listen øverst. Klikk deretter på teaterbakgrunnen (Theater).
 
-![screenshot](images/band-backdrop.png) \--- /task \---
+![skjermbilde](images/band-backdrop.png) \--- /task \---
 
-\--- task \--- Your stage should now look similar to this:
+\--- task \--- Scenen din skal nå se ut som denne:
 
-![screenshot](images/band-stage.png) \--- /task \---
+![skjermbilde](images/band-stage.png) \--- /task \---
