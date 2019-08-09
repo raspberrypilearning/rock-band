@@ -1,6 +1,6 @@
 ## Likovi
 
-Prije nego li započneš s kodiranjem, moraš dodati nekakvu 'stvar' koju ćeš isprogramirati. U Scratchu se ove 'stvari' zovu **likovi**.
+Prije nego li započneš s kodiranjem, moraš dodati nekakvu „stvar” koju ćeš isprogramirati. U Scratchu se ove „stvari” zovu **likovi**.
 
 \--- task \--- Otvori novi Scratch projekt.
 
@@ -12,17 +12,17 @@ Ako trebaš preuzeti i instalirati offline Scratch uređivač, to možeš naprav
 
 Ovako izgleda uređivač:
 
-![screenshot](images/band-scratch.png) \--- /task \--- \--- task \--- Lik mačke koji vidiš je maskota Scratcha. Za ovu igru ga ne trebaš pa ga možeš obrisati tako da klikneš na njega desnom tipkom miša, a zatim odabereš **obriši**.
+![snimka zaslona](images/band-scratch.png) \--- /task \--- \--- task \--- Lik mačke koji vidiš je maskota Scratcha. Za ovu igru ga ne trebaš pa ga možeš obrisati tako da klikneš na njega desnom tipkom miša, a zatim odabereš **obriši**.
 
-![screenshot](images/band-delete-annotated.png) \--- /task \---
+![snimka zaslona](images/band-delete-annotated.png) \--- /task \---
 
 \--- task \--- Sada klikni na **Odaberi lik** da otvoriš knjižnicu u kojoj se nalaze svi Scratch likovi.
 
-![screenshot](images/band-sprite-library.png) \--- /task \---
+![snimka zaslona](images/band-sprite-library.png) \--- /task \---
 
 \--- task \--- Pronađi lik bubnja (Drum). Klikni na bubanj da ga dodaš svom projektu.
 
-![screenshot](images/band-sprite-drum.png)
+![snimka zaslona](images/band-sprite-drum.png)
 
 \--- /task \---
 
@@ -40,4 +40,4 @@ Zatim klikni na **Datoteka** pa **Spremi sada** da spremiš svoj projekt.
 
 Ako koristiš Scratch bez intrenetske veze ili nemaš korisnički račun, možeš spremiti kopiju svog projekta klikom na **Spremi na računalo**.
 
-![screenshot](images/band-save.png) \--- /task \---
+![snimka zaslona](images/band-save.png) \--- /task \---
