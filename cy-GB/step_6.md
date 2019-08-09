@@ -25,8 +25,8 @@ Cyn i ti allu wneud i dy ganwr ganu, bydd angen i ti ychwanegu sain i dy gorlun.
 \--- task \--- I ddefnyddio'r sain, ychwanega'r blociau canlynol i gorlun y canwr:
 
 ```blocks3
-when this sprite clicked
-play sound (singer1 v) until done
+pan gaiff y ciplun yma ei glicio
+chwarae sain (Singer1 v) tan y diwedd
 ```
 
 \--- /task \---
