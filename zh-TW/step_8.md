@@ -1,20 +1,20 @@
 ## 造型
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+使用您在此項目中學到的知識來創建自己的樂隊！您可以創建任何您喜歡的樂器 - 查看可用的樂器精靈和聲音以獲得一些想法。
 
 ![截圖](images/band-ideas-sounds.png)
 
 ```blocks3
-when this sprite clicked
-set instrument to (\(1\) Piano v)
-play note (60) for (0.25) beats
+當這個精靈點擊
+設置樂器到（\（1 \）鋼琴v）
+播放音符（60）為（0.25）節拍
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+你的樂器不一定要現實。例如，你可以製作一個用鬆餅製成的鋼琴！
 
 ![截圖](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+您可以使用庫中的更多精靈，也可以繪製自己的精靈！
 
 ![截圖](images/band-draw.png)
 
@@ -24,10 +24,10 @@ You can use more sprites from the library, and you can also paint your own sprit
 
 創建自己的角色時，可能會發現當你點擊角色時，它會一邊'跳轉'一邊改變造型。這是因為這兩套造型的中心位置不同。
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+要解決此問題，請確保精靈服飾的中心相同。
 
 \--- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+如果您有麥克風，您可以錄製自己的聲音，甚至可以使用網絡攝像頭來敲擊您的樂器！
 
 ![截圖](images/band-io.png)
