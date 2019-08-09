@@ -26,9 +26,9 @@
 
 ## title: 배우게 될 것
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ 스크래치에서 스프라이트를 변경하는 코드 제작
++ 코드를 사용하여 스프라이트가 스크래치에서 입력에 반응하게 만들기
++ 스크래치의 스프라이트에 사운드 추가 \--- /collapse \---
 
 ## \--- 중간생략 \---
 
@@ -54,6 +54,6 @@
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+여기서 [완료된 프로젝트를 확인할 수 있습니다](http://rpf.io/p/en/rock-band-get).
 
 -- /collapse \---
