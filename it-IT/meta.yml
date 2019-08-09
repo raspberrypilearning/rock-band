@@ -4,15 +4,15 @@ listed: true
 copyedit: false
 title: Rock band
 description: In questo progetto imparerai come programmare il tuo strumento musicale!
-version: 4
+version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
     title: Introduzione
   - 
-    title: Sprite
+    title: Sprites
   - 
-    title: Lo Stage
+    title: Il progetto
   - 
     title: Creare un tamburo
   - 
@@ -23,7 +23,7 @@ steps:
   - 
     title: I Costumi
   - 
-    title: "Sfida: Cambiare il costume del tamburo"
+    title: "Sfida: migliora la tua banda"
     challenge: true
   - 
     title: "E poi?"
