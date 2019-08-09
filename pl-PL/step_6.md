@@ -1,10 +1,10 @@
 ## Dodawanie wokalistki
 
-Now you will add a singer to your band!
+Teraz dodasz wokalistkę do swojego zespołu!
 
 \--- task \---
 
-Add a singer sprite to your Stage.
+Dodaj duszka wokalistki do swojej sceny.
 
 ![zrzut ekranu](images/band-singer-mic.png)
 
@@ -14,15 +14,15 @@ Add a singer sprite to your Stage.
 
 \--- task \---
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+Zanim będziesz mogła spowodować, żeby Twoja wokalistka zaśpiewała, musisz dodać dźwięk do duszka wokalistki. Upewnij się, że wybrałaś duszka dla swojej wokalistki, a następnie kliknij zakładkę Dźwięki i kliknij **Wybierz dźwięk**:
 
 ![zrzut ekranu](images/band-import-sound-annotated.png) \--- /task \---
 
-\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+\--- task \--- Kliknij na **Głos** na liście u góry, a następnie wybierz dźwięk, który chcesz dodać do swojego duszka.
 
 ![zrzut ekranu](images/band-choose-sound.png) \--- /task \---
 
-\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+\--- task \--- Aby użyć dźwięku, dodaj następujące bloczki kodu do duszka wokalistki:
 
 ```blocks3
 when this sprite clicked
@@ -31,4 +31,4 @@ play sound (singer1 v) until done
 
 \--- /task \---
 
-\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
+\--- task \--- Kliknij na wokalistkę na scenie i zobacz co się stanie. Czy ona śpiewa? \--- /task \---
