@@ -1,4 +1,4 @@
-## Uiterlijken
+## Uitdaging: verbeter je band
 
 Gebruik wat je in dit project hebt geleerd om je eigen band te maken! Je kunt elk gewenst instrument maken - bekijk de beschikbare geluiden en instrumenten om ideeën op te doen.
 
@@ -20,9 +20,9 @@ Je kunt meer sprites uit de bibliotheek gebruiken en je kunt ook je eigen sprite
 
 ## \--- collapse \---
 
-## titel: Waarom springt mijn sprite wanneer het uitelijk verandert?
+## title: Waarom springt mijn sprite wanneer het uitelijk verandert?
 
-Bij het maken van je eigen sprite, kan je merken dat wanneer je op de sprite klikt, deze verspringt wanneer het uiterlijk verandert. Dit komt omdat het centrum van de twee uiterlijken niet op precies dezelfde plek staan.
+Bij het maken van je eigen sprite, merk je dat wanneer je op de sprite klikt, deze verspringt wanneer het uiterlijk verandert. Dit komt omdat het centrum van de twee uiterlijken niet op precies dezelfde plek staan.
 
 Om dit op te lossen, zorg je ervoor dat het centrum van je beide sprite kostuums op hetzelfde punt liggen.
 
