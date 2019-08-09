@@ -1,8 +1,8 @@
-## Making a drum
+## Vytvoření bubnu
 
 Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Bloky pro tvorbu kódu najdeš na kartě Scénáře a všechny jsou podle funkce rozlišeny barevně!
 
 \--- task \---
 
@@ -14,7 +14,7 @@ Click on the **Add extension** button in the bottom left-hand corner.
 
 Click on the **Music** extension to add it.
 
-![pen extension highlighted](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
