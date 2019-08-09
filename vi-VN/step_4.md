@@ -14,7 +14,7 @@ Nhấp vào nút **Thêm tiện ích mở rộng** ở góc dưới bên trái.
 
 Nhấp vào tiện ích mở rộng **Music** để thêm nó.
 
-![bút mở rộng](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /bài tập \---
 
