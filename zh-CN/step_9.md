@@ -1,8 +1,8 @@
 ## 接下来还有什么？
 
-Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
+现在您已经构建了第一个Scratch项目，为什么不看看 [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch项目？
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- 单击绿色标记以查看动画。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -13,6 +13,6 @@ Now that you've built your first Scratch project, why not take a look at the [Lo
 
 \--- print-only \---
 
-![Complete project](images/space-final.png)
+![完成项目](images/space-final.png)
 
 \--- /print-only \---
