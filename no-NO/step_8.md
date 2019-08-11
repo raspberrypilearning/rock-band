@@ -2,32 +2,32 @@
 
 Bruk det du har lært i dette prosjektet for å lage ditt egen band! Du kan lage akkurat de instrumentene du har lyst til — se på de tilgjengelige instrument-figurene og lydene for å få noen ideer.
 
-![screenshot](images/band-ideas-sounds.png)
+![skjermbilde](images/band-ideas-sounds.png)
 
 ```blocks3
-when this sprite clicked
-set instrument to (\(1\) Piano v)
-play note (60) for (0.25) beats
+når denne figuren klikkes
+velg instrument (\(1\) Piano v)
+spill tone (60) som varer (0.25) takter
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+Instrumentene dine trenger ikke å være realistiske. For eksempel kan du lage et piano av muffins!
 
-![screenshot](images/band-piano.png)
+![skjermbilde](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+Du kan bruke flere figurer fra biblioteket, og du kan også tegne dine egne figurer!
 
-![screenshot](images/band-draw.png)
+![skjermbilde](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## title: Hvorfor 'hopper' figuren min når den bytter drakt?
 
-When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+Når du lager din egen figur, kan du oppleve at når du klikker på den, 'hopper' den når den skifter drakt. Dette er fordi de to draktene ikke er sentrert på samme sted.
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+For å fikse dette må du sørge for at midten på alle draktene er på samme sted.
 
 \--- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+Hvis du har en mikrofon, kan du spille inn dine egne lyder, og du kan til og med bruke et webkamera for å spille på instrumentene dine!
 
-![screenshot](images/band-io.png)
+![skjermbilde](images/band-io.png)
