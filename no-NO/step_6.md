@@ -4,9 +4,9 @@ Nå skal du legge til en sangerinne i bandet ditt!
 
 \--- task \---
 
-Add a singer sprite to your Stage.
+Legg til en figur på scenen din.
 
-![screenshot](images/band-singer-mic.png)
+![skjermbilde](images/band-singer-mic.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -14,21 +14,21 @@ Add a singer sprite to your Stage.
 
 \--- task \---
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+Før du kan få sangerinnen til å synge, må du legge til en lyd til figuren av sangerinnen. Forsikre deg om at du har valgt sangerinne-figuren, deretter klikker på Lyd-arkfanen, og klikk på **Velg en lyd**:
 
-![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+![skjermbilde](images/band-import-sound-annotated.png) \--- /task \---
 
-\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+\--- task \--- Klikk på **Stemme** i listen øverst, og velg deretter en lyd du vil legge til figuren din.
 
-![screenshot](images/band-choose-sound.png) \--- /task \---
+![skjermbilde](images/band-choose-sound.png) \--- /task \---
 
-\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+\--- task \--- For å bruke lyden, kan du legge til følgende kodeklossen til sangerinne figuren:
 
 ```blocks3
-when this sprite clicked
-play sound (singer1 v) until done
+når denne figuren klikkes
+spill lyden (singer1 v) til den er ferdig
 ```
 
 \--- /task \---
 
-\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
+\--- task \--- Klikk på sangerinnen på scenen og se hva som skjer. Synger hun? \--- /task \---
