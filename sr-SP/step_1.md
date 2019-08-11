@@ -28,7 +28,7 @@
 
 + Use code to change a sprite's costume in Scratch
 + Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ Додати звукове лику у Скречу \--- /collapse \---
 
 ## \--- collapse \---
 
