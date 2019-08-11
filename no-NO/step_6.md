@@ -1,6 +1,6 @@
 ## Lag en sangerinne
 
-Now you will add a singer to your band!
+Nå skal du legge til en sangerinne i bandet ditt!
 
 \--- task \---
 
