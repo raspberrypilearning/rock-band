@@ -4,37 +4,37 @@ Nå skal du gjøre slik at du ser at sangerinnen synger!
 
 \--- task \--- Du kan endre hvordan sangerinne-figuren ser ut når du klikker på den ved å lage en ny drakt. Klikk på Drakter-arkfanen, så ser du sangerinnens drakter.
 
-![screenshot](images/band-singer-costume-annotated.png) \--- /task \---
+![skjermbilde](images/band-singer-costume-annotated.png) \--- /task \---
 
 \--- task \--- Høyreklikk på drakten og klikk deretter på **lag en kopi** for å lage en kopi av den.
 
-![screenshot](images/band-singer-duplicate.png) \--- /task \---
+![skjermbilde](images/band-singer-duplicate.png) \--- /task \---
 
-\--- task \--- Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+\--- task \--- Klikk på den nye drakten (kalt 'Singer2'), og velg deretter linjeverktøyet og tegn noen linjer slik at det ser ut som om sangerinnen din synger.
 
-![screenshot](images/band-singer-click.png) \--- /task \---
+![skjermbilde](images/band-singer-click.png) \--- /task \---
 
-\--- task \--- The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+\--- task \--- Navnene på draktene hjelper ikke så mye for øyeblikket. Skriv inn i tekstboksene til draktene for å endre navn til 'synger ikke' og 'synger'.
 
-![screenshot](images/band-singer-name-annotated.png) \--- /task \---
+![skjermbilde](images/band-singer-name-annotated.png) \--- /task \---
 
-\--- task \--- Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
+\--- task \--- Nå som du har to forskjellige drakter til sangerinnen, kan du velge hvilken drakt som skal vises! Legg til disse to kodeklossene til din sangerinne-figur:
 
 ```blocks3
-when this sprite clicked
-+switch costume to (singing v)
-play sound (singer1 v) until done
-+switch costume to (not singing v)
+når denne figuren klikkes
++bytt drakt til (synger v)
+spill lyden (Singer1 v) til den er ferdig
++bytt drakt til (synger ikke v)
 ```
 
-The code block for changing the costume is in the `Looks`{:class="block3looks"} section. \--- /task \---
+Kodeklossen for å endre drakt er i `Utseende`{:class="block3looks"} delen. \--- /task \---
 
-\--- task \--- Click on your singer on the stage. Does she look like she is singing? \--- /task \---
+\--- task \--- Klikk på sangerinnen på scenen. Ser du at hun synger? \--- /task \---
 
-\--- task \--- Now make your drum look like it's being hit!
+\--- task \--- Nå kan du gjøre slik at du ser at du slår på trommen!
 
-![screenshot](images/band-drum-final.png)
+![skjermbilde](images/band-drum-final.png)
 
-- Use the instructions for changing your singer sprite's costume to help you.
+- Bruk instruksjonene for å endre drakten til sangerinnen for å hjelpe deg.
 
-Remember to test that your new code works! \--- /task \---
+Husk å teste at den nye koden din fungerer! \--- /task \---
