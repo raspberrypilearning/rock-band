@@ -1,6 +1,6 @@
 ## Utfordring: lag bandet ditt bedre
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+Bruk det du har lært i dette prosjektet for å lage ditt egen band! Du kan lage akkurat de instrumentene du har lyst til — se på de tilgjengelige instrument-figurene og lydene for å få noen ideer.
 
 ![screenshot](images/band-ideas-sounds.png)
 
