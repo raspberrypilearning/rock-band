@@ -2,19 +2,19 @@
 
 Nå skal du legge til kode på trommen din, slik at den lager lyd når du trykker på den.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Du finner kodeklosser i Kode-arkfanen, og alle er fargekodet!
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+Legg til tilleggsfunksjonen **Musikk** slik at du kan spille instrumenter.
 
 Click on the **Add extension** button in the bottom left-hand corner.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![hent tilleggsfunksjon er markert](images/add-extension-annotated.png)
 
 Click on the **Music** extension to add it.
 
-![music extension highlighted](images/click-music-annotated.png)
+![musikkutvidelse markert](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -22,7 +22,7 @@ Click on the **Music** extension to add it.
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![skjermbilde](images/connect-block.gif)
 
 \--- /no-print \---
 
