@@ -1,12 +1,12 @@
 ## Drakter
 
-Now you will make your singer look like she's singing!
+Nå skal du gjøre slik at du ser at sangerinnen synger!
 
-\--- task \--- You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
+\--- task \--- Du kan endre hvordan sangerinne-figuren ser ut når du klikker på den ved å lage en ny drakt. Klikk på Drakter-arkfanen, så ser du sangerinnens drakter.
 
 ![screenshot](images/band-singer-costume-annotated.png) \--- /task \---
 
-\--- task \--- Right-click on the costume and then click on **duplicate** to create a copy of it.
+\--- task \--- Høyreklikk på drakten og klikk deretter på **lag en kopi** for å lage en kopi av den.
 
 ![screenshot](images/band-singer-duplicate.png) \--- /task \---
 
