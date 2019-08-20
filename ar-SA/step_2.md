@@ -4,7 +4,7 @@
 
 \--- task \--- افتح مشروع Scratch جديد.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**اتصال بالانترنيت:** افتح مشروع سكراتش Scratch جديد عبر الانترنيت من [rpf.io/scratch-new](http://rpf.io/scratch-new) {:target="_blank"}.
 
 **من دون اتصال انترنيت:** افتح مشروع سكراتش Scratch جديد عبر برنامج المحرر الموجود على على جهازك دون اتصال بالانترنيت.
 
