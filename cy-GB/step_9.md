@@ -1,22 +1,18 @@
---- challenge ---
-## Her: Gwneud band dy hunan
-Defnyddia yr hyn rwyt ti wedi ei ddysgu yn y prosiect yma i wneud dy fand dy hunan! Galli di greu unrhyw offerynau yr hoffet ti, ond edrycha ar y synau ac offerynau i gael rhai syniadau.
+## Beth nesaf?
 
-![screenshot](images/band-ideas.png)
+Nawr dy fod wedi adeiladu dy brosiect cyntaf Scratch, beth am edrych ar y prosiect Scratch [Ar goll yn y Gofod](https://projects.raspberrypi.org/cy-GB/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)?
 
-Does dim rhaid i dy offerynau fod yn rhai call cofia. Er enghraifft, galli di wneud piano yn defnyddio myffins!
+--- no-print --- Clicia'r faner werdd i weld yr animeiddiad.
 
-![screenshot](images/band-piano.png)
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-Yn ogystal â chipluniau sydd yn bodoli yn barod, mae modd i ti greu rhai dy hunan.
+--- /no-print ---
 
-![screenshot](images/band-draw.png)
+--- print-only ---
 
-Os oes gyda ti feicraffon galli di recordio dy synau dy hunan, neu galli di hyd yn oed ddefnyddio gwe-gamera i daro dy offerynnau!
+![Cwblhau'r prosiect](images/space-final.png)
 
-![screenshot](images/band-io.png)
-
-
-
-
---- /challenge ---
+--- /print-only ---

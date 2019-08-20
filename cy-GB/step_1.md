@@ -1,49 +1,59 @@
+--- no-print ---
+
+Dyma fersiwn **Scratch 3** y prosiect. Ceir hefyd [fersiwn Scratch 2 o'r prosiect](https://projects.raspberrypi.org/cy-GB/projects/rock-band-scratch2).
+
+--- /no-print ---
+
 ## Cyflwyniad
 
-Yn y prosiect yma cei ddysgu sut i godio dy offerynau cerddorol dy hunan!
+Dysga sut i godio offerynnau cerddorol!
+
+### Beth fyddi di'n ei greu
+
+--- no-print --- Clicia'r faner werdd i gychwyn. Yna, clicia ar y canwr neu drwm i glywed sut mae nhw'n swnio.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
---- collapse ---
+--- /no-print ---
+
+--- print-only --- Fyddi di'n creu gêm lle mae modd clicio ar y canwr neu'r drwm i glywed sain canu neu drwm.
+
+![sgrînlun gêm](images/demo.png) --- /print-only ---
+
+---collapse---
+
+## title: Yr hyn byddi di'n ei ddysgu
+
++ Defnyddio côd i newid gwisg ciplun yn Scratch
++ Defnyddio côd i wneud i’r cipluniau ymateb i fewnbwn yn Scratch
++ Ychwanegu synau at y ciplun yn Scratch
+
+---collapse---
 ---
-title: Nodiadau i Wirfoddolwyr
+title: Beth fydd ei angen arno ti
 ---
+#### Caledwedd
 
-#Cyflwyniad:
-Yn y prosiect yma, bydd plant yn dysgu sut i ychwanegu sŵn a cherddoriaeth i'w prosiectau, yn ogystal â newid a rhaglenni gwisgoedd cipluniau.
++ Cyfrifiadur sy'n gallu rhedeg Scratch 3
 
-#Adnoddau
-Ar gyfer y prosiect yma, dylid defnyddio Scratch 2.  Mae modd defnyddio Scratch 2 arlein yma [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) neu mae modd ei lawrlwytho yma [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) a'i ddefnyddio heb gysylltiad gwe.
+#### Meddalwedd
 
-Mae modd gweld y prosiect wedi ei gwblhau yma <a href="http://scratch.mit.edu/projects/26741186/#editor">online</a>, neu mae modd ei lawrlwytho wrth glicio ar ddolen 'Adnoddau'r Prosiect' ar gyfer y prosiect yma, sydd yn cynnwys:
++ Scratch 3 (unai [arlein](http://rpf.io/scratchon){:target="_blank"} neu [all-lein](http://rpf.io/scratchoff){:target="_blank"})
 
-+ RockBand.sb2
+--- /collapse ---
 
-#Nodau Addysgol
-+ Cipluniau;
-+ Gwisgoedd;
-+ Blociau côd dilyniannol;
-+ Digwyddiadau;
-+ Sain a cherddoriaeth.
+---collapse---
+---
+title: Gwybodaeth ychwanegol i addysgwyr
+---
+--- no-print ---
 
-Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llafur Gwneud Digidol Raspberry Pi](http://rpf.io/curriculum):
+Os oes angen i chi argraffu y prosiect, defnyddiwch [fersiwn i'w argraffu](https://projects.raspberrypi.org/cy-GB/projects/rock-band/print){:target="_blank"}.
 
-+ [Defnyddio cystrawen iaith raglennu sylfaenol i greu rhaglenni syml](https://www.raspberrypi.org/curriculum/programming/creator)
+--- /no-print ---
 
-#Heriau
-+ "Perffeithio eich drwm" - newid synau cipluniau ac ychwanegu digwyddiadau;
-+ "Newid gwisg eich canwr" - ychwanegu a rheoli cipluniau gwisgoedd;
-+ "Gwneud eich band eich hunan" - defnyddio'r sgiliau a ddysgwyd i greu offerynnau newydd.
-
-#Cwestiynau a Ofynir yn Aml
-+ Pan yn creu eu cipluniau eu hunan, mae'n bosib y gall y plant ffeindio bod eu ciplun yn 'neidio' pan maent yn clicio arno, wrth iddo newid gwisg.  Mae hyn oherwydd nad yw'r ddau wisg wedi eu canoli yn yr un man.
-
-	I ddatrys hyn, cliciwch 'Gosod canolbwynt' ar y ddau giplun, a sicrhewch eu bod wedi canoli yn yr un man ar gyfer y ddau wisg.
-
-	![screenshot](images/band-center.png)
-
-+ Wrth ddefnyddio Linux, mae'n bosib na fydd clic-dde yn gweithio i ddileu ciplun. Os mai dyma'r achos, bydd dal shift a clic-chwith yn agor dewislen i ddileu'r ciplun.
+Gallwch ddod o hyd i'r prosiect gorffenedig [yma](http://rpf.io/p/cy-GB/rock-band-get).
 
 --- /collapse ---

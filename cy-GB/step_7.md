@@ -1,27 +1,40 @@
 ## Gwisgoedd
 
-Ewn ati i wneud dy ganwr i edrych fel ei bod yn canu!
+Nawr rwyt ti am wneud i dy ganwr edrych fel ei bod yn canu!
 
-+ Galli di hefyd newid sut mae ciplun dy ganwr yn edrych trwy greu gwisg newydd. Dewisa'r tab 'Gwisgoedd', ac fe weli di lun o'r canwr.
+--- task --- Galli di newid sut mae corlun dy ganwr yn edrych trwy greu gwisg newydd. Dewisa’r tab Gwisgoedd, ac fe weli di lun o wisg y canwr.
 
-	![screenshot](images/band-singer-costume.png)
+![sgrinlun](images/band-singer-costume-annotated.png) --- /task ---
 
-+ Dewisa clic-dde ar y wisg, a clicia 'dyblygu' i greu copi o'r wisg.
+Dewisa clic-dde ar y wisg, a clicia **dyblygu** i greu copi o’r wisg.
 
-	![screenshot](images/band-singer-duplicate.png)
+![sgrinlun](images/band-singer-duplicate.png) --- /task ---
 
-+ Clicia ar y wisg newydd (o'r enw 'Singer2') a dewisa y teclyn llinell i lunio llinellau i wneud hi edrych fel bod y canwr yn gwneud sŵn.
+--- task --- Clicia ar y wisg newydd (‘Singer2’) a dewisa y teclyn llinell i wneud iddi edrych fel bod sain yn dod o geg y canwr.
 
-	![screenshot](images/band-singer-click.png)
+![sgrinlun](images/band-singer-click.png) --- /task ---
 
-+ Nid yw enwau'r gwisgoedd yn llawer o gymorth ar hyn o bryd. Ail-enwa y 2 wisg i 'ddim yn canu' ac 'yn canu' wrth deipio enw newydd pob gwisg yn y blwch testun.
+--- task --- Dyw enwau’r gwisgoedd ddim yn llawer o gymorth ar hyn o bryd. Teipia yn y blwch testun ‘ddim yn canu’ ac ‘yn canu’ i wahaniaethu rhwng y ddau.
 
-	![screenshot](images/band-singer-name.png)
+![sgrinlun](images/band-singer-name-annotated.png) --- /task ---
 
-+ Nawr bod gyda ti 2 wisg gwahanol i dy ganwr, galli di ddewis pa wisg sydd yn cael ei arddangos! Ychwanega y 2 floc yma i dy ganwr:
+Nawr bod gyda ti ddau wisg gwahanol i dy ganwr, galli di ddewis pa wisg sydd yn cael ei arddangos! Ychwanega y ddau floc yma i gorlun dy ganwr:
 
-	![screenshot](images/band-looks.png)
+```blocks3
+pan gaiff y ciplun yma ei glicio
++newid gwisg i (singing v)
+chwarae sain (Singer1 v) tan y diwedd
++newid gwisg i (not singing v)
+```
 
-	Mae'r côd ar gyfer newid y wisg yn yr adran `Edrychiad`{:class="blocklooks"}.
+Mae’r côd ar gyfer newid y wisg yn yr adran `Edrychiad`{:class="block3looks"}. --- /task ---
 
-+ Profa dy ganwr.  Pan wyt ti yn clicio arni, fe ddylai dy ganwr edrych fel ei bod yn canu!
+--- task --- Clicia dy ganwr ar y llwyfan. Ydy e'n edrych fel ei bod hi'n canu? --- /task ---
+
+--- task --- Nawr gwna i dy ddrwm edrych fel ei fod yn cael ei daro!
+
+![sgrinlun](images/band-drum-final.png)
+
+- Defnyddia'r cyfarwyddiadau i newid gwisg dy ganwr i fod o gymorth i ti.
+
+Cofia brofi fod dy gôd newydd yn gweithio! --- /task ---

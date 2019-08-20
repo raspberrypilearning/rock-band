@@ -1,31 +1,43 @@
-## Cipluniau
+## Corluniau
 
-Cyn i ti allu dechrau codio, bydd angen i ti ychwanegu 'rhywbeth' i godio. Yn Scratch, mae'r 'pethau' yma yn cael eu galw yn _giplun_.
+Cyn i ti allu dechrau codio, bydd angen i ti ychwanegu ‘rhywbeth’ i godio. Yn Scratch, mae’r ‘pethau’ yma yn cael eu galw yn **gipluniau**.
 
-+ Yn gyntaf, agora teclyn golygu Scratch. Mae modd dod o hyd i'r teclyn golygu Scratch arlein yma <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. Mae'n edrych fel hyn:
+--- task --- Agor prosiect Scratch newydd.
 
-	![screenshot](images/band-scratch.png)
+**Arlein:** agora brosiect Scratch newydd yma [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-+ Masgot Scratch yw'r ciplun o'r gath y gweli di ar y sgrin. Dere i ni gael gwared ohono, trwy glicio ar y dde a gwasgu 'dileu'.
+**All-lein** agora brosiect newydd yn y golygydd all-lein.
 
-	![screenshot](images/band-delete.png)
+Os oes angen i ti lawrlwytho a gosod golygydd Scratch all-lein, mae modd dod o hyd iddo yma [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-+ Nesaf, clicia 'Dewis ciplun o'r rhestr' i agor yr holl restr o gipluniau Scratch.
+Mae'n edrych fel hyn:
 
-	![screenshot](images/band-sprite-library.png)
+![sgrinlun](images/band-scratch.png) --- /task --- --- task --- Masgot Scratch yw’r ciplun o’r gath y gweli di ar y sgrin. Fe wnawn ni gael gwared ohono, trwy glicio ar y dde a gwasgu **dileu**.
 
-+ Cer i waelod y rhestr trwy sgrolio tan dy fod yn gweld ciplun o ddrwm. Clicia ar y drwm a gwasga 'Iawn' i'w ychwanegu i dy brosiect.
+![sgrinlun](images/band-delete-annotated.png) --- /task ---
 
-	![screenshot](images/band-sprite-drum.png)
+--- task --- Clicia **Dewiswch Gorlun** i agor holl gorluniau Scratch.
 
-+ Clicia'r botwm 'lleihau', ac yna clicia ar y drwm cwpwl o weithiau i'w wneud yn llai.
+![sgrinlun](images/band-sprite-library.png) --- /task ---
 
-	![screenshot](images/band-shrink.png)
+--- task --- Sgrolia i waelod y rhestr tan dy fod yn gweld corlun drwm. Clicia ar y drwm i’w ychwanegu i dy brosiect.
 
-Rho enw i dy brosiect, gan deipio un i'r blwch testun yn y gornel dop ar y chwith.
+![sgrinlun](images/band-sprite-drum.png)
 
-Clicia 'Ffeil' ac 'Arbed nawr' i gadw dy brosiect.
+--- /task ---
 
-![screenshot](images/band-save.png)
+--- task ---
 
-(Os nad oes gen ti gyfrif Scratch, galli di arbed copi o dy brosiect trwy ddewis 'Llwytho i'r cyfrifiadur' yn lle).
+Clicia a llusga'r drwm i waelod y Llwyfan.
+
+--- /task ---
+
+--- task --- Rho enw i dy brosiect, gan deipio un i’r blwch testun ar y top.
+
+![enw](images/band-name-annotated.png)
+
+Clicia **Ffeil** ac **Arbed nawr** i gadw dy brosiect.
+
+Os nad wyt ti arlein neu os nad oes gen ti gyfrif Scratch, mae modd arbed dy brosiect trwy glicio **Llwytho i’r cyfrifiadur** yn lle.
+
+![sgrinlun](images/band-save.png) --- /task ---
