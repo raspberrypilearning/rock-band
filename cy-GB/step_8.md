@@ -18,7 +18,7 @@ Yn ogystal â chorluniau sy'n bodoli yn barod, mae modd i ti baentio rhai dy hun
 
 ![sgrinlun](images/band-draw.png)
 
----collapse---
+--- collapse ---
 
 ## title: Pam bod fy nghorlun yn 'neidio' pan mae'n newid gwisg?
 
