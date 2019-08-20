@@ -1,12 +1,12 @@
 ## Eine Trommel machen
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+Jetzt wirst du ein Skript zu deiner Trommel hinzufügen, so dass die Trommel ein Geräusch macht wenn sie angeklickt wird.
 
 Du findest die Codeblöcke auf der Registerkarte "Skripte" und sie sind alle farbcodiert!
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+Füge zuerst die **Musik** Erweiterung hinzu damit du Instrumente spielen kannst.
 
 Klicken Sie auf die Schaltfläche **Erweiterung hinzufügen** in der unteren linken Ecke.
 
@@ -14,11 +14,11 @@ Klicken Sie auf die Schaltfläche **Erweiterung hinzufügen** in der unteren lin
 
 Klicken Sie auf die Erweiterung **Musik**, um sie hinzuzufügen.
 
-![music extension highlighted](images/click-music-annotated.png)
+![Musik Erweiterung hervorgehoben](images/click-music-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- task \--- Klicke auf die Trommel-Figur und ziehe dann diese beiden Blöcke in den Code-Bereich rechts:
 
 \--- no-print \---
 
@@ -29,14 +29,14 @@ Klicken Sie auf die Erweiterung **Musik**, um sie hinzuzufügen.
 \--- print-only \---
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+Wenn diese Figur angeklickt wird
+spiele Schlaginstrument (\(1\) Snare Drum v) für (0.25) Schläge
 ```
 
 \--- /print-only \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Achte darauf, dass die Blöcke miteinander verbunden sind (wie LEGO Steine).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- Klicke auf die Trommel, um dein neues Instrument auszuprobieren! \--- /task \---
