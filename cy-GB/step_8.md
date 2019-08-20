@@ -19,9 +19,9 @@ Yn ogystal â chorluniau sy'n bodoli yn barod, mae modd i ti baentio rhai dy hun
 ![sgrinlun](images/band-draw.png)
 
 --- collapse ---
-
-## title: Pam bod fy nghorlun yn 'neidio' pan mae'n newid gwisg?
-
+---
+title: Pam bod fy nghorlun yn 'neidio' pan mae'n newid gwisg?
+---
 Pan wyt ti'n creu dy gorlun dy hunan, mae'n bosib nei di weld pan wyt ti'n clicio'r corlun ei fod yn 'neidio' o gwmpas wrth iddo newid gwisg. Mae hyn gan nad yw'r ddau wisg wedi eu canoli yn yr un lle.
 
 I ddatrys hyn, gwna'n siwr fod canolbwynt gwisg dy gorlun yr un peth.
