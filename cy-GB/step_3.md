@@ -1,15 +1,15 @@
 ## Y Llwyfan
 
-Y __llwyfan__ yw'r ardal ar y chwith, a lle bydd dy brosiect yn dod yn fyw. Meddylia amdano fel ardal berfformio, yn union fel llwyfan go iawn!
+Y **Llwyfan** yw’r ardal ar y dde lle bydd dy brosiect yn dod yn fyw. Meddylia amdano fel ardal berfformio, yn union fel llwyfan go iawn!
 
-+ Ar hyn o bryd, mae'r llwyfan yn wyn ac yn edrych yn eithaf diflas! Beth am ychwanegu cefndir i'r llwyfan, gan ddewis 'Dewis cefndir o'r rhestr'
+--- task --- Ar hyn o bryd, mae’r llwyfan yn wyn ac yn edrych yn ddiflas! Beth am ychwanegu cefnlen i’r llwyfan, gan ddewis **Dewiswch gefnlen**.
 
-	![screenshot](images/band-stage-choose.png)
+![sgrinlun](images/band-stage-choose.png) --- /task ---
 
-+ Dewisa 'Dan Do' ar y chwith, yna dewisa gefndir llwyfan a gwasga 'Iawn'.
+--- task --- Clicia **Dan Do** ar y top, yna clicia gefnlen theatr.
 
-	![screenshot](images/band-backdrop.png)
+![sgrinlun](images/band-backdrop.png) --- /task ---
 
-+ Fe ddylai dy lwyfan nawr edrych fel hyn:
+--- task --- Fe ddylai dy lwyfan edrych yn debyg i hyn:
 
-	![screenshot](images/band-stage.png)
+![sgrinlun](images/band-stage.png) --- /task ---

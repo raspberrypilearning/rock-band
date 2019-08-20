@@ -1,21 +1,34 @@
-## Gwneud Canwr
+## Creu canwr
 
-Ewn ati i ychwanegu canwr i dy fand!
+Rwyt ti nawr am ychwanegu canwr i dy fand!
 
-+ Ychwanega 2 giplun arall i dy lwyfan; canwr a meicraffon.
+--- task ---
 
-	![screenshot](images/band-singer-mic.png)
+Ychwanega gorlun canwr i dy Lwyfan.
 
-+ Cyn i ti allu wneud i dy ganwr ganu, bydd angen i ti ychwanegu sain i dy giplun.  Gwna yn siwr dy fod wedi dewis dy ganwr, yna clicia ar y tab 'Seiniau' a clicia 'Dewiswch sain o'r rhestr'.
+![sgrinlun](images/band-singer-mic.png)
 
-	![screenshot](images/band-import-sound.png)
+[[[generic-scratch3-sprite-from-library]]]
 
-+ Os wnei di ddewis 'Lleisiau' o'r ochr chwith, bydd modd i ti ddewis sain perthnasol i ychwanegu i'r ciplun.
+--- /task ---
 
-	![screenshot](images/band-choose-sound.png)
+--- task ---
 
-+ Nawr bod y sain wedi ychwanegu, galli di ychwanegu'r côd yma i'r canwr:
+Cyn i ti allu wneud i dy ganwr ganu, bydd angen i ti ychwanegu sain i dy gorlun. Gwna'n siwr dy fod wedi dewis dy ganwr, yna clicia ar y tab Seiniau a **Dewis Sain**:
 
-	![screenshot](images/band-sprite-singer.png)
+![sgrinlun](images/band-import-sound-annotated.png) --- /task ---
 
-+ Clicia ar dy ganwr, i sicrhau ei bod yn canu pan wyt ti'n clicio.
+--- task --- Clicia **Llais** ar y top, yna dewisa sain i ychwanegu i dy gorlun.
+
+![sgrinlun](images/band-choose-sound.png) --- /task ---
+
+--- task --- I ddefnyddio'r sain, ychwanega'r blociau canlynol i gorlun y canwr:
+
+```blocks3
+pan gaiff y ciplun yma ei glicio
+chwarae sain (Singer1 v) tan y diwedd
+```
+
+--- /task ---
+
+--- task --- Clicia dy ganwr ar y llwyfan a gweld beth sy'n digwydd. Ydy hi'n canu? --- /task ---
