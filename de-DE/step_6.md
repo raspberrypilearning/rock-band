@@ -1,10 +1,10 @@
 ## Einen Sänger machen
 
-Now you will add a singer to your band!
+Jetzt wirst du eine Sängerin zu deiner Band hinzufügen!
 
 \--- task \---
 
-Add a singer sprite to your Stage.
+Füge eine Sängerin-Figur zu deiner Bühne hinzu.
 
 ![Screenshot](images/band-singer-mic.png)
 
@@ -14,21 +14,21 @@ Add a singer sprite to your Stage.
 
 \--- task \---
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+Bevor du deine Sängerin zum Singen bringen kannst, musst du deiner Figur einen Klang hinzufügen. Vergewissere dich, dass du deine Sängerin ausgewählt hast, klicke dann auf die Registerkarte Klänge, und klicke dann auf **Klang wählen**:
 
 ![Screenshot](images/band-import-sound-annotated.png) \--- /task \---
 
-\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+\--- task \--- Klicke oben in der Liste auf **Stimmen** und wähle dann ein Geräusch um es deiner Figur hinzuzufügen.
 
 ![Screenshot](images/band-choose-sound.png) \--- /task \---
 
-\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+\--- task \--- Um den Klang zu verwenden füge die folgenden Codeblöcke zu deiner Sängerinen Figur hinzu:
 
 ```blocks3
-when this sprite clicked
-play sound (singer1 v) until done
+Wenn diese Figur angeklickt wird
+spiele Klang (singer1 v) ganz
 ```
 
 \--- /task \---
 
-\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
+\--- task \--- Klicke auf die Sängerin auf der Bühne und schau was passiert. Singt sie? \--- /task \---
