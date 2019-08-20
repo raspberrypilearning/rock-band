@@ -14,7 +14,7 @@ Clicia'r botwm **Ychwanegu Estyniad** yng ngwaelod-chwith y dudalen.
 
 Clicia'r estyniad **Cerddoriaeth** i'w ychwanegu.
 
-![music extension highlighted](images/click-music-annotated.png)
+![estyniad cerddoriaeth wedi uwcholeuo](images/click-music-annotated.png)
 
 \--- /task \---
 
