@@ -1,15 +1,15 @@
 ## Die Bühne
 
-The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+Die **Bühne** ist der Bereich auf der rechten Seite, und dort wird dein Projekt zum Leben erweckt. Betrachte es als den Bereich des Auftritts, genau wie eine echte Bühne!
 
-\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+\--- task \--- Momentan ist die Bühne weiß und sieht ziemlich langweilig aus! Füge ein Bühnenbild hinzu, indem du auf **Bühnenbild wählen** klickst.
 
 ![screenshot](images/band-stage-choose.png) \--- /task \---
 
-\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+\--- task \--- Klicke auf **Innenräume** in der Liste oben. Klicken Sie dann auf ein Theater-Bild.
 
 ![Screenshot](images/band-backdrop.png) \--- /task \---
 
-\--- task \--- Your stage should now look similar to this:
+\--- task \--- Deine Bühne sollte nun so ähnlich aussehen wie das hier:
 
 ![Screenshot](images/band-stage.png) \--- /task \---
