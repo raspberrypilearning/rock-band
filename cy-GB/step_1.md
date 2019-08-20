@@ -26,9 +26,9 @@ Dysga sut i godio offerynnau cerddorol!
 
 ## title: Yr hyn byddi di'n ei ddysgu
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ Defnyddio côd i newid gwisg ciplun yn Scratch
++ Defnyddio côd i wneud i’r cipluniau ymateb i fewnbwn yn Scratch
++ Ychwanegu synau at y ciplun yn Scratch
 
 ## \---collapse\---
 
