@@ -2,25 +2,25 @@
 
 Bevor du mit dem Programmieren beginnen kannst, musst du ein "Ding" zum Programmieren hinzufügen. In Scratch heißen diese "Dinge" **Figur**.
 
-\--- task \--- Open a new Scratch project.
+\--- task \--- Öffne ein neues Scratch-Projekt.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**Online:** öffne ein neues Online-Scratch-Projekt über [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Offline:** öffne ein neues Projekt im Offline-Editor.
 
 Wenn du Scratch herunterladen und auf deinem Rechner installieren möchtest, dann findest du die Datei unter diesem Link: [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 Es sieht so aus:
 
-![Screenshot](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![Screenshot](images/band-scratch.png) \--- /task \--- \--- task \--- Die Katzen-Figur die du siehst ist das Scratch-Maskottchen. Du brauchst sie für dieses Spiel nicht, also entferne sie indem du mit der rechten Maustaste draufklickst und dann auf **Löschen** klickst.
 
 ![Screenshot](images/band-delete-annotated.png) \--- /task \---
 
-\--- task \--- Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+\--- task \--- Als Nächstes klicke auf **Figur aus der Bibliothek wählen** um eine Liste aller Scratch-Figuren zu öffnen.
 
 ![screenshot](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+\--- task \--- Scrolle nach unten, bis du die Trommeln siehst. Klicke auf eine Trommel um sie deinem Projekt hinzuzufügen.
 
 ![screenshot](images/band-sprite-drum.png)
 
@@ -28,16 +28,16 @@ Es sieht so aus:
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+Klicke auf die Trommel und ziehe sie an den unteren Rand der Bühne.
 
 \--- /task \---
 
-\--- task \--- Give your program a name by typing into the text box at the top.
+\--- task \--- Gebe deinem Projekt einen Namen, indem du ihn in das Textfeld oben eingibst.
 
 ![name](images/band-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+Um dein Projekt zu speichern, klickst du auf **Datei** und dann auf **Jetzt speichern**.
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+Wenn du nicht online bist oder kein Scratch-Konto hast, kannst du eine Kopie deines Projekts speichern, indem du auf **Herunterladen auf deinen Computer** klickst.
 
 ![Screenshot](images/band-save.png) \--- /task \---
