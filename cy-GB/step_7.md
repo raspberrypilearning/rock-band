@@ -6,6 +6,7 @@ Nawr rwyt ti am wneud i dy ganwr edrych fel ei bod yn canu!
 
 ![sgrinlun](images/band-singer-costume-annotated.png) --- /task ---
 
+--- task ---
 Dewisa clic-dde ar y wisg, a clicia **dyblygu** i greu copi o’r wisg.
 
 ![sgrinlun](images/band-singer-duplicate.png) --- /task ---
@@ -18,6 +19,7 @@ Dewisa clic-dde ar y wisg, a clicia **dyblygu** i greu copi o’r wisg.
 
 ![sgrinlun](images/band-singer-name-annotated.png) --- /task ---
 
+--- task ---
 Nawr bod gyda ti ddau wisg gwahanol i dy ganwr, galli di ddewis pa wisg sydd yn cael ei arddangos! Ychwanega y ddau floc yma i gorlun dy ganwr:
 
 ```blocks3
