@@ -14,7 +14,7 @@ Klik op de knop **Voeg een uitbreiding toe** in de linkerbenedenhoek.
 
 Klik op de **Muziek** uitbreiding om het toe te voegen.
 
-![music extension highlighted](images/click-music-annotated.png)
+![muziekuitbreiding gemarkeerd](images/click-music-annotated.png)
 
 \--- /task \---
 
