@@ -54,6 +54,6 @@
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+يمكنك ايجاد [المشروع كامل هنا](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
