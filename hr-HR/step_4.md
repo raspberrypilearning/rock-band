@@ -14,7 +14,7 @@ Klikni na gumb **Dodaj proširenje** u donjem lijevom kutu.
 
 Klikni na proširenje **Glazba**.
 
-![music extension highlighted](images/click-music-annotated.png)
+![istaknuto proširenje za glazbu](images/click-music-annotated.png)
 
 \--- /task \---
 
