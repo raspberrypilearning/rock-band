@@ -10,11 +10,11 @@ Najpierw włącz dodatek **Muzyka**, żeby móc grać na instrumentach.
 
 Kliknij na przycisk **Dodaj rozszerzenie** w lewym dolnym rogu.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![podświetlony przycisk Dodaj rozszerzenie](images/add-extension-annotated.png)
 
 Kliknij na opcję **Muzyka**, żeby dodać to rozszerzenie.
 
-![music extension highlighted](images/click-music-annotated.png)
+![podświetlone rozszerzenie muzyki](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -29,8 +29,8 @@ Kliknij na opcję **Muzyka**, żeby dodać to rozszerzenie.
 \--- print-only \---
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+kiedy duszek kliknięty
+graj na bębenku (\(1\) Bębenek v) przez (0.25) uderzeń
 ```
 
 \--- /print-only \---
