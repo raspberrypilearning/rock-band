@@ -6,15 +6,15 @@
 
 \--- task \---
 
-먼저 악기를 재생할 수 있는 **음악** 확장명을 추가 합니다.
+먼저 악기를 재생할 수 있는 **음악** 확장 기능을 추가 합니다.
 
 왼쪽 하단에 **추가 확장** 버튼을 클릭 하십시오.
 
 ![강조된 확장 버튼 추가합니다](images/add-extension-annotated.png)
 
-**음악** 확장 추가를 하기 위해서 클릭 하십시오.
+**음악** 확장 기능을 추가를 하기 위해서 클릭 하십시오.
 
-![music extension highlighted](images/click-music-annotated.png)
+![강조된 음악 확장](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -30,7 +30,7 @@
 
 ```blocks3
 이 스프라이트를 클릭 하면
-재생 드럼 (\(1\) Snare Drum v) (0.25) 박동
+드럼 (\(1\) Snare Drum v) (0.25) 박동을 재생하기
 ```
 
 \--- /print-only \---
@@ -39,4 +39,4 @@
 
 \--- /task \---
 
-\--- task \--- 드럼을 클릭하여 새 악기를 사용해보십시오! \--- / task \---
+\--- task \--- 여러분이 만든 새 악기가 어떤 소리를 내는지 드럼을 클릭해 봅시다! \--- / task \---
