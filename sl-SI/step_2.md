@@ -38,6 +38,6 @@ Klikni na boben in ga povleci na spodnjo stran odra.
 
 Nato klikni **Datoteka** in **Shrani zdaj**, da shraniš svoj projekt.
 
-Če niste na spletu ali nimate računa za zapis, lahko kopijo projekta shranite s klikom na **Shrani v računalnik**.
+Če nisi povezan s spletom ali nimaš Scratch računa, lahko kopijo projekta shraniš s klikom na **Shrani na računalnik**.
 
-![posnetek zaslona](images/band-save.png) \--- / naloga \---
+![posnetek zaslona](images/band-save.png) \--- /task \---
