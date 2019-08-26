@@ -1,14 +1,14 @@
-## Sprites
+## Figure
 
-Preden lahko začnete s kodiranjem, morate v kodo dodati »stvar«. V Scratchu se te stvari imenujejo **sprites**.
+Preden lahko začneš s programiranjem, moraš v kodo dodati neko 'stvar'. V Scratchu se takšne 'stvari' imenujejo **figure**.
 
-\--- naloga \--- Odprite nov projekt Scratch.
+\--- task \--- Odprite nov Scratch projekt.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**S povezavo:** odpri nov spletni Scratch projekt na [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-**Offline:** odprite nov projekt v urejevalniku brez povezave.
+**Brez povezave:** odprite nov projekt v namiznem Scratch urejevalniku.
 
-Če želite prenesti in namestiti urejevalnik brez povezave Scratch, ga lahko najdete na [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"}.
+Če želiš prenesti in namestiti Namizni Scratch, ga lahko najdeš na [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"}.
 
 Izgleda takole:
 
