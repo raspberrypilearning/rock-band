@@ -8,26 +8,26 @@ To je **Scratch 3** različica projekta. Obstaja tudi [Scratch 2](https://projec
 
 Nauči se programirati svoje lastne glasbene instrumente!
 
-### Kaj boš ustvaril
+### Kaj boš ustvaril?
 
-\--- no-print \--- Za začetek klikni na zeleno zastavo. Nato klikni na pevko ali boben, da bi slišal kako zvenita.
+\--- no-print \--- Za začetek klikni na zeleno zastavo. Nato klikni na pevko ali boben, da bi slišal, kako zvenita.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-\--- / brez natisa \---
+\--- /no-print \---
 
-\--- samo za tiskanje \--- Izdelali boste igro, kjer lahko kliknete na pevca ali boben, če želite slišati petje ali zvoke bobna.
+\--- print-only \--- Izdelal boš igro, v kateri lahko klikneš na pevko ali na boben, da bi slišal petje ali zvok bobna.
 
-![posnetek igre](images/demo.png) \--- / samo za tiskanje \---
+![posnetek igre](images/demo.png) \--- /print-only \---
 
-## \--- kolaps \---
+## \--- collapse \---
 
-## naslov: Kaj se boste naučili
+## title: Kaj se boš naučil?
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
++ Uporabljati kodo, za spreminjanje videza figure v Scratchu
++ Uporabljati kodo na tak način, da se figure v Scratchu odzovejo na uporabnikov vnos
 + Add sounds to a sprite in Scratch \--- /collapse \---
 
 ## \--- kolaps \---
