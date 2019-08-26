@@ -16,27 +16,27 @@ To je videti tako:
 
 ![posnetek zaslona](images/band-delete-annotated.png) \--- /task \---
 
-\--- naloga \--- Nato kliknite **Izberite sprite iz knjižnice** da odprete seznam vseh Scratch sprites.
+\--- task \--- Sedaj klikni na **Izberi figuro**, da odpreš seznam vseh Scratch figur.
 
-![posnetek zaslona](images/band-sprite-library.png) \--- / naloga \---
+![posnetek zaslona](images/band-sprite-library.png) \--- /task \---
 
-\--- naloga \--- Pomaknite se navzdol, dokler ne vidite žrela. Kliknite boben, da ga dodate projektu.
+\--- task \--- Pomakni se navzdol, dokler ne najdeš bobna. Klikni nanj, da ga dodaš v svoj projekt.
 
 ![posnetek zaslona](images/band-sprite-drum.png)
 
-\--- / naloga \---
+\--- /task \---
 
-\--- naloga \---
+\--- task \---
 
-Kliknite in povlecite boben na dno stopnje.
+Klikni na boben in ga povleci na spodnjo stran odra.
 
-\--- / naloga \---
+\--- /task \---
 
-\--- task \--- Give your program a name by typing into the text box at the top.
+\--- task \--- Poimenuj svoj program, tako da vneseš njegovo ime v polje na vrhu.
 
 ![ime](images/band-name-annotated.png)
 
-Nato kliknite **Datoteka**in nato **Shrani zdaj** da shranite projekt.
+Nato klikni **Datoteka** in **Shrani zdaj**, da shraniš svoj projekt.
 
 Če niste na spletu ali nimate računa za zapis, lahko kopijo projekta shranite s klikom na **Shrani v računalnik**.
 
