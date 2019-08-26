@@ -1,16 +1,16 @@
-\--- brez tiskanja \---
+\--- no-print \---
 
-To je različica projekta **Scratch 3** . Obstaja tudi različica projekta [Scratch 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+To je **Scratch 3** različica projekta. Obstaja tudi [Scratch 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) različica projekta.
 
-\--- / brez natisa \---
+\--- /no-print \---
 
 ## Uvod
 
-Naučite se kodirati svoje glasbene instrumente!
+Nauči se programirati svoje lastne glasbene instrumente!
 
-### Kaj boš naredil
+### Kaj boš ustvaril
 
-\--- no-print \--- Za začetek kliknite zeleno zastavo. Nato kliknite pevec ali boben in slišite, kako zvenijo.
+\--- no-print \--- Za začetek klikni na zeleno zastavo. Nato klikni na pevko ali boben, da bi slišal kako zvenita.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
