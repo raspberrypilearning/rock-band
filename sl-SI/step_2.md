@@ -10,11 +10,11 @@ Preden lahko začneš s programiranjem, moraš v kodo dodati neko 'stvar'. V Scr
 
 Če želiš prenesti in namestiti Namizni Scratch, ga lahko najdeš na [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"}.
 
-Izgleda takole:
+To je videti tako:
 
-![posnetek zaslona](images/band-scratch.png) \--- / naloga \--- \--- opravilo \--- Mačka sprite, ki jo lahko vidite, je maskota Scratch. Za to igro je ne potrebujete, zato se znebite tako, da jo kliknete z desnim klikom in nato kliknete na **izbriši**.
+![posnetek zaslona](images/band-scratch.png) \--- /task \--- \--- task \--- Figura mačke je maskota Scratcha. Za to igro je ne potrebuješ, zato se je znebi z desnim klikom na figuro, potem pa klikni še na **>izbriši**.
 
-![posnetek zaslona](images/band-delete-annotated.png) \--- / naloga \---
+![posnetek zaslona](images/band-delete-annotated.png) \--- /task \---
 
 \--- naloga \--- Nato kliknite **Izberite sprite iz knjižnice** da odprete seznam vseh Scratch sprites.
 
