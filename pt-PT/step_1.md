@@ -20,7 +20,7 @@ Aprende a codificar os teus próprios instrumentos musicais!
 
 \--- print-only \--- Vais fazer um jogo onde podes clicar no cantor ou no tambor para ouvir sons de canto ou bateria.
 
-![game screenshot](images/demo.png) \--- /print-only \---
+![captura de ecrã do jogo](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
@@ -50,10 +50,10 @@ Aprende a codificar os teus próprios instrumentos musicais!
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Se for necessário imprimir este projeto, por favor, usa a [versão para impressão](https://projects.raspberrypi.org/en/projects/rock-band/print){: target = "_ blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+Podes encontrar o [projeto concluído aqui](http://rpf.io/p/en/rock-band-get){: target = "_ blank.
 
 \--- /collapse \---
