@@ -10,11 +10,11 @@ Najprej dodajte razširitev **Music** , da lahko predvajate instrumente.
 
 Kliknite na gumb **Dodaj razširitev** v spodnjem levem kotu.
 
-![označite gumb za razširitev](images/add-extension-annotated.png)
+![označen je gumb za razširitev](images/add-extension-annotated.png)
 
 Kliknite razširitev **Glasba** da jo dodate.
 
-![music extension highlighted](images/click-music-annotated.png)
+![označena je zvočna razširitev](images/click-music-annotated.png)
 
 \--- / naloga \---
 
