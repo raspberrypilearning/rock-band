@@ -1,15 +1,15 @@
-## Faza
+## Oder
 
-**stopnja** je območje na desni, kjer je vaš projekt oživljen. Razmislite o tem kot o območju uspešnosti, prav tako kot prava faza!
+**Oder** je področje na desni strani, kjer tvoj projekt oživi. O njemu razmišljaj, kot o površini za nastopanje, kakor pri pravem odru!
 
-\--- naloga \--- Trenutno je oder bel in izgleda precej dolgočasno! Dodajte ozadje, tako da kliknete na **Izberite ozadje**.
+\--- task \--- Trenutno je oder bel in izgleda precej dolgočasno! Dodaj mu ozadje s klikom na **Izberi ozadje**.
 
-![posnetek zaslona](images/band-stage-choose.png) \--- / naloga \---
+![posnetek zaslona](images/band-stage-choose.png) \--- /task \---
 
-\--- naloga \--- Kliknite na **zaprtem prostoru** na seznamu na vrhu. Nato kliknite na gledališko ozadje.
+\--- task \--- Na vrhu seznama izberi **Notranjost**, potem pa klikni na sliko gledališča.
 
-![posnetek zaslona](images/band-backdrop.png) \--- / naloga \---
+![posnetek zaslona](images/band-backdrop.png) \--- /task \---
 
-\--- naloga \--- Vaša faza naj bi bila zdaj podobna:
+\--- task \--- Tvoj oder bi sedaj moral biti podoben temu:
 
-![posnetek zaslona](images/band-stage.png) \--- / naloga \---
+![posnetek zaslona](images/band-stage.png) \--- /task \---
