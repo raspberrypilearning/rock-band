@@ -1,18 +1,18 @@
 ---
-hero_image: slike / hero-rock-band-large.png
+hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
 title: Rock skupina
-description: Več o kodiranju lastnih glasbenih instrumentov
+description: Naučite se programirati lastna glasbila
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
     title: Uvod
   - 
-    title: Sprites
+    title: Figure
   - 
-    title: Faza
+    title: Oder
   - 
     title: Izdelava bobna
   - 
