@@ -1,15 +1,15 @@
-## Izziv: izboljšanje bobna
+## Izziv: izboljšaj svoj boben
 
-Ali lahko spremenite zvok, ki ga ustvari boben, ko ga kliknete?
+Ali lahko spremeniš zvok, ki ga ustvari boben, ko nanj klikneš?
 
 ![posnetek zaslona](images/band-drum-sound.png)
 
-Ali lahko dobite tudi boben za zvok, ko pritisnete preslednico? To blokado `dogodka`{: class = "block3events"} morate uporabiti:
+Ali lahko dosežeš, da boben ustvari zvok, ko pritisneš preslednico? Uporabiti boš moral ta blok{: class = "block3events"} iz kategorije `Dogodki`:
 
 ```blocks3
-ko pritisnete tipko [space v]
+ko je pritisnjena tipka [presledek v]
 ```
 
-Če želite kopirati obstoječo kodo, desno kliknite nanj in nato kliknite na **dvojniku**.
+Če želiš kopirati svojo obstoječo kodo, najnjo klikni z desno tipko in nato izberi na **Podvoji**.
 
 ![posnetek zaslona](images/band-duplicate-code.png)
