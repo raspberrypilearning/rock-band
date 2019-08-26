@@ -1,32 +1,32 @@
 ## Izdelava bobna
 
-Sedaj boste dodali kodo na svoj boben, tako da boben ustvari zvok, ko ga kliknete.
+Sedaj boš svojemu bobnu dodal kodo, tako da bo boben ustvaril zvok, ko klikneš nanj.
 
-V zavihku Scripts lahko najdete kodne bloke in vsi so barvno kodirani!
+V zavihku Koda lahko najdeš programske bloke, ki so vsi barvno označeni!
 
-\--- naloga \---
+\--- task \---
 
 Najprej dodajte razširitev **Music** , da lahko predvajate instrumente.
 
-Kliknite na gumb **Dodaj razširitev** v spodnjem levem kotu.
+Klikni na gumb **Dodaj razširitev** v spodnjem levem kotu.
 
 ![označen je gumb za razširitev](images/add-extension-annotated.png)
 
-Kliknite razširitev **Glasba** da jo dodate.
+Klikni na razširitev **Glasba**, da jo dodaš.
 
 ![označena je zvočna razširitev](images/click-music-annotated.png)
 
-\--- / naloga \---
+\--- /task \---
 
-\--- naloga \--- Kliknite na žganje bobna in ta dva bloka povlecite v območje kode na desni:
+\--- task \--- Klikni na figuro bobna in potem povleci ta dva bloka v območje za programiranje na desni:
 
-\--- brez tiskanja \---
+\--- no-print \---
 
 ![posnetek zaslona](images/connect-block.gif)
 
-\--- / brez natisa \---
+\--- /no-print \---
 
-\--- samo za tiskanje \---
+\--- print-only \---
 
 ```blocks3
 ko je ta geslo kliknilo
