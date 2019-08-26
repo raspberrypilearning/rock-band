@@ -33,10 +33,10 @@ ko je ta geslo kliknilo
 predvajaj boben (1. Snare Drum v) za (0,25) utripov
 ```
 
-\--- / samo za tiskanje \---
+\--- /print-only \---
 
-Prepričajte se, da so bloki povezani skupaj (kot LEGO opeke).
+Prepričaj se, da so bloki res povezani (kot LEGO kocke).
 
-\--- / naloga \---
+\--- /task \---
 
-\--- naloga \--- Kliknite na boben in preizkusite svoj novi instrument! \--- / naloga \---
+\--- task \--- Klikni na boben in preizkusi svoj novi instrument! \--- /task \---
