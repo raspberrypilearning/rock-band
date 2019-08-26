@@ -20,7 +20,7 @@ Nauči se programirati svoje lastne glasbene instrumente!
 
 \--- print-only \--- Izdelal boš igro, v kateri lahko klikneš na pevko ali na boben, da bi slišal petje ali zvok bobna.
 
-![posnetek igre](images/demo.png) \--- /print-only \---
+![posnetek zaslona igre](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
@@ -28,11 +28,11 @@ Nauči se programirati svoje lastne glasbene instrumente!
 
 + Uporabljati kodo, za spreminjanje videza figure v Scratchu
 + Uporabljati kodo na tak način, da se figure v Scratchu odzovejo na uporabnikov vnos
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ Dodajati zvoke figuram v Scratchu
 
-## \--- kolaps \---
+## \--- collapse \---
 
-## naslov: Kaj boste potrebovali
+## title: Kaj boš potreboval?
 
 #### Strojna oprema
 
@@ -40,20 +40,20 @@ Nauči se programirati svoje lastne glasbene instrumente!
 
 #### Programska oprema
 
-+ Scratch 3 ( [spletu](http://rpf.io/scratchon){: target = "_ blank"} ali [brez povezave](http://rpf.io/scratchoff){: target = "_ blank"})
++ Scratch 3 (bodisi [na spletu](http://rpf.io/scratchon) {:target = "_blank"} ali [brez povezave](http://rpf.io/scratchoff){:target = "_blank"})
 
-\--- / strni \---
+\--- /collapse \---
 
-## \--- kolaps \---
+## \--- collapse \---
 
-## naslov: Dodatne informacije za učitelje
+## title: Dodatne informacije za izobraževalce
 
 \--- brez tiskanja \---
 
-Če želite natisniti ta projekt, uporabite [tiskalniku prijazno različico](https://projects.raspberrypi.org/en/projects/rock-band/print){: target = "_ blank"}.
+Če želite natisniti ta projekt, uporabite [tiskalniku prijazno različico](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
-\--- / brez natisa \---
+\--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+Zaključen projekt lahko najdete [tukaj](http://rpf.io/p/en/rock-band-get).
 
-\--- / strni \---
+\--- /collapse \---
