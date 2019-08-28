@@ -12,15 +12,15 @@ Scratchオフラインエディタをダウンロードしてインストール�
 
 このような感じになります。
 
-![スクリーンショット](images/band-scratch.png) \--- /task \--- \--- task \--- 見えている猫のスプライトは、Scratchのマスコットです。このゲームには必要ないので、右クリックして**削除**をクリックして削除します。
+![スクリーンショット](images/band-scratch.png) \--- /task \--- \--- task \--- 見えている猫のスプライトは、Scratchマスコットです。このゲームには必要ないので、右クリックして**削除**をクリックして削除します。
 
 ![スクリーンショット](images/band-delete-annotated.png) \--- /task \---
 
-\--- task \--- Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+\--- task \--- 次に、すべてのScratchスプライトのリストを開くために**ライブラリからスプライトを選択する**をクリックします。
 
 ![スクリーンショット](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+\--- task \--- ドラムスプライトが表示されるまで下にスクロールします。ドラムをクリックして、プロジェクトに追加します。
 
 ![スクリーンショット](images/band-sprite-drum.png)
 
@@ -28,15 +28,15 @@ Scratchオフラインエディタをダウンロードしてインストール�
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+ドラムをクリックしてステージの下部までドラッグします。
 
 \--- /task \---
 
-\--- task \--- Give your program a name by typing into the text box at the top.
+\--- task \--- 上部のテキストボックスに入力して、プログラムに名前を付けます。
 
 ![name](images/band-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+**ファイル** をクリックし、**今すぐ保存**をクリックするとプロジェクトを保存することができます。
 
 If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
 
