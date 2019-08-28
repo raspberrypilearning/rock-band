@@ -6,7 +6,7 @@ Sedaj boste v svoj bend dodali pevko!
 
 Na oder dodaj figuro pevke.
 
-![screenshot](images/band-singer-mic.png)
+![posnetek zaslona](images/band-singer-mic.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -22,13 +22,13 @@ Preden bo tvoja pevka lahko pela, moraš figuri pevke dodati zvok. Prepričaj se
 
 ![posnetek zaslona](images/band-choose-sound.png) \--- /task \---
 
-\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+\--- task \--- Da bi zvok uporabil, svoji pevki dodaj naslednje bloke kode:
 
 ```blocks3
-ko je ta geslo kliknilo
-predvajaj zvok (pevec1 v), dokler ni končal
+ko kliknemo to figuro
+predvajaj zvok (pevec1 v) do konca
 ```
 
-\--- / naloga \---
+\--- /task \---
 
-\--- naloga \--- Kliknite na svojega pevca na odru in poglejte, kaj se zgodi. Ali poje? \--- / naloga \---
+\--- task \--- Klikni na pevko, ki je na odru in opazuje, kaj se zgodi. Ali poje? \--- /task \---
