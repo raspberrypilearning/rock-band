@@ -20,7 +20,7 @@
 
 \--- print-only \--- 歌手またはドラムをクリックして歌やドラムの音を聞くことができるゲームを作成します。
 
-![game screenshot](images/demo.png) \--- /print-only \---
+![ゲームのスクリーンショット](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
@@ -36,17 +36,17 @@
 
 #### ハードウェア
 
-+ Scratch 3を実行できるコンピュータ
++ スクラッチ3を実行できるコンピュータ
 
 #### ソフトウェア
 
-+ Scratch 3 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
++ スクラッチ3 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title：教育者向けの追加情報
 
 \--- no-print \---
 
@@ -54,6 +54,6 @@
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+[ここで完成したプロジェクト](http://rpf.io/p/en/rock-band-get)を見ることができます 。
 
 \--- /collapse \---
