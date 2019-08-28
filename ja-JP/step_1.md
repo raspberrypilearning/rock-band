@@ -18,17 +18,17 @@
 
 \--- /no-print \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\--- print-only \--- 歌手またはドラムをクリックして歌やドラムの音を聞くことができるゲームを作成します。
 
 ![game screenshot](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: 学習すること
+## title: あなたが学ぶこと
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ スクラッチでコードを使用してスプライトのコスチュームを変更する
++ スクラッチでコードを使用してスプライトを入力に反応させる
++ スクラッチでスプライトにサウンドを追加する \--- / collapse \---
 
 ## \--- collapse \---
 
