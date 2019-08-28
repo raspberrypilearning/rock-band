@@ -1,6 +1,6 @@
 \--- no-print \---
 
-これは、このプロジェクトの**スクラッチ3**バージョンです。このプロジェクトの[ Scratch 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) バージョンもあります。
+これは、このプロジェクトの**Scratch 3**バージョンです。このプロジェクトの[ Scratch 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) バージョンもあります。
 
 \--- /no-print \---
 
@@ -26,9 +26,9 @@
 
 ## title: あなたが学ぶこと
 
-+ スクラッチでコードを使用してスプライトのコスチュームを変更する
-+ スクラッチでコードを使用してスプライトを入力に反応させる
-+ スクラッチでスプライトにサウンドを追加する \--- / collapse \---
++ Scratchでコードを使用してスプライトのコスチュームを変更する
++ Scratchでコードを使用してスプライトを入力に反応させる
++ Scratchでスプライトにサウンドを追加する \--- / collapse \---
 
 ## \--- collapse \---
 
@@ -36,11 +36,11 @@
 
 #### ハードウェア
 
-+ スクラッチ3を実行できるコンピュータ
++ Scratch 3を実行できるコンピュータ
 
 #### ソフトウェア
 
-+ スクラッチ3 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
