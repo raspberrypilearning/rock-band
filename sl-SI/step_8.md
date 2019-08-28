@@ -5,12 +5,12 @@ Uporabi to, kar si se naučil v tem proektu, da ustvariš svojo lastno glasbeno 
 ![posnetek zaslona](images/band-ideas-sounds.png)
 
 ```blocks3
-ko to sprite kliknili
-nastavljeno instrument (\ (1 \) Piano v)
-play opomba (60) za (0,25) bije
+ko kliknemo na to figuro
+nastavi inštrument na (\ (1 \) Klavir v)
+predvajaj noto (60) za (0,25) udarcev
 ```
 
-Vaši instrumenti pa niso nujno realistični. Na primer, lahko naredite klavir iz kolački!
+Tvoji instrumenti so lahko tudi izmišljeni. Lahko denimo ustvariš klavir iz kolačkov!
 
 ![posnetek zaslona](images/band-piano.png)
 
