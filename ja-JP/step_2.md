@@ -34,10 +34,10 @@ Scratchオフラインエディタをダウンロードしてインストール�
 
 \--- task \--- 上部のテキストボックスに入力して、プログラムに名前を付けます。
 
-![name](images/band-name-annotated.png)
+![名前](images/band-name-annotated.png)
 
 **ファイル** をクリックし、**今すぐ保存**をクリックするとプロジェクトを保存することができます。
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+オンラインでない場合、またはスクラッチアカウントを持っていない場合は、代わりに**コンピューターに保存**をクリックしてプロジェクトのコピーを保存できます。
 
 ![スクリーンショット](images/band-save.png) \--- /task \---
