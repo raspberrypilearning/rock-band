@@ -10,21 +10,21 @@ Sedaj boste usvarili videz, da pevka poje!
 
 ![posnetek zaslona](images/band-singer-duplicate.png) \--- /task \---
 
-\--- naloga \--- Kliknite na novi kostum (imenovan 'Singer2'), nato izberite orodje za linijo in narišite črte, da bo vaš pevec ustvaril zvok.
+\--- task \--- Klikni na ta novi videz (z imenom 'Singer''), nato pa pa izberi orodje za risanje črt in nariši črte, ki bodo ustvarile občutek, da tvoja pevka spušča zvok.
 
-![posnetek zaslona](images/band-singer-click.png) \--- / naloga \---
+![posnetek zaslona](images/band-singer-click.png) \--- /task \---
 
-\--- naloga \--- Imena kostumov trenutno niso zelo koristna. Vtipkajte v polji za besedilo kostumov, da spremenite njihova imena v 'ne petje' in 'petje'.
+\--- task -- Imena videzov nam v tem trenutku niso v veliko pomoč. Spremeni jih v 'poje' in 'ne poje' tako, da vneseš novo ime v tekstovno polje videzov.
 
-![posnetek zaslona](images/band-singer-name-annotated.png) \--- / naloga \---
+![posnetek zaslona](images/band-singer-name-annotated.png) \--- /task \---
 
-\--- naloga \--- Zdaj, ko imate dva različna kostuma za svojega pevca, lahko izberete, kateri kostum je prikazan! Dodajte ti dve kodni bloki svojemu piškotu:
+\--- task -- Sedaj, ko imaš za pevko dva različna videza, lahko izbereš, kateri videz je prikazan! Svoji figuri pevke dodaj še ta dva bloka kode:
 
 ```blocks3
-ko je ta geslo kliknilo
-+ preklopi kostum na (petje v)
-predvaja zvok (pevec1 v), dokler se ne opravi
-+ preklopi kostum na (ne petje v)
+ko kliknemo to figuro
++zamenjaj videz na (poje v)
+predvajaj zvok (pevec1 v) do konca
++zamenjaj videz na (ne poje v)
 ```
 
 Kodni blok za spreminjanje kostuma je v razdelku `Izgleda`{: class = "block3looks"}. \--- / naloga \---
