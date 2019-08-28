@@ -27,14 +27,14 @@ predvajaj zvok (pevec1 v) do konca
 +zamenjaj videz na (ne poje v)
 ```
 
-Kodni blok za spreminjanje kostuma je v razdelku `Izgleda`{: class = "block3looks"}. \--- / naloga \---
+Blok kode za spreminjanje videza se nahaja v razdelku `Videzi`{: class = "block3looks"}. \--- /task \---
 
-\--- naloga \--- Kliknite na svojega pevca na odru. Ali izgleda, kot da poje? \--- / naloga \---
+\--- task \--- Kliknite na svojega pevca na odru. Ali izgleda, kot da poje? \--- /task \---
 
-\--- naloga \--- Sedaj pa naj bo vaš boben videti, kot da ga je udaril!
+\--- task \--- Zdaj pa naredi, da bo videti, kot da nekaj udarja na boben!
 
 ![posnetek zaslona](images/band-drum-final.png)
 
-- Uporabite navodila za spreminjanje kostuma svojega pevca, da vam pomaga.
+- Če potrebuješ pomoč pri spreminjanju videza tvoje pevke, uporabi navodila.
 
-Ne pozabite preveriti, ali vaša nova koda deluje! \--- / naloga \---
+Ne pozabi preveriti ali tvoja koda deluje! \--- /task \---
