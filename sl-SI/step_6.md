@@ -1,8 +1,8 @@
 ## Ustvarjanje pevke
 
-Sedaj boste v svoj bend dodali pevca!
+Sedaj boste v svoj bend dodali pevko!
 
-\--- naloga \---
+\--- task \---
 
 Dodajte svojega pevca v svoj oder.
 
