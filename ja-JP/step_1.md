@@ -6,11 +6,11 @@
 
 ## はじめに
 
-自分だけの楽器をコードしてみましょう！
+自分だけの楽器のコーディング方法を学びましょう！
 
-### 作るもの
+### あなたが作るもの
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- no-print \--- 緑色のフラグをクリックして開始します。次に、歌手またはドラムをクリックして、彼らがどのように聞こえるかを聞きます。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
