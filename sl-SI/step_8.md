@@ -1,6 +1,6 @@
 ## Izziv: izboljšaj svojo skupino
 
-Uporabite to, kar ste se naučili v tem projektu, da bi ustvarili svoj bend! Ustvarite lahko poljubne instrumente - poglejte razpoložljive instrumente in zvoke, da dobite nekaj idej.
+Uporabi to, kar si se naučil v tem proektu, da ustvariš svojo lastno glasbeno skupino! Lahko ustvariš poljubne instrumente - oglej si instrumente in zvoke, ki so že na voljo, da dobiš ideje.
 
 ![posnetek zaslona](images/band-ideas-sounds.png)
 
