@@ -2,7 +2,7 @@
 
 コーディングをはじめる前に、ある「モノ」を取り入れる必要があります。この「モノ」はScratch(スクラッチ)では**スプライト**と呼ばれています。
 
-\--- task \--- Open a new Scratch project.
+\--- task \--- 新しいScratchプロジェクトを開きます。
 
 **Online: **新しいオンラインScratchプロジェクトを[rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}で開きます。
 
