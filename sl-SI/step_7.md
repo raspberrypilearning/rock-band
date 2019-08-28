@@ -1,14 +1,14 @@
-## Kostumi
+## Videzi
 
-Sedaj boste naredili, da bo vaš pevec izgledal tako, kot da poje!
+Sedaj boste usvarili videz, da pevka poje!
 
-\--- naloga \--- Lahko spremenite način, kako vaš pevec sprite izgleda, ko je kliknila z ustvarjanjem nove kostum. Kliknite zavihek Kostumi in videli boste kostum pevke.
+\--- task -- Videz figure pevke lahko spreminjaš z ustvarjanjem novega videza. Klikni na zavihek Videzi in videl boš obstoječe videze pevke.
 
-![posnetek zaslona](images/band-singer-costume-annotated.png) \--- / naloga \---
+![posnetek zaslona](images/band-singer-costume-annotated.png) \--- /task \---
 
-\--- naloga \--- desno tipko miške kliknite na kostum in nato kliknite na **podvojeno** da ustvarite kopijo.
+\--- task -- Klikni na videz z desno tipko miške, nato pa klikni na **podvoji**, da ustvariš kopijo tega videza.
 
-![posnetek zaslona](images/band-singer-duplicate.png) \--- / naloga \---
+![posnetek zaslona](images/band-singer-duplicate.png) \--- /task \---
 
 \--- naloga \--- Kliknite na novi kostum (imenovan 'Singer2'), nato izberite orodje za linijo in narišite črte, da bo vaš pevec ustvaril zvok.
 
