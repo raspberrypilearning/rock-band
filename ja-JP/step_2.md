@@ -4,15 +4,15 @@
 
 \--- task \--- Open a new Scratch project.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**Online: **新しいオンラインScratchプロジェクトを[rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}で開きます。
 
-**Offline:** open a new project in the offline editor.
+**Offline:**オフラインエディターで新しいプロジェクトを開きます。
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Scratchオフラインエディタをダウンロードしてインストールする必要がある場合は、[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}で見つけることができます。:
 
-It looks like this:
+このような感じになります。
 
-![スクリーンショット](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![スクリーンショット](images/band-scratch.png) \--- /task \--- \--- task \--- 見えている猫のスプライトは、Scratchのマスコットです。このゲームには必要ないので、右クリックして**削除**をクリックして削除します。
 
 ![スクリーンショット](images/band-delete-annotated.png) \--- /task \---
 
