@@ -29,12 +29,12 @@ predvajaj zvok (pevec1 v) do konca
 
 Blok kode za spreminjanje videza se nahaja v razdelku `Videzi`{: class = "block3looks"}. \--- /task \---
 
-\--- task \--- Kliknite na svojega pevca na odru. Ali izgleda, kot da poje? \--- /task \---
+\--- task \--- Klikni na tvojo pevko na odru. Ali izgleda, kot da poje? \--- /task \---
 
-\--- task \--- Zdaj pa naredi, da bo videti, kot da nekaj udarja na boben!
+\--- task \--- Zdaj pa ustvari videz, kot da nekaj udarja na boben!
 
 ![posnetek zaslona](images/band-drum-final.png)
 
-- Če potrebuješ pomoč pri spreminjanju videza tvoje pevke, uporabi navodila.
+- V pomoč so ti lahko navodila za spreminjanje videza figure pevke.
 
 Ne pozabi preveriti ali tvoja koda deluje! \--- /task \---
