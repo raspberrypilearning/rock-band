@@ -1,15 +1,15 @@
 ## ステージ
 
-The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+**ステージ**は右側の領域であり、ここでプロジェクトが動きます。本物のステージのように、パフォーマンスエリアと考えてください！
 
-\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+\--- task \--- この時点では、ステージは白く、かなり退屈に見えます！**背景を選択**をクリックして、背景を追加します。
 
 ![スクリーンショット](images/band-stage-choose.png) \--- /task \---
 
-\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+\--- task \--- 上部のリストにある**屋内**をクリックします。次に、劇場の背景をクリックします。
 
 ![スクリーンショット](images/band-backdrop.png) \--- /task \---
 
-\--- task \--- Your stage should now look similar to this:
+\--- task \--- あなたのステージは、今このように見えているはずです。
 
 ![スクリーンショット](images/band-stage.png) \--- /task \---
