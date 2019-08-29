@@ -29,8 +29,7 @@
 \--- print-only \---
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+このスプライトがクリックされた時、ドラムを演奏する(\(1\)スネアドラム)(0.25)拍の間
 ```
 
 \--- /print-only \---
