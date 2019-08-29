@@ -1,15 +1,15 @@
-## チャレンジ: ドラムの改良（かいりょう）
+## Challenge: ドラムの改良（かいりょう）
 
 ドラムをクリックしたときの音を変えることはできますか？
 
 ![スクリーンショット](images/band-drum-sound.png)
 
-Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
+スペースキーを押したときにドラムが鳴るようにできますか？この`イベント`{:class="block3events"}ブロックが必要になります。
 
 ```blocks3
-スペースキーが押されたとき
+[スペースv]キーが押されたとき
 ```
 
-If you want to copy your existing code, right-click on it and then click on **duplicate**.
+コードをコピーしたい時は、コードを右クリックして、**複製**をクリックします 。
 
-![screenshot](images/band-duplicate-code.png)
+![スクリーンショット](images/band-duplicate-code.png)
