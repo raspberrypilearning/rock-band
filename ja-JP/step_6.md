@@ -1,10 +1,10 @@
 ## 歌手を作ろう
 
-Now you will add a singer to your band!
+バンドに歌手を追加します！
 
 \--- task \---
 
-Add a singer sprite to your Stage.
+歌手のスプライトをステージに追加します。
 
 ![スクリーンショット](images/band-singer-mic.png)
 
@@ -14,15 +14,15 @@ Add a singer sprite to your Stage.
 
 \--- task \---
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+歌手に歌を歌わせる前に、歌手のスプライトにサウンドを追加する必要があります。 歌手のスプライトが選択されていることを確認してから、サウンドタブをクリック、そして**サウンドを選択**をクリックします。
 
 ![スクリーンショット](images/band-import-sound-annotated.png) \--- /task \---
 
-\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+\--- task \--- 上部のリストから**音声**をクリック、そしてスプライトに追加するサウンドを選択します。
 
 ![スクリーンショット](images/band-choose-sound.png) \--- /task \---
 
-\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+\--- task \--- サウンドを使用するには、歌手のスプライトに次のコードブロックを追加します。
 
 ```blocks3
 when this sprite clicked
