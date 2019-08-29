@@ -21,20 +21,20 @@
 \--- task \--- 歌手のコスチュームが2種類になったので、表示する衣装を選択できます！これら2つのコードブロックを歌手のスプライトに追加します。
 
 ```blocks3
-when this sprite clicked
-+switch costume to (singing v)
-play sound (singer1 v) until done
-+switch costume to (not singing v)
+このスプライトがクリックされたとき
++コスチュームを(歌うv) に切り替える
+サウンドを再生する(singer1 v) 終了するまで
++コスチュームを(歌わないv) に切り替える
 ```
 
-The code block for changing the costume is in the `Looks`{:class="block3looks"} section. \--- /task \---
+コスチュームを変更するためのコードブロックは` 見た目` {：class = "block3looks"}セクションにあります。 \--- /task \---
 
-\--- task \--- Click on your singer on the stage. Does she look like she is singing? \--- /task \---
+\--- task \--- ステージの歌手をクリックします。彼女は歌っているように見えますか？ \--- /task \---
 
-\--- task \--- Now make your drum look like it's being hit!
+\--- task \--- ドラムが叩かれているように見せてください！
 
 ![スクリーンショット](images/band-drum-final.png)
 
-- Use the instructions for changing your singer sprite's costume to help you.
+- 歌手のスプライトのコスチュームを変更する手順に従ってください。
 
-Remember to test that your new code works! \--- /task \---
+新しいコードが動くことをテストするのを忘れないようにしましょう！ \--- /task \---
