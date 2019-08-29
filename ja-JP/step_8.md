@@ -24,10 +24,10 @@
 
 自分のスプライトを作るとき、クリックしてコスチュームが変わるときにスプライトが「ジャンプ」することに気づいたかもしれません。 これは2つのコスチュームが同じ位置にそろっていないからです。
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+これを修正するには、スプライトのコスチュームの中心が同じであることを確認してください。
 
 \--- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+マイクを持っている場合は、自分のサウンドを録音することができ、ウェブカメラを使用して楽器を打つこともできます！
 
 ![スクリーンショット](images/band-io.png)
