@@ -1,14 +1,14 @@
 ## ドラムを作ろう
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+次に、ドラムがクリックされたときに音が鳴るように、ドラムにコードを追加します。
 
 「スクリプト」のタブの中にコーディングのブロックがあります。すべて色付けされています。
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+最初に**音楽**拡張機能を加えると、楽器を演奏できます。
 
-Click on the **Add extension** button in the bottom left-hand corner.
+左下隅の**拡張機能を追加**ボタンをクリックします。
 
 ![add extension button highlighted](images/add-extension-annotated.png)
 
