@@ -1,8 +1,8 @@
 ## 次は何をしますか？
 
-Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
+最初のScratchプロジェクトを作成したので、[ Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)スクラッチプロジェクトを見てみましょう
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- 緑色のフラグをクリックして、アニメーションを表示します。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -13,6 +13,6 @@ Now that you've built your first Scratch project, why not take a look at the [Lo
 
 \--- print-only \---
 
-![Complete project](images/space-final.png)
+![プロジェクトの完了](images/space-final.png)
 
 \--- /print-only \---
