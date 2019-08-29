@@ -1,6 +1,6 @@
 ## コスチューム
 
-Now you will make your singer look like she's singing!
+歌手が歌っているように見せましょう！
 
 \--- task \--- You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
 
