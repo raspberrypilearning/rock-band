@@ -12,13 +12,13 @@
 
 ![add extension button highlighted](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+クリックして**音楽**拡張機能を追加します。
 
 ![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- task \--- ドラムスプライトをクリックし、これら2つのブロックを右側のコード領域にドラッグします。
 
 \--- no-print \---
 
