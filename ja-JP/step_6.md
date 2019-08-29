@@ -25,10 +25,9 @@
 \--- task \--- サウンドを使用するには、歌手のスプライトに次のコードブロックを追加します。
 
 ```blocks3
-when this sprite clicked
-play sound (singer1 v) until done
+スプライトがクリックされた時、サウンドを鳴らす (歌手1 v) 終了まで
 ```
 
 \--- /task \---
 
-\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
+\--- task \--- ステージ上の歌手をクリックすると、何が起こるかを確認します。彼女は歌いますか？ \--- / task \---
