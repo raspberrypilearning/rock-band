@@ -10,6 +10,6 @@ Ali lahko dosežeš, da boben ustvari zvok, ko pritisneš preslednico? Uporabiti
 ko je pritisnjena tipka [presledek v]
 ```
 
-Če želiš kopirati svojo obstoječo kodo, najnjo klikni z desno tipko in nato izberi na **Podvoji**.
+Če želiš kopirati svojo obstoječo kodo, klikni na njo z desno tipko in nato izberi na **Podvoji**.
 
 ![posnetek zaslona](images/band-duplicate-code.png)
