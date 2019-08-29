@@ -23,7 +23,7 @@ Sedaj boste usvarili videz, da pevka poje!
 ```blocks3
 ko kliknemo to figuro
 +zamenjaj videz na (poje v)
-predvajaj zvok (pevec1 v) do konca
+predvajaj zvok (pevka1 v) do konca
 +zamenjaj videz na (ne poje v)
 ```
 
