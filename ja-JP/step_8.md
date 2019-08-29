@@ -1,20 +1,20 @@
-## Challenge: improve your band
+## Challenge: バンドをより良くする
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+自分のバンドを作ったこのプロジェクトで学んだことを使いましょう！好きな楽器を作成できます — 使用可能な楽器のスプライトとサウンドを見て、アイデアをつかんでください。
 
 ![スクリーンショット](images/band-ideas-sounds.png)
 
 ```blocks3
-when this sprite clicked
-set instrument to (\(1\) Piano v)
-play note (60) for (0.25) beats
+このスプライトがクリックされた時
+楽器を (\(1\) ピアノv) に設定します
+演奏(60) を(0.25) 拍します
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+ただし、楽器は本当である必要はありません。たとえば、マフィンで作られたピアノを作ることができます！
 
 ![スクリーンショット](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+ライブラリからより多くのスプライトを使用でき、独自のスプライトを描くこともできます！
 
 ![スクリーンショット](images/band-draw.png)
 
