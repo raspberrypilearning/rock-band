@@ -20,14 +20,14 @@ Lahko uporabiš več figur iz knjižnice, lahko pa tudi narišeš svoje!
 
 ## \--- collapse \---
 
-## naslov: Zakaj moj sprite 'skakanje', ko spremeni kostum?
+## naslov: Zakaj moja figura 'skače', ko spremeni videz?
 
-Pri ustvarjanju lastnega sprita boste morda ugotovili, da ko kliknete na sprite, to »skoči«, saj spremeni kostum. To je zato, ker dva kostuma nista osredotočena na istem mestu.
+Ko ustvariš svojo lastno figuro, boš morda opazil, da ob kliku na figuro ta 'skoči', ko spremeni videz. Razlog je v tem, da oba videza nista centrirana na istem položaju.
 
-Če želite popraviti to, se prepričajte, da so centri vaših kostumov isti.
+Da bi to popravil, poskrbi, da bosta centra obeh videzov figure enaka.
 
-\--- / strni \---
+\--- /collapse \---
 
-Če imate mikrofon, lahko posnamete lastne zvoke in celo spletno kamero lahko uporabite za udarjanje vaših instrumentov!
+Če imaš mikrofon, lahko posnameš lastne zvoke, za proženje instrumentov pa lahko uporabiš celo spletno kamero!
 
 ![posnetek zaslona](images/band-io.png)
