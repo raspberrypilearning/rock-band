@@ -1,6 +1,6 @@
 ## Izziv: izboljšaj svojo skupino
 
-Uporabi to, kar si se naučil v tem proektu, da ustvariš svojo lastno glasbeno skupino! Lahko ustvariš poljubne instrumente - oglej si instrumente in zvoke, ki so že na voljo, da dobiš ideje.
+Uporabi to, kar si se naučil v tem projektu, da ustvariš svojo lastno glasbeno skupino! Lahko ustvariš poljubne instrumente - oglej si instrumente in zvoke, ki so že na voljo, da dobiš ideje.
 
 ![posnetek zaslona](images/band-ideas-sounds.png)
 
@@ -14,11 +14,11 @@ Tvoji instrumenti so lahko tudi izmišljeni. Lahko denimo ustvariš klavir iz ko
 
 ![posnetek zaslona](images/band-piano.png)
 
-Iz knjižnice lahko uporabite več duhov, lahko pa tudi oslikate svoje sprite!
+Lahko uporabiš več figur iz knjižnice, lahko pa tudi narišeš svoje!
 
 ![posnetek zaslona](images/band-draw.png)
 
-## \--- kolaps \---
+## \--- collapse \---
 
 ## naslov: Zakaj moj sprite 'skakanje', ko spremeni kostum?
 
