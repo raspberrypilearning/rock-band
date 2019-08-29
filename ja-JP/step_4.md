@@ -10,11 +10,11 @@
 
 左下隅の**拡張機能を追加**ボタンをクリックします。
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![強調表示された拡張ボタンを追加](images/add-extension-annotated.png)
 
 クリックして**音楽**拡張機能を追加します。
 
-![music extension highlighted](images/click-music-annotated.png)
+![ハイライトされた音楽拡張機能](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -35,8 +35,8 @@ play drum (\(1\) Snare Drum v) for (0.25) beats
 
 \--- /print-only \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+ブロックが（LEGOブロックのように）一緒に接続されていることを確認してください。
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- ドラムをクリックして、新しい楽器を試してください！ \--- /task \---
