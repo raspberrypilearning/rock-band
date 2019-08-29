@@ -3,12 +3,12 @@ hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
 title: ロックバンド
-description: このプロジェクトではプログラミングを使った楽器の作り方を学びます！
-version: 4
+description: 自分だけの楽器のコーディング方法を学びましょう！
+version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
-    title: 前書き
+    title: はじめに
   - 
     title: スプライト
   - 
@@ -16,14 +16,14 @@ steps:
   - 
     title: ドラムを作ろう
   - 
-    title: "チャレンジ：ドラムの改良（かいりょう）"
+    title: "Challenge: ドラムの改良（かいりょう）"
     challenge: true
   - 
     title: 歌手を作ろう
   - 
     title: コスチューム
   - 
-    title: "Challenge: improve your band"
+    title: "Challenge: バンドをより良くする"
     challenge: true
   - 
     title: "次は何をしますか？"
