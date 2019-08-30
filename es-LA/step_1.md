@@ -26,9 +26,9 @@ Aprende cómo codificar tus propios instrumentos musicales!
 
 ## title: Lo que vas a aprender
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ Usa el código para cambiar el disfraz de un sprite en Scratch
++ Use el código para hacer que los sprites reaccionen a la entrada en Scratch
++ Agregue sonidos a un sprite en Scratch \--- / collapse \---
 
 ## \--- collapse \---
 
