@@ -25,8 +25,8 @@ Antes de que puedas hacer cantar a tu cantante, necesitas añadir un sonido a tu
 \--- task \--- Para usar el sonido, agrega los siguientes bloques de código a tu sprite de cantante:
 
 ```blocks3
-when this sprite clicked
-play sound (singer1 v) until done
+al hacer clic en este objeto
+    tocar sonido [cantante1 v] y esperar
 ```
 
 \--- / tarea \---
