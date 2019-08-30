@@ -14,7 +14,7 @@ Hax clic en el botón de ** Add extension ** Agregar Extensión en la esquina in
 
 Haz clic en la extensión de **Music** Música extensión para agregarlo.
 
-![music extension highlighted](images/click-music-annotated.png)
+![extensión musica resaltada](images/click-music-annotated.png)
 
 \--- / tarea \---
 
@@ -29,8 +29,8 @@ Haz clic en la extensión de **Music** Música extensión para agregarlo.
 \--- print-only \---
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+cuando este sprite hizo clic en
+play drum (\ (1 \) Snare Drum v) durante (0.25) beats
 ```
 
 \--- /print-only \---
