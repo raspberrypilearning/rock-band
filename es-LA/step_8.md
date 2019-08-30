@@ -5,9 +5,9 @@
 ![captura de pantalla](images/band-ideas-sounds.png)
 
 ```blocks3
-when this sprite clicked
-set instrument to (\(1\) Piano v)
-play note (60) for (0.25) beats
+cuando este sprite hace clic en
+establece el instrumento en (\ (1 \) Piano v)
+nota de reproducción (60) para (0.25) latidos
 ```
 
 Sin embargo, sus instrumentos no tienen que ser realistas. Por ejemplo, ¡podrías hacer un piano hecho de magdalenas!
