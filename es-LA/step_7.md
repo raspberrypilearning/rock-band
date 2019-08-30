@@ -21,10 +21,10 @@
 \--- task \--- Ahora que tienes dos disfraces diferentes para tu cantante, ¡puedes escoger cual de ellos se visualiza! Agrega estos dos bloques a tu cantante:
 
 ```blocks3
-when this sprite clicked
-+switch costume to (singing v)
-play sound (singer1 v) until done
-+switch costume to (not singing v)
+cuando este sprite hizo clic en
++ cambia el disfraz a (canto v)
+reproduce el sonido (cantante1 v) hasta que se hace
++ cambia el disfraz a (no canta v)
 ```
 
 El bloque de código para cambiar de disfraz se encuentra en la pestaña Apariencia `Looks` {:class="blocklooks"}
