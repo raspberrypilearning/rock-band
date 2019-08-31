@@ -1,6 +1,6 @@
 ## 次は何をしますか？
 
-最初のScratchプロジェクトを作成したので、[ Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)スクラッチプロジェクトを見てみましょう。
+最初のScratchプロジェクトを作成したので、[ ロスト・イン・スペース](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)スクラッチプロジェクトを見てみましょう。
 
 \--- no-print \--- 緑色のフラグをクリックして、アニメーションを表示します。
 
