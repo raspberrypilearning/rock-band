@@ -5,9 +5,9 @@ Wykorzystaj to, czego nauczyłeś się w tym projekcie, aby stworzyć własny ze
 ![zrzut ekranu](images/band-ideas-sounds.png)
 
 ```blocks3
-kiedy duszek kliknięty
+kiedy ten duszek kliknięty
 ustaw instrument na (\(1\) Pianino v)
-graj nutę (60) przez (0,25) uderzenia
+graj nutę (60) przez (0.25) uderzenia
 ```
 
 Twoje instrumenty nie muszą być realistyczne. Możesz na przykład stworzyć pianino z babeczek!
