@@ -10,7 +10,7 @@
 
 ### あなたが作るもの
 
-\--- no-print \--- 緑色のフラグをクリックして開始します。次に、歌手またはドラムをクリックして、彼らがどのように聞こえるかを聞きます。
+\--- no-print \--- 緑色のフラグをクリックして開始します。次に、歌手またはドラムをクリックして、どのような音に聞こえるかを聞きます。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,7 +18,7 @@
 
 \--- /no-print \---
 
-\--- print-only \--- 歌手またはドラムをクリックして歌やドラムの音を聞くことができるゲームを作成します。
+\--- print-only \--- 歌手またはドラムをクリックして、歌やドラムの音を聞くことができるゲームを作成します。
 
 ![ゲームのスクリーンショット](images/demo.png) \--- /print-only \---
 
