@@ -6,7 +6,7 @@
 
 ![スクリーンショット](images/band-singer-costume-annotated.png) \--- /task \---
 
-\--- task \--- コスチュームを右クリックし、**複製**をクリックするとコピーを作成します。
+\--- task \--- コスチュームを右クリックし、**コピー**をクリックするとコピーを作成します。
 
 ![スクリーンショット](images/band-singer-duplicate.png) \--- /task \---
 
