@@ -29,7 +29,7 @@ Kliknij na opcję **Muzyka**, żeby dodać to rozszerzenie.
 \--- print-only \---
 
 ```blocks3
-kiedy duszek kliknięty
+kiedy ten duszek kliknięty
 graj na bębenku (\(1\) Bębenek v) przez (0.25) uderzeń
 ```
 
