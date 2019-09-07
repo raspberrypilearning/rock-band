@@ -10,7 +10,7 @@
 
 ### あなたが作るもの
 
-\--- no-print \--- 緑色のフラグをクリックして開始します。次に、歌手またはドラムをクリックして、どのような音に聞こえるかを聞きます。
+\--- no-print \--- 緑色のフラグをクリックして開始します。次に、歌手またはドラムをクリックして、どのような音が鳴るかを聞きます。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
