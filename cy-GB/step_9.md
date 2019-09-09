@@ -1,6 +1,6 @@
 ## Beth nesaf?
 
-Nawr dy fod wedi adeiladu dy brosiect cyntaf Scratch, beth am edrych ar y prosiect Scratch [Dal ysbrydion](https://projects.raspberrypi.org/cy-GB/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)?
+Nawr dy fod wedi adeiladu dy brosiect cyntaf Scratch, beth am edrych ar y prosiect Scratch [Ar goll yn y Gofod](https://projects.raspberrypi.org/cy-GB/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)?
 
 --- no-print --- Clicia'r faner werdd i weld yr animeiddiad.
 
