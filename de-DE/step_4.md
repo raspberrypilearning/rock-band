@@ -1,6 +1,6 @@
 ## Eine Trommel machen
 
-Jetzt wirst du ein Skript zu deiner Trommel hinzufügen, so dass die Trommel ein Geräusch macht wenn sie angeklickt wird.
+Jetzt wirst du Code zu deiner Trommel hinzufügen, so dass die Trommel ein Geräusch macht wenn sie angeklickt wird.
 
 Du findest die Codeblöcke auf der Registerkarte "Skripte" und sie sind alle farbcodiert!
 
@@ -18,7 +18,7 @@ Klicken Sie auf die Erweiterung **Musik**, um sie hinzuzufügen.
 
 \--- /task \---
 
-\--- task \--- Klicke auf die Trommel-Figur und ziehe dann diese beiden Blöcke in den Code-Bereich rechts:
+\--- task \--- Klicke auf die Trommel und ziehe dann diese beiden Blöcke in den Code-Bereich-Bereich rechts:
 
 \--- no-print \---
 
