@@ -32,9 +32,9 @@ Klicke auf die Trommel und ziehe sie an den unteren Rand der Bühne.
 
 \--- /task \---
 
-\--- task \--- Gebe deinem Projekt einen Namen, indem du ihn in das Textfeld oben eingibst.
+\--- task \--- Gib deinem Programm einen Namen, indem du ihn in das Textfeld oben eingibst.
 
-![name](images/band-name-annotated.png)
+![Name](images/band-name-annotated.png)
 
 Um dein Projekt zu speichern, klickst du auf **Datei** und dann auf **Jetzt speichern**.
 
