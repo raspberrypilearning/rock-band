@@ -5,9 +5,9 @@
 ![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
-when this sprite clicked
-set instrument to (\(1\) Piano v)
-play note (60) for (0.25) beats
+όταν γίνει κλικ σε αυτό το αντικείμενο
+όρισε όργανο σε (\(1\) Piano v)
+παίξε νότα (60) για (0.25) χτύπους
 ```
 
 Ωστόσο, τα όργανά σου δεν χρειάζεται να έχουν λογική. Για παράδειγμα, θα μπορούσες να φτιάξεις ένα πιάνο από κεκάκια!
