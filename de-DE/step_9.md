@@ -1,6 +1,6 @@
 ## Herausforderung: Ändere das Kostüm deiner Trommel
 
-Nachdem du jetzt dein erstes Scratch Projekt erstellt hast, wirf doch einen Blick auf das [Verschollen im Weltraum](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch-Projekt!
+Nachdem du jetzt dein erstes Scratch Projekt erstellt hast, wirf doch einen Blick auf das Scratch-Projekt [Verschollen im Weltraum](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)!
 
 \--- no-print \--- Klicke auf die grüne Flagge, um die Animation zu sehen.
 
