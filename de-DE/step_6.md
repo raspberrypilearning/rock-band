@@ -4,7 +4,7 @@ Jetzt wirst du eine Sängerin zu deiner Band hinzufügen!
 
 \--- task \---
 
-Füge eine Sängerin-Figur zu deiner Bühne hinzu.
+Füge eine Sängerinen-Figur (Singer1) zu deiner Bühne hinzu.
 
 ![Screenshot](images/band-singer-mic.png)
 
