@@ -6,7 +6,7 @@ Die **Bühne** ist der Bereich auf der rechten Seite, und dort wird dein Projekt
 
 ![screenshot](images/band-stage-choose.png) \--- /task \---
 
-\--- task \--- Klicke auf **Innenräume** in der Liste oben. Klicken Sie dann auf ein Theater-Bild.
+\--- task \--- Klicke auf **Innenräume** in der Liste oben. Klicken Sie dann auf das Theater-Bild.
 
 ![Screenshot](images/band-backdrop.png) \--- /task \---
 
