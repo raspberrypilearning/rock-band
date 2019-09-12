@@ -20,7 +20,7 @@ Lerne deine eigenen Musikinstrumente zu programmieren!
 
 \--- print-only \--- Du wirst ein Spiel erstellen in dem du auf die Sängerin oder die Trommel klicken kannst um zu hören wie sie klingen.
 
-![game screenshot](images/demo.png) \--- /print-only \---
+![Bildschirmfoto  des Spiels](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
