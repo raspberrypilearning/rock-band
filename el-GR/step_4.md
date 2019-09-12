@@ -29,8 +29,8 @@
 \--- print-only \---
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+όταν γίνει κλικ σε αυτό το αντικείμενο
+παίξε τύμπανο (\(1\) Snare Drum v) για (0.25) χτύπους
 ```
 
 \--- /print-only \---
