@@ -54,6 +54,6 @@ Wenn Sie dieses Projekt ausdrucken müssen, verwenden Sie bitte die [druckerfreu
 
 \--- /no-print \---
 
-Sie können das [abgeschlossene Projekt hier](http://rpf.io/p/en/rock-band-get) finden.
+Sie finden das [abgeschlossene Projekt hier](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
