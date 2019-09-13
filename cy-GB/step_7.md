@@ -24,9 +24,9 @@ Nawr bod gyda ti ddau wisg gwahanol i dy ganwr, galli di ddewis pa wisg sydd yn 
 
 ```blocks3
 pan gaiff y ciplun yma ei glicio
-+newid gwisg i (singing v)
++newid gwisg i (yn canu v)
 chwarae sain (Singer1 v) tan y diwedd
-+newid gwisg i (not singing v)
++newid gwisg i (ddim yn canu v)
 ```
 
 Mae’r côd ar gyfer newid y wisg yn yr adran `Edrychiad`{:class="block3looks"}. --- /task ---
