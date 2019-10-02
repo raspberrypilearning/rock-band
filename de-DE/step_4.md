@@ -20,23 +20,19 @@ Klicken Sie auf die Erweiterung **Musik**, um sie hinzuzufügen.
 
 \--- task \--- Klicke auf die Trommel und ziehe dann diese beiden Blöcke in den Code-Bereich-Bereich rechts:
 
+```blocks3
+Wenn diese Figur angeklickt wird
+spiele Schlaginstrument (\(1\) Snare Drum v) für (0.25) Schläge
+```
+
 \--- no-print \---
 
 ![screenshot](images/connect-block.gif)
 
 \--- /no-print \---
 
-\--- print-only \---
-
-```blocks3
-Wenn diese Figur angeklickt wird
-spiele Schlaginstrument (\(1\) Snare Drum v) für (0.25) Schläge
-```
-
-\--- /print-only \---
-
-Achte darauf, dass die Blöcke miteinander verbunden sind (wie LEGO Steine).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Klicke auf die Trommel, um dein neues Instrument auszuprobieren! \--- /task \---
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
