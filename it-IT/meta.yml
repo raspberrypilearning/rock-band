@@ -10,13 +10,13 @@ steps:
   - 
     title: Introduzione
   - 
-    title: Sprites
+    title: Sprite
   - 
-    title: Il progetto
+    title: Il palco
   - 
     title: Creare un tamburo
   - 
-    title: "Sfida: perfeziona il tamburo"
+    title: "Sfida: migliora il tuo tamburo"
     challenge: true
   - 
     title: Creare un cantante
