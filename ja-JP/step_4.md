@@ -20,22 +20,18 @@
 
 \--- task \--- ドラムスプライトをクリックし、これら2つのブロックを右のコードエリアにドラッグします。
 
+```blocks3
+このスプライトがクリックされた時、ドラムを演奏する(\(1\)スネアドラム)(0.25)拍の間
+```
+
 \--- no-print \---
 
 ![スクリーンショット](images/connect-block.gif)
 
 \--- /no-print \---
 
-\--- print-only \---
-
-```blocks3
-このスプライトがクリックされた時、ドラムを演奏する(\(1\)スネアドラム)(0.25)拍の間
-```
-
-\--- /print-only \---
-
-ブロックが (LEGOブロックのように) 一緒につながっていることを確認してください。
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- ドラムをクリックして、新しい楽器を試してください！ \--- /task \---
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
