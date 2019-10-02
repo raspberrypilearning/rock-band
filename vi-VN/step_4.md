@@ -20,23 +20,19 @@ Nhấp vào tiện ích mở rộng **Music** để thêm nó.
 
 \--- task \--- Nhấp vào sprite trống, rồi kéo hai khối này vào vùng mã bên phải:
 
+```blocks3
+khi sprite này nhấp
+phát trống (\ (1 \) Snare Drum v) cho (0,25) nhịp
+```
+
 \--- không in \---
 
 ![ảnh chụp màn hình](images/connect-block.gif)
 
 \--- / không in \---
 
-\--- chỉ in \---
+Make sure that the blocks are connected together (like LEGO bricks).
 
-```blocks3
-khi sprite này nhấp
-phát trống (\ (1 \) Snare Drum v) cho (0,25) nhịp
-```
+\--- /task \---
 
-\--- / chỉ in \---
-
-Đảm bảo rằng các khối được kết nối với nhau (như gạch LEGO).
-
-\--- /bài tập \---
-
-\--- task \--- Nhấp vào trống để thử nhạc cụ mới của bạn! \--- / nhiệm vụ \---
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
