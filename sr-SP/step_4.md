@@ -20,23 +20,19 @@
 
 \--- task \--- Кликни на лик бубња, а затим превуци ова два блока у област за код са десне стране:
 
+```blocks3
+када је кликнуто на овај лик :: events
+удараљка ((1) Добош v) током (0.25) откуцаја :: music
+```
+
 \--- no-print \---
 
 ![снимак екрана](images/connect-block.gif)
 
 \--- /no-print \---
 
-\--- print-only \---
-
-```blocks3
-када је кликнуто на овај лик :: events
-удараљка ((1) Добош v) током (0.25) откуцаја :: music
-```
-
-\--- /print-only \---
-
-Побрини се да су блокови спојени заједно (као LEGO коцкице).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Кликни на бубањ да испробаш свој нови инструмент! \--- /task \---
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
