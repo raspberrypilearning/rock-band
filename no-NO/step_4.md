@@ -2,7 +2,7 @@
 
 Nå skal du legge til kode på trommen din, slik at den lager lyd når du klikker på den.
 
-Du finner kodeklosser i Kode-arkfanen, og alle er fargekodet!
+Du finner kodeklossene i Kode-arkfanen, og alle er fargekodet!
 
 \--- task \---
 
