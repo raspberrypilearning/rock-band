@@ -6,7 +6,7 @@
 
 **Online:** άνοιξε ένα νέο έργο Scratch στη διεύθυνση [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-**Offline: ** άνοιξε ένα νέο έργο στον επεξεργαστή εκτός σύνδεσης.
+**Offline:** άνοιξε ένα νέο έργο στον επεξεργαστή εκτός σύνδεσης.
 
 Αν χρειαστεί να κατεβάσεις και να εγκαταστήσεις τον offline editor για το Scratch, μπορείς να το βρεις στο [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 

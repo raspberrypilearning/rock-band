@@ -8,7 +8,7 @@
 
 **오프라인:** 오프라인 에디터에서 새 프로젝트를 엽니다.
 
-스크래치 오프라인 에디터를 다운로드 받아야 하는 경우, [rpf.io/scratchoff](http://rpf.io/scratchoff) 에서 다운 받을 수 있습니다{:target="_blank"}.
+스크래치 오프라인 에디터를 다운로드 받아야 하는 경우, [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} 에서 다운 받을 수 있습니다.
 
 그림으로 보면 다음과 같습니다.
 
