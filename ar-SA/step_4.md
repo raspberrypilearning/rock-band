@@ -20,23 +20,19 @@
 
 انقر فوق كائن الطبلة ثم اسحب هاتين الكتلتَين إلى مساحة التعليمات البرمجية الموجودة على اليمين:
 
+```blocks3
+عند النقر على هذا الكائن
+play drum (\(1\) Snare Drum v) for (0.25) beats
+```
+
 \--- no-print \---
 
 ![لقطة الشاشة](images/connect-block.gif)
 
 \--- /no-print \---
 
-\--- print-only \---
-
-```blocks3
-عند النقر على هذا الكائن
-play drum (\(1\) Snare Drum v) for (0.25) beats
-```
-
-\--- /print-only \---
-
-تأكد من أنهما مرتبطتان معًا (كمكعبات لعبة ليغو).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-انقر فوق الطبلة لتجرِّب آلتك الجديدة!
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
