@@ -14,7 +14,7 @@ Legg til en figur på scenen din.
 
 \--- task \---
 
-Før du kan få sangerinnen til å synge, må du legge til en lyd til figuren av sangerinnen. Forsikre deg om at du har valgt sangerinne-figuren, deretter klikker på Lyd-arkfanen, og klikk på **Velg en lyd**:
+Før du kan få sangerinnen til å synge, må du legge til en lyd på figuren av sangerinnen. Forsikre deg om at du har valgt sangerinne-figuren, deretter klikker på Lyd-arkfanen, og klikk på **Velg en lyd**:
 
 ![skjermbilde](images/band-import-sound-annotated.png) \--- /task \---
 
