@@ -20,23 +20,19 @@ Fare clic sull'estensione **Musica** per aggiungerla.
 
 \--- task \--- Clicca sullo sprite del tamburo, quindi trascina questi due blocchi nell'area del codice a destra:
 
+```blocks3
+quando clicchi su questo sprite
+suona il tamburo (\ (1 \) Rullante v) per (0,25) battiti
+```
+
 \--- no-print \---
 
 ![schermata](images/connect-block.gif)
 
 \--- /no-print \---
 
-\--- print-only \---
-
-```blocks3
-quando clicchi su questo sprite
-suona il tamburo (\ (1 \) Rullante v) per (0,25) battiti
-```
-
-\--- /print-only \---
-
-Assicurati che i blocchi siano collegati (come i mattoncini LEGO).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Clicca sul tamburo per provare il tuo nuovo strumento! \--- / compito \---
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
