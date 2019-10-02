@@ -1,23 +1,62 @@
+--- no-print ---
+
+Αυτή είναι η έκδοση **Scratch 3** του έργου. Υπάρχει επίσης και μία έκδοση [Scratch 2](https://projects.raspberrypi.org/el-GR/projects/rock-band-scratch2) του έργου.
+
+--- /no-print ---
+
 ## Εισαγωγή
 
 Μάθε πώς να προγραμματίζεις τα δικά σου μουσικά όργανα!
 
-### Τι θα κάνεις
+### Τι θα φτιάξεις
 
-Κάνε κλικ στην πράσινη σημαία για να ξεκινήσεις. Στη συνέχεια, κάνε κλικ στην τραγουδίστρια ή στο τύμπανο για να ακούσεις πως παίζουν.
+--- no-print --- Κάνε κλικ στην πράσινη σημαία για να ξεκινήσεις. Στη συνέχεια, κάνε κλικ στην τραγουδίστρια ή στο τύμπανο για να ακούσεις πώς παίζουν.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-### Τι θα μάθεις
+--- /no-print ---
 
-Αυτό το έργο καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Raspberry Pi Digital Curriculum Making](http://rpf.io/curriculum){:target="_blank"}:
+--- print-only --- Θα φτιάξεις ένα παιχνίδι όπου μπορείς να κάνεις κλικ στον τραγουδιστή ή στο τύμπανο για να ακούσεις ήχους τραγουδιού ή τύμπανου.
 
-+ [Χρησιμοποίησε βασικές δομές προγραμματισμού για να δημιουργήσεις απλά προγράμματα](https://www.raspberrypi.org/curriculum/programming/creator){:target="_ blank"}
+![game screenshot](images/demo.png) --- /print-only ---
 
-### Πρόσθετες πληροφορίες για εκπαιδευτικούς
+--- collapse ---
+---
+title: Τι θα μάθεις
+---
+
++ Να χρησιμοποιείς κώδικα για να αλλάξεις την ενδυμασία ενός χαρακτήρα στη Scratch
++ Να χρησιμοποιείς κώδικα για να κάνεις το χαρακτήρα να αντιδρά σε κάτι που θα εισάγεις στη Scratch
++ Να προσθέτεις ήχους σε ένα χαρακτήρα στη Scratch --- /collapse ---
+
+--- collapse ---
+---
+title: Τι θα χρειαστείς
+---
+
+#### Υλικό
+
++ Ένας υπολογιστής ικανός να τρέχει το Scratch 3
+
+#### Λογισμικό
+
++ Scratch 3 (είτε [online](http://rpf.io/scratchon){:target="_blank"} είτε [offline](http://rpf.io/scratchoff){:target="_blank"})
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Πρόσθετες πληροφορίες για εκπαιδευτικούς
+---
+
+--- no-print ---
 
 Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/el-GR/projects/rock-band/print){:target="_blank"}.
 
-Χρησιμοποίησε το σύνδεσμο στο υποσέλιδο για να αποκτήσεις πρόσβαση στο αποθετήριο GitHub για αυτό το έργο, το οποίο περιέχει όλους τους πόρους (συμπεριλαμβανομένου ενός έργου που έχει ολοκληρωθεί στο παράδειγμα) στο φάκελο 'el-GR/resources'.
+--- /no-print ---
+
+Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](http://rpf.io/p/el-GR/rock-band-get).
+
+--- /collapse ---

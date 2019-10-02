@@ -1,24 +1,40 @@
-## Einen Sänger machen
+## Kostüme
 
-Lass uns deiner Band eine Sängerin hinzufügen!
+Jetzt wirst du deine Sängerin aussehen lassen als würde sie singen.
 
-+ Füge deiner Bühne zwei weitere Figuren hinzu: eine Sängerin und ein Mikrofon.
-    
-    ![Screenshot](images/band-singer-mic.png)
+--- task --- Du kannst das Aussehen deiner Sänger-Figur beim darauf klicken ändern, indem du ein neues Kostüm erstellst. Klicke auf den Tab Kostüme und du siehst das Bild der Sängerin.
 
-+ Bevor du deine Sängerin zum Singen bringen kannst, musst du deiner Figur einen Klang hinzufügen. Vergewissere dich, dass du deine Sängerin ausgewählt hast, klicke dann auf die Registerkarte Klänge, und klicke dann auf **Klang aus der Bibliothek wählen**:
-    
-    ![Screenshot](images/band-import-sound.png)
+![Screenshot](images/band-singer-costume-annotated.png) --- /task ---
 
-+ Wenn du auf der linken Seite auf **Gesang** klickst, kannst du einen passenden Klang für deine Figur auswählen.
-    
-    ![Screenshot](images/band-choose-sound.png)
+--- task --- Klicke mit der rechten Maustaste auf das Kostüm und klicke dann auf **Duplizieren** um eine Kopie des Kostüms zu erstellen.
 
-+ Jetzt, da der Klang hinzugefügt wurde, kannst du diesen Code deiner Sängerin hinzufügen:
-    
-    ```blocks
-        Wenn ich angeklickt werde
-    spiele Klang [singer1 v] ganz
-    ```
+![screenshot](images/band-singer-duplicate.png) --- /task ---
 
-+ Klicke auf deine Sängerin und schau was passiert. Singt sie?
+--- task --- Klicke auf das neue Kostüm ('Singer2' genannt), wähle dann das Werkzeug Linie und zeichne Linien, damit es so aussieht, als ob deine Sängerin ein Geräusch macht.
+
+![Screenshot](images/band-singer-click.png) --- /task ---
+
+--- task --- Die Namen der Kostüme sind im Moment noch nicht wirklich hilfreich. Tippe in die Textfelder der Kostüme um ihre Namen in "nicht singend" und "singend" zu ändern.
+
+![Screenshot](images/band-singer-name-annotated.png) --- /task ---
+
+--- task --- Jetzt, wo du zwei verschiedene Kostüme für deine Sängerin hast, kannst du wählen, welches Kostüm angezeigt wird! Füge diese zwei Blöcke zu deiner Sängerin hinzu:
+
+```blocks3
+Wenn diese Figur angeklickt wird
++wechsle zu Kostüm (singend v)
+spiele Klang (singer1 v) ganz
++wechsle zu Kostüm (nicht singend v)
+```
+
+Der Codeblock zum Ändern des Kostüms befindet sich im Abschnitt `Aussehen`{:class="block3looks"}. --- /task ---
+
+--- task --- Klicke auf die Sängerin. Sieht sie aus als würde sie singen? --- /task ---
+
+--- task --- Jetzt lass deine Trommel so aussehen als würde sie geschlagen!
+
+![screenshot](images/band-drum-final.png)
+
+- Nutze die Anleitung zum ändern des Kostüms der Sängerin als Hilfestellung.
+
+Denke daran deinen neuen Code zu testen! --- /task ---
