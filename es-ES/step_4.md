@@ -20,23 +20,19 @@ Haz click en la extensión **Música** para añadirla.
 
 \--- tarea \--- Haga clic en el sprite del tambor y luego arrastre estos dos bloques al área de código de la derecha:
 
+```blocks3
+cuando este sprite hizo clic en
+play drum (\ (1 \) Snare Drum v) durante (0.25) beats
+```
+
 \--- no-print \---
 
 ![screenshot](images/connect-block.gif)
 
 \--- /no-print \---
 
-\--- print-only \---
-
-```blocks3
-cuando este sprite hizo clic en
-play drum (\ (1 \) Snare Drum v) durante (0.25) beats
-```
-
-\--- /print-only \---
-
-Asegúrese de que los bloques estén conectados entre sí (como los ladrillos LEGO).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- tarea \--- Haz clic en el tambor para probar tu nuevo instrumento! \--- / tarea \---
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
