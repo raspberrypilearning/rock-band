@@ -26,7 +26,7 @@ Lær hvordan du kan kode dine egne musikkinstrumenter!
 
 ## title: Hva du vil lære
 
-+ Bruke kode for å endre en figurs drakt Scratch
++ Bruke kode for å endre drakten til en figur i Scratch
 + Bruke kode for å få en figur til å reagere når du klikker på noe i Scratch
 + Legge til lyd på en figur i Scratch \--- /collapse \---
 
@@ -50,7 +50,7 @@ Lær hvordan du kan kode dine egne musikkinstrumenter!
 
 \--- no-print \---
 
-Hvis du trenger å skrive ut dette prosjektet, bruk [utskriftsvennlig versjon](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Hvis du trenger å skrive ut dette prosjektet, bruk den [utskriftsvennlige versjonen](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
