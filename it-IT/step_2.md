@@ -2,7 +2,7 @@
 
 Prima di poter cominciare a programmare, hai bisogno di aggiungere al tuo progetto un ‘oggetto’ da programmare. In Scratch questi ‘oggetti’ si chiamano **sprite**.
 
-\--- task \--- Apre un nuovo progetto Scratch.
+\--- compito \--- Apre un nuovo progetto Scratch.
 
 **Online:** apri un nuovo progetto Scratch online su [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
@@ -10,34 +10,34 @@ Prima di poter cominciare a programmare, hai bisogno di aggiungere al tuo proget
 
 Se hai bisogno di scaricare ed installare l'editor Scratch offline, puoi trovarlo su [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-Sembra questo:
+Apparirà così:
 
-![screenshot](images/band-scratch.png) \--- / task \--- \--- task \--- Il gatto sprite che puoi vedere è la mascotte di Scratch. Non ne hai bisogno per questo gioco, quindi eliminalo facendo clic destro su di esso e quindi facendo clic su **Elimina**.
+![schermata](images/band-scratch.png) \--- / compito \--- \--- compito \--- Il gatto sprite che vedi è la mascotte di Scratch. Non ne hai bisogno per questo gioco, quindi eliminalo cliccandoci sopra col tasto destro e scegli **Elimina**.
 
-![schermata](images/band-delete-annotated.png) \--- /task \---
+![schermata](images/band-delete-annotated.png) \--- /compito \---
 
-\--- task \--- Quindi, fai clic su **Scegli sprite dalla libreria** per aprire un elenco di tutti gli sprite di Scratch.
+\--- compito \--- Adesso fai clic su **Scegli sprite dalla libreria** per aprire un elenco di tutti gli sprite di Scratch.
 
-![schermata](images/band-sprite-library.png) \--- /task \---
+![schermata](images/band-sprite-library.png) \--- /compito \---
 
-\--- task \--- Scorri verso il basso fino a vedere uno sprite del tamburo. Clicca su un tamburo per aggiungerlo al tuo progetto.
+\--- compito \--- Scorri in basso fino a uno sprite del tamburo. Clicca su un tamburo per aggiungerlo al tuo progetto.
 
-![screenshot](images/band-sprite-drum.png)
+![schermata](images/band-sprite-drum.png)
 
-\--- /task \---
+\--- /compito \---
 
-\--- task \---
+\--- compito \---
 
-Fare clic e trascinare il tamburo sul fondo dello stage.
+Clicca e trascina il tamburo sul fondo del palco.
 
-\--- /task \---
+\--- /compito \---
 
 \--- task \--- Assegna un nome al tuo programma digitandolo nella casella di testo in alto.
 
 ![nome](images/band-name-annotated.png)
 
-Quindi fare clic su **File**, quindi su **Salva ora** per salvare il progetto.
+Adesso clicca su **File**, quindi su **Salva ora** per salvare il progetto.
 
-Se non si è online o non si dispone di un account Scratch, è possibile salvare una copia del progetto facendo clic su **Salva sul computer**.
+Se non sei online o non hai un account Scratch, puoi salvare una copia del progetto cliccando su **Salva sul computer**.
 
 ![schermata](images/band-save.png) \--- /task \---
