@@ -20,23 +20,19 @@ Klik op de **Muziek** uitbreiding om het toe te voegen.
 
 \--- task \--- Klik op de drum sprite (rechtsonder) en sleep vervolgens deze twee blokken naar het code gebied:
 
+```blocks3
+wanneer op deze sprite wordt geklikt :: events
+speel drum ((1) Snare Drum v) gedurende (0.25) maten :: music
+```
+
 \--- no-print \---
 
 ![screenshot](images/connect-block.gif)
 
 \--- /no-print \---
 
-\--- print-only \---
-
-```blocks3
-wanneer op deze sprite wordt geklikt :: events
-speel drum ((1) Snare Drum v) gedurende (0.25) maten :: music
-```
-
-\--- /print-only \---
-
-Zorg ervoor dat de blokken met elkaar zijn verbonden (net zoals LEGO-stenen).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Klik op de drum om je nieuwe instrument uit te proberen! \--- /task \---
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
