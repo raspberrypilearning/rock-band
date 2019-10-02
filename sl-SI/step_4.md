@@ -20,23 +20,19 @@ Klikni na razširitev **Glasba**, da jo dodaš.
 
 \--- task \--- Klikni na figuro bobna in potem povleci ta dva bloka v območje za programiranje na desni:
 
+```blocks3
+ko je ta geslo kliknilo
+predvajaj boben (1. Snare Drum v) za (0,25) utripov
+```
+
 \--- no-print \---
 
 ![posnetek zaslona](images/connect-block.gif)
 
 \--- /no-print \---
 
-\--- print-only \---
-
-```blocks3
-ko je ta geslo kliknilo
-predvajaj boben (1. Snare Drum v) za (0,25) utripov
-```
-
-\--- /print-only \---
-
-Prepričaj se, da so bloki res povezani (kot LEGO kocke).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Klikni na boben in preizkusi svoj novi instrument! \--- /task \---
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
