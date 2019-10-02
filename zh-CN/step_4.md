@@ -20,23 +20,19 @@
 
 \--- task \--- 点击鼓精灵，然后将这两个块拖到右边的代码区：
 
+```blocks3
+当这个精灵点击
+播放鼓（\（1 \）Snare Drum v）为（0.25）节拍
+```
+
 --无打印--
 
 ![截屏](images/connect-block.gif)
 
 \--- /no-print \---
 
-\--- print-only \---
-
-```blocks3
-当这个精灵点击
-播放鼓（\（1 \）Snare Drum v）为（0.25）节拍
-```
-
-\--- /print-only \---
-
-确保块连接在一起（如乐高积木）。
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\---任务\--- 点击鼓来试用你的新乐器！ \--- /任务\---
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
