@@ -31,8 +31,8 @@
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+블록이 서로 연결되어 있는지 확인하십시오 (예: LEGO블록).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- 여러분이 만든 새 악기가 어떤 소리를 내는지 드럼을 클릭해 봅시다! \--- / task \---
