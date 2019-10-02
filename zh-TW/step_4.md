@@ -20,23 +20,19 @@
 
 \--- task \--- 點擊鼓精靈，然後將這兩個塊拖到右邊的代碼區：
 
+```blocks3
+當這個精靈點擊
+播放鼓（\（1 \）Snare Drum v）為（0.25）節拍
+```
+
 \---沒有印刷\---
 
 ![截圖](images/connect-block.gif)
 
 \--- /無印刷\---
 
-\---只打印\---
-
-```blocks3
-當這個精靈點擊
-播放鼓（\（1 \）Snare Drum v）為（0.25）節拍
-```
-
-\--- /僅打印\---
-
-確保塊連接在一起（如樂高積木）。
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\---任務\--- 點擊鼓來試用你的新樂器！ \--- /任務\---
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
