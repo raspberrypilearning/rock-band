@@ -29,12 +29,12 @@ spill lyden (Singer1 v) til den er ferdig
 
 Kodeklossen for å endre drakt er i `Utseende`{:class="block3looks"} delen. \--- /task \---
 
-\--- task \--- Klikk på sangerinnen på scenen. Ser du at hun synger? \--- /task \---
+\--- task \--- Klikk på sangerinnen din på scenen. Ser du at hun synger? \--- /task \---
 
-\--- task \--- Nå kan du gjøre slik at du ser at du slår på trommen!
+\--- task \--- Nå kan du gjøre slik at det ser som trommen blir slått på!
 
 ![skjermbilde](images/band-drum-final.png)
 
-- Bruk instruksjonene for å endre drakten til sangerinnen for å hjelpe deg.
+- Bruk instruksjonene for hvordan endre drakten til sangerinnen din som hjelp.
 
 Husk å teste at den nye koden din fungerer! \--- /task \---
