@@ -20,23 +20,19 @@
 
 \--- task \--- Κάνε κλικ στον χαρακτήρα του τύμπανου και, στη συνέχεια, σύρε αυτά τα δύο μπλοκ στην περιοχή κώδικα στα δεξιά:
 
+```blocks3
+όταν γίνει κλικ σε αυτό το αντικείμενο
+παίξε τύμπανο (\(1\) Snare Drum v) για (0.25) χτύπους
+```
+
 \--- no-print \---
 
 ![screenshot](images/connect-block.gif)
 
 \--- /no-print \---
 
-\--- print-only \---
-
-```blocks3
-όταν γίνει κλικ σε αυτό το αντικείμενο
-παίξε τύμπανο (\(1\) Snare Drum v) για (0.25) χτύπους
-```
-
-\--- /print-only \---
-
-Βεβαιώσου ότι τα μπλοκ είναι συνδεδεμένα μεταξύ τους (όπως τα τουβλάκια LEGO).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Κάνε κλικ στο τύμπανο για να δοκιμάσεις το νέο σου όργανο! \--- /task \---
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
