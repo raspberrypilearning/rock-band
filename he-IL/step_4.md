@@ -20,22 +20,18 @@
 
 \--- משימה \--- לחץ על דמות התוף, ולאחר מכן גרור את שני הבלוקים האלה לאזור הקוד משמאל:
 
+```blocks3
+when this sprite clicked play drum (\(1\) Snare Drum v) for (0.25) beats
+```
+
 \--- no-print \---
 
 ![צילום מסך](images/connect-block.gif)
 
 \--- /no-print \---
 
-\--- / print-only \---
-
-```blocks3
-when this sprite clicked play drum (\(1\) Snare Drum v) for (0.25) beats
-```
-
-\--- / print-only \---
-
-ודא כי הבלוקים מחוברים יחד (כמו לבני לגו).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- לחץ על התוף כדי לנסות את הכלי החדש שלך! \--- /task \---
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
