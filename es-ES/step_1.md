@@ -10,7 +10,7 @@ Este es el ** Scratch 3 ** Versión del proyecto. También hay una versión [ Sc
 
 ### Lo que crearás
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- sin impresión \--- Haga clic en la bandera verde para comenzar. Luego, haga clic en el cantante o el tambor para escuchar cómo suenan.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,7 +18,7 @@ Este es el ** Scratch 3 ** Versión del proyecto. También hay una versión [ Sc
 
 \--- /no-print \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\--- solo impresión \--- Harás un juego en el que puedes hacer clic en el cantante o el tambor para escuchar el canto o los sonidos de batería.
 
 ![captura de pantalla del juego](images/demo.png) \--- /print-only \---
 
@@ -26,9 +26,9 @@ Este es el ** Scratch 3 ** Versión del proyecto. También hay una versión [ Sc
 
 ## title: Lo que vas a aprender
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ Usa el código para cambiar el disfraz de un sprite en Scratch
++ Use el código para hacer que los sprites reaccionen a la entrada en Scratch
++ Agregue sonidos a un sprite en Scratch \--- / collapse \---
 
 ## \--- collapse \---
 
@@ -54,6 +54,6 @@ Si necesita imprimir este proyecto, use la [versión imprimible](https://project
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+Puede encontrar el [proyecto completado aquí](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
