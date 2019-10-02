@@ -1,27 +1,34 @@
-## Kostüme
+## Herausforderung: Verbessere deine Band
 
-Lass deine Sängerin aussehen, als würde sie singen!
+Nutze, was du in diesem Projekt gelernt hast, um deine eigene Band zu erstellen! Du kannst beliebige Instrumente erstellen - schau dir die verfügbaren Klänge und Figuren an, um einige Ideen zu erhalten.
 
-+ Du kannst das Aussehen deiner Sänger-Figur beim darauf klicken ändern, indem du ein neues Kostüm erstellst. Klicke auf den Tab Kostüme und du siehst das Bild der Sängerin.
-    
-    ![Screenshot](images/band-singer-costume.png)
+![screenshot](images/band-ideas-sounds.png)
 
-+ Klicke mit der rechten Maustaste auf das Kostüm und klicke auf **Duplizieren** um eine Kopie des Kostüms zu erstellen.
-    
-    ![Screenshot](images/band-singer-duplicate.png)
+```blocks3
+Wenn diese Figur angeklickt wird
+setze Instrument auf (\(1\) Klavier v)
+spiele Ton (60) für (0.25) Schläge
+```
 
-+ Klicke auf das neue Kostüm ('Singer2' genannt), wähle dann das Werkzeug Linie und zeichne Linien, damit es so aussieht, als ob deine Sängerin ein Geräusch macht.
-    
-    ![Screenshot](images/band-singer-click.png)
+Deine Instrumente müssen jedoch nicht realistisch sein. Du könntest zum Beispiel ein Piano aus Muffins machen!
 
-+ Die Namen der Kostüme sind im Moment nicht sehr hilfreich. Benenne die zwei Kostüme um, so dass sie "singt nicht" und "singt" heißen, indem du den neuen Namen jedes Kostüms in das Textfeld eingibst.
-    
-    ![Screenshot](images/band-singer-name.png)
+![screenshot](images/band-piano.png)
 
-+ Jetzt, wo du zwei verschiedene Kostüme für deine Sängerin hast, kannst du wählen, welches Kostüm angezeigt wird! Füge diese zwei Blöcke zu deiner Sängerin hinzu:
-    
-    ![Screenshot](images/band-looks.png)
-    
-    Der Codeblock zum Ändern des Kostüms befindet sich im Abschnitt `Aussehen`{:class="blocklooks"}.
+Du kannst mehr Figuren aus der Bibliothek verwenden, und du kannst sogar deine eigenen Figuren malen!
 
-+ Klicke auf deine Sängerin. Sieht sie aus, als würde sie singen?
+![Screenshot](images/band-draw.png)
+
+--- collapse ---
+---
+title: Warum springt mein Sprite, wenn er das Kostüm wechselt?
+---
+
+Wenn du eine eigene Figur erstellst, kann es dir vielleicht passieren, dass die Figur beim anklicken "springt", wenn sie das Kostüm wechselt. Dies liegt daran, dass die beiden Kostüme nicht an derselben Stelle zentriert sind.
+
+Um das zu beheben, stelle sicher dass deine Figuren Kostüme den selben Mittelpubkt haben.
+
+--- /collapse ---
+
+Wenn du ein Mikrofon hast, kannst du deine eigenen Klänge aufnehmen und sogar eine Webcam benutzen, um deine Instrumente zu spielen!
+
+![Screenshot](images/band-io.png)

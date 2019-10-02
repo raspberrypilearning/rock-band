@@ -1,15 +1,42 @@
-## Die Bühne
+## Eine Trommel machen
 
-Die **Bühne** ist der Bereich auf der linken Seite, und dort wird dein Projekt zum Leben erweckt. Betrachte es als den Bereich des Auftritts, genau wie eine echte Bühne!
+Jetzt wirst du Code zu deiner Trommel hinzufügen, so dass die Trommel ein Geräusch macht wenn sie angeklickt wird.
 
-+ Im Moment ist die Bühne weiß und sieht ziemlich langweilig aus! Füge der Bühne einen Hintergrund hinzu, indem du auf **Bühnenbild aus der Bibliothek wählen** klickst.
-    
-    ![Screenshot](images/band-stage-choose.png)
+Du findest die Codeblöcke auf der Registerkarte "Skripte" und sie sind alle farbcodiert!
 
-+ Klicke links auf **Innenräume**, dann auf ein Bühnenbild und dann auf **OK**.
-    
-    ![Screenshot](images/band-backdrop.png)
+--- task ---
 
-+ Deine Bühne sollte jetzt so aussehen:
-    
-    ![Screenshot](images/band-stage.png)
+Füge zuerst die **Musik** Erweiterung hinzu damit du Instrumente spielen kannst.
+
+Klicken Sie auf die Schaltfläche **Erweiterung hinzufügen** in der unteren linken Ecke.
+
+![Erweiterungstaste hervorgehoben](images/add-extension-annotated.png)
+
+Klicken Sie auf die Erweiterung **Musik**, um sie hinzuzufügen.
+
+![Musik Erweiterung hervorgehoben](images/click-music-annotated.png)
+
+--- /task ---
+
+--- task --- Klicke auf die Trommel und ziehe dann diese beiden Blöcke in den Code-Bereich-Bereich rechts:
+
+--- no-print ---
+
+![screenshot](images/connect-block.gif)
+
+--- /no-print ---
+
+--- print-only ---
+
+```blocks3
+Wenn diese Figur angeklickt wird
+spiele Schlaginstrument (\(1\) Snare Drum v) für (0.25) Schläge
+```
+
+--- /print-only ---
+
+Achte darauf, dass die Blöcke miteinander verbunden sind (wie LEGO Steine).
+
+--- /task ---
+
+--- task --- Klicke auf die Trommel, um dein neues Instrument auszuprobieren! --- /task ---

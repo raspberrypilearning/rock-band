@@ -1,11 +1,15 @@
-## Eine Trommel machen
+## Herausforderung: Verbessere deine Trommel
 
-Lass uns deine Trommel so programmieren, dass sie ein Geräusch macht, wenn sie getroffen wird.
+Kannst du den Sound ändern, den die Trommel macht, wenn sie angeklickt wird?
 
-Du findest die Codeblöcke auf der Registerkarte "Skripte" und sie sind alle farbcodiert!
+![screenshot](images/band-drum-sound.png)
 
-+ Klicke auf die Trommel-Figur und ziehe diese beiden Blöcke in den Code-Bereich rechts. Stelle sicher, dass sie miteinander verbunden sind (wie Lego-Steine):
+Kannst du die Trommel auch dazu bringen ein Geräusch zu machen wenn die Leertaste gedrückt wird? Du musst dieses `Ereignis`{:class="block3events"} verwenden:
 
-![Screenshot](images/connect-block.gif)
+```blocks3
+Wenn Taste [Leertaste v] gedrückt wird
+```
 
-+ Klicke auf die Trommel, um dein neues Instrument auszuprobieren!
+Wenn du deinen vorhandenen Code kopieren möchtest, klicke mit der rechten Maustaste darauf und klicke dann auf **Duplizieren**.
+
+![Screenshot](images/band-duplicate-code.png)

@@ -1,29 +1,20 @@
 ---
 hero_image: images/hero-rock-band-large.png
-theme: red
-duration: 2
 listed: true
-ingredient: false
 copyedit: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Ροκ μπάντα
 description: Μάθε πώς να προγραμματίζεις τα δικά σου μουσικά όργανα
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-interests: ''
-technologies: scratch
-site_areas: projects
-hardware: ''
-software: scratch
-version: 4
-last_tested: 2017-10-01
+version: 4.1.1
+last_tested: 2018-10-12
 steps:
   - title: Εισαγωγή
-  - title: Τι θα χρειαστείς
-  - title: Αντικείμενα
+  - title: Χαρακτήρες
   - title: Το σκηνικό
-  - title: Κάνοντας ένα τύμπανο
+  - title: Φτιάχνοντας ένα τύμπανο
   - title: "Πρόκληση: βελτίωσε το τύμπανό σου"
-  - title: Κάνοντας μία τραγουδίστρια
+    challenge: true
+  - title: Φτιάχνοντας μία τραγουδίστρια
   - title: Ενδυμασίες
-  - title: "Πρόκληση: άλλαξε την ενδυμασία του τυμπάνου σου"
-  - title: "Πρόκληση: δημιούργησε τη δική σου μπάντα"
+  - title: "Πρόκληση: βελτίωσε τη μπάντα σου"
+    challenge: true
+  - title: "Και τώρα;"
