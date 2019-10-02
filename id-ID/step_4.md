@@ -20,23 +20,19 @@ Klik pada ** Musik ** ekstensi untuk menambahkannya.
 
 \--- task \--- Klik pada drum sprite, lalu seret kedua blok ini ke area kode di sebelah kanan:
 
+```blocks3
+when this sprite clicked
+play drum (\(1\) Snare Drum v) for (0.25) beats
+```
+
 \--- tidak-dicetak \---
 
 ![tangkapan layar](images/connect-block.gif)
 
 \--- /tidak dicetak \---
 
-\--- print-only \---
-
-```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
-```
-
-\--- /hanya-cetak \---
-
-Pastikan bahwa blok-blok tersebut saling terhubung (seperti batu bata LEGO).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- tugas \--- Klik pada drum untuk mencoba instrumen baru kamu! \--- / tugas \---
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
