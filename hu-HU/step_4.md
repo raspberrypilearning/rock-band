@@ -20,23 +20,19 @@ Kattints a **Zene** bővítményre a hozzáadáshoz.
 
 \--- task \--- Kattints a dob szereplőre, majd húzd ezt a két blokkot a jobb oldali kódterületre:
 
+```blocks3
+ezen szereplőre kattintáskor
+játssz ((1) Pergődob v) dobon (0.25) ütemig
+```
+
 \--- no-print \---
 
 ![képernyőkép](images/connect-block.gif)
 
 \--- /no-print \---
 
-\--- print-only \---
-
-```blocks3
-ezen szereplőre kattintáskor
-játssz ((1) Pergődob v) dobon (0.25) ütemig
-```
-
-\--- /print-only \---
-
-Győződj meg róla, hogy a blokkok egymáshoz vannak csatlakoztatva (mint a LEGO kockák).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Kattints a dobra, hogy kipróbáld az új hangszered! \--- /task \---
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
