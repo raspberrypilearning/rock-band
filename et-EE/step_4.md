@@ -20,23 +20,19 @@ Klõpsake selle laiendamiseks nuppu **Muusika**.
 
 \--- ülesanne \--- Klõpsa trumli sprite ja lohista need kaks plokki paremal asuvasse koodiala:
 
+```blocks3
+kui see sprite klõpsas
+mängurummi ((1) Snare Drum v) (0,25) löögi jaoks
+```
+
 \--- no-print \---
 
 ![ekraanipilt](images/connect-block.gif)
 
 \--- / no-print \---
 
-\--- ainult printimiseks \---
+Make sure that the blocks are connected together (like LEGO bricks).
 
-```blocks3
-kui see sprite klõpsas
-mängurummi ((1) Snare Drum v) (0,25) löögi jaoks
-```
+\--- /task \---
 
-\--- / ainult printimiseks \---
-
-Veenduge, et plokid on omavahel ühendatud (nagu LEGO tellised).
-
-\--- / ülesanne \---
-
-\--- ülesanne \--- Uue instrumendi proovimiseks klõpsake trumlil! \--- / ülesanne \---
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
