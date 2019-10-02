@@ -20,23 +20,19 @@ Kliknij na opcję **Muzyka**, żeby dodać to rozszerzenie.
 
 \--- task \--- Kliknij na duszka-bębenek, a następnie przeciągnij oba bloki do miejsca na kod po prawej stronie:
 
+```blocks3
+kiedy ten duszek kliknięty
+graj na bębenku (\(1\) Bębenek v) przez (0.25) uderzeń
+```
+
 \--- no-print \---
 
 ![zrzut ekranu](images/connect-block.gif)
 
 \--- /no-print \---
 
-\--- print-only \---
-
-```blocks3
-kiedy ten duszek kliknięty
-graj na bębenku (\(1\) Bębenek v) przez (0.25) uderzeń
-```
-
-\--- /print-only \---
-
-Upewnij się, że bloki są połączone ze sobą (jak klocki LEGO).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Kliknij na bębenek, żeby wypróbować nowy instrument! \--- /task \---
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
