@@ -1,4 +1,4 @@
-\--- no-print \---
+\--- no-stampa \---
 
 Questa è la versione **Scratch 3** del progetto. C'è anche una [versione Scratch 2 del progetto](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
@@ -18,13 +18,13 @@ Impara a programmare i tuoi strumenti musicali!
 
 \--- /no-print \---
 
-\--- Solo stampa \--- Realizzerete un gioco in cui potete cliccare sul cantante o sul tamburo per sentire il canto o il suono della batteria.
+\--- print-only \--- Creerai un gioco in cui potrai cliccare sul cantante o sul tamburo per sentire il canto o il suono della batteria.
 
-![screenshot del gioco](images/demo.png) \--- /print-only \---
+![schermata del gioco](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: Cosa imparerai
+## titolo: Cosa imparerai
 
 + Usa il codice per cambiare il costume di uno sprite in Scratch
 + Usa il codice per far reagire gli sprite all'input in Scratch
@@ -32,7 +32,7 @@ Impara a programmare i tuoi strumenti musicali!
 
 ## \--- collapse \---
 
-## title: Di cosa avrai bisogno
+## titolo: Cosa ti serve
 
 #### Hardware
 
@@ -46,11 +46,11 @@ Impara a programmare i tuoi strumenti musicali!
 
 ## \--- collapse \---
 
-## title: Informazioni aggiuntive per gli educatori
+## titolo: Informazioni aggiuntive per gli educatori
 
 \--- no-print \---
 
-Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/rock-band/print){:target = "_ blank"}.
+Se vuoi stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/rock-band/print){:target = "_ blank"}.
 
 \--- /no-print \---
 
