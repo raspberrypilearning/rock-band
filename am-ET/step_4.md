@@ -20,23 +20,19 @@
 
 \--- ተግባር \--- በትራፊክ ስፒር ላይ ጠቅ ያድርጉ ከዚያም እነዚህን ሁለት ጥቆማዎች በስተቀኝ ላይ ባለው የኮድ ክፍል ውስጥ ይጎትቱት:
 
+```blocks3
+ይህ ጽሑፍ
+መጫወት ድራም (\ (1 \) Snare Drum v) ለ (0.25) ቢሽ
+```
+
 \--- አትም \---
 
 ![ቅጽበታዊ ገጽ እይታ](images/connect-block.gif)
 
 \--- / no-print \---
 
-\--- እታተም ብቻ \---
+Make sure that the blocks are connected together (like LEGO bricks).
 
-```blocks3
-ይህ ጽሑፍ
-መጫወት ድራም (\ (1 \) Snare Drum v) ለ (0.25) ቢሽ
-```
+\--- /task \---
 
-\--- / print-only \---
-
-እነዚህ ሕንፃዎች አንድ ላይ ተያይዘዋል (እንደ LEGO ጡቦች).
-
-\--- / task \---
-
-\--- ተግባር \--- አዲሱን መሳሪያዎን ለመሞከር ከበሮ ላይ ጠቅ ያድርጉ! \--- / ተግባር \---
+\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
