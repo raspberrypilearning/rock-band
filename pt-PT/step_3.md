@@ -1,8 +1,8 @@
-## The Stage
+## O palco
 
-The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+O ** Palco ** é a área à direita onde o teu projeto ganha vida. Pensa nela como uma área de atuação, exatamente como acontece num palco real!
 
-\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+\--- task \--- De momento, o palco está em branco e parece muito chato! Adiciona um cenário clicando em ** Escolher um cenário **.
 
 ![screenshot](images/band-stage-choose.png) \--- /task \---
 
