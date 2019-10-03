@@ -1,12 +1,12 @@
-## Costumes
+## Trajes
 
-Now you will make your singer look like she's singing!
+Agora vais fazer com que pareça que o teu cantor está a cantar!
 
-\--- task \--- You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
+\--- task \--- Podes alterar a aparência do seu ator de cantor quando é clicado, criando um novo traje. Clica na aba Trajes e vais ver o traje do cantor.
 
 ![screenshot](images/band-singer-costume-annotated.png) \--- /task \---
 
-\--- task \--- Right-click on the costume and then click on **duplicate** to create a copy of it.
+\--- task \--- Clica com o botão direito do rato no traje e clica em ** duplicar ** para criar uma cópia.
 
 ![screenshot](images/band-singer-duplicate.png) \--- /task \---
 
