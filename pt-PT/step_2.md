@@ -12,17 +12,17 @@ Se precisares de descarregar e instalar o editor offline do Scratch, podes encon
 
 Parece-se com isto:
 
-![screenshot](images/band-scratch.png) \--- / task \--- \--- task \--- O actor de gato que podes ver é a mascote do Scratch. Tu não vais precisar dele para este jogo, por isso livra-te dele clicando-o com o botão direito do mouse e depois clicando em ** remover **.
+![captura de ecrã](images/band-scratch.png) \--- / task \--- \--- task \--- O actor de gato que podes ver é a mascote do Scratch. Tu não vais precisar dele para este jogo, por isso livra-te dele clicando-o com o botão direito do mouse e depois clicando em ** remover **.
 
-![screenshot](images/band-delete-annotated.png) \--- /task \---
+![captura de ecrã](images/band-delete-annotated.png) \--- /task \---
 
 \--- task \--- A seguir, clica em ** Escolha um ator da biblioteca ** para abrir uma lista de todos os atores do Scratch.
 
-![screenshot](images/band-sprite-library.png) \--- /task \---
+![captura de ecrã](images/band-sprite-library.png) \--- /task \---
 
 \--- task \--- Corre a lista para baixo até veres um actor de tambor. Clique num tambor para o adicionar ao teu projeto.
 
-![screenshot](images/band-sprite-drum.png)
+![captura de ecrã](images/band-sprite-drum.png)
 
 \--- /task \---
 
@@ -34,10 +34,10 @@ Clica e arrasta o tambor para a parte inferior do palco.
 
 \--- Dá um nome ao teu programa escrevendo-o no caixa de texto do topo.
 
-![name](images/band-name-annotated.png)
+![nome](images/band-name-annotated.png)
 
 A seguir clica em **Arquivo** e depois em **Guardar agora** para salvar o teu projeto.
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+Se não estiveres a utilizar o Scratch online, ou não tiveres uma conta no Scratch, podes salvar uma cópia do teu projeto clicando em **Descarregar para o seu computador**.
 
-![screenshot](images/band-save.png) \--- /task \---
+![captura de ecrã](images/band-save.png) \--- /task \---
