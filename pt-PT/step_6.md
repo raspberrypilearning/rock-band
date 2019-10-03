@@ -1,12 +1,12 @@
-## Making a singer
+## Fazer um cantor
 
-Now you will add a singer to your band!
+Agora vais acrescentar um cantor à tua banda!
 
 \--- task \---
 
-Add a singer sprite to your Stage.
+Acrescenta um ator de cantor ao teu palco.
 
-![screenshot](images/band-singer-mic.png)
+![captura de ecrã](images/band-singer-mic.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -14,15 +14,15 @@ Add a singer sprite to your Stage.
 
 \--- task \---
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+Antes de fazer cantar o teu cantor, vais ter que adicionar um som ao ator do teu cantor. Seleciona o ator do cantor, clica na guia Sons e seleciona ** Escolher um som **:
 
-![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+![captura de ecrã](images/band-import-sound-annotated.png) \--- /task \---
 
-\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+\--- task \--- Clica em ** Vozes ** na lista que se encontra na parte superior e escolhe um som para adicionar ao teu ator.
 
-![screenshot](images/band-choose-sound.png) \--- /task \---
+![captura de ecrã](images/band-choose-sound.png) \--- /task \---
 
-\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+\--- task \--- Para utilizar o som, adiciona os seguintes blocos de código ao seu ator de cantor:
 
 ```blocks3
 when this sprite clicked
@@ -31,4 +31,4 @@ play sound (singer1 v) until done
 
 \--- /task \---
 
-\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
+\--- task \--- Clica no teu cantor no palco e vê o que acontece. Canta? \--- / task \---
