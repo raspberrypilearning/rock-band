@@ -1,6 +1,6 @@
-## Challenge: improve your band
+## Desafio: Melhora a tua banda
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+Usa o que aprendeste neste projeto para criar a tua própria banda! Podes criar quaisquer instrumentos que desejares - vê os atores e sons disponíveis para tirar algumas ideias.
 
 ![screenshot](images/band-ideas-sounds.png)
 
