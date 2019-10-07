@@ -31,8 +31,8 @@ predvajaj boben (1. Snare Drum v) za (0,25) utripov
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Prepričaj se, da so bloki med sabo povezani (kot lego kocke).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- Klikni na boben, da preizkusiš svoj novi instrument! \--- /task \---
