@@ -18,27 +18,27 @@ Klicka på den gröna flaggan för att börja. Klicka sen på sångaren eller tr
 
 \--- /no-print \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+Du kommer att göra ett spel där du kan klicka på sångaren eller trumman för att höra sång och trummljud.
 
 ![game screenshot](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## titel: Vad du kommer att lära dig
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ Ändra på en sprites klädsel i Scratch
++ Använd kod i Scratch för att få en sprite att reagera
++ Lägg till ljud till en sprite i Scratch
 
 ## \--- collapse \---
 
-## title: What you will need
+## titel: Vad du kommer att behöva
 
-#### Hardware
+#### Hårdvara
 
-+ A computer capable of running Scratch 3
++ En dator som kan hantera Scratch 3
 
-#### Software
+#### Mjukvara
 
 + Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
