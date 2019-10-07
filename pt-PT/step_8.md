@@ -2,7 +2,7 @@
 
 Usa o que aprendeste neste projeto para criar a tua própria banda! Podes criar quaisquer instrumentos que desejares - vê os atores e sons disponíveis para tirar algumas ideias.
 
-![screenshot](images/band-ideas-sounds.png)
+![captura de ecrã](images/band-ideas-sounds.png)
 
 ```blocks3
 when this sprite clicked
@@ -10,24 +10,24 @@ set instrument to (\(1\) Piano v)
 play note (60) for (0.25) beats
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+Os teus instrumentos não necessitam ter um aspeto realista. Por exemplo, podes fazer um piano com muffins!
 
-![screenshot](images/band-piano.png)
+![captura de ecrã](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+Vais poder utilizar mais atores da biblioteca e também vais poder pintar os teus próprios atores!
 
-![screenshot](images/band-draw.png)
+![captura de ecrã](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## title: Porque é que o meu ator 'salta' quando muda de roupa?
 
-When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+Ao criar o teu próprio ator, vais notar que, quando clicas no ator, ele 'salta' à medida que muda de traje. Isto acontece porque os dois trajes não estão centrados no mesmo lugar.
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+Para corrigir este efeito, verifica se os centros dos trajes do teu ator são os mesmos.
 
 \--- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+Se tiveres um microfone, poderás gravar os teus próprios sons e até utilizar uma webcam para tocar os teus instrumentos!
 
-![screenshot](images/band-io.png)
+![captura de ecrã](images/band-io.png)
