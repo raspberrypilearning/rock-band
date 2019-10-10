@@ -1,8 +1,8 @@
-## Atores
+## Actores
 
-Antes de começar a codificar, vais precisar de adicionar uma "coisa" ao código. No Scratch, essas 'coisas' chamam-se de ** atores **.
+Antes de começar a codificar, vais precisar de adicionar uma "coisa" ao código. No Scratch, essas 'coisas' chamam-se de ** actores **.
 
-\--- Abre um novo projeto Scratch.
+\--- task \--- Abre um novo projeto Scratch.
 
 **Online:** abre um novo projeto online Scratch em [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
