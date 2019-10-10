@@ -6,7 +6,7 @@ V zavihku Koda lahko najdeš programske bloke, ki so vsi barvno označeni!
 
 \--- task \---
 
-Najprej dodajte razširitev **Music** , da lahko predvajate instrumente.
+Najprej dodaj razširitev **Glasba**, da lahko predvajaš instrumente.
 
 Klikni na gumb **Dodaj razširitev** v spodnjem levem kotu.
 
@@ -21,8 +21,8 @@ Klikni na razširitev **Glasba**, da jo dodaš.
 \--- task \--- Klikni na figuro bobna in potem povleci ta dva bloka v območje za programiranje na desni:
 
 ```blocks3
-ko je ta geslo kliknilo
-predvajaj boben (1. Snare Drum v) za (0,25) utripov
+ko kliknemo to figuro
+zaigraj na boben (\(1\) Mali boben v) za (0,25) udarcev
 ```
 
 \--- no-print \---
