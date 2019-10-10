@@ -12,17 +12,17 @@ Clica no botão ** Adicionar Extensão ** no canto inferior esquerdo.
 
 ![adicionar botão de extensão destacado](images/add-extension-annotated.png)
 
-Clique na extensão ** Música ** para a adicionar.
+Clica na extensão ** Música ** para a adicionar.
 
 ![extensão de música destacada](images/click-music-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Clique no ator de tambor e arrasta esses dois blocos para a área de código à direita:
+\--- task \--- Clica no actor de tambor e arrasta estes dois blocos para a área de código à direita:
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+quando alguém clicar em ti
+toca a percussão ((1) Snare Drum v) durante (0.25) tempos
 ```
 
 \--- no-print \---
@@ -35,4 +35,4 @@ Certifica-te de que os blocos estão ligados juntos (como tijolos LEGO).
 
 \--- /task \---
 
-\--- task \--- Clica no tambor para experimentar o teu novo instrumento! \--- / tarefa \---
+\--- task \--- Clica no tambor para experimentar o teu novo instrumento! \--- /task \---
