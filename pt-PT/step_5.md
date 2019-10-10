@@ -1,6 +1,6 @@
 ## Desafio: Melhora o teu tambor
 
-Tu consegues alterar o som que a bateria faz quando é clicada?
+Consegues alterar o som que a bateria faz quando é clicada?
 
 ![captura de ecrã](images/band-drum-sound.png)
 
