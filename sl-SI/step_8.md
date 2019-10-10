@@ -20,9 +20,9 @@ Lahko uporabiš več figur iz knjižnice, lahko pa tudi narišeš svoje!
 
 ## \--- collapse \---
 
-## naslov: Zakaj moja figura 'skače', ko spremeni videz?
+## title: Zakaj moja figura 'skače', ko spremeni videz?
 
-Ko ustvariš svojo lastno figuro, boš morda opazil, da ob kliku na figuro ta 'skoči', ko spremeni videz. Razlog je v tem, da oba videza nista centrirana na istem položaju.
+Ko ustvariš svojo lastno figuro, boš morda opazil, da ob kliku na figuro ta 'skoči', ko spremeni videz. Razlog je v tem, da videza nista centrirana na istem položaju.
 
 Da bi to popravil, poskrbi, da bosta centra obeh videzov figure enaka.
 
