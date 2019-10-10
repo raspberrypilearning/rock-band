@@ -1,6 +1,6 @@
 ## O palco
 
-O ** Palco ** é a área à direita onde o teu projeto ganha vida. Pensa nela como uma área de atuação, exatamente como acontece num palco real!
+O ** Palco ** é a área à direita e é onde o teu projeto ganha vida. Pensa nela como uma área de atuação, exatamente como acontece num palco real!
 
 \--- task \--- De momento, o palco está em branco e parece muito chato! Adiciona um cenário clicando em ** Escolher um cenário **.
 
