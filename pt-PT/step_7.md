@@ -2,7 +2,7 @@
 
 Agora vais fazer com que pareça que a tua cantora está a cantar!
 
-\--- task \--- Podes alterar a aparência do seu ator de cantor quando é clicado, criando um novo traje. Clica na aba Trajes e vais ver o traje do cantor.
+\--- task \--- Podes alterar a aparência do teu actor cantor quando é clicado, criando um novo traje. Clica no separador Trajes e vais ver o traje de cantor.
 
 ![captura de ecrã](images/band-singer-costume-annotated.png) \--- /task \---
 
@@ -21,15 +21,15 @@ Agora vais fazer com que pareça que a tua cantora está a cantar!
 \--- task \--- Agora que tens dois trajes diferentes para o teu cantor, podes escolher qual a roupa que será exibida! Adiciona estes dois blocos de código ao teu ator de cantor:
 
 ```blocks3
-when this sprite clicked
-+switch costume to (singing v)
-play sound (singer1 v) until done
-+switch costume to (not singing v)
+quando alguém clicar em ti
++muda o teu traje para (singing v)
+toca o som (singer1 v) até terminar
++muda o teu traje para (not singing v)
 ```
 
-O bloco de código para mudar o traje está na secção de códigos de ` aparência ` {: class = "block3looks"}. \--- / tarefa \---
+O bloco de código para mudar o traje está na secção de códigos de ` Aparência ` {: class = "block3looks"}. \--- /task \---
 
-\--- task \--- Clica no teu cantor no palco e vê o que acontece. Canta? \--- / task \---
+\--- task \--- Clica na tua cantora no palco. Parece que ela está a cantar? \--- /task \---
 
 \--- task \--- Agora faz com que o teu tambor pareça estar a ser tocado!
 
