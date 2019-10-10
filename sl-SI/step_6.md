@@ -1,6 +1,6 @@
 ## Ustvarjanje pevke
 
-Sedaj boste v svoj bend dodali pevko!
+Sedaj boš v svoj bend dodal pevko!
 
 \--- task \---
 
