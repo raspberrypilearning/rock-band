@@ -1,10 +1,10 @@
-## Fazer um cantor
+## Criar um cantor
 
 Agora vais acrescentar um cantor à tua banda!
 
 \--- task \---
 
-Acrescenta um ator de cantor ao teu palco.
+Acrescenta um actor de cantor ao teu palco.
 
 ![captura de ecrã](images/band-singer-mic.png)
 
@@ -14,7 +14,7 @@ Acrescenta um ator de cantor ao teu palco.
 
 \--- task \---
 
-Antes de fazer cantar o teu cantor, vais ter que adicionar um som ao ator do teu cantor. Seleciona o ator do cantor, clica na guia Sons e seleciona ** Escolher um som **:
+Antes de fazer cantar o teu cantor, vais ter que adicionar um som ao actor do teu cantor. Assegura-te de que tens o actor do cantor selecionado, e depois clica no separador Sons e seleciona ** Escolher um som **:
 
 ![captura de ecrã](images/band-import-sound-annotated.png) \--- /task \---
 
@@ -22,13 +22,13 @@ Antes de fazer cantar o teu cantor, vais ter que adicionar um som ao ator do teu
 
 ![captura de ecrã](images/band-choose-sound.png) \--- /task \---
 
-\--- task \--- Para utilizar o som, adiciona os seguintes blocos de código ao seu ator de cantor:
+\--- task \--- Para utilizar o som, adiciona os seguintes blocos de código ao teu actor cantor:
 
 ```blocks3
-when this sprite clicked
-play sound (singer1 v) until done
+quando alguém clicar em ti
+toca o som (singer1 v) até terminar
 ```
 
 \--- /task \---
 
-\--- task \--- Clica no teu cantor no palco e vê o que acontece. Canta? \--- / task \---
+\--- task \--- Clica na tua cantora no palco e vê o que acontece. Ela canta? \--- /task \---
