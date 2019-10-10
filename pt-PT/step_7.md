@@ -1,6 +1,6 @@
 ## Trajes
 
-Agora vais fazer com que pareça que o teu cantor está a cantar!
+Agora vais fazer com que pareça que a tua cantora está a cantar!
 
 \--- task \--- Podes alterar a aparência do seu ator de cantor quando é clicado, criando um novo traje. Clica na aba Trajes e vais ver o traje do cantor.
 
