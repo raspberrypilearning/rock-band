@@ -1,14 +1,14 @@
-## Fazer um tambor
+## Criar um tambor
 
 Agora vais adicionar código ao teu tambor para que o tambor emita um som ao ser clicado.
 
-Podes encontrar os blocos de código separador de código, e todos são classificados por cores!
+Podes encontrar os blocos de código, no separador "Código", e estāo todos classificados por cores!
 
 \--- task \---
 
 Primeiro acrescenta a extensão ** Musica ** para que possas tocar instrumentos.
 
-Clica no botão ** Adicionar extensão ** no canto inferior esquerdo.
+Clica no botão ** Adicionar Extensão ** no canto inferior esquerdo.
 
 ![adicionar botão de extensão destacado](images/add-extension-annotated.png)
 
