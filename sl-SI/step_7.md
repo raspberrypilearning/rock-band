@@ -1,6 +1,6 @@
 ## Videzi
 
-Sedaj boste usvarili videz, da pevka poje!
+Sedaj boš ustvaril videz, da pevka poje!
 
 \--- task -- Videz figure pevke lahko spreminjaš z ustvarjanjem novega videza. Klikni na zavihek Videzi in videl boš obstoječe videze pevke.
 
@@ -14,7 +14,7 @@ Sedaj boste usvarili videz, da pevka poje!
 
 ![posnetek zaslona](images/band-singer-click.png) \--- /task \---
 
-\--- task -- Imena videzov nam v tem trenutku niso v veliko pomoč. Spremeni jih v 'poje' in 'ne poje' tako, da vneseš novo ime v tekstovno polje videzov.
+\--- task -- Imena videzov nam v tem trenutku niso v veliko pomoč. Spremeni jih v 'poje' in 'ne poje' tako, da vneseš novo ime v okvirček z imeni videzov.
 
 ![posnetek zaslona](images/band-singer-name-annotated.png) \--- /task \---
 
