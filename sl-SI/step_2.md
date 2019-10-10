@@ -4,15 +4,15 @@ Preden lahko začneš s programiranjem, moraš v kodo dodati neko 'stvar'. V Scr
 
 \--- task \--- Odprite nov Scratch projekt.
 
-**S povezavo:** odpri nov spletni Scratch projekt na [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**S povezavo:** ustvari nov spletni Scratch projekt na [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-**Brez povezave:** odprite nov projekt v namiznem Scratch urejevalniku.
+**Brez povezave:** ustvari nov projekt v namiznem Scratch urejevalniku.
 
 Če želiš prenesti in namestiti Namizni Scratch, ga lahko najdeš na [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"}.
 
 To je videti tako:
 
-![posnetek zaslona](images/band-scratch.png) \--- /task \--- \--- task \--- Figura mačke je maskota Scratcha. Za to igro je ne potrebuješ, zato se je znebi z desnim klikom na figuro, potem pa klikni še na **>izbriši**.
+![posnetek zaslona](images/band-scratch.png) \--- /task \--- \--- task \--- Figura mačke je maskota Scratcha. Za to igro je ne potrebuješ, zato se je znebi z desnim klikom na figuro, potem pa klikni še na **>zbriši**.
 
 ![posnetek zaslona](images/band-delete-annotated.png) \--- /task \---
 
@@ -36,7 +36,7 @@ Klikni na boben in ga povleci na spodnjo stran odra.
 
 ![ime](images/band-name-annotated.png)
 
-Nato klikni **Datoteka** in **Shrani zdaj**, da shraniš svoj projekt.
+Nato klikni **Datoteka** in **Shrani takoj**, da shraniš svoj projekt.
 
 Če nisi povezan s spletom ali nimaš Scratch računa, lahko kopijo projekta shraniš s klikom na **Shrani na računalnik**.
 
