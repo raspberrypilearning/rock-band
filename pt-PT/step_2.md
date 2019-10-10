@@ -16,7 +16,7 @@ Parece-se com isto:
 
 ![captura de ecrã](images/band-delete-annotated.png) \--- /task \---
 
-\--- task \--- A seguir, clica em ** Escolha um ator da biblioteca ** para abrir uma lista de todos os atores do Scratch.
+\--- task \--- A seguir, clica em ** Escolher um actor ** para abrir uma lista de todos os actores do Scratch.
 
 ![captura de ecrã](images/band-sprite-library.png) \--- /task \---
 
