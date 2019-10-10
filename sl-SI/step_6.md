@@ -31,4 +31,4 @@ predvajaj zvok (pevec1 v) do konca
 
 \--- /task \---
 
-\--- task \--- Klikni na pevko, ki je na odru in opazuje, kaj se zgodi. Ali poje? \--- /task \---
+\--- task \--- Klikni na pevko, ki je na odru in opazuj, kaj se zgodi. Ali poje? \--- /task \---
