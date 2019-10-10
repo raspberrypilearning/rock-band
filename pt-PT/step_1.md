@@ -10,7 +10,7 @@ Aprende a codificar os teus próprios instrumentos musicais!
 
 ### O que vais fazer
 
-\--- no-print \--- Clicana bandeira verde para começar. Em seguida, clica no cantor ou no tambor para ouvir como soam.
+\--- no-print \--- Clica na bandeira verde para começar. Em seguida, clica no cantor ou no tambor para ouvir como soam.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -26,13 +26,13 @@ Aprende a codificar os teus próprios instrumentos musicais!
 
 ## title: O que vais aprender
 
-+ Usar o código para mudar o traje de um sprite no Scratch
-+ Usar código para fazer sprites reagirem à entrada no Scratch
-+ Acrescentar sons a um sprite no zero \--- / collapse \---
++ Usar código para mudar o traje de um actor no Scratch
++ Usar código para fazer actores reagirem a entradas no Scratch
++ Acrescentar sons a um actor no Scratch \--- / collapse \---
 
 ## \--- collapse \---
 
-## title: Do que vais precisar
+## title: O que vais precisar
 
 #### Hardware
 
@@ -50,7 +50,7 @@ Aprende a codificar os teus próprios instrumentos musicais!
 
 \--- no-print \---
 
-Se for necessário imprimir este projeto, por favor, usa a [versão para impressão](https://projects.raspberrypi.org/en/projects/rock-band/print){: target = "_ blank"}.
+Se for necessário imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/rock-band/print){: target = "_ blank"}.
 
 \--- /no-print \---
 
