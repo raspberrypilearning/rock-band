@@ -2,7 +2,7 @@
 
 Preden lahko začneš s programiranjem, moraš v kodo dodati neko 'stvar'. V Scratchu se takšne 'stvari' imenujejo **figure**.
 
-\--- task \--- Odprite nov Scratch projekt.
+\--- task \--- Odpri nov Scratch projekt.
 
 **S povezavo:** ustvari nov spletni Scratch projekt na [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
@@ -38,6 +38,6 @@ Klikni na boben in ga povleci na spodnjo stran odra.
 
 Nato klikni **Datoteka** in **Shrani takoj**, da shraniš svoj projekt.
 
-Če nisi povezan s spletom ali nimaš Scratch računa, lahko kopijo projekta shraniš s klikom na **Shrani na računalnik**.
+Če nisi povezan-a s spletom ali nimaš Scratch računa, lahko kopijo projekta shraniš s klikom na **Shrani na računalnik**.
 
 ![posnetek zaslona](images/band-save.png) \--- /task \---
