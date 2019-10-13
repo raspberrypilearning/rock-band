@@ -18,13 +18,13 @@ Nauči se programirati svoje lastne glasbene instrumente!
 
 \--- /no-print \---
 
-\--- print-only \--- Izdelal boš igro, v kateri lahko klikneš na pevko ali na boben, da bi slišal petje ali zvok bobna.
+\--- print-only \--- Izdelal-a boš igro, v kateri lahko klikneš na pevko ali na boben, da bo slišati petje ali zvok bobna.
 
 ![posnetek zaslona igre](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: Kaj se boš naučil?
+## title: Kaj se boš naučil-a?
 
 + Uporabljati kodo, za spreminjanje videza figure v Scratchu
 + Uporabljati kodo na tak način, da se figure v Scratchu odzovejo na uporabnikov vnos
@@ -32,7 +32,7 @@ Nauči se programirati svoje lastne glasbene instrumente!
 
 ## \--- collapse \---
 
-## title: Kaj boš potreboval?
+## title: Kaj potrebuješ?
 
 #### Strojna oprema
 
