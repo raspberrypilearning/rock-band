@@ -6,7 +6,7 @@ Maintenant, tu vas faire en sorte que l'on voit que ton chanteur ait l'air de ch
 
 ![capture d'écran](images/band-singer-costume-annotated.png) \--- /task \---
 
-\--- task \--- Fait un clic droit sur le costume, puis clique sur **dupliquer** pour créer une copie du costume.
+\--- task \--- Fais un clic droit sur le costume, puis clique sur **dupliquer** pour créer une copie du costume.
 
 ![capture d'écran](images/band-singer-duplicate.png) \--- /task \---
 
@@ -29,9 +29,9 @@ jouer du son (singer1 v) jusqu'à ce que l'opération soit terminée
 
 Le bloc de code pour changer le costume est dans la section `Apparence`{:class="block3looks"}. \--- /task \---
 
-\--- task \--- Clique sur ton chanteur sur la scène. Est-ce qu'elle semble en train de chanter ? \--- /task \---
+\--- task \--- Clique sur ta chanteuse sur la scène. Est-ce qu'elle semble en train de chanter ? \--- /task \---
 
-\--- task \--- Maintenant tu vas faire en sorte que ton tambour ai l'air d'être frappé !
+\--- task \--- Maintenant tu vas faire en sorte que ton tambour ait l'air d'être frappé !
 
 ![capture d'écran](images/band-drum-final.png)
 
