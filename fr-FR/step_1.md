@@ -18,7 +18,7 @@ Apprends à programmer tes propres instruments de musique !
 
 \--- /no-print \---
 
-\--- print-only \--- Tu va créer un jeu dans lequel tu peut cliquer sur le chanteur ou la batterie pour entendre des sons de chant ou de batterie.
+\--- print-only \--- Tu vas créer un jeu dans lequel tu peux cliquer sur le chanteur ou la batterie pour entendre des sons de chant ou de batterie.
 
 ![capture d'écran du jeu](images/demo.png) \--- /print-only \---
 
@@ -50,7 +50,7 @@ Question
 
 \--- no-print \---
 
-Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/rock-band/print) {: target = "_ blank"}.
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimable](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
