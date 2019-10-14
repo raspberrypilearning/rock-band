@@ -16,7 +16,7 @@ Ajouter un sprite chanteur à ta scène.
 
 Avant de pouvoir faire chanter le chanteur, tu dois ajouter un son à ton sprite chanteur. Assure-toi d’avoir sélectionné ton sprite chanteur, puis clique sur l’onglet Sons, puis sur ** Choisir un son de la bibliothèque** :
 
-![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+![capture d'écran](images/band-import-sound-annotated.png) \--- /task \---
 
 \--- task \--- Clique sur **Voix** dans la liste en haut, puis choisis un son à ajouter à ton sprite.
 
