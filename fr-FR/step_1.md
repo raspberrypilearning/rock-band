@@ -6,7 +6,7 @@ Ceci est la version **Scratch 3** du projet. Il y a aussi une version [Scratch 2
 
 ## Introduction
 
-Apprend à programmer tes propres instruments de musique !
+Apprends à programmer tes propres instruments de musique !
 
 ### Ce que tu feras
 
