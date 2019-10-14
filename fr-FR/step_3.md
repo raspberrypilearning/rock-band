@@ -6,7 +6,7 @@ La **scène** est la zone sur la droite et c'est où ton projet prend vie. Consi
 
 ![capture d'écran](images/band-stage-choose.png) \--- /task \---
 
-\--- task \--- Clique sur **à l'intérieur** dans la liste en haut. Puis cliquez sur un décor de théâtre.
+\--- task \--- Clique sur **à l'intérieur** dans la liste en haut. Puis clique sur un décor de théâtre.
 
 ![screenshot](images/band-backdrop.png) \--- /task \---
 
