@@ -14,7 +14,7 @@ Clique sur le bouton **Ajouter une extension** dans le coin en bas, à gauche.
 
 Clique sur l'extension **Musique** pour l'ajouter.
 
-![music extension highlighted](images/click-music-annotated.png)
+![extension de musique surlignée](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -27,12 +27,12 @@ joue le tambour (\(1\) Snare Drum v) pour (0.25) battements
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![capture d'écran](images/connect-block.gif)
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Assure-toi que les blocs sont connectés ensemble (comme les briques LEGO).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- Clique sur le tambour pour essayer ton nouvel instrument ! \--- /task \---
