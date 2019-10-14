@@ -1,6 +1,6 @@
-## Lutins
+## Sprites
 
-Avant de commencer à coder, vous devez ajouter une «chose» au code. Dans Scratch, ces 'choses' sont appelées ** lutins ** .
+Avant de commencer à coder, vous devez ajouter une «chose» au code. Dans Scratch, ces 'choses' sont appelées **sprites** .
 
 \--- task \--- Ouvre un nouveau projet Scratch.
 
@@ -28,7 +28,7 @@ Si tu dois télécharger et installer l'éditeur hors ligne Scratch, tu peux le 
 
 \--- task \---
 
-Clique et fait glisser le tambour en bas de la scène.
+Clique et fais glisser le tambour en bas de la scène.
 
 \--- /task \---
 
