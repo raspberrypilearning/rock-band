@@ -1,4 +1,4 @@
-## Défi: Améliorer ton tambour
+## Défi: Améliore ton tambour
 
 Peux-tu changer le son que fait le tambour lorsque l'on clique dessus ?
 
