@@ -1,24 +1,34 @@
 ## Creare un cantante
 
-Aggiungiamo un cantante alla tua band!
+Ora aggiungerai un cantante alla tua band!
 
-+ Aggiungi altri due sprite nello stage: un cantante ed un microfono.
+--- task ---
 
-	![screenshot](images/band-singer-mic.png)
+Aggiungi uno sprite del cantante al tuo Palco.
 
-+ Prima che la tua cantante possa cantare, dovrai aggiungere un suono allo sprite. Assicurati di aver selezionato lo sprite della cantante, scegli il pannello 'Suoni' e fai click col mouse su 'Scegli un suono dalla libreria':
+![screenshot](images/band-singer-mic.png)
 
-	![screenshot](images/band-import-sound.png)
+[[[generic-scratch3-sprite-from-library]]]
 
-+ Scegliendo 'Canti' dalla lista a sinistra potrai scegliere un suono adatto da aggiungere allo sprite.
+--- /task ---
 
-	![screenshot](images/band-choose-sound.png)
+--- task ---
 
-+ Dopo aver caricato il suono, aggiungi questo codice alla tua cantante:
+Prima di far cantare il tuo cantante, devi aggiungere un suono allo sprite del tuo cantante. Assicurati di aver selezionato il tuo sprite del cantante, quindi clicca sulla scheda Suoni e seleziona **Scegli un suono**:
 
-	```blocks
-		quando si clicca questo sprite
-		produci suono [singer1 v] e attendi la fine
-	```
+![schermata](images/band-import-sound-annotated.png) --- /task ---
 
-+ Clicca sulla cantante per assicurarti che canti quando viene premuta.
+--- task --- Fai clic su **Voce** nell'elenco in alto, quindi scegli un suono da aggiungere al tuo sprite.
+
+![schermata](images/band-choose-sound.png) --- /task ---
+
+--- task --- Per usare il suono, aggiungi i seguenti blocchi di codice al tuo sprite del cantante:
+
+```blocks3
+quando clicchi su questo sprite
+riproduci il suono (cantante 1 v) fino al completamento
+```
+
+--- /task ---
+
+--- task --- Clicca sul tuo cantante sul palco e guarda cosa succede. Inizia a cantare? --- /task ---

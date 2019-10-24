@@ -1,15 +1,15 @@
-## Lo Stage
+## Il palco
 
-Lo __stage__ è l'area sulla sinistra, ed è lì che il tuo progetto prende vita. Immagina che sia lo spazio per una performance, proprio come un vero palcoscenico!
+Il **Palco** è l'area sulla destra, ed è dove il tuo progetto prende vita. Pensalo come un luogo di spettacolo, proprio come un vero palcoscenico!
 
-+ Lo stage inizialmente è bianco, e piuttosto noioso! Aggiungiamo uno sfondo facendo click col mouse sull'icona 'Scegli uno sfondo dalla libreria'.
+--- task --- Al momento, il palco è bianco e sembra piuttosto noioso! Aggiungi uno sfondo cliccando su **Scegli uno sfondo**.
 
-	![screenshot](images/band-stage-choose.png)
+![schermata](images/band-stage-choose.png) --- /task ---
 
-+ Scegli 'Interni' dal menu di sinistra, seleziona come sfondo un palcoscenico e fai click col mouse sul tasto 'OK'.
+--- task --- Clicca su **Indoors** nell'elenco in alto. Quindi clicca su uno sfondo del teatro.
 
-	![screenshot](images/band-backdrop.png)
+![schermata](images/band-backdrop.png) --- /task ---
 
-+ Adesso il tuo stage dovrebbe presentarsi così:
+--- task --- Il tuo stage dovrebbe ora somigliare a questo:
 
-	![screenshot](images/band-stage.png)
+![schermata](images/band-stage.png) --- /task ---

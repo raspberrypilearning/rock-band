@@ -1,22 +1,25 @@
---- challenge ---
-## Sfida: Crea la tua band
-Usa quello che hai imparato in questo progetto per creare la tua band! Puoi creare tutti gli strumenti che vuoi, ma prima guarda i suoni e gli strumenti disponibili come ispirazione.
+## E poi?
 
-![screenshot](images/band-ideas.png)
+Ora che hai creato il tuo primo progetto Scratch, perché non dai un'occhiata al progetto Scratch [Perso nello spazio](https://projects.raspberrypi.org/it-IT/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)?
 
-Comunque i tuoi strumenti non devono essere sensati. Per esempio potresti creare un pianoforte fatto di muffins!
+--- no-print --- Clicca sulla bandiera verde per vedere l'animazione.
 
-![screenshot](images/band-piano.png)
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-Oltre ad usare gli sprite presenti nella libreria, puoi anche disegnarne di nuovi.
+--- /no-print ---
 
-![screenshot](images/band-draw.png)
+--- print-only ---
 
-Se possiedi un microfono puoi anche registrare i tuoi suoni personalizzati, o addirittura usare una webcam per percuotere il tuo strumento!
+![Progetto completo](images/space-final.png)
 
-![screenshot](images/band-io.png)
-
-
+--- /print-only ---
 
 
---- /challenge ---
+**Traduzioni della Community**
+
+Questo progetto è stato tradotto da **Silvia Caponio**/**Alessandro Mandelli** e revisionato da **Isabella Calabretta**.
+
+Il nostro straordinario team di traduttori volontari ci permette di dare ai bambini di tutto il mondo la possibilità di imparare a programmare. Puoi aiutarci a raggiungere più bambini traducendo i nostri progetti - scopri di più su [rpf.io/translate](https://rpf.io/translate).

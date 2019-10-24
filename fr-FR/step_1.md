@@ -1,31 +1,62 @@
+--- no-print ---
+
+Ceci est la version **Scratch 3** du projet. Il y a aussi une version [Scratch 2 du projet](https://projects.raspberrypi.org/fr-FR/projects/rock-band-scratch2).
+
+--- /no-print ---
+
 ## Introduction
 
-Dans ce projet, vous apprendrez à coder vos propres instruments de musique!
+Apprends à programmer tes propres instruments de musique!
+
+### Ce que tu feras
+
+--- no-print --- Clique sur le drapeau vert pour commencer. Ensuite, clique sur le chanteur ou sur le tambour pour entendre le son qu'il produit.
 
 <div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
- <img src="images/band-final.png">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-Pour ce projet les ressources scratch 2 devrait être utilisé. Scratch 2 peut ou être utilisée <a href="http://scratch.mit.edu/projects/editor/">online</a> ou <a href="http://scratch.mit.edu/scratch2download/">offline</a>.
+--- /no-print ---
 
-Vous pouvez trouver une version complétée de ce projet <a href="http://scratch.mit.edu/projects/26741186/#editor">online</a>, ou il peut être téléchargé en cliquant sur le lien de Téléchargement  des 'Matériels de Projet' de ce projet, qui contient :
+--- print-only --- Tu vas créer un jeu dans lequel tu peux cliquer sur le chanteur ou la batterie pour entendre des sons de chant ou de batterie.
 
-+ RockBand.sb2
+![capture d'écran du jeu](images/demo.png) --- /print-only ---
 
-## Objectifs d'apprentissage
-+ Costumes;
-+ Plus d'événements (les touches appuient et des clics de lutin);
-+ Son et musique.
+--- collapse ---
+---
+title: Ce que tu vas apprendre
+---
 
-## Défis
-+ "L'amélioration de votre tambour" - changez le son du lutin et ajoutez lui des évènements;
-+ "Changez le costume de votre chanteur" - Ajoutez et contrôlez le costume du lutin;
-+ "Faites votre propre bande" - l'utilisation des compétences apprisent pour créer de nouveaux instruments.
++ Utiliser le code pour changer le costume du sprite dans Scratch
++ Utiliser le code pour faire réagir les sprites à une entrée dans Scratch
++ Ajouter des sons à un sprite dans Scratch --- /collapse ---
 
-## Questions fréquemment posées
-+ En créant leur propre lutin, les enfants peuvent constater que leur lutin 'saute' quand il est cliqué, comme il change de costume. C'est à cause des deux costumes, ils ne sont pas centré au même endroit.
+--- collapse ---
+---
+title: Ce qu'il faut avoir
+---
 
-Pour réparer ceci, cliquez ' Définir le centre du costume ' sur les deux lutin et assurez-vous qu'ils ont les même centre sur les deux costumes.
+#### Matériel
 
-![screenshot](images/band-center.png)
++ Un ordinateur capable d'exécuter Scratch 3
+
+#### Logiciel
+
++ Scratch 3 ([en ligne](http://rpf.io/scratchon) ou [hors ligne](http://rpf.io/scratchoff))
+
+Question
+
+--- collapse ---
+---
+title: Informations supplémentaires pour les éducateurs
+---
+
+--- no-print ---
+
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimable](https://projects.raspberrypi.org/fr-FR/projects/rock-band/print){:target="_blank"}.
+
+--- /no-print ---
+
+Tu peux trouver le [projet terminé ici](http://rpf.io/p/fr-FR/rock-band-get).
+
+--- /collapse ---

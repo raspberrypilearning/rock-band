@@ -1,9 +1,34 @@
---- challenge ---
-## Sfida: Cambiare il costume del tamburo
-Riesci a fare apparire il tamburo come se venisse colpito? Se hai bisogno di aiuto, utilizza le precedenti istruzioni per cambiare il costume della cantante.
+## Sfida: migliora la tua banda
 
-![screenshot](images/band-drum-final.png)
+Usa quello che hai imparato in questo progetto per formare la tua band! Puoi creare tutti gli strumenti che vuoi: guarda gli sprite e i suoni disponibili per farti un'idea.
 
-Ricordati di provare che il nuovo codice funzioni!
+![schermata](images/band-ideas-sounds.png)
 
---- /challenge ---
+```blocks3
+quando clicchi su questo sprite
+imposta lo strumento su (\ (1 \) Piano v)
+suona la nota (60) per (0,25) battiti
+```
+
+Tuttavia, i tuoi strumenti non devono essere realistici. Ad esempio, potresti creare un piano fatto di muffin!
+
+![schermata](images/band-piano.png)
+
+Puoi scegliere più sprite dalla libreria e puoi anche dipingere i tuoi sprite!
+
+![schermata](images/band-draw.png)
+
+--- collapse ---
+---
+title: Perché il mio sprite "salta" quando cambia costume?
+---
+
+Mentre crei il tuo sprite, potresti notare che quando clicchi sullo sprite, questo "salta" mentre cambia costume. Questo perché i due costumi non sono centrati nello stesso punto.
+
+Per risolvere questo problema, assicurati che i costumi dello sprite siano centrati.
+
+--- /collapse ---
+
+Se hai un microfono, puoi registrare i tuoi suoni e puoi persino usare una webcam per suonare i tuoi strumenti!
+
+![screenshot](images/band-io.png)

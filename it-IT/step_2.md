@@ -1,31 +1,43 @@
-## Sprites
+## Sprite
 
-Prima di cominciare a programmare devi aggiungere un 'oggetto', in Scratch questi 'oggetti' si chiamano __sprites__.
+Prima di poter cominciare a programmare, hai bisogno di aggiungere al tuo progetto un ‘oggetto’ da programmare. In Scratch questi ‘oggetti’ si chiamano **sprite**.
 
-+ Prima di tutto apri l'editor di Scratch. Lo trovi online all'indirizzo: <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. Si presenta così:
+--- task --- Apre un nuovo progetto Scratch.
 
-	![screenshot](images/band-scratch.png)
+**Online:** apri un nuovo progetto Scratch online su [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-+ Lo sprite del gatto che vedi è la mascotte di Scratch. Buttiamolo via premendo col tasto destro del mouse sullo sprite per selezionare l'opzione 'cancella'.
+**Offline:** apri un nuovo progetto nell'editor offline.
 
-	![screenshot](images/band-delete.png)
+Se hai bisogno di scaricare ed installare l'editor Scratch offline, puoi trovarlo su [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-+ Poi fai click col mouse su 'scegli uno sprite dalla libreria' per aprire la lista con tutti gli sprite di Scratch.
+Apparirà così:
 
-	![screenshot](images/band-sprite-library.png)
+![schermata](images/band-scratch.png) --- /task --- --- task --- Il gatto sprite che vedi è la mascotte di Scratch. Non ne hai bisogno per questo gioco, quindi eliminalo cliccandoci sopra col tasto destro e scegli **Elimina**.
 
-+ Scorri verso il basso fino a che non trovi lo sprite di un tamburo. Seleziona uno dei due sprite e per aggiungerlo al progetto premi il tasto 'OK' in basso a destra.
+![schermata](images/band-delete-annotated.png) --- /task ---
 
-	![screenshot](images/band-sprite-drum.png)
+--- task --- Adesso fai clic su **Scegli sprite dalla libreria** per aprire un elenco di tutti gli sprite di Scratch.
 
-+ Premi l'icona 'espandi' e poi fai click varie volte sul tamburo per rimpicciolirlo.
+![schermata](images/band-sprite-library.png) --- /task ---
 
-	![screenshot](images/band-shrink.png)
+--- task --- Scorri in basso fino a uno sprite del tamburo. Clicca su un tamburo per aggiungerlo al tuo progetto.
 
-Dai un nome al tuo programma, scrivendo nella casella di testo nell'angolo in alto a sinistra.
+![schermata](images/band-sprite-drum.png)
 
-Per salvare il progetto puoi anche selezionare la voce 'Salva ora' dal menu 'File'.
+--- /task ---
 
-![screenshot](images/band-save.png)
+--- task ---
 
-(Se invece non hai un account Scratch, puoi comunque salvare una copia del tuo progetto selezionando 'Download sul tuo computer').
+Clicca e trascina il tamburo sul fondo del palco.
+
+--- /task ---
+
+--- task --- Assegna un nome al tuo programma digitandolo nella casella di testo in alto.
+
+![nome](images/band-name-annotated.png)
+
+Adesso clicca su **File**, quindi su **Salva ora** per salvare il progetto.
+
+Se non sei online o non hai un account Scratch, puoi salvare una copia del progetto cliccando su **Salva sul computer**.
+
+![schermata](images/band-save.png) --- /task ---
