@@ -29,7 +29,8 @@ title: Ce que tu vas apprendre
 
 + Utiliser le code pour changer le costume du sprite dans Scratch
 + Utiliser le code pour faire réagir les sprites à une entrée dans Scratch
-+ Ajouter des sons à un sprite dans Scratch --- /collapse ---
++ Ajouter des sons à un sprite dans Scratch 
+--- /collapse ---
 
 --- collapse ---
 ---
@@ -42,9 +43,9 @@ title: Ce qu'il faut avoir
 
 #### Logiciel
 
-+ Scratch 3 ([en ligne](http://rpf.io/scratchon) ou [hors ligne](http://rpf.io/scratchoff))
++ Scratch 3 ([en ligne](http://rpf.io/scratchon){:target="_blank"} ou [hors ligne](http://rpf.io/scratchoff){:target="_blank"})
 
-Question
+--- /collapse ---
 
 --- collapse ---
 ---
