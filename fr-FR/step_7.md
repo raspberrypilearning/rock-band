@@ -10,7 +10,7 @@ Maintenant, tu vas faire en sorte que l'on voit que ton chanteur ait l'air de ch
 
 ![capture d'écran](images/band-singer-duplicate.png) --- /task ---
 
---- task --- Clique sur le nouveau costume (appelé 'Singer2'), puis sélectionne l'outil ligne et dessine des lignes pour donner l'impression que ton chanteur émet un son.
+--- task --- Clique sur le nouveau costume (appelé 'Chanteur2'), puis sélectionne l'outil ligne et dessine des lignes pour donner l'impression que ton chanteur émet un son.
 
 ![screenshot](images/band-singer-click.png) --- /task ---
 

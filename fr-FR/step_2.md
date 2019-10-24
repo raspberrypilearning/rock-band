@@ -36,7 +36,7 @@ Clique et fais glisser le tambour en bas de la scène.
 
 ![nom](images/band-name-annotated.png)
 
-Puis, tu peux cliquer sur **Fichier**, et sur **Sauvegarder maintenant** pour enregistrer ton projet.
+Puis, tu peux cliquer sur **Fichier**, et sur **Enregister maintenant** pour enregistrer ton projet.
 
 Si tu n’es pas en ligne, tu peux enregistrer une copie de ton projet en cliquant sur **Sauvegarder sur votre ordinateur**.
 
