@@ -1,6 +1,6 @@
 ## Sprites
 
-Avant de commencer à coder, vous devez ajouter une «chose» au code. Dans Scratch, ces 'choses' sont appelées **sprites**.
+Avant de commencer à coder, vous devez ajouter une «chose» au code. Dans Scratch, ces «choses» sont appelées **sprites**.
 
 --- task --- Ouvre un nouveau projet Scratch.
 
@@ -38,6 +38,6 @@ Clique et fais glisser le tambour en bas de la scène.
 
 Puis, tu peux cliquer sur **Fichier**, et sur **Sauvegarder maintenant** pour enregistrer ton projet.
 
-Si tu n’es pas en ligne, tu peux enregistrer une copie de ton projet en cliquant sur **Enregistrer dans votre ordinateur**.
+Si tu n’es pas en ligne, tu peux enregistrer une copie de ton projet en cliquant sur **Sauvegarder sur votre ordinateur**.
 
 ![capture d'écran](images/band-save.png) --- /task ---
