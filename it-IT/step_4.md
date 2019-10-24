@@ -31,8 +31,8 @@ suona il tamburo (\ (1 \) Rullante v) per (0,25) battiti
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Assicurati che i blocchi siano collegati (come i mattoncini LEGO).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- Clicca sul tamburo per provare il tuo nuovo strumento! \--- / compito \---
