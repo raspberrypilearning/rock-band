@@ -42,7 +42,7 @@ Apprends à programmer tes propres instruments de musique !
 
 + Scratch 3 ( [en ligne](http://rpf.io/scratchon) ou [hors ligne](http://rpf.io/scratchoff)")
 
-Question
+\--- /collapse \---
 
 ## \--- collapse \---
 
