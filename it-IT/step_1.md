@@ -57,6 +57,6 @@ Se vuoi stampare questo progetto, cliccate su [Versione stampabile](https://proj
 
 --- /no-print ---
 
-Puoi trovare il [progetto completo qui](http://rpf.io/p/it-IT/rock-band-get){:target="_blank.
+Puoi trovare il [progetto completo qui](http://rpf.io/p/it-IT/rock-band-get).
 
 --- /collapse ---

@@ -14,7 +14,7 @@ Maintenant, tu vas faire en sorte que l'on voit que ton chanteur ait l'air de ch
 
 ![screenshot](images/band-singer-click.png) --- /task ---
 
---- task --- Les noms des costumes ne sont pas très utiles pour le moment. Tape dans les boîtes de texte des costumes pour changer leurs noms à 'ne pas chanter' et 'chanter'.
+--- task --- Les noms des costumes ne sont pas très utiles pour le moment. Tape dans les boîtes de texte des costumes pour changer leurs noms à 'ne chante pas' et 'chante'.
 
 ![capture d'écran](images/band-singer-name-annotated.png) --- /task ---
 

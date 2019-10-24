@@ -14,7 +14,7 @@ Aggiungi uno sprite del cantante al tuo Palco.
 
 --- task ---
 
-Prima di far cantare il tuo cantante, devi aggiungere un suono allo sprite del tuo cantante. Assicurati di aver selezionato il tuo sprite del cantante, quindi clicca sulla scheda Suoni e seleziona **Scegli un suono**:
+Prima di far cantare il tuo cantante, devi aggiungere un suono allo sprite del tuo cantante. Assicurati di aver selezionato il tuo sprite del cantante, quindi clicca sulla scheda Suoni e seleziona **Scegli un Suono**:
 
 ![schermata](images/band-import-sound-annotated.png) --- /task ---
 
@@ -25,8 +25,8 @@ Prima di far cantare il tuo cantante, devi aggiungere un suono allo sprite del t
 --- task --- Per usare il suono, aggiungi i seguenti blocchi di codice al tuo sprite del cantante:
 
 ```blocks3
-quando clicchi su questo sprite
-riproduci il suono (cantante 1 v) fino al completamento
+quando si clicca questo sprite
+riproduci suono (Singer1 v) e attendi la fine
 ```
 
 --- /task ---

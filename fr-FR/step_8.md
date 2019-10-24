@@ -1,4 +1,4 @@
-## Défi: Amélior ton groupe
+## Défi: Améliore ton groupe
 
 Utilise ce que tu as appris dans ce projet pour créer ton propre groupe! Tu peux créer tous les instruments que tu aimes - regarde les instruments disponibles et les sons pour te donner des idées.
 

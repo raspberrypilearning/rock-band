@@ -16,7 +16,7 @@ Apparirà così:
 
 ![schermata](images/band-delete-annotated.png) --- /task ---
 
---- task --- Adesso fai clic su **Scegli sprite dalla libreria** per aprire un elenco di tutti gli sprite di Scratch.
+--- task --- Adesso fai clic su **Scegli uno sprite** per aprire un elenco di tutti gli sprite di Scratch.
 
 ![schermata](images/band-sprite-library.png) --- /task ---
 
@@ -38,6 +38,6 @@ Clicca e trascina il tamburo sul fondo del palco.
 
 Adesso clicca su **File**, quindi su **Salva ora** per salvare il progetto.
 
-Se non sei online o non hai un account Scratch, puoi salvare una copia del progetto cliccando su **Salva sul computer**.
+Se non sei online o non hai un account Scratch, puoi salvare una copia del progetto cliccando su **Salva sul tuo computer**.
 
 ![schermata](images/band-save.png) --- /task ---
