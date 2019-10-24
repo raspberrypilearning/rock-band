@@ -6,7 +6,7 @@ Usa o que aprendeste neste projeto para criar a tua própria banda! Podes criar 
 
 ```blocks3
 quando alguém clicar em ti
-altera a teu instrumento para ((1) Piano v)
+altera a teu instrumento para (\(1\) Piano v)
 toca a nota (60) durante (0.25) tempos
 ```
 

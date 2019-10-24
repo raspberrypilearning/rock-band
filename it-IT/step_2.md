@@ -16,7 +16,7 @@ Apparirà così:
 
 ![schermata](images/band-delete-annotated.png) --- /task ---
 
---- task --- Adesso fai clic su **Scegli uno sprite** per aprire un elenco di tutti gli sprite di Scratch.
+--- task --- Adesso fai clic su **Scegli uno Sprite** per aprire un elenco di tutti gli sprite di Scratch.
 
 ![schermata](images/band-sprite-library.png) --- /task ---
 

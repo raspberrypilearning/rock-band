@@ -14,7 +14,7 @@ Acrescenta um actor de cantor ao teu palco.
 
 --- task ---
 
-Antes de fazer cantar o teu cantor, vais ter que adicionar um som ao actor do teu cantor. Assegura-te de que tens o actor do cantor selecionado, e depois clica no separador Sons e seleciona **Escolher um som**:
+Antes de fazer cantar o teu cantor, vais ter que adicionar um som ao actor do teu cantor. Assegura-te de que tens o actor do cantor selecionado, e depois clica no separador Sons e seleciona **Escolher um Som**:
 
 ![captura de ecrã](images/band-import-sound-annotated.png) --- /task ---
 

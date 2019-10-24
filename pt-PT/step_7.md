@@ -14,7 +14,7 @@ Agora vais fazer com que pareça que a tua cantora está a cantar!
 
 ![captura de ecrã](images/band-singer-click.png) --- /task ---
 
---- task --- Os nomes atuais dos trajes não são muito úteis. Usa as caixas de texto dos trajes para alterar os seus nomes para 'não cantando' e 'cantando'.
+--- task --- Os nomes atuais dos trajes não são muito úteis. Usa as caixas de texto dos trajes para alterar os seus nomes para 'Em silêncio' e 'A cantar'.
 
 ![captura de ecrã](images/band-singer-name-annotated.png) --- /task ---
 
@@ -22,9 +22,9 @@ Agora vais fazer com que pareça que a tua cantora está a cantar!
 
 ```blocks3
 quando alguém clicar em ti
-+muda o teu traje para (singing v)
++muda o teu traje para (A cantar v)
 toca o som (singer1 v) até terminar
-+muda o teu traje para (not singing v)
++muda o teu traje para (Em silêncio v)
 ```
 
 O bloco de código para mudar o traje está na secção de códigos de `Aparência`{:class="block3looks"}. --- /task ---

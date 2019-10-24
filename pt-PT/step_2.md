@@ -1,6 +1,6 @@
 ## Actores
 
-Antes de começar a codificar, vais precisar de adicionar uma "coisa" ao código. No Scratch, essas 'coisas' chamam-se de **actores**.
+Antes de começar a codificar, vais precisar de adicionar uma "coisa" ao código. No Scratch, essas "coisas" chamam-se de **actores**.
 
 --- task --- Abre um novo projeto Scratch.
 
@@ -16,7 +16,7 @@ Parece-se com isto:
 
 ![captura de ecrã](images/band-delete-annotated.png) --- /task ---
 
---- task --- A seguir, clica em **Escolher um actor** para abrir uma lista de todos os actores do Scratch.
+--- task --- A seguir, clica em **Escolher um Actor** para abrir uma lista de todos os actores do Scratch.
 
 ![captura de ecrã](images/band-sprite-library.png) --- /task ---
 

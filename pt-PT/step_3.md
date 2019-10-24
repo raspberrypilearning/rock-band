@@ -2,7 +2,7 @@
 
 O **Palco** é a área à direita e é onde o teu projeto ganha vida. Pensa nela como uma área de atuação, exatamente como acontece num palco real!
 
---- task --- De momento, o palco está em branco e parece muito chato! Adiciona um cenário clicando em **Escolher um cenário**.
+--- task --- De momento, o palco está em branco e parece muito chato! Adiciona um cenário clicando em **Escolher um Cenário**.
 
 ![captura de ecrã](images/band-stage-choose.png) --- /task ---
 

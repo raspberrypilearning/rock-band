@@ -6,7 +6,7 @@ Podes encontrar os blocos de código, no separador "Código", e estāo todos cla
 
 --- task ---
 
-Primeiro acrescenta a extensão **Musica** para que possas tocar instrumentos.
+Primeiro acrescenta a extensão **Música** para que possas tocar instrumentos.
 
 Clica no botão **Adicionar Extensão** no canto inferior esquerdo.
 
@@ -22,7 +22,7 @@ Clica na extensão **Música** para a adicionar.
 
 ```blocks3
 quando alguém clicar em ti
-toca a percussão ((1) Snare Drum v) durante (0.25) tempos
+toca a percussão (\(1\) Caixa v) durante (0.25) tempos
 ```
 
 --- no-print ---
