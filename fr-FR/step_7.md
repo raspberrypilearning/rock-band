@@ -21,10 +21,10 @@ Maintenant, tu vas faire en sorte que l'on voit que ton chanteur ait l'air de ch
 --- task --- Maintenant que tu as deux costumes différents pour ton chanteur, tu peux choisir quel costume est affiché ! Ajoute ces deux blocs de code à ton sprite chanteur:
 
 ```blocks3
-lorsque ce sprite est cliqué
-+ bascule le costume sur (chanter v)
-jouer du son (singer1 v) jusqu'à ce que l'opération soit terminée
-+ basculer costume sur (ne pas chanter v)
+quand ce sprite est cliqué
++basculer sur le costume (chante v)
+jouer le son (Chanteur1 v) jusqu'au bout
++basculer sur le costume (ne chante pas v)
 ```
 
 Le bloc de code pour changer le costume est dans la section `Apparence`{:class="block3looks"}. --- /task ---

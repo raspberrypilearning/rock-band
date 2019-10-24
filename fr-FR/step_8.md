@@ -5,9 +5,9 @@ Utilise ce que tu as appris dans ce projet pour créer ton propre groupe! Tu peu
 ![capture d'écran](images/band-ideas-sounds.png)
 
 ```blocks3
-lorsque ce sprite est cliqué
-définis l'instrument sur (\(1\) Piano v)
-joue la note (60) pour (0,25) battements
+quand ce sprite est cliqué
+choisir l'instrument n° (\(1\) Piano v)
+jouer la note (60) pendant (0.25) temps
 ```
 
 Tes instruments ne doivent pas forcément être réalistes cependant. Par exemple, Tu pourrais créer un piano fait de muffins!
