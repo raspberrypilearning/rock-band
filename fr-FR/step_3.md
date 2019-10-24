@@ -1,15 +1,15 @@
-## Défi : Amélioration de votre tambour
+## La scène
 
-+ Pouvez-vous changer le son de votre tambour lorsqu'il est cliqué ?
+La **scène** est la zone sur la droite et c'est où ton projet prend vie. Considère-le comme une zone de performance, tout comme une scène réelle!
 
-![screenshot](images/band-drum-sound.png)
+--- task --- Pour le moment, la scène est blanche et semble plutôt ennuyeuse ! Ajoute un arrière-plan en cliquant sur **Choisir un arrière-plan**.
 
-+ Pouvez-vous aussi faire un son quand la barre d'espace est appuyée ? Vous devrez utiliser les blocs `Événement`{:class="blockevents"}:
+![capture d'écran](images/band-stage-choose.png) --- /task ---
 
-```blocks
-	quand [espace v] est pressé
-```
+--- task --- Clique sur **à l'intérieur** dans la liste en haut. Puis clique sur un décor de théâtre.
 
- Vous pouvez copier votre code existant en y faisant un clic droit et en cliquant sur 'dupliquer'.
+![screenshot](images/band-backdrop.png) --- /task ---
 
-![screenshot](images/band-duplicate-code.png)
+--- task --- Ta scène devrait maintenant ressembler à ceci:
+
+![capture d'écran](images/band-stage.png) --- /task ---

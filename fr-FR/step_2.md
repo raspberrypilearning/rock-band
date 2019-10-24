@@ -1,53 +1,43 @@
-## Fabrication d'un tambour
+## Sprites
 
-Tout d'abord, créons un tambour qui produit un son lorsqu'il est frappé.
+Avant de commencer à coder, vous devez ajouter une «chose» au code. Dans Scratch, ces «choses» sont appelées **sprites**.
 
-+ Commencez un nouveau projet de Scratch et supprimez le lutin du chat pour que votre projet soit vide. Vous pouvez trouver l'éditeur de scratch en ligne à <a href="http://jumpto.cc/scratch-new">jumpto.cc/scratch-new</a>.
+--- task --- Ouvre un nouveau projet Scratch.
 
-+ Ajoutez un lutin de tambour à votre projet et vous pouvez aussi ajoutez une image de fond appropriée à l'étape.
+**En ligne:** ouvre un nouveau projet Scratch en ligne sur [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-	![screenshot](images/band-stage.png)
+**Hors ligne:** ouvre un nouveau projet dans l'éditeur hors ligne.
 
-	Si vous n'êtes pas sûr de comment faire cela, le projet ' Lost in space ' vous aidera!
+Si tu dois télécharger et installer l'éditeur hors ligne Scratch, tu peux le trouver à [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-+ Programmons le tambour pour qu'il joue un son lorsqu'il est cliqué. Assurez-vous que le lutin de tambour soit sélectionné et ajoutez ce code :
+Ça ressemble ça:
 
-	```blocks
-		quand ce lutin est cliqué
-		jouer du tambour (1 v) pendant (0.25) temps
-	```
+![screenshot](images/band-scratch.png) --- /task --- --- task --- Le sprite de chat que tu peux voir est la mascotte de Scratch. Tu n’en as pas besoin pour ce jeu, alors tu peux t’en débarrasser en cliquant avec le bouton droit et puis en cliquant sur **supprimer**.
 
-+ Cliquez sur le tambour pour essayer votre nouvel instrument!
+![capture d'écran](images/band-delete-annotated.png) --- /task ---
 
-+ Vous pouvez aussi changer l'aspect du tambour lorsqu'il est cliqué en créant un nouveau costume. Cliquez sur l'onglet 'Costumes' et vous verrez l'image du tambour.
+--- task --- Ensuite, clique sur **Choisir un sprite à partir de la bibliothèque** pour ouvrir une liste de tous les sprite Scratch.
 
-	![screenshot](images/band-drum-costume.png)
+![screenshot](images/band-sprite-library.png) --- /task ---
 
-+ Faites un clic droit sur le costume et cliquez sur 'dupliquer' afin de créer une copie du costume.
+--- task --- Fais défiler jusqu'à ce que tu trouves un sprite de tambour. Clique sur un tambour pour l'ajouter à ton projet.
 
-	![screenshot](images/band-drum-duplicate.png)
+![screenshot](images/band-sprite-drum.png)
 
-+ Cliquez sur le nouveau costume (appelé 'drum2') et sélectionnez l'outil de ligne. Ensuite, vous devez tracer des lignes pour donner l'impression que le tambour joue un son.
+--- /task ---
 
-	![screenshot](images/band-drum-hit.png)
+--- task ---
 
-+ Les noms des costumes ne sont pas très utiles à l'heure actuelle. Renommez les 2 costumes 'not hit' et 'hit' en écrivant le nouveau nom de chaque costume dans la boîte de texte.
+Clique et fais glisser le tambour en bas de la scène.
 
-	![screenshot](images/band-drum-name.png)
+--- /task ---
 
-+ Maintenant que vous avez 2 costumes différents pour votre tambour, vous pouvez choisir quel costume est affiché! Ajoutez ce code à votre tambour :
+--- task --- Donne un nom à ton programme en tapant dans la zone de texte en haut.
 
-	```blocks
-		quand le drapeau vert pressé
-		basculer sur le costume [not hit v]
+![nom](images/band-name-annotated.png)
 
-		quand ce lutin est cliqué
-		basculer sur costume [hit v]
-		jouer du tambour (1 v) pendant (0.25) temps
-		basculer sur costume [not hit v]
+Puis, tu peux cliquer sur **Fichier**, et sur **Enregister maintenant** pour enregistrer ton projet.
 
-	```
+Si tu n’es pas en ligne, tu peux enregistrer une copie de ton projet en cliquant sur **Sauvegarder sur votre ordinateur**.
 
-	Le bloc de code pour changer le costume est dans la section `Apparences`{:class="blocklooks"}.
-
-+ Testez votre tambour. Lorsque le tambour est cliqué, il devrait maintenant changer de costume afin de montrer qu'il a été frappé.
+![capture d'écran](images/band-save.png) --- /task ---

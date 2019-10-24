@@ -1,10 +1,15 @@
---- challenge ---
-## Défi : Changement du costume de votre chanteur
+## Défi: Améliore ton tambour
 
-Pouvez-vous faire  semblant  que votre chanteur chante lorsque vous cliqué ? Si vous avez besoin d'aide, vous pouvez utiliser les instructions pour créer un tambour ci-dessus.
+Peux-tu changer le son que fait le tambour lorsque l'on clique dessus?
 
-![screenshot](images/band-singer-final.png)
+![screenshot](images/band-drum-sound.png)
 
-N'oubliez pas de tester votre nouveau code !
+Peux-tu également faire en sorte que le tambour émette un bruit quand on appuie sur la barre espace ? Tu devras utiliser un bloc `événement`{:class="block3events"}:
 
---- /challenge ---
+```blocks3
+quand la touche [espace] est pressée
+```
+
+Si tu veux copier ton code existant, clique dessus avec le bouton droit de la souris et clique sur **dupliquer**.
+
+![capture d'écran](images/band-duplicate-code.png)

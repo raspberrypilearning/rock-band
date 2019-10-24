@@ -1,13 +1,34 @@
-## Défi : Faites votre propre orchestre
+## Créer un chanteur
 
-L'utilisation que vous avez appris dans ce projet de faire votre propre orchestre! Vous pouvez maintenant créer n'importe quel instrument que vous aimez, mais vérifiez les sons qui sont disponibles afin d'obtenir quelques idées pour votre création.
+Maintenant, tu vas ajouter un chanteur à ton groupe!
 
-![screenshot](images/band-ideas.png)
+--- task ---
 
-Vos instruments peuvent être farfelus et créatifs. Par exemple, vous pourriez faire un piano fait de muffins!
+Ajouter un sprite chanteur à ta scène.
 
-![screenshot](images/band-piano.png)
+![capture d'écran](images/band-singer-mic.png)
 
-Si vous avez un microphone, vous pouvez enregistrer vos propres sons, ou même utiliser une web cam pour taper sur vos instruments!
+[[[generic-scratch3-sprite-from-library]]]
 
-![screenshot](images/band-io.png)
+--- /task ---
+
+--- task ---
+
+Avant de pouvoir faire chanter le chanteur, tu dois ajouter un son à ton sprite chanteur. Assure-toi d’avoir sélectionné ton sprite chanteur, puis clique sur l’onglet Sons, puis sur **Choisir un son**:
+
+![capture d'écran](images/band-import-sound-annotated.png) --- /task ---
+
+--- task --- Clique sur **Voix** dans la liste en haut, puis choisis un son à ajouter à ton sprite.
+
+![capture d'écran](images/band-choose-sound.png) --- /task ---
+
+--- task --- Pour utiliser le son, ajoute les blocs de code suivants à ton sprite chanteur:
+
+```blocks3
+quand ce sprite est cliqué
+jouer le son (Chanteur1 v) jusqu'au bout
+```
+
+--- /task ---
+
+--- task --- Clique sur ton chanteur sur la scène et regarde ce qui se passe. Est-ce qu'elle chante? --- /task ---

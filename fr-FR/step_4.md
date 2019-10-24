@@ -1,24 +1,38 @@
-## Création d'un Chanteur
+## Créer un tambour
 
-Ajoutons un chanteur à votre orchestre!
+Maintenant, tu vas ajouter du code à ta batterie afin que le tambour fasse un son quand il est cliqué.
 
-+ Ajoutez 2 autres lutins, un chanteur et un micro à votre étape.
+Tu peux trouver les blocs de code dans l'onglet Scripts, et ils ont tous un code couleur!
 
-	![screenshot](images/band-singer-mic.png)
+--- task ---
 
-+ Avant que vous ne puissiez faire chanter votre chanteur, vous devez ajouter un son à votre lutin. Assurez-vous que vous avez bien selectionné votre chanteur, cliquez sur l'onglet 'Sons' et cliquez sur ' Choisir un son dans la bibliothèque ' :
+Ajoute d'abord l'extension **Musique** pour pouvoir jouer des instruments.
 
-	![screenshot](images/band-import-sound.png)
+Clique sur le bouton **Ajouter une extension** dans le coin en bas, à gauche.
 
-+ Si vous cliquez sur 'chants' du côté gauche, vous pourrez alors choisir un son approprié pour votre lutin.
+![ajouter le bouton extension surligné](images/add-extension-annotated.png)
 
-	![screenshot](images/band-choose-sound.png)
+Clique sur l'extension **Musique** pour l'ajouter.
 
-+ Maintenant que le son a bien été installé, vous pouvez ajouter ce code à votre chanteur :
+![extension de musique surlignée](images/click-music-annotated.png)
 
-	```blocks
-		quand ce lutin est cliqué
-		jouer le son [singer 1 v] jusqu'au bout
-	```
+--- /task ---
 
-+ Cliquez sur votre chanteur pour vous assurer qu'il chante.
+--- task --- Clique sur le sprite de batterie, puis fait glisser ces deux blocs dans la zone de code à droite :
+
+```blocks3
+quand ce sprite est cliqué
+jouer du tambour (\(1\) Caisse claire v) pendant (0.25) temps
+```
+
+--- no-print ---
+
+![capture d'écran](images/connect-block.gif)
+
+--- /no-print ---
+
+Assure-toi que les blocs sont connectés ensemble (comme les briques LEGO).
+
+--- /task ---
+
+--- task --- Clique sur le tambour pour essayer ton nouvel instrument! --- /task ---

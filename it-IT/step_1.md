@@ -1,40 +1,62 @@
+--- no-print ---
+
+Questa è la versione **Scratch 3** del progetto. C'è anche una [versione Scratch 2 del progetto](https://projects.raspberrypi.org/it-IT/projects/rock-band-scratch2).
+
+--- /no-print ---
+
 ## Introduzione
 
-In questo progetto imparerai come programmare il tuo strumento musicale!
+Impara a programmare i tuoi strumenti musicali!
+
+### Cosa creerai
+
+--- no-print --- Fare clic sulla bandiera verde per iniziare. Quindi, fai clic sul cantante o sul tamburo per sentire come suonano.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26741186/?autostart=false" frameborder="0"></iframe>
-  <img src="images/band-final.png">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-## Risorse
-Per questo progetto, andrebbe usato Scratch 2. Scratch 2 può essere usato online a [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) o può essere scaricato da [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) e usato offline.
+--- /no-print ---
 
-Una versione completa di questo progetto può essere trovata a <a href="http://scratch.mit.edu/projects/26741186/#editor">online</a>, o può essere scaricata cliccando il link 'Project Materials' per questo progetto, che contiene:
+--- print-only --- Creerai un gioco in cui potrai cliccare sul cantante o sul tamburo per sentire il canto o il suono della batteria.
 
-+ RockBand.sb2
+![schermata del gioco](images/demo.png) --- /print-only ---
 
-## Obiettivi di apprendimento
-+ Sprite;
-+ Aspetti;
-+ Blocchi di codici sequenziali;
-+ Eventi;
-+ Suono e musica.
+--- collapse ---
+---
+title: Cosa imparerai
+---
 
-Questo progetto copre elementi contenuti nei seguenti filoni di [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
++ Usa il codice per cambiare il costume di uno sprite in Scratch
++ Usa il codice per far reagire gli sprite all'input in Scratch
++ Aggiungi suoni a uno sprite in Scratch --- /collapse ---
 
-+ [Utilizzo di costrutti di programmazione di base per la creazione di semplici programmi.](https://www.raspberrypi.org/curriculum/programming/creator)
+--- collapse ---
+---
+title: Cosa ti serve
+---
 
-## Sfide
-+ "Migliorare le tue percussioni" - Cambiare i suoni dello sprite e aggiungere gli eventi;
-+ "Cambiare l'aspetto del tuo cantante" - aggiungere e controllare gli aspetti dello sprite;
-+ "Crea la tua banda" - usare le tecniche apprese per creare nuovi strumenti.
+#### Hardware
 
-## Domande frequenti
-+ Quando creano i loro sprite, i bambini potrebbero notare che il loro sprite 'jumps' ('salta') quando viene cliccato, mentre cambia aspetto. Questo avviene perché i due aspetti non sono centrati nello stesso posto.
++ Un computer in grado di eseguire Scratch 3
 
-	Per risolverlo, clicca 'Imposta centro aspetto' su_entrambi_gli sprite, e assicurati che siano centrati nello stesso punto per entrambi gli aspetti.
+#### Software
 
-	![screenshot](images/band-center.png)
++ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} o [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-+ In Linux, cliccare col tasto destro per cancellare uno sprite potrebbe non funzionare. Se questo è il caso, tenendo premuto il tasto maiuscolo e cliccando col sinistro solleverà il menu per cancellare uno sprite.
+--- /collapse ---
+
+--- collapse ---
+---
+title: Informazioni aggiuntive per gli educatori
+---
+
+--- no-print ---
+
+Se vuoi stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/it-IT/projects/rock-band/print){:target="_blank"}.
+
+--- /no-print ---
+
+Puoi trovare il [progetto completo qui](http://rpf.io/p/it-IT/rock-band-get).
+
+--- /collapse ---

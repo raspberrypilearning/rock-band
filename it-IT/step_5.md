@@ -1,18 +1,15 @@
---- challenge ---
-## Sfida: Perfeziona il tamburo
+## Sfida: migliora il tuo tamburo
 
-+ Riesci a cambiare il suono che produce il tamburo quando viene premuto?
+Riesci a cambiare il suono che il tamburo produce quando viene cliccato?
 
-![screenshot](images/band-drum-sound.png)
+![schermata](images/band-drum-sound.png)
 
-+ Riesci a fare in modo che il tamburo produca un suono premendo la barra spazio? Dovrai utilizzare questo blocco `situazione`{:class="blockevents"}:
+Riesci anche a far sì che il tamburo emetta un suono quando viene premuto il tasto spazio? Dovrai utilizzare questo blocco `Situazioni`{:class="block3events"}:
 
-```blocks
-	Quando si preme il tasto [spazio v]
+```blocks3
+quando si preme il tasto [spazio v]
 ```
 
-Puoi anche copiare il codice usando il tasto destro del mouse su quello che hai già creato e scegliendo 'duplica'.
+Se vuoi copiare il codice, clicca con il tasto destro e quindi scegli **duplica**.
 
-![screenshot](images/band-duplicate-code.png)
-
---- /challenge ---
+![schermata](images/band-duplicate-code.png)
