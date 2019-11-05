@@ -10,7 +10,7 @@ Aprenda a programar os seus próprios instrumentos musicais!
 
 ### O que você vai fazer
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- no-print \--- Clique na bandeira verde para começar. Depois, clique na cantora ou no tambor para ouvir como eles soam.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,17 +18,17 @@ Aprenda a programar os seus próprios instrumentos musicais!
 
 \--- /no-print \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\--- print-only \--- Você vai fazer um jogo onde você pode clicar na cantora ou no tambor para ouvir sons de canto ou bateria.
 
-![game screenshot](images/demo.png) \--- /print-only \---
+![captura de tela do jogo](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
 ## title: O que você vai aprender
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ Usar código para mudar a fantasia de um ator no Scratch
++ Usar código para fazer atores reagirem a entradas no Scratch
++ Adicionar sons a um ator no Scratch
 
 ## \--- collapse \---
 
@@ -54,6 +54,6 @@ Se você precisar imprimir este projeto, por favor, utilize a [versão para impr
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+Você pode encontrar o [projeto completo aqui](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
