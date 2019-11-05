@@ -29,12 +29,12 @@ toque o som (singer1 v) até o fim
 
 O bloco de código para trocar as fantasias está na seção `Aparência` {:class="block3looks"}. \--- /task \---
 
-\--- task \--- Click on your singer on the stage. Does she look like she is singing? \--- /task \---
+\--- task \--- Clique na sua cantora no palco. Parece que ela está cantando? \--- /task \---
 
-\--- task \--- Now make your drum look like it's being hit!
+\--- task \--- Agora faça com que seu tambor pareça que está sendo tocado!
 
 ![screenshot](images/band-drum-final.png)
 
-- Use the instructions for changing your singer sprite's costume to help you.
+- Use a ajuda das instruções para mudar o ator da fantasia da sua cantora.
 
-Remember to test that your new code works! \--- /task \---
+Lembre-se de testar se o seu novo código funciona! \--- /task \---
