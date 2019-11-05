@@ -22,9 +22,9 @@ Możesz używać więcej duszków z biblioteki, a także możesz malować własn
 
 ## title: Dlaczego mój duszek „podskakuje”, kiedy zmienia kostium?
 
-Podczas tworzenia własnego duszka może się okazać, że po kliknięciu duszka „podskakuje”, gdy zmienia kostium. Dzieje się tak, ponieważ dwa kostiumy nie są wyśrodkowane w tym samym miejscu.
+Podczas tworzenia własnego duszka może się okazać, że po kliknięciu duszek „podskakuje”, gdy zmienia kostium. Dzieje się tak, ponieważ dwa kostiumy nie są wyśrodkowane w tym samym miejscu.
 
-Aby to naprawić, upewnij się, że centra kostiumów duszka są takie same.
+Aby to naprawić, upewnij się, że środki kostiumów duszka są takie same.
 
 \--- /collapse \---
 
