@@ -2,25 +2,25 @@
 
 Antes de começar a codificar, você precisará adicionar uma 'coisa' ao código. No Scratch, essas 'coisas' são chamadas de **atores**.
 
-\--- task \--- Open a new Scratch project.
+\--- task \--- Abrir um novo projeto Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**Online:** abra um novo projeto online de Scratch em [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Offline:** abra um novo projeto no editor offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Se você precisar baixar e instalar o editor offline do Scratch, você pode encontrá-lo em [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-It looks like this:
+É algo assim:
 
-![screenshot](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![screenshot](images/band-scratch.png) \--- /task \--- \--- task \--- O ator de gato que você consegue ver é o mascote do Scratch. Você não precisa dele para esse jogo, então remova-o clicando nele com o botão direito do mouse e selecionando **apagar**.
 
 ![screenshot](images/band-delete-annotated.png) \--- /task \---
 
-\--- task \--- Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+\--- task \--- Em seguida, clique em **Selecione um Ator** para abrir uma lista de todos os atores do Scratch.
 
 ![screenshot](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+\--- task \--- Desça até você ver um ator de tambor. Clique em um tambor para adicioná-lo ao seu projeto.
 
 ![captura de tela](images/band-sprite-drum.png)
 
@@ -28,16 +28,16 @@ It looks like this:
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+Clique e arraste o tambor para a parte inferior do Palco.
 
 \--- /task \---
 
-\--- task \--- Give your program a name by typing into the text box at the top.
+\--- task \--- Dê um nome ao seu programa digitando-o na caixa de texto no topo.
 
-![name](images/band-name-annotated.png)
+![nome](images/band-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+A seguir, clique em **Arquivo**, e então em **Salvar Agora** para salvar seu projeto.
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+Se você não estiver online ou não tem uma conta no Scratch, você pode salvar uma cópia do seu projeto clicando em **Baixar para o seu computador**.
 
 ![screenshot](images/band-save.png) \--- /task \---
