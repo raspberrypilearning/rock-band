@@ -8,7 +8,7 @@ Ta wersja projektu jest przeznaczona dla języka **Scratch 3**. Projekt dostępn
 
 Wykonując ten projekt nauczysz się, jak zaprogramować własne instrumenty muzyczne!
 
-### Co stworzysz
+### Co będziesz robił
 
 \--- no-print \--- Aby rozpocząć, kliknij zieloną flagę. Następnie kliknij na wokalistkę lub na bębenek, żeby usłyszeć jak brzmią.
 
