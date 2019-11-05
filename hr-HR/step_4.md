@@ -31,8 +31,8 @@ bubnjaj ((1) Mali bubanj v) (0.25) puta
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Provjerite jesu li blokovi povezani (poput LEGO cigle).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- Klikni na bubanj i isprobaj svoj novi instrument! \--- /task \---
