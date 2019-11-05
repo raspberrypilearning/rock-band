@@ -31,8 +31,8 @@ graj na bębenku (\(1\) Bębenek v) przez (0.25) uderzeń
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Upewnij się, że bloki są ze sobą połączone (jak klocki LEGO).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- Kliknij na bębenek, żeby wypróbować nowy instrument! \--- /task \---
