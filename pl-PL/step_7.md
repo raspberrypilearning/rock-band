@@ -10,7 +10,7 @@ Teraz sprawisz, że twoja wokalistka będzie wyglądała, jakby śpiewała!
 
 ![zrzut ekranu](images/band-singer-duplicate.png) \--- /task \---
 
-\--- task \--- Kliknij nowy kostium (nazwany „Wokalistka2”), a następnie wybierz narzędzie linii i narysuj linie, aby wyglądało na to, że wokalistka wydaje dźwięk.
+\--- task \--- Kliknij nowy kostium (nazwany „Singer2”), a następnie wybierz narzędzie linii i narysuj linie, aby wyglądało na to, że wokalistka wydaje dźwięk.
 
 ![zrzut ekranu](images/band-singer-click.png) \--- /task \---
 
@@ -23,11 +23,11 @@ Teraz sprawisz, że twoja wokalistka będzie wyglądała, jakby śpiewała!
 ```blocks3
 kiedy ten duszek kliknięty
 +przełącz kostium na (śpiewa v)
-graj dźwięk (wokalistka1 v) aż do końca
+graj dźwięk (singer1 v) aż do końca
 +przełącz kostium na (nie śpiewa v)
 ```
 
-Bloczek kodu do zmiany kostiumu znajduje się w sekcji `Wyglądy`{:class="block3looks"}. \--- /task \---
+Bloczek kodu do zmiany kostiumu znajduje się w sekcji `Wygląd`{:class="block3looks"}. \--- /task \---
 
 \--- task \--- Kliknij na wokalistkę na scenie i zobacz co się stanie. Czy ona wygląda jakby śpiewała? \--- /task \---
 
