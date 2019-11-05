@@ -1,6 +1,6 @@
-## Co następne?
+## Co dalej?
 
-Teraz, kiedy zbudowałeś swój pierwszy projekt Scratch, dlaczego nie spojrzeć na projekt Scratch [Zagubiony w kosmosie](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)?
+Teraz, kiedy zbudowałeś swój pierwszy projekt Scratch, dlaczego nie spojrzeć na projekt Scratch [Zagubiona w kosmosie](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)?
 
 \--- no-print \--- Kliknij zieloną flagę, aby zobaczyć animację.
 
