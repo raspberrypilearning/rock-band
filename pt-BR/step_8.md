@@ -28,6 +28,6 @@ Para consertar isso, verifique se os centros das fantasias de seus atores são o
 
 \--- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+Se você tem um microfone, você pode gravar seus próprios sons e até mesmo usar uma webcam para tocar os seus instrumentos!
 
 ![captura de tela](images/band-io.png)
