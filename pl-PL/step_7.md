@@ -37,4 +37,4 @@ Bloczek kodu do zmiany kostiumu znajduje się w sekcji `Wygląd`{:class="block3l
 
 - Żeby sobie pomóc, skorzystaj z instrukcji zmiany kostiumu duszka wokalistki.
 
-Pamiętaj, aby przetestować, czy Twój nowy kod działa! --- / task ---
+Pamiętaj, aby przetestować, czy Twój nowy kod działa! --- /task ---
