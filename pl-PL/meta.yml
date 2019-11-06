@@ -1,19 +1,20 @@
+---
 hero_image: images/hero-rock-band-large.png
-theme: red
-duration: 2
 listed: true
-ingredient: false
 copyedit: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Kapela rockowa
 description: Wykonując ten projekt nauczysz się jak zaprogramować własne instrumenty muzyczne!
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-interests: ''
-technologies: scratch
-site_areas: projects
-hardware: ''
-software: scratch
-version: 4
-last_tested: 2017-10-01
-steps: 
-- title: Kapela rockowa
+version: 4.1.1
+last_tested: 2018-10-12
+steps:
+  - title: Wprowadzenie
+  - title: Duszki
+  - title: Scena
+  - title: Tworzenie bębenka
+  - title: "Wyzwanie: ulepsz swój bębenek"
+    challenge: true
+  - title: Dodawanie wokalistki
+  - title: Kostiumy
+  - title: "Wyzwanie: ulepsz swój zespół muzyczny"
+    challenge: true
+  - title: "Co dalej?"
