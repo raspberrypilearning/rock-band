@@ -24,7 +24,7 @@ Você pode usar mais atores da biblioteca, e você também pode pintar seus pró
 
 Ao criar o seu próprio ator, você pode descobrir que quando você clica nele, ele 'pula' quando muda de fantasia. Isso ocorre porque as duas fantasias não estão centralizadas no mesmo lugar.
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+Para consertar isso, verifique se os centros das fantasias de seus atores são os mesmos.
 
 \--- /collapse \---
 
