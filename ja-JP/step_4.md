@@ -30,8 +30,8 @@
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+ブロックが (LEGOブロックのように) 一緒につながっていることを確認してください。
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\---タスク\--- ドラムをクリックして、新しい楽器を試してみてください！ \--- / task \---
