@@ -7,7 +7,7 @@ Wykorzystaj to, czego nauczyłeś się w tym projekcie, aby stworzyć własny ze
 ```blocks3
 kiedy ten duszek kliknięty
 ustaw instrument na (\(1\) Pianino v)
-graj nutę (60) przez (0.25) uderzenia
+zagraj nutę (60) przez (0.25) taktów
 ```
 
 Twoje instrumenty nie muszą być realistyczne. Możesz na przykład stworzyć pianino z babeczek!

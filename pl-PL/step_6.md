@@ -26,7 +26,7 @@ Zanim będziesz mogła spowodować, żeby Twoja wokalistka zaśpiewała, musisz 
 
 ```blocks3
 kiedy ten duszek kliknięty
-graj dźwięk (singer1 v) aż do końca
+graj dźwięk (singer1 v) aż się skończy
 ```
 
 --- /task ---

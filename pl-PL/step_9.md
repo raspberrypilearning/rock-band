@@ -20,6 +20,6 @@ Teraz, kiedy zbudowałeś swój pierwszy projekt Scratch, dlaczego nie spojrzeć
 
 **Tłumaczenie wykonane przez wolontariuszy**
 
-Projekt ten przetłumaczył/a **Marek Lubinski**/**Robert Olechnowicz** a zweryfikował/a **Krzysztof Nowak**/**Paweł Wilk**.
+Projekt ten przetłumaczył **Marek Lubinski**/**Robert Olechnowicz** a zweryfikował **Krzysztof Nowak**/**Paweł Wilk**.
 
 Dzięki naszym wspaniałym wolontariuszom, ludzie na całym świecie mogą nauczyć się kodowania. Tłumacząc nasze projekty możesz pomóc nam dotrzeć do większej liczby ludzi. Więcej informacji na stronie [rpf.io/translate](https://rpf.io/translate).

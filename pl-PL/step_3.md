@@ -6,7 +6,7 @@
 
 ![zrzut ekranu](images/band-stage-choose.png) --- /task ---
 
-Wybierz z listy u góry opcję **W pomieszczeniu**. Następnie kliknij na tło przedstawiające teatr.
+--- task --- Wybierz z listy u góry opcję **W pomieszczeniu**. Następnie kliknij na tło przedstawiające teatr.
 
 ![zrzut ekranu](images/band-backdrop.png) --- /task ---
 

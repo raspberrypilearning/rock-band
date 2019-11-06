@@ -22,7 +22,7 @@ Kliknij na opcję **Muzyka**, żeby dodać to rozszerzenie.
 
 ```blocks3
 kiedy ten duszek kliknięty
-graj na bębenku (\(1\) Bębenek v) przez (0.25) uderzeń
+graj na (\(1\) Werbel v) przez (0.25) taktów
 ```
 
 --- no-print ---
