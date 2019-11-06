@@ -10,11 +10,11 @@ mudar instrumento para (\(1\) Piano v)
 toque a nota (60) por (0.25) batidas
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+Seus instrumentos não precisam ser de verdade. Por exemplo, você pode criar um piano feito de bolinhos!
 
 ![screenshot](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+Você pode usar mais atores da biblioteca, e você também pode pintar seus próprios atores!
 
 ![captura de tela](images/band-draw.png)
 
