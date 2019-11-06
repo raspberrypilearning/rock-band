@@ -1,13 +1,13 @@
 ## Fantasias
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+Use o que você aprendeu neste projeto para criar a sua própria banda! Você pode criar qualquer instrumento que quiser — veja os sons e instrumentos disponíveis para ter algumas ideias.
 
 ![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
-when this sprite clicked
-set instrument to (\(1\) Piano v)
-play note (60) for (0.25) beats
+quando este ator for clicado
+mudar instrumento para (\(1\) Piano v)
+toque a nota (60) por (0.25) batidas
 ```
 
 Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
