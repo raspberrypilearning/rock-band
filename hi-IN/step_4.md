@@ -14,7 +14,7 @@
 
 इसे जोड़ने के लिए **Music** एक्सटेंशन पर क्लिक करें।
 
-![music extension highlighted](images/click-music-annotated.png)
+![हाइलाइट किया हुआ म्यूजिक एक्सटेंशन](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -31,8 +31,8 @@
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+यह निश्चित कीजिये की सरे ब्लॉक जुड़े हुए हैं (लेगो के तरह)।
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- ड्रम पर क्लिक करे ताकि आप अपने नए यंत्र को बजा सकते हैं! \--- /task \---
