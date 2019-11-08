@@ -4,9 +4,9 @@
 
 \--- task \--- 新しいScratchプロジェクトを開きます。
 
-**Online: **新しいオンラインScratchプロジェクトを[rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}で開きます。
+**オンライン: **新しいオンラインScratchプロジェクトを[rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}で開きます。
 
-**Offline:**オフラインエディターで新しいプロジェクトを開きます。
+**オフライン:**オフラインエディターで新しいプロジェクトを開きます。
 
 Scratchオフラインエディタをダウンロードしてインストールする必要がある場合は、[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}で見つけることができます。:
 
