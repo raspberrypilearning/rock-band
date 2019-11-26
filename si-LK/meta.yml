@@ -12,18 +12,18 @@ steps:
   - 
     title: Sprites
   - 
-    title: The Stage
+    title: වේදිකාව
   - 
-    title: Making a drum
+    title: බෙරයක් සෑදීම
   - 
-    title: "Challenge: improve your drum"
+    title: "අභියෝගය: ඔබේ බෙරය වැඩි දියුණු කිරීම"
     challenge: true
   - 
-    title: Making a singer
+    title: ගායකයෙකු සෑදීම
   - 
-    title: Costumes
+    title: ඇදුම්
   - 
-    title: "Challenge: improve your band"
+    title: "අභියෝගය: ඔබේ කන්ඩායම වැඩි දියුණු කිරීම"
     challenge: true
   - 
-    title: "What next?"
+    title: "ඊලඟට කුමක්ද?"
