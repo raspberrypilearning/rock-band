@@ -31,8 +31,8 @@ play drum (\ (1 \) Snare Drum v) durante (0.25) beats
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Asegurate de que los bloques estén conectado entre sí (como los bloques de LEGO).
 
-\--- /task \---
+\--- /tarea \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- tarea \--- ¡Haz click en el tambor para probar tu nuevo instrumento! \--- /tarea \---
