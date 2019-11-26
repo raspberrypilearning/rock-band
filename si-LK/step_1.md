@@ -1,16 +1,16 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+මෙය **Scratch 3** අනුවාදයේ(version එකේ) ව්‍යාපෘතියකි. මෙම ව්යාපෘතියේ [Scratch 2 අනුවාදයක්(version එකක්)](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) ද ඇත.
 
 \--- /no-print \---
 
 ## හැදින්වීම
 
-Learn how to code your own musical instruments!
+ඔබේම සංගීත භාණ්ඩ කේත(code) කරන්නේ කෙසේදැයි ඉගෙන ගන්න!
 
-### What you will make
+### ඔබ සාදන්නට යන දේ
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- no-print \--- ආරම්භ කිරීමට green කොඩිය ක්ලික් කරන්න. ඉන්පසු, ගායකයා හෝ බෙරය මත ක්ලික් කර ඔවුන් ශබ්ද කරන දේ ඇසෙනු ඇත.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,42 +18,42 @@ Learn how to code your own musical instruments!
 
 \--- /no-print \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\--- print-only \--- ගායනය හෝ ඩ්‍රම් ශබ්දය ඇසීමට ඔබට ගායකයා හෝ බෙරය මත ක්ලික් කළ හැකි ක්‍රීඩාවක් සාදනු ඇත.
 
-![game screenshot](images/demo.png) \--- /print-only \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
+![ක්‍රීඩා තිර රුව](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## මාතෘකාව: ඔබ ඉගෙන ගන්නා දේ
 
-#### Hardware
++ Scratch වල ස්ප්‍රයිට් (sprite) ඇඳුම වෙනස් කිරීමට කේතය( Code) භාවිතා කරන්න
++ sprites ප්‍රතික්‍රියා ස්ක්‍රැච් (Scratch) තුලට ඈතුල් කිරීමට කේතය (code)භාවිතා කරන්න
++ Scratch තුල sprite එකකට ශබ්දයක් එකතු කිරීම \--- /collapse \---
 
-+ A computer capable of running Scratch 3
+## \--- collapse \---
 
-#### Software
+## මාතෘකාව: ඔබට අවශ්‍ය දේ
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+#### දෘඩාංග(Hardware)
+
++ Scratch 3 ධාවනය(run) කළ හැකි පරිගණකයක්
+
+#### මෘදුකාංග(Software)
+
++ Scratch 3 ([අන්තර්ජාල ගතව(online)](http://rpf.io/scratchon){:target="_blank"} හෝ [අන්තර්ජාලයට නොබැඳිව(offline)](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## මාතෘකාව: අධ්‍යාපකයන්(educators) සඳහා අමතර තොරතුරු
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+ඔබට මෙම ව්‍යාපෘතිය මුද්‍රණය කිරීමට අවශ්‍ය නම්, කරුණාකර [මුද්‍රණ-හිතකාමී අනුවාදය(printer-friendly version)](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"} භාවිතා කරන්න.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+[ සම්පුර්ණ කරන ලද ව්‍යාපෘතිය ඔබට මෙහි සොයාගත හැකිය ](http://rpf.io/p/en/rock-band-get) .
 
 \--- /collapse \---
