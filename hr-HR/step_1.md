@@ -14,9 +14,7 @@ Nauči kako programirati vlastite glazbene instrumente!
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
-</div>
-
---- /no-print ---
+</div> --- /no-print ---
 
 --- print-only --- Napravit ćeš igru u kojoj ćeš klikom na pjevačicu ili bubanj čuti pjevanje ili bubnjanje.
 
@@ -42,7 +40,7 @@ title: Trebat ćeš
 
 #### Softver
 
-+ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} ili [offline](http://rpf.io/scratchoff) verziju{:target="_blank"})
++ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} ili [offline](http://rpf.io/scratchoff){:target="_blank"} verziju)
 
 --- /collapse ---
 

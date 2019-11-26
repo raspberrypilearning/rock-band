@@ -6,7 +6,7 @@ Upotrijebi naučeno i napravi svoj bend! Možeš napraviti koje god instrumente 
 
 ```blocks3
 Kada je lik kliknut
-postavi instrument na ((1) Piano v)
+postavi instrument na (\(1\) Piano v)
 sviraj ton (60) (0.25) puta
 ```
 
