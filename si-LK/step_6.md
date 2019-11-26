@@ -14,11 +14,11 @@ Add a singer sprite to your Stage.
 
 \--- task \---
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+ඔබේ ගායකයා ගායනා කිරීමට පෙර, ඔබේ ගායක ස්ප්‍රයිට්(sprite) වලට ශබ්දයක් එක් කළ යුතුය. ඔබ ඔබේ ගායක ස්ප්‍රයිට් තෝරාගෙන ඇති බවට වග බලා ගන්න, පසුව ශබ්ද පටිත්ත ( Sounds tab)ක්ලික් කර ** ශබ්දයක් තෝරන්න ** :
 
-![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+![තිර රුව(screenshot)](images/band-import-sound-annotated.png) \--- /task \---
 
-\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+\--- task \--- ඉහළින් ඇති ලැයිස්තුවේ ** කටහඩ ** මත ක්ලික් කරන්න, ඉන්පසු ඔබේ ස්ප්‍රයිට් ( sprite) එකට එකතු කිරීමට ශබ්දයක් තෝරන්න.
 
 ![පින්තුරය](images/band-choose-sound.png) \--- /task \---
 
