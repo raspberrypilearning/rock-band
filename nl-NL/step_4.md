@@ -31,7 +31,7 @@ speel drum ((1) Snare Drum v) gedurende (0.25) maten :: music
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Zorg ervoor dat de blokken met elkaar zijn verbonden (net zoals LEGO-stenen).
 
 \--- /task \---
 
