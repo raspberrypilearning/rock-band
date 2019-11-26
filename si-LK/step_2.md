@@ -1,24 +1,24 @@
 ## Sprites
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+ඔබට කේතීකරණය ආරම්භ කිරීමට පෙර, ඔබ කේතයට 'දෙයක්' එකතු කළ යුතුය. Scratch වලදී, මෙම 'දේවල්' ** sprites ලෙස හැඳින්වේ ** .
 
-\--- task \--- Open a new Scratch project.
+\--- task \--- නව Scratch ව්යාපෘතියක්(project එකක්) විවෘත්ත කරන්න.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**අන්තර්ජාල මාර්ගගත(Online):** [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"} හි අන්තර්ජාල මාර්ගගතව නව Scratch ව්‍යාපෘතියක් විවෘත කරන්න.
 
-**Offline:** open a new project in the offline editor.
+**අන්තර්ජාලයට නොබැඳිව(Offline):** නොබැඳි සංස්කාරකයේ(offline editor එකේ) නව ව්‍යාපෘතියක්(new project එකක්) විවෘත කරන්න.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+ඔබට Scratch නොබැඳි සංස්කාරකය(offline editor එක) බාගත(download) කර ස්ථාපනය(install) කිරීමට අවශ්‍ය නම්, ඔබට එය [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} වෙතින් ලබාගත හැකිය.
 
-It looks like this:
+එය මේ වගේ ය:
 
-![screenshot](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![තිර රුව(screenshot)](images/band-scratch.png) \--- /task \--- \--- task \--- ඔබට දැකිය හැකි බළල් sprite යනු Scratch mascot ය. මෙම ක්‍රීඩාව සඳහා ඔබට එය අවශ්‍ය නොවේ, එබැවින් එය right-click කර ** delete ක්ලික් කිරීමෙන් එය ඉවත් කරන්න ** .
 
-![screenshot](images/band-delete-annotated.png) \--- /task \---
+![තිර රුව(screenshot)](images/band-delete-annotated.png) \--- /task \---
 
-\--- task \--- Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+\--- task \--- ඊළඟට, සියලුම Scratch sprites ලැයිස්තුවක් විවෘත කිරීමට ** පුස්තකාලයෙන් ස්ප්‍රයිට් (sprite) තෝරන්න ** 
 
-![screenshot](images/band-sprite-library.png) \--- /task \---
+![තිර රුව(screenshot)](images/band-sprite-library.png) \--- /task \---
 
 \--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
 
