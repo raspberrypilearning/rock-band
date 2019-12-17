@@ -1,12 +1,12 @@
-## Making a singer
+## ගායකයෙකු සෑදීම
 
-Now you will add a singer to your band!
+දැන් ඔබ ඔබේ සංගීත කණ්ඩායමට ගායකයෙකු එකතු කරනු ඇත!
 
 \--- task \---
 
-Add a singer sprite to your Stage.
+ඔබේ වේදිකාවට ගායක ස්ප්‍රයිට් (sprite) එකක් එක් කරන්න.
 
-![screenshot](images/band-singer-mic.png)
+![තිර රුව(screenshot)](images/band-singer-mic.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -20,9 +20,9 @@ Add a singer sprite to your Stage.
 
 \--- task \--- ඉහළින් ඇති ලැයිස්තුවේ ** කටහඩ ** මත ක්ලික් කරන්න, ඉන්පසු ඔබේ ස්ප්‍රයිට් ( sprite) එකට එකතු කිරීමට ශබ්දයක් තෝරන්න.
 
-![පින්තුරය](images/band-choose-sound.png) \--- /task \---
+![තිර රුව(screenshot)](images/band-choose-sound.png) \--- /task \---
 
-\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+\--- task \--- ශබ්දය භාවිතා කිරීමට, ඔබේ ගායක ස්ප්‍රයිට් (sprite) වෙත පහත කේත කොටස් (code blocks)එකතු කරන්න:
 
 ```blocks3
 when this sprite clicked
@@ -31,4 +31,4 @@ play sound (singer1 v) until done
 
 \--- /task \---
 
-\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
+\--- කාර්යය \--- වේදිකාවේ සිටින ඔබේ ගායකයා මත ක්ලික් කර සිදුවන්නේ කුමක්දැයි බලන්න. ඇය ගායනා කරනවාද? \--- / කාර්යය \---
