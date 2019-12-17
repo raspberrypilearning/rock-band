@@ -1,26 +1,26 @@
-## Spritelar
+## Kuklalar
 
-Kodlamayı başlatabilmeniz için kod yazmak için bir 'şey' eklemeniz gerekir. Scratch'da, bu 'şeylere' **sprite**denir.
+Kodlamayı başlatabilmeniz için projeye bir 'obje' eklemeniz gerekir. Scratch 'de, bu 'objelere' **kukla** denir.
 
 \--- task \--- Yeni bir Scratch projesi açın.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**Çevrimiçi:** Çevrimiçi yeni bir Scratch projesi açmak için [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"} adresine gidin.
 
 **Çevrimdışı:** Çevrimdışı Düzenleyicide yeni bir proje açın.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Scratch çevrimdışı düzenleyicisini indirip yüklemeniz gerekirse, bunu [ rpf.io/scratchoff adresinde bulabilirsiniz. ](http://rpf.io/scratchoff) {: Hedef = "_ blank"}.
 
-It looks like this:
+Şöyle gözükmekte:
 
-![ekran görüntüsü](images/band-scratch.png) \--- /task \--- \--- task \--- The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+![ekran görüntüsü](images/band-scratch.png) \--- /task \--- \--- task \--- Gördüğünüz kedi kuklası Scratch programının maskotudur. Bu oyun için kediye ihtiyacınız yok, öyleyse sağ tuşla üstüne tıklayıp **sil**'e basarak ondan kurtulabilirsiniz.
 
-![ekran alıntısı](images/band-delete-annotated.png) \--- /task \---
+![ekran görüntüsü](images/band-delete-annotated.png) \--- /task \---
 
-\--- task \--- Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+\--- task \--- Ardından Scratch'teki tüm kuklaların olduğu listeyi açmak için **Kütüphaneden kukla seç** düğmesini tıklayın.
 
 ![ekran görüntüsü](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+\--- task \--- Bir davul kuklası görene kadar aşağı kaydırın. Projenize eklemek için davula tıklayın.
 
 ![ekran görüntüsü](images/band-sprite-drum.png)
 
@@ -28,16 +28,16 @@ It looks like this:
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+Davulu tıklayıp Sahne Alanı'nın altına sürükleyin.
 
-\--- /görev \---
+\--- /task \---
 
-\--- task \--- Give your program a name by typing into the text box at the top.
+\--- task \--- En üstteki metin kutusuna yazarak programınıza bir isim verin.
 
-![name](images/band-name-annotated.png)
+![isim](images/band-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+Ardından **Dosya** menüsünden **Şimdi kaydet** seçeneğine tıklayarak projenizi kaydedebilirsiniz.
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+Eğer çevrimiçi değilseniz veya bir Scratch hesabınız yoksa, **Bilgisayara kaydet** seçeneğini tıklayarak projenizin bir kopyasını bilgisayarınıza kaydedebilirsiniz.
 
-![ekran görüntüsü](images/band-save.png) \--- /görev \---
+![ekran görüntüsü](images/band-save.png) \--- /task \---
