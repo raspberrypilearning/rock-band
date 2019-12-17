@@ -1,6 +1,6 @@
 ## Panggung
 
-**Panggung** adalah area di sebelah kanan, dan di sinilah proyek Anda hidup. Anggap saja sebagai area pertunjukan, seperti panggung sungguhan!
+**Panggung** adalah area di sebelah kanan, dan di sinilah proyek kamu berada. Anggap saja sebagai area pertunjukan, seperti panggung sungguhan!
 
 \--- Tugas \--- Saat ini, panggungnya putih dan terlihat sangat membosankan! Tambahkan latar belakang padanya dengan mengklik ** Pilih latar belakang **.
 
