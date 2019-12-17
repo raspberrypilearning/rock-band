@@ -1,15 +1,15 @@
-## The Stage
+## মঞ্চ
 
-The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+** স্টেজটি ** ডান দিকের অঞ্চল এবং এটিই আপনার প্রকল্পটিকে বাস্তব করে। একে বাস্তবের মঞ্চের মতোই পারফরম্যান্সের অঞ্চল হিসাবে ভাবতে পারেন!
 
-\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+\--- টাস্ক \--- এই মুহুর্তে, মঞ্চটি সাদা এবং দেখতে বেশ বিরক্তিকর দেখাচ্ছে! **Choose a backdrop**ক্লিক করে একটি ব্যাকড্রপ এতে যুক্ত করুন।.
 
-![screenshot](images/band-stage-choose.png) \--- /task \---
+![স্ক্রিনশট](images/band-stage-choose.png) \--- / কার্য \---
 
-\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+\--- টাস্ক \--- তালিকার শীর্ষ থেকে **Indoors** ক্লিক করুন তারপরে একটি থিয়েটারের পটভূমিতে ক্লিক করুন।.
 
-![screenshot](images/band-backdrop.png) \--- /task \---
+![স্ক্রিনশট](images/band-backdrop.png) \--- / কার্য \---
 
-\--- task \--- Your stage should now look similar to this:
+\--- টাস্ক \--- আপনার স্টেজটি এখন এটির মতো দেখতে পাওয়া উচিত:
 
-![screenshot](images/band-stage.png) \--- /task \---
+![স্ক্রিনশট](images/band-stage.png) \--- / কার্য \---
