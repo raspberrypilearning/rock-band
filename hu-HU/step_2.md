@@ -12,7 +12,7 @@ Ha le szeretnéd tölteni és telepíteni a Scratch offline szerkesztőt, akkor 
 
 Így néz ki:
 
-![képernyőkép](images/band-scratch.png) \--- /task \--- \--- task \--- A macska szereplő, amit látsz a Scratch kabalája. Ehhez a játékhoz nincs szükség rá, ezért kattints rá a jobb egérgombbal, majd kattints a **törlésre**.
+![képernyőkép](images/band-scratch.png) \--- /task \--- \--- task \--- A macska szereplő a Scratch kabalája. Ehhez a játékhoz rá nincs szükség - kattints rá a jobb egérgombbal, majd kattints a **törlés**-re.
 
 ![képernyőkép](images/band-delete-annotated.png) \--- /task \---
 
