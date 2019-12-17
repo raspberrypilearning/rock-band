@@ -1,38 +1,38 @@
-## Making a drum
+## ড্রাম বানানো
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+এখন আপনি আপনার ড্রামে কোড যুক্ত করবেন যাতে ড্রামটি ক্লিক করা অবস্থায় একটি শব্দ করে।.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+আপনি স্ক্রিপ্টস ট্যাবে কোড ব্লকগুলি খুঁজে পেতে পারেন এবং সেগুলি সব রঙিন কোডড!
 
-\--- task \---
+\--- / কার্য \---
 
-First add the **Music** extension so you can play instruments.
+প্রথমে **Music** এক্সটেনশন যুক্ত করুন যাতে আপনি যন্ত্র চলনা করতে পারেন।.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+নীচে বাম-কোণে **Add extension** বোতামটি ক্লিক করুন।.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![হাইলাইট এক্সটেনশন বোতাম যোগ করুন](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+**Music** এ ক্লিক করে এক্সটেনশনটি যুক্ত করুন.
 
-![music extension highlighted](images/click-music-annotated.png)
+![সংগীত এক্সটেনশন হাইলাইট](images/click-music-annotated.png)
 
-\--- /task \---
+\--- / কার্য \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- টাস্ক \--- ড্রাম স্প্রাইটে ক্লিক করুন এবং তারপরে এই দুটি ব্লকটি ডানদিকে কোড অঞ্চলে টানুন:
 
 ```blocks3
-when this sprite clicked
+এই স্প্রাইট ক্লিক করলে
 play drum (\(1\) Snare Drum v) for (0.25) beats
 ```
 
-\--- no-print \---
+\----প্রিন্ট করা লাগবেনা --
 
-![screenshot](images/connect-block.gif)
+![স্ক্রিনশট](images/connect-block.gif)
 
-\--- /no-print \---
+\----প্রিন্ট করা লাগবেনা --
 
-Make sure that the blocks are connected together (like LEGO bricks).
+নিশ্চিত করুন যে ব্লকগুলি একসাথে সংযুক্ত রয়েছে (লেগো ইটগুলির মতো)।.
 
-\--- /task \---
+\--- / কার্য \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- টাস্ক \--- আপনার নতুন উপকরণটি চেষ্টা করতে ড্রামে ক্লিক করুন! \--- / টাস্ক \---
