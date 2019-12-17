@@ -1,15 +1,15 @@
-## Challenge: improving your drum
+## চ্যালেঞ্জ: আপনার ড্রাম উন্নত করুন
 
-Can you change the sound that the drum makes when it's clicked?
+ড্রামটি ক্লিক করার সাথে সাথে আপনি কি শব্দটি পরিবর্তন করতে পারেন?
 
-![screenshot](images/band-drum-sound.png)
+![স্ক্রিনশট](images/band-drum-sound.png)
 
-Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
+স্পেস বার চাপলেও আপনি কী ড্রামের শব্দ পাচ্ছেন? আপনার এই ইভেন্টটি ব্যবহার করতে হবে `event`{:class="block3events"} block:
 
 ```blocks3
-when [space v] key pressed
+যখন [space v] কী টিপুন
 ```
 
-If you want to copy your existing code, right-click on it and then click on **duplicate**.
+আপনি যদি আপনার বিদ্যমান কোডটি অনুলিপি করতে চান তবে এটিতে ডান ক্লিক করুন এবং তারপরে **duplicate**ক্লিক করুন।.
 
-![screenshot](images/band-duplicate-code.png)
+![স্ক্রিনশট](images/band-duplicate-code.png)
