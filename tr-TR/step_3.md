@@ -1,15 +1,15 @@
 ## Sahne
 
-The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+**Sahne**, sağdaki alan ve projenizin hayata geçtiği yerdir. Bunu gerçek bir sahne gibi, bir performans alanı olarak düşünün!
 
-\--- task \--- At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+\--- task \--- Şu anda sahne beyaz ve oldukça sıkıcı görünüyor! **Bir Dekor Seç**'e tıklatarak sahnenize bir dekor ekleyin.
 
 ![ekran görüntüsü](images/band-stage-choose.png) \--- /task \---
 
-\--- task \--- Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+\--- task \--- Listenin en üstündeki **Bina içi**'ni tıklayın ve sonrasında tiyatro (theater) dekoruna basın.
 
-![ekran alıntısı](images/band-backdrop.png) \--- /görev \---
+![ekran görüntüsü](images/band-backdrop.png) \--- /task \---
 
-\--- task \--- Your stage should now look similar to this:
+\--- task \--- Şimd sahneniz şuna benzer gözükmeli:
 
 ![ekran görüntüsü](images/band-stage.png) \--- /task \---
