@@ -1,59 +1,59 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+এটি ** স্ক্র্যাচ 3 ** প্রকল্পের সংস্করণ। প্রকল্পের একটি [ স্ক্র্যাচ 2 সংস্করণও রয়েছে ](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) ।.
 
-\--- /no-print \---
+\--- no-print \---
 
-## Introduction
+## পরিচিতি
 
-Learn how to code your own musical instruments!
+কীভাবে আপনার বাদ্যযন্ত্রগুলির কোড করবেন তা শিখুন!
 
-### What you will make
+### যা তৈরি করতে হবে
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- no-print \--- শুরু করতে সবুজ পতাকাটি ক্লিক করুন। তারপরে, গায়ক বা ড্রামে ক্লিক করুন তারা কী শব্দ করছে তা শুনতে।.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-\--- /no-print \---
+\--- no-print \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\--- প্রিন্ট করুন \--- আপনাকে একটি গেম তৈরি করতে হবে যেখানে আপনি গায়ক বা ড্রামের উপর ক্লিক করে গান বা শব্দ শুনতে পারেন।.
 
-![game screenshot](images/demo.png) \--- /print-only \---
+![গেমের স্ক্রিনশট](images/demo.png) \--- /print-only \---
 
-## \--- collapse \---
+## বন্ধ হত্তয়া
 
-## title: What you will learn
+## title: যা শিখতে পারবেন
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ স্ক্র্যাচে কোড ব্যবহার করে একটি স্প্রিটের পোশাক পরিবর্তন করতে পারেন
++ স্ক্র্যাচ ইনপুটটিতে একটি স্প্রিটের প্রতিক্রিয়া জানাতে কোড ব্যবহার করুন
++ স্ক্র্যাচ এ একটি স্প্রিটে শব্দ যুক্ত করুন \--- / বন্ধ \---
 
-## \--- collapse \---
+## বন্ধ হত্তয়া
 
-## title: What you will need
+## title: যা যা প্রয়োজন
 
-#### Hardware
+#### হার্ডওয়্যার
 
-+ A computer capable of running Scratch 3
++ একটি কম্পিউটার যেথানে স্ক্র্যাচ ২. ০ বা Scratch 3 চালানো যাবে
 
-#### Software
+#### সফটওয়্যার
 
 + Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-\--- /collapse \---
+-- /collapse \---
 
-## \--- collapse \---
+## বন্ধ হত্তয়া
 
-## title: Additional information for educators
+## title: শিক্ষাবিদদের জন্য অতিরিক্ত তথ্য
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+আপনি যদি এই প্রজেক্টটি প্রিন্ট করতে চান তবে [প্রিন্টার সহযোগী সংষ্করণ](https://projects.raspberrypi.org/en/projects/rock-band/print) ব্যবহার করুন {: target = "_ blank"}।.
 
-\--- /no-print \---
+\----প্রিন্ট করা লাগবেনা --
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+আপনি এখানে [ সমাপ্ত প্রকল্প সমূহ ](http://rpf.io/p/en/rock-band-get) সন্ধান করতে পারেন।.
 
-\--- /collapse \---
+বন্ধ হত্তয়া
