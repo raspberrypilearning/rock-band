@@ -1,40 +1,40 @@
 ## Kostümler
 
-Now you will make your singer look like she's singing!
+Şimdi şarkıcınızın şarkı söylüyormuş gibi gözükmesini sağlayacaksınız!
 
-\--- task \--- You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
+\--- task \--- Yeni bir kostüm yaratarak tıklandığında Şarkıcı kuklanızın görünümünü değiştirebilirsiniz. Kostümler sekmesine tıklayın, şarkıcı kostümünü göreceksiniz.
 
-![ekran görüntüsü](images/band-singer-costume-annotated.png) \--- /görev \---
+![ekran görüntüsü](images/band-singer-costume-annotated.png) \--- /task \---
 
-\--- task \--- Right-click on the costume and then click on **duplicate** to create a copy of it.
+\--- task \--- Kostüm üzerinde sağ tıklayın ve kostümün bir kopyasını oluşturmak için **çoğalt** seçeneğini tıklayın.
 
-![ekran alıntısı](images/band-singer-duplicate.png) \--- /görev \---
+![ekran görüntüsü](images/band-singer-duplicate.png) \--- /task \---
 
-\--- task \--- Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+\--- task \--- Yeni kostüme tıklayın ('Şarkıcı2' adlı) ve çizgi aracını seçip şarkıcınız sanki ses çıkarıyormuş gibi çizgiler çizin.
 
-![ekran alıntısı](images/band-singer-click.png) \--- /task \---
+![ekran görüntüsü](images/band-singer-click.png) \--- /task \---
 
-\--- task \--- The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+\--- task \--- Kostümlerin isimleri şu anda çok açıklayıcı durmuyor. Kostümlerin adlarını, isim kutularına 'söylemiyor' ve 'söylüyor' şeklinde yazın.
 
-![ekran alıntısı](images/band-singer-name-annotated.png) \--- /task \---
+![ekran görüntüsü](images/band-singer-name-annotated.png) \--- /task \---
 
-\--- task \--- Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
+\--- task \--- Artık şarkıcınız için iki farklı kostümünüz var, hangi kostümün görüntüleneceğini seçebilirsiniz! Bu iki kod bloğunu şarkıcı kuklanıza ekleyin:
 
 ```blocks3
-when this sprite clicked
-+switch costume to (singing v)
-play sound (singer1 v) until done
-+switch costume to (not singing v)
+bu kukla tıklandığında
+(söylüyor) kılığına geç
+(Şarkıcı1) sesini bitene kadar çal
+(söylemiyor) kılığına geç
 ```
 
-The code block for changing the costume is in the `Looks`{:class="block3looks"} section. \--- /task \---
+Kostümü değiştirmek için kod blokları, `Görünüm`{: class = "blocklooks"} bölümünde bulunur. \--- /task \---
 
-\--- task \--- Click on your singer on the stage. Does she look like she is singing? \--- /task \---
+\--- task \--- Sahnede şarkıcınıza tıklayın. Şarkı söylüyor gibi görünüyor mu? \--- /task \---
 
-\--- task \--- Now make your drum look like it's being hit!
+\--- task \--- Şimdi davuluna vurulmuş gibi görünmesini sağla!
 
 ![ekran görüntüsü](images/band-drum-final.png)
 
-- Use the instructions for changing your singer sprite's costume to help you.
+- Size yardımcı olması için şarkıcı kuklanızın kostümünü değiştirme talimatlarını kullanın.
 
-Remember to test that your new code works! \--- /task \---
+Yeni kodunuzun çalıştığını test etmeyi unutmayın! \--- /task \---
