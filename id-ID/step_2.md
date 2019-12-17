@@ -1,8 +1,8 @@
 ## Sprite
 
-Sebelum kamu dapat mulai coding, Anda harus menambahkan 'hal' kode. Di awal, ini 'hal' disebut **sprite**.
+Sebelum kamu mulai membuat kode, kamu harus menambahkan 'sesuatu' pada kode. Pada Scratch, 'sesuatu' itu disebut **sprite**.
 
-\---tugas\--- membuka sebuah proyek awal yang baru.
+\---tugas\--- membuka proyek Scratch baru.
 
 ** Online: ** buka proyek Scratch online baru di [ rpf.io/scratch-new ](http://rpf.io/scratch-new) {: target = "_ blank"}.
 
@@ -12,7 +12,7 @@ Jika Anda perlu mengunduh dan menginstal editor Scratch offline, Anda dapat mene
 
 Tampak seperti ini:
 
-![screenshot](images/band-scratch.png) \---/task\--- \---tugas\--- Sprite kucing yang dapat Anda lihat adalah maskot awal. Anda tidak perlu untuk permainan ini, sehingga menyingkirkan dengan mengklik kanan itu dan kemudian mengklik **Hapus**.
+![screenshot](images/band-scratch.png) \---/task\--- \---tugas\--- Sprite kucing yang kamu lihat adalah maskot Scratch. Kamu tidak memerlukannya untuk permainan ini, singkirkan kucing tersebut dengan mengklik kanan dan kemudian klik **Hapus**.
 
 ![screenshot](images/band-delete-annotated.png) \--- /tugas \---
 
@@ -20,7 +20,7 @@ Tampak seperti ini:
 
 ![screenshot](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+\--- tugas \--- Skrol ke bawah sampai kamu melihat sprite dram. Klik dram tersebut untuk menambahkannya ke proyek mu.
 
 ![screenshot](images/band-sprite-drum.png)
 
@@ -32,12 +32,12 @@ Klik dan seret drum ke bawah panggung.
 
 \--- /tugas \---
 
-\--- task \--- Give your program a name by typing into the text box at the top.
+\--- tugas \--- Beri program mu nama dengan mengetikkannya di kotak teks bagian atas.
 
 ![nama](images/band-name-annotated.png)
 
 Kemudian klik pada ** File **, dan kemudian ** Simpan sekarang ** untuk menyelamatkan proyek Anda.
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+Jika kamu tidak online / daring atau tidak punya akun Scratch, kamu bisa menyimpan salinan proyek mu dengan mengklik **simpan pada komputer**.
 
 ![screenshot](images/band-save.png) \--- /tugas \---
