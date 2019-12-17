@@ -20,7 +20,7 @@
 
 ![තිර රුව(screenshot)](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+\--- කාර්යය \--- ඔබ ඩ්‍රම් ස්ප්‍රයිට් (drum sprite )දකින තුරු පහළට අනුචලනය කරන්න. එය ඔබේ ව්‍යාපෘතියට එක් කිරීමට ඩ්‍රම් (drum) එකක් මත ක්ලික් කරන්න.
 
 ![පින්තුරය](images/band-sprite-drum.png)
 
@@ -28,16 +28,16 @@
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+වේදිකාවේ පහළට ඩ්‍රම් එක ( drum ) ක්ලික් කර ඇදගෙන යන්න.
 
 \--- /task \---
 
-\--- task \--- Give your program a name by typing into the text box at the top.
+\--- task \--- ඉහළින් ඇති පෙළ කොටුවට(text box එකට) නමක් ටයිප් කිරීමෙන් ඔබේ වැඩසටහනට නමක් ලබාදෙන්න.
 
-![name](images/band-name-annotated.png)
+![නම](images/band-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+ඔබට **File**ක්ලික් කර ඉන්පසු **Save now** ක්ලික් කර ඔබේ ව්‍යාපෘතිය සුරැකීමට පුළුවන.
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+ඔබ අන්තර්ජාලයට සබැඳිව නොමැති නම් හෝ Scratch ගිණුමක් නොමැති නම්, ඒ වෙනුවට **Save to your computer** ක්ලික් කිරීමෙන් ඔබේ ව්‍යාපෘතියේ පිටපතක් සුරැකිය හැක.
 
-![screenshot](images/band-save.png) \--- /task \---
+![තිර රුව(screenshot)](images/band-save.png) \--- /task \---
