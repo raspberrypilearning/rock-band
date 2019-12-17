@@ -1,34 +1,34 @@
-## Making a singer
+## গায়ক বানানো
 
-Now you will add a singer to your band!
+এখন আপনি আপনার ব্যান্ডে একজন গায়ককে যুক্ত করবেন!
 
-\--- task \---
+\--- / কার্য \---
 
-Add a singer sprite to your Stage.
+এ পর্যায়ে আপনার মঞ্চে একটি গায়ক স্প্রিট যোগ করুন।.
 
 ![screenshot](images/band-singer-mic.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
-\--- /task \---
+\--- / কার্য \---
 
-\--- task \---
+\--- / কার্য \---
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+আপনি আপনার গায়ককে গান গাওয়ানোর আগে আপনার গায়ক স্প্রাইটে একটি শব্দ যুক্ত করা দরকার।. নিশ্চিত হয়ে নিন যে আপনি আপনার গায়ক স্প্রিট নির্বাচন করেছেন, তারপরে শব্দ ট্যাবে ক্লিক করুন এবং **Choose a sound** এ ক্লিক করে একটি শব্দ চয়ন করুন:
 
-![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+![স্ক্রিনশট](images/band-import-sound-annotated.png) \--- / কার্য \---
 
-\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+\--- টাস্ক \--- তালিকার শীর্ষ থেকে **Voice** এ ক্লিক করুন এবং তারপরে আপনার স্প্রাইটে যুক্ত করতে একটি শব্দ চয়ন করুন।.
 
-![screenshot](images/band-choose-sound.png) \--- /task \---
+![স্ক্রিনশট](images/band-choose-sound.png) \--- / কার্য \---
 
-\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+\--- টাস্ক \--- শব্দটি ব্যবহার করতে, আপনার গায়িকার স্প্রাইটে নিম্নলিখিত কোড ব্লকগুলি যুক্ত করুন:
 
 ```blocks3
 when this sprite clicked
 play sound (singer1 v) until done
 ```
 
-\--- /task \---
+\--- / কার্য \---
 
-\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
+\--- টাস্ক \--- মঞ্চে আপনার গায়ককে ক্লিক করুন এবং দেখুন কী ঘটে। সে কি গান গায়? \--- / টাস্ক \---
