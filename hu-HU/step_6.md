@@ -14,11 +14,11 @@ Add hozzá egy énekes szereplőt a színpadhoz.
 
 \--- task \---
 
-Mielőtt az énekesed énekelni tudna, hangot kell hozzá adnod az énekes szereplőhöz. Győződj meg róla, hogy kiválasztottad az énekes szereplőt, kattints a Hangok fülre, majd a **Válassz hangot** gombra:
+Mielőtt az énekesed énekelni tudna, hangot kell hozzáadnod az énekes szereplőhöz. Győződj meg róla, hogy kiválasztottad az énekes szereplőt, kattints a Hangok fülre, majd a **Válassz hangot** gombra:
 
 ![képernyőkép](images/band-import-sound-annotated.png) \--- /task \---
 
-\--- task \--- Kattints a lista tetején lévő **Hang** gombra, majd válassz egy hangot a szereplődhöz.
+\--- task \--- Kattints a lista tetején lévő **Hang** gombra, majd válassz egy hangot a szereplődnek.
 
 ![képernyőkép](images/band-choose-sound.png) \--- /task \---
 
