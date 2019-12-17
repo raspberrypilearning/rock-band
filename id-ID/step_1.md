@@ -26,9 +26,9 @@ Pelajari cara membuat kode alat musik Anda sendiri!
 
 ## title: Apa yang akan kamu pelajari
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ Gunakan kode untuk merubah kostum sprite di Scratch
++ Gunakan kode untuk membuat sprite terhubung ke masukan di Scratch
++ Tambahkan suara pada sprite di Scratch
 
 ## \--- collapse \---
 
@@ -50,10 +50,10 @@ Pelajari cara membuat kode alat musik Anda sendiri!
 
 \--- no-print \---
 
-Jika Anda perlu mencetak proyek ini, silakan gunakan versi ramah-printer [](https://projects.raspberrypi.org/en/projects/rock-band/print){: target = "_ blank"}.
+Jika kamu perlu mencetak proyek ini, silakan gunakan versi ramah-printer [](https://projects.raspberrypi.org/en/projects/rock-band/print){: target = "_ blank"}.
 
 \--- /tidak dicetak \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+Kamu bisa menentukan [proyek lengkapnya disini](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
