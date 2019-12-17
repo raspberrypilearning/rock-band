@@ -1,10 +1,10 @@
 ## Membuat penyanyi
 
-Sekarang Anda akan menambahkan penyanyi ke band Anda!
+Sekarang tambahkan penyayi pada band mu!
 
 \--- task \---
 
-Tambahkan sprite penyanyi ke Panggung Anda.
+Tambahkan sprite penyanyi ke Panggung mu.
 
 ![screenshot](images/band-singer-mic.png)
 
@@ -14,21 +14,21 @@ Tambahkan sprite penyanyi ke Panggung Anda.
 
 \--- task \---
 
-Sebelum Anda dapat membuat penyanyi Anda bernyanyi, Anda perlu menambahkan suara ke sprite penyanyi Anda. Pastikan Anda telah memilih sprite penyanyi Anda, lalu klik pada tab Suara, dan klik pada ** Pilih suara **:
+Sebelum kamu bisa membuat penyanyi mu bernyanyi, kamu perlu menambahkan suara ke sprite penyanyi mu. Pastikan kamu telah memilih sprite penyanyi mu, lalu klik pada tab Suara, dan klik pada ** Pilih suara **:
 
 ![screenshot](images/band-import-sound-annotated.png) \--- /task \---
 
-\--- tugas \--- Klik pada ** Suara ** dalam daftar di bagian atas, dan kemudian pilih suara untuk ditambahkan ke sprite Anda.
+\--- tugas \--- Klik pada ** Suara ** dalam daftar di bagian atas, dan kemudian pilih suara untuk ditambahkan ke sprite mu.
 
 ![screenshot](images/band-choose-sound.png) \--- /task \---
 
-\--- tugas \--- Untuk menggunakan suara, tambahkan blok kode berikut ke sprite penyanyi Anda:
+\--- tugas \--- Untuk menggunakan suara, tambahkan blok kode berikut ke sprite penyanyi mu:
 
 ```blocks3
-when this sprite clicked
-play sound (singer1 v) until done
+saat sprite diklik
+Mainkan suara(penyayi1 v) sampai selesai
 ```
 
 \--- /task \---
 
-\--- tugas \--- Klik pada penyanyi Anda di atas panggung dan lihat apa yang terjadi. Apakah dia bernyanyi? \--- / tugas \---
+\--- tugas \--- Klik penyanyi mu di atas panggung dan lihat apa yang terjadi. Apakah dia bernyanyi? \--- / tugas \---
