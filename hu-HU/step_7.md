@@ -1,8 +1,8 @@
 ## Jelmezek
 
-Most át fogod alakítani az énekesed úgy, mintha énekelne!
+Most át fogod alakítani az énekesed, hogy úgy nézzen ki, mintha énekelne!
 
-\--- task \--- Megváltoztathatod az énekes szereplő kinézetét, amikor rákattintasz egy új jelmez létrehozásával. Kattints a Jelmezek fülre, és láthatod az énekes jelmezt.
+\--- task \--- Egy új jelmez létrehozásával megváltoztathatod, hogy néz ki az énekes szereplő, amikor rákattintasz. Kattints a Jelmezek fülre, hogy lásd az énekes jelmezt.
 
 ![képernyőkép](images/band-singer-costume-annotated.png) \--- /task \---
 
@@ -22,9 +22,9 @@ Most át fogod alakítani az énekesed úgy, mintha énekelne!
 
 ```blocks3
 ezen szereplőre kattintáskor
-jelmez legyen (énekel v)
++jelmez legyen (énekel v)
 játszd végig (singer1 v) hangot
-jelmez legyen (nem énekel v)
++jelmez legyen (nem énekel v)
 ```
 
 A jelmez megváltoztatásához szükséges kódblokkot a `Kinézet`{:class="block3looks"} részen találod. \--- / task \---
