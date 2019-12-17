@@ -3,27 +3,27 @@ hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
 title: Рок-группа
-description: Узнайте, как закодировать свои музыкальные инструменты
+description: Узнай, как запрограммировать свои музыкальные инструменты
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
     title: Введение
   - 
-    title: Sprites
+    title: Спрайты
   - 
-    title: The Stage
+    title: Сцена
   - 
-    title: Making a drum
+    title: Создание барабана
   - 
-    title: "Challenge: improve your drum"
+    title: "Задание: улучши свой барабан"
     challenge: true
   - 
-    title: Making a singer
+    title: Создание певицы
   - 
-    title: Costumes
+    title: Костюмы
   - 
-    title: "Challenge: improve your band"
+    title: "Задача: улучши твою группу"
     challenge: true
   - 
     title: "Что дальше?"
