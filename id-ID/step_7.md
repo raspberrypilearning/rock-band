@@ -1,16 +1,16 @@
 ## Kostum
 
-Now you will make your singer look like she's singing!
+Sekarang Mari Kita buat penyayi mu seperti sedang bernyanyi!
 
-\--- task \--- You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
+Kamu bisa ubah penampilan penyayi sprite mu saat diklik dengan membuat kostum baru. Klik pada tab kostum, Dan kamu akan melihat kostum penyayi.
 
 ![screenshot](images/band-singer-costume-annotated.png) \--- /task \---
 
-\--- task \--- Right-click on the costume and then click on **duplicate** to create a copy of it.
+Klik Kanan pada kostum Dan kemudian klik **duplikat** untuk membuat duplikatnya.
 
 ![screenshot](images/band-singer-duplicate.png) \--- /tugas \---
 
-\--- task \--- Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+\--- tugas \--- Klik pada kostum baru (sebutlah 'penyayi2'), kemudian pilih peralatan baris Dan baris gambar maka penyayi mu akan seolah-olah mengeluarkan suara.
 
 ![screenshot](images/band-singer-click.png) \--- /task \---
 
