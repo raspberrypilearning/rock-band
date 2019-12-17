@@ -1,24 +1,24 @@
-## Making a drum
+## බෙරයක් සෑදීම
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+දැන් ඔබ ඔබේ බෙරයට කේතයක් (code) එක් කරන අතර එමඟින් ඩ්‍රම් එක ක්ලික් කළ විට එය ශබ්ද කරයි.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+ඔබට Scripts tab හි කේත කොටස් ( code blocks) සොයාගත හැකි අතර ඒවා සියල්ලම වර්ණ කේත (colour-coded) කර ඇත!
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+පළමුව **Music** දිගුව එක් කරන්න එවිට ඔබට උපකරණ වාදනය කළ හැකිය.
 
-පහළ වම් කෙළවරේ ඇති**දිගුවක් එක්කිරීම(Add extension)** බොත්තම ක්ලික් කරන්න.
+පහළ වම් කෙළවරේ ඇති **Add extension** බොත්තම ක්ලික් කරන්න
 
 ![උද්දීපනය කළ දිගු බොත්තම(extension button) එක් කරන්න](images/add-extension-annotated.png)
 
-එක් කිරීමට **සංගීත(Music)** දිගුව(extension) මත ක්ලික් කරන්න.
+එක් කිරීමට **Music** දිගුව(extension) මත ක්ලික් කරන්න.
 
-![music extension highlighted](images/click-music-annotated.png)
+![සංගීත දිගුව ඉස්මතු කර ඇත](images/click-music-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- කාර්යය \--- ඩ්‍රම් ස්ප්‍රයිට් (sprite) මත ක්ලික් කරන්න, ඉන්පසු මෙම කොටස් (blocks)දෙක දකුණු පස ඇති කේත (code) ප්‍රදේශයට ඇදගෙන යන්න:
 
 ```blocks3
 when this sprite clicked
@@ -27,12 +27,12 @@ play drum (\(1\) Snare Drum v) for (0.25) beats
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![තිර රුව(screenshot)](images/connect-block.gif)
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+කුට්ටි (blocks)එකට සම්බන්ධ වී ඇති බවට වග බලා ගන්න (LEGO ගඩොල් වැනි).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- කාර්යය \--- ඔබේ නව මෙවලම අත්හදා බැලීමට බෙරය මත ක්ලික් කරන්න! \--- / කාර්යය \---
