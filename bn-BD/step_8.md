@@ -1,8 +1,8 @@
-## Challenge: improve your band
+## চ্যালেঞ্জ: আপনার ড্রাম উন্নত করুন
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+এই প্রকল্পে যা শিখেছেন তা আপনি নিজের ব্যান্ডটি তৈরি করতে ব্যবহার করুন! আপনি আপনার পছন্দ মতো যেকোন উপকরণ তৈরি করতে পারেন - কিছু ধারণা পেতে উপলভ্য উপকরণের স্প্রিট এবং শব্দগুলি দেখুন।.
 
-![screenshot](images/band-ideas-sounds.png)
+![স্ক্রিনশট](images/band-ideas-sounds.png)
 
 ```blocks3
 when this sprite clicked
@@ -10,24 +10,24 @@ set instrument to (\(1\) Piano v)
 play note (60) for (0.25) beats
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+আপনার যন্ত্রগুলি যদিও বাস্তবসম্মত না ও হতে পারে। উদাহরণস্বরূপ, আপনি মাফিনগুলি দিয়ে পিয়ানো তৈরি করতে পারেন!
 
-![screenshot](images/band-piano.png)
+![স্ক্রিনশট](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+আপনি লাইব্রেরি থেকে আরও স্প্রিট ব্যবহার করতে পারেন এবং আপনি নিজের স্প্রেটগুলিও আঁকতে পারেন!
 
-![screenshot](images/band-draw.png)
+![স্ক্রিনশট](images/band-draw.png)
 
-## \--- collapse \---
+## বন্ধ হত্তয়া
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## শিরোনাম: পোশাক পরিবর্তনের সময় আমার স্প্রাইট কেন 'জাম্পিং' করছে?
 
-When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+আপনার নিজস্ব স্প্রিট তৈরি করার সময় আপনি দেখতে পাবেন যে আপনি যখন স্প্রাইটটি ক্লিক করেন তখন পোশাকটি পরিবর্তন করার সাথে সাথে এটি 'লাফিয়ে' যায়। এটি কারণ দুটি পোশাক একই জায়গায় কেন্দ্রিক নয়।.
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+এটি ঠিক করার জন্য, নিশ্চিত হয়ে নিন যে আপনার স্প্রাইটের পোশাকগুলির কেন্দ্রগুলি একই।.
 
-\--- /collapse \---
+বন্ধ হত্তয়া
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+আপনার যদি মাইক্রোফোন থাকে তবে আপনি নিজের শব্দটি রেকর্ড করতে পারেন এবং আপনার যন্ত্রগুলিকে আঘাত করতে আপনি একটি ওয়েবক্যামও ব্যবহার করতে পারেন!
 
-![screenshot](images/band-io.png)
+![স্ক্রিনশট](images/band-io.png)
