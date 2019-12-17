@@ -31,8 +31,8 @@
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Побрини се да су блокови спојени заједно (као LEGO коцкице).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- Кликни на бубањ да испробаш свој нови инструмент! \--- /task \---
