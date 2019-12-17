@@ -1,16 +1,16 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+Это версия проекта **Скретч 3**. Существует также [версия проекта Скретч 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
 ## Введение
 
-Learn how to code your own musical instruments!
+Узнай, как запрограммировать свои музыкальные инструменты!
 
 ### Что тебе нужно будет сделать
 
-\--- no-print \--- Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+\--- Не печатать \--- Нажмите на зеленый флажок, чтобы начать. Затем нажмите на певицу или барабан, чтобы услышать, как звучат звуки.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,17 +18,17 @@ Learn how to code your own musical instruments!
 
 \--- /no-print \---
 
-\--- print-only \--- You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+\--- print-only \--- Ты создашь игру, в которой cможешь нажать на певицу или барабан, чтобы услышать пение или звуки барабанов.
 
-![game screenshot](images/demo.png) \--- /print-only \---
+![скриншот игры](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
 ## title: Чему ты научишься
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ Использовать код, чтобы изменять костюм спрайта в Scratch
++ Использовать код, чтобы заставить спрайты реагировать на ввод в Scratch
++ Добавлять звуки к спрайту в Scratch \--- / collapse \---
 
 ## \--- collapse \---
 
@@ -46,14 +46,14 @@ Learn how to code your own musical instruments!
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Дополнительная информация для преподавателей
 
 \--- no-print \---
 
-Если ты хочешь распечатать этот проект, то воспользуйся [версией для печати](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Если ты хочешь распечатать этот проект, то используй [версию для печати](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+[Здесь](http://rpf.io/p/en/rock-band-get) ты можешь найти завершенный проект</0>.
 
 \--- /collapse \---
