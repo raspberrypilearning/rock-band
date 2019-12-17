@@ -1,6 +1,6 @@
 ## Kihívás: fejleszd a zenekarod
 
-Használd a projektben megtanultakat, hogy saját zenekarod legyen! Létrehozhatsz tetszőleges hangszereket - nézd meg a rendelkezésedre álló hangszereket és hangokat, hogy ötleteket kapj.
+Használd a projektben megtanultakat saját zenekarod megalapítására! Létrehozhatsz tetszőleges hangszereket - nézd meg a rendelkezésre álló hangszereket és hangokat ötletekért.
 
 ![képernyőkép](images/band-ideas-sounds.png)
 
@@ -22,12 +22,12 @@ Több szereplőt használhatsz a könyvtárból és akár saját szereplőt is k
 
 ## title: Miért ugrál a szereplő, amikor megváltozik a jelmez?
 
-A saját szereplő létrehozásakor előfordulhat, hogy ha rákattintasz a szereplőre, akkor 'ugrik', amikor megváltozik a jelmeze. Ez azért történik, mert a két jelmez nem ugyanabban a pozícióban van.
+Mikor saját szereplőt hozol létre, előfordulhat, hogy ha rákattintasz a szereplőre, akkor az 'ugrik' jelmezváltoztatás közben. Ez azért történik, mert a két jelmez nem ugyanabban a pozícióban van.
 
 Ennek megoldásához győződj meg arról, hogy a szereplőd jelmezeinek középpontjai azonosak.
 
 \--- /collapse \---
 
-Ha van mikrofonod, rögzíthetsz saját hangokat és akár webkamerát is használhatsz a hangszerek aktiválásához!
+Ha van mikrofonod, rögzíthetsz saját hangokat, és akár webkamerát is használhatsz a hangszerek aktiválásához!
 
 ![képernyőkép](images/band-io.png)
