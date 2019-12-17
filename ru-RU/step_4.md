@@ -1,38 +1,38 @@
-## Making a drum
+## Создание барабана
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+Теперь ты добавишь код к своему барабану, чтобы барабан издал звук при нажатии на него.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Ты можешь найти блоки кода во вкладке Код, и все они закодированы цветом!
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+Сначала добавь расширение **Музыка**, чтобы ты мог играть на инструментах.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+Нажми кнопку **Добавить расширение** в левом нижнем углу.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![подсвеченная кнопка добавления расширения](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+Нажми на расширение **Музыка**, чтобы добавить его.
 
-![music extension highlighted](images/click-music-annotated.png)
+![подсвеченное расширение музыка](images/click-music-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- task \--- Нажми на спрайт барабана, а затем перетащи эти два блока в область кода справа:
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+когда спрайт нажат
+барабану играть ((1) Малый барабан v) (0.25) бита
 ```
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![снимок экрана](images/connect-block.gif)
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Убедись, что блоки соединены вместе (как детали LEGO).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- Нажми на барабан, чтобы опробовать свой новый инструмент! \--- /task \---
