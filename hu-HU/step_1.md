@@ -8,7 +8,7 @@ Ez a projekt **Scratch 3**-as verziója. Van [Scratch 2-es változata is](https:
 
 Ismerd meg, hogyan programozhatsz saját hangszereket!
 
-### Mit fogsz elkészíteni
+### Ezt fogod elkészíteni
 
 \--- no-print \--- Kattintson a zöld zászlóra a kezdethez. Ezután kattintson az énekesre vagy a dobra, hogy hallhassa, mit szólnak.
 
@@ -24,11 +24,11 @@ Ismerd meg, hogyan programozhatsz saját hangszereket!
 
 ## \--- collapse \---
 
-## title: Mit fogsz megtanulni
+## title: Ezt fogod megtanulni
 
-+ hogyan változtasd meg a szereplők jelmezét a Scratch-ben kód segítségével
-+ hogyan reagálnak a szereplők a bemenetekre a Scratch-ben kód segítségével
-+ hogyan adj hangokat a szereplőknek a Scratch-ben \--- / collapse \---
++ Változtasd meg a szereplők jelmezét a Scratch-ben kód segítségével
++ Kód segítségével bírd rá a szereplőket, hogy reagáljanak a Scratch-ben a klikkelésre, billentyűlenyomásra
++ Adj hangokat a szereplőknek a Scratch-ben \--- / collapse \---
 
 ## \--- collapse \---
 
