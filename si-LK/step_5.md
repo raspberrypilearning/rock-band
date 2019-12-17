@@ -1,15 +1,15 @@
-## Challenge: improving your drum
+## අභියෝගය: ඔබේ බෙරය වැඩි දියුණු කිරීම
 
-Can you change the sound that the drum makes when it's clicked?
+ඩ්‍රම් එක ක්ලික් කළ විට ඇතිවන ශබ්දය ඔබට වෙනස් කළ හැකිද?
 
-![screenshot](images/band-drum-sound.png)
+![තිර රුව(screenshot)](images/band-drum-sound.png)
 
-Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
+space bar තීරුව එබූ විට ශබ්දය ඇසීමට ඔබට හැකිද? ඔබට `event`{:class="block3events"} block: භාවිතා කිරීමට අවශ්‍ය වනු ඇත.
 
 ```blocks3
 when [space v] key pressed
 ```
 
-If you want to copy your existing code, right-click on it and then click on **duplicate**.
+ඔබගේ පවතින කේතය (code) පිටපත් කිරීමට (copy) ඔබට අවශ්‍ය නම්, එය මත දකුණු-ක්ලික් කර **duplicate**මත ක්ලික් කරන්න 
 
-![පින්තුරය](images/band-duplicate-code.png)
+![තිර රුව(screenshot)](images/band-duplicate-code.png)
