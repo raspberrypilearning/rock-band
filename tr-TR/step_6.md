@@ -1,10 +1,10 @@
 ## Bir şarkıcı yapmak
 
-Now you will add a singer to your band!
+Şimdi müzik grubunuza bir şarkıcı ekleyeceksiniz!
 
 \--- task \---
 
-Add a singer sprite to your Stage.
+Sahne Alanı'na bir şarkıcı kuklası ekleyin.
 
 ![ekran görüntüsü](images/band-singer-mic.png)
 
@@ -14,21 +14,21 @@ Add a singer sprite to your Stage.
 
 \--- task \---
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+Şarkıcınızın şarkı söylemeye başlamasından önce şarkıcı kuklasına bir ses eklemeniz gerekir. Şarkıcı kuklanızın seçili olduğundan emin olduktan sonra Sesler sekmesine geçin ve **Bir Ses Seç**'i tıklayın:
 
-![ekran görüntüsü](images/band-import-sound-annotated.png) \--- /görev \---
+![ekran görüntüsü](images/band-import-sound-annotated.png) \--- /task \---
 
-\--- task \--- Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+\--- task \--- En üstteki listeden **Ses** sekmesine tıklayın ve kuklanıza eklemek için bir ses seçin.
 
 ![ekran görüntüsü](images/band-choose-sound.png) \--- /task \---
 
-\--- task \--- To use the sound, add the following code blocks to your singer sprite:
+\--- task \--- Sesi kullanmak için, şarkıcı kuklanıza aşağıdaki kod bloklarını ekleyin:
 
 ```blocks3
-when this sprite clicked
-play sound (singer1 v) until done
+bu kukla tıklandığında
+(şarkıcı1) sesini bitene kadar çal
 ```
 
 \--- /task \---
 
-\--- task \--- Click on your singer on the stage and see what happens. Does she sing? \--- /task \---
+\--- task \--- Sahnede şarkıcınıza tıklayın ve ne olduğunu görün. Şarkı söylüyor mu? \--- /task \---
