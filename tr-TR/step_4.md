@@ -1,38 +1,38 @@
-## Davul yapmak
+## Davul yapma
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+Şimdi davulunuza tıklandığında ses çıkartması için kod ekleyeceksiniz.
 
-Kod bloklarını Scripts sekmesinde bulabilirsiniz ve hepsi de renk kodludur!
+Tamamı renklerle-sınıflandırılmış kodlama bloklarını, kod sekmesi altında bulabilirsiniz!
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+İlk önce **Müzik** eklentisini ekleyin böylece müzik aletlerini çalabilirsiniz.
 
 Sol alt köşedeki **Eklenti Ekle** düğmesine tıklayın.
 
-![uzantı ekleme düğmesi vurgulanmış](images/add-extension-annotated.png)
+![eklenti ilave düğmesi vurgulanmış](images/add-extension-annotated.png)
 
-Eklemek için **Müzik** uzantısına tıklayın.
+Eklemek için **Müzik** eklentisine tıklayın.
 
-![music extension highlighted](images/click-music-annotated.png)
+![müzik eklentisi vurgulanmış](images/click-music-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- task \--- Davul kuklasına tıklayın, ardından bu iki kod bloğunu sağdaki kodlama alanına sürükleyin:
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+bu kukla tıklandığında
+(\(1\) Trampet) davulunu (0.25) vuruş çal
 ```
 
 \--- no-print \---
 
-![ekran alıntısı](images/connect-block.gif)
+![ekran görüntüsü](images/connect-block.gif)
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Blokların birbirine bağlandığından emin olun (LEGO parçaları gibi).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- Yeni enstrümanınızı denemek için davula tıklayın! \--- /task \---
