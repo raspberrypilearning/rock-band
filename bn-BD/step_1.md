@@ -42,7 +42,7 @@
 
 + Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
--- /collapse \---
+\--- /collapse \---
 
 ## বন্ধ হত্তয়া
 
@@ -52,8 +52,8 @@
 
 আপনি যদি এই প্রজেক্টটি প্রিন্ট করতে চান তবে [প্রিন্টার সহযোগী সংষ্করণ](https://projects.raspberrypi.org/en/projects/rock-band/print) ব্যবহার করুন {: target = "_ blank"}।.
 
-\----প্রিন্ট করা লাগবেনা --
+\--- /no-print \---
 
 আপনি এখানে সমাপ্ত প্রকল্প সমূহ [completed project here](http://rpf.io/p/en/rock-band-get) সন্ধান করতে পারেন।.
 
--- /collapse \---
+\--- /collapse \---
