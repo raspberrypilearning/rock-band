@@ -6,7 +6,7 @@
 
 ![captură de ecran](images/band-stage-choose.png) \--- /task \---
 
-\--- task \--- Dă click pe **Interioare** în listă în partea de sus. Apoi dă click pe un decor de teatru.
+\--- task \--- Dă click pe **Interioare** în listă în partea de sus. Apoi, dă click pe un decor de teatru.
 
 ![captură de ecran](images/band-backdrop.png) \--- /task \---
 
