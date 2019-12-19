@@ -18,7 +18,7 @@ Adaugă un personaj care cântă pe scena ta.
 
 ![captură de ecran](images/band-import-sound-annotated.png) \--- /task \---
 
-\--- task \--- Dă click pe **Voce** în lista din partea de sus, și apoi alege sunetul pe care vrei să îl adaugi personajului tău.
+\--- task \--- Dă click pe **Voce** în lista din partea de sus, iar apoi alege sunetul pe care vrei să îl adaugi personajului tău.
 
 ![captură de ecran](images/band-choose-sound.png) \--- /task \---
 
