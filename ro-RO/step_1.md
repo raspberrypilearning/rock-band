@@ -10,7 +10,7 @@ Acesta este versiunea **Scratch 3** a proiectului. Există, de asemenea, o [vers
 
 ### Ce vei face
 
-\--- no-print \--- Apasă steagul verde pentru a începe. Apoi, apasă pe cântăreață sau pe tobă pentru a auzi cum sună.
+\--- no-print \--- Dă click pe steagul verde pentru a începe. Apoi, dă click pe cântăreață sau pe tobă pentru a auzi cum sună.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
