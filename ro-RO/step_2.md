@@ -12,15 +12,15 @@ Dacă trebuie să descarci și să instalezi editorul Scratch offline, îl poți
 
 Arată așa:
 
-![captură de ecran](images/band-scratch.png) \--- /task \--- \--- task \--- Personajul pisică pe care vezi este mascota Scratch. Nu ai nevoie de el pentru acest joc, așa că scapă de el dând click dreapta pe el și apoi dând click pe **șterge**.
+![captură de ecran](images/band-scratch.png) \--- /task \--- \--- task \--- Personajul pisică pe care îl vezi este mascota Scratch. Nu ai nevoie de el pentru acest joc, așa că scapă de el dând click dreapta pe el și apoi dând click pe **șterge**.
 
 ![captură de ecran](images/band-delete-annotated.png) \--- /task \---
 
-\--- Apoi, clic **Choose sprite from library** pentru a deschide o listă cu toate personajele disponibile din Scratch.
+\--- Apoi, dă click pe **Alege un costum** pentru a deschide o listă cu toate personajele disponibile din Scratch.
 
 ![captură de ecran](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- Derulează până în dreptul tobei. Apasă pe tobă pentru a o adăuga proiectului tău.
+\--- task \--- Derulează până în dreptul tobei. Dă click pe tobă pentru a o adăuga proiectului tău.
 
 ![captură de ecran](images/band-sprite-drum.png)
 
