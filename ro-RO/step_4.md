@@ -2,11 +2,11 @@
 
 Acum vei adăuga cod tobei tale, astfel încât toba să scoată un sunet atunci când se dă click pe ea.
 
-Poți găsi blocurile în tabul Cod, toate blocurile având coduri de culori!
+Poți găsi blocurile în tab-ul Cod, toate blocurile având coduri de culori!
 
 \--- task \---
 
-Mai întâi adăugă extensia **Muzica** astfel încât să poți cânta la instrumente.
+Mai întâi, adăugă extensia **Muzica** astfel încât să poți cânta la instrumente.
 
 Dă click pe butonul **Adaugă o extensie** în colțul din stânga jos.
 
@@ -14,7 +14,7 @@ Dă click pe butonul **Adaugă o extensie** în colțul din stânga jos.
 
 Dă click pe extensia **Muzica** pentru a o adăuga.
 
-![music extension highlighted](images/click-music-annotated.png)
+![extensie muzică evidențiată](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -31,8 +31,8 @@ cântă la tobă ((1) Snare Drum v) pentru (0.25) bătăi
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Asigură-te că toate blocurile sunt conectate între ele (ca și piesele LEGO).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- Dă click pe tobă pentru a încerca noul tău instrument! \--- /task \---
