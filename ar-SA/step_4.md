@@ -8,13 +8,13 @@
 
 اولا اضف استطالة **الموسيقى** لتتمكن من تشغيل الالات الموسيقية.
 
-اضغط على زر **اضف استطالة** في الزاوية اليسرى السفلى.
+اضغط على زر **إدراج إضافة** في الزاوية اليسرى السفلى.
 
 ![اضف زر الاستطالة المؤشر](images/add-extension-annotated.png)
 
-ثم اضغط على **الموسيقى** لاضافته.
+ثم اضغط على **الموسيقى** لاضافتها.
 
-![music extension highlighted](images/click-music-annotated.png)
+![ملحق الموسيقى المحدد](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -31,8 +31,8 @@ play drum (\(1\) Snare Drum v) for (0.25) beats
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+تأكد من أن الكتل البرمجية مرتبطتان معًا (كمكعبات لعبة ليغو).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- أنقر فوق الطبلة لتجربة اداتك الجديدة! \--- /task \---
