@@ -1,4 +1,4 @@
-## Provocare: îmbunătăţeşte-ţi formația
+## Provocare: îmbunătățește-ți formația
 
 Folosește tot ceea ce ai învățat în acest proiect pentru a-ți face propria ta formație! Poți crea orice instrument dorești — uită-te la sunetele și instrumentele disponibile, pentru a-ți face o idee.
 
