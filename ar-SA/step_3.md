@@ -6,7 +6,7 @@
 
 ![لقطة الشاشة](images/band-stage-choose.png) \--- /task \---
 
-انقر فوق </strong>Indoors</0> من القائمة بالاعلى، وثم انقر فوق خلفية منصة مسرح (theatre).
+انقر فوق **داخلي** من القائمة بالاعلى، وثم انقر فوق خلفية منصة مسرح (Theater).
 
 ![لقطة الشاشة](images/band-backdrop.png) \---/task--
 
