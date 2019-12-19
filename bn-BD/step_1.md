@@ -50,7 +50,7 @@
 
 \--- no-print \---
 
-আপনি যদি এই প্রজেক্টটি প্রিন্ট করতে চান তবে [প্রিন্টার সহযোগী সংষ্করণ](https://projects.raspberrypi.org/en/projects/rock-band/print) ব্যবহার করুন {: target = "_ blank"}।.
+আপনি যদি এই প্রজেক্টটি প্রিন্ট করতে চান তবে [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"} ব্যবহার করুন ।.
 
 \--- /no-print \---
 
