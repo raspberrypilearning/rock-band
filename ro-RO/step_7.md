@@ -10,7 +10,7 @@ Acum o să faci cântăreața să arate ca și cum ar cânta!
 
 ![captură de ecran](images/band-singer-duplicate.png) \--- /task \---
 
-\--- task \--- Dă click pe noul costum (numit ‘Singer2’), apoi selectează linia din bara de unelte și desenează linii astfel încât să pară cum cântăreața scoate sunete.
+\--- task \--- Dă click pe noul costum (numit „Singer2”), apoi selectează linia din bara de unelte și desenează linii astfel încât să pară cum cântăreața scoate sunet.
 
 ![captură de ecran](images/band-singer-click.png) \--- /task \---
 
@@ -35,6 +35,6 @@ Blocul pentru schimbarea costumului este în secțiunea `Aspect`{:class="block3l
 
 ![captură de ecran](images/band-drum-final.png)
 
-- Te pot ajuta instrucțiunile pentru schimbarea costumului personajului tău.
+- Folosește instrucțiunile pentru schimbarea costumului personajului tău dacă ai nevoie de ajutor.
 
 Nu uita să testezi dacă noul tău cod funcționează! \--- /task \---
