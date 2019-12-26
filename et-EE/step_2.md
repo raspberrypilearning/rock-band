@@ -12,17 +12,17 @@ Kui sul on vaja alla laadida ja installida Scratchi võrguväline redaktor, mine
 
 See näeb välja selline:
 
-![ekraanipilt](images/band-scratch.png) \--- /task \--- \--- task \--- Kassi sprait, mida näed, on Scratchi maskott. Sa ei vaja seda selles mängus, nii et vabane sellest, klõpsates seda hiire parema nupuga ja seejärel klõpsates nupul **kustuta**.
+![kuvatõmmis](images/band-scratch.png) \--- /task \--- \--- task \--- Kassi sprait, mida näed, on Scratchi maskott. Sa ei vaja seda selles mängus, nii et vabane sellest, klõpsates seda hiire parema nupuga ja seejärel klõpsates nupul **kustuta**.
 
-![ekraanipilt](images/band-delete-annotated.png) \--- /task \---
+![kuvatõmmis](images/band-delete-annotated.png) \--- /task \---
 
 \--- task \--- Järgmisena klõpsa **Vali sprait teegist**, et avada kõigi Scratchi spraitide loend.
 
-![ekraanipilt](images/band-sprite-library.png) \--- /task \---
+![kuvatõmmis](images/band-sprite-library.png) \--- /task \---
 
 \--- task \--- Keri alla, kuni näed trummi spraiti. Klõpsa trummil, et see oma projektile lisada.
 
-![ekraanipilt](images/band-sprite-drum.png)
+![kuvatõmmis](images/band-sprite-drum.png)
 
 \--- /task \---
 
@@ -32,12 +32,12 @@ Klõpsa ja lohista trumm Lava allaossa.
 
 \--- /task \---
 
-\--- ülesanne - Anna oma programmile nimi, tippides ülaosas olevasse tekstikasti.
+\--- task \--- Anna oma programmile nimi, trükkides ülaosas asuvasse tekstikasti.
 
 ![nimi](images/band-name-annotated.png)
 
-Seejärel klõpsake nuppu **Fail**ja seejärel **Salvesta nüüd** projekti salvestamiseks.
+Seejärel klõpsa nupul **Fail** ja seejärel **Salvesta nüüd** oma projekti salvestamiseks.
 
-Kui te ei ole võrgus või teil pole Scratch-kontot, saate oma projekti koopia salvestada, klõpsates selle asemel nuppu **Salvesta oma arvutisse**.
+Märkus: kui kasutad Scratchi veebis, või sul puudub Scratchi konto, saad salvestada oma projekti koopia klõpsates hoopis **Salvesta oma arvutisse**.
 
-![ekraanipilt](images/band-save.png) \--- / ülesanne \---
+![kuvatõmmis](images/band-save.png) \--- /task \---
