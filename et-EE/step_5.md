@@ -1,8 +1,8 @@
-## Väljakutse: oma trumli parandamine
+## Väljakutse: oma trummi täiustamine
 
-Kas saate muuta heli, mida trummel on klõpsamisel?
+Kas oskad muuta heli, mida trumm klõpsamisel teeb?
 
-![ekraanipilt](images/band-drum-sound.png)
+![kuvatõmmis](images/band-drum-sound.png)
 
 Kas te saate ka trumli, et teha tühikuklahvi vajutamisel heli? Peate kasutama seda `sündmust`{: class = "block3events"}:
 
