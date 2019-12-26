@@ -1,10 +1,10 @@
-## Sprites
+## Spraidid
 
-Kodeerimise alustamiseks peate koodi lisamiseks lisama "asja". Scratchis nimetatakse neid "asju" **spritiks**.
+Enne kodeerimise alustamist pead koodi lisama "asja". Scratchis nimetatakse neid "asju" **spraitideks**.
 
-\--- ülesanne - Avage uus Scratch projekt.
+\--- task \--- Ava uus Scratchi projekt.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**Veebis:**ava uus Scratchi veebiprojekt aadressil [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
 **Offline:** avab võrguühenduseta redaktoris uue projekti.
 
