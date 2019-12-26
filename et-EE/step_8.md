@@ -1,13 +1,13 @@
-## Väljakutse: parandage oma bändi
+## Väljakutse: täiusta oma bändi
 
-Kasutage seda, mida olete selles projektis õppinud, et luua oma bänd! Teil on võimalik luua mistahes meeldivaid vahendeid - vaadata ideid saadaolevatest instrumentidest ja helidest.
+Kasuta seda, mida oled selles projektis õppinud, et luua oma bänd! Sa saad luua mistahes endale meelepäraseid muusikariistu - vaata ideede kogumiseks saadaolevaid instrumentide spraite ja helisid.
 
-![ekraanipilt](images/band-ideas-sounds.png)
+![kuvatõmmis](images/band-ideas-sounds.png)
 
 ```blocks3
-kui see sprite klõpsas
-seadet (1) Piano v)
-mängimärk (60) (0,25) võidab
+kui spraiti klõpsata
+võta instrumendiks ((1) Klaver v)
+mängi nooti (60) (0.25) lööki
 ```
 
 Teie vahendid ei pea olema realistlikud. Näiteks võid teha klaverit, mis on valmistatud muffinitest!
