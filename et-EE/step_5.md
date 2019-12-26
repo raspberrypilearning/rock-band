@@ -4,12 +4,12 @@ Kas oskad muuta heli, mida trumm klõpsamisel teeb?
 
 ![kuvatõmmis](images/band-drum-sound.png)
 
-Kas te saate ka trumli, et teha tühikuklahvi vajutamisel heli? Peate kasutama seda `sündmust`{: class = "block3events"}:
+Kas oskad ka trummi häält tegema panna, kui tühikuklahvi vajutada? Pead kasutama seda `sündmuse`{:class="block3events"} plokki:
 
 ```blocks3
-vajutades klahvi [space v]
+kui klõpsata klahvi [tühik v]
 ```
 
-Kui soovite oma olemasolevat koodi kopeerida, siis paremklõpsake seda ja seejärel klõpsake **eksemplari**.
+Kui soovid oma olemasolevat koodi kopeerida, siis klõpsa seda hiire parema nupuga ja seejärel klõpsa **paljunda**.
 
-![ekraanipilt](images/band-duplicate-code.png)
+![kuvatõmmis](images/band-duplicate-code.png)
