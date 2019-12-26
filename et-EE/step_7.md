@@ -27,14 +27,14 @@ mängi heli (laulja1 v) kuni lõpuni
 võta kostüüm (ei laula v)
 ```
 
-Kostüümi muutmiseks kasutatav koodiplokk on jaotises `Looks`{: class = "block3looks}. \--- / ülesanne \---
+Kostüümi muutmiseks kasutatav koodiplokk on jaotises `Välimus`{:class="block3looks}. \--- /task \---
 
-\--- ülesanne \--- Klõpsake oma lauljal laval. Kas ta näeb välja nagu ta laulab? \--- / ülesanne \---
+\--- task \--- Klõpsa laval oma lauljal. Kas ta näeb välja nagu ta laulaks? \--- /task \---
 
-\--- ülesanne \--- Tee nüüd oma trummid välja nagu see on!
+\--- task \--- Jäta nüüd oma trummist mulje nagu seda löödaks!
 
-![ekraanipilt](images/band-drum-final.png)
+![kuvatõmmis](images/band-drum-final.png)
 
-- Kasutage juhiseid laulja sprite kostüümi muutmiseks, et teid aidata.
+- Kasuta sind abistavaid juhiseid oma laulja spraidi kostüümi muutmiseks.
 
-Ärge unustage testida, kas teie uus kood töötab! \--- / ülesanne \---
+Ära unustage testida, kas sinu uus kood töötab! \--- /task \---
