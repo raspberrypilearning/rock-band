@@ -6,10 +6,10 @@
 
 ![kuvatõmmis](images/band-stage-choose.png) \--- /task \---
 
-\--- ülesanne \--- Klõpsake ülaosas oleval **siseruumides** . Seejärel klõpsa teatri taustal.
+\--- task \--- Klõpsa loendi ülaosas oleval **Ruumis**. Seejärel klõpsa teatri taustal.
 
-![ekraanipilt](images/band-backdrop.png) \--- / ülesanne \---
+![kuvatõmmis](images/band-backdrop.png) \--- /task \---
 
-\--- ülesanne \--- Teie etapp peaks nüüd sarnanema:
+\--- task \--- Sinu lava peaks nüüd sarnanema sellele:
 
-![ekraanipilt](images/band-stage.png) \--- / ülesanne \---
+![kuvatõmmis](images/band-stage.png) \--- /task \---
