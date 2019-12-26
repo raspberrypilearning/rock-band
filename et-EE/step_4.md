@@ -6,33 +6,33 @@ Koodiplokid leiad vahekaardil Skriptid ja need on kõik värvikodeeritud!
 
 \--- task \---
 
-Esmalt lisage laiendus **Music** et saaksite mängida instrumente.
+Esmalt lisa laiendus **Muusika**, et saaksid instrumente mängida.
 
-Klõpsake nupul **Lisa laiendus** vasakus alumises nurgas.
+Klõpsa nupul **Lisa laiendus** alumises vasakus nurgas.
 
-![lisage laienduse nupp esile](images/add-extension-annotated.png)
+![lisa laienduse nupp esiletõstetud](images/add-extension-annotated.png)
 
-Klõpsake selle laiendamiseks nuppu **Muusika**.
+Klõpsa laiendusel **Muusika** selle lisamiseks.
 
-![music extension highlighted](images/click-music-annotated.png)
+![muusika laiendus esiletõstetud](images/click-music-annotated.png)
 
-\--- / ülesanne \---
+\--- /task \---
 
-\--- ülesanne \--- Klõpsa trumli sprite ja lohista need kaks plokki paremal asuvasse koodiala:
+\--- task \--- Klõpsa trummi spraidil, seejärel lohista need kaks plokki paremal asuvasse koodialasse:
 
 ```blocks3
-kui see sprite klõpsas
-mängurummi ((1) Snare Drum v) (0,25) löögi jaoks
+kui spraiti klõpsata
+mängi trummi ((1) Soolotrumm v) kestusega (0.25)
 ```
 
 \--- no-print \---
 
-![ekraanipilt](images/connect-block.gif)
+![kuvatõmmis](images/connect-block.gif)
 
-\--- / no-print \---
+\--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Veendu, et plokid on omavahel ühendatud (nagu LEGO klotsid).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- Klõpsa trummil, et proovida oma uut instrumenti! \--- /task \---
