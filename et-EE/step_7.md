@@ -6,25 +6,25 @@ Nüüd jätad oma lauljast mulje, justkui ta laulaks!
 
 ![kuvatõmmis](images/band-singer-costume-annotated.png) \--- /task \---
 
-\--- ülesanne \--- Paremklõpsake kostüümil ja seejärel klõpsake selle koopia loomiseks **eksemplari**.
+\--- task \--- Klõpsa hiire parema nupuga kostüümil ja seejärel klõpsa sellest koopia loomiseks nupul **paljunda**.
 
-![ekraanipilt](images/band-singer-duplicate.png) \--- / ülesanne \---
+![kuvatõmmis](images/band-singer-duplicate.png) \--- /task \---
 
-\--- ülesanne \--- Klõpsa uuele kostüümile (nn „Singer2”), seejärel valige liinitööriist ja joonistage jooned, nii et tundub, et teie laulja teeb heli.
+\--- task \--- Klõpsa uuel kostüümil (nimega „Laulja2”), seejärel vali joone tööriist ja joonista jooned, et jääks mulje, et sinu laulja teeb häält.
 
-![ekraanipilt](images/band-singer-click.png) \--- / ülesanne \---
+![kuvatõmmis](images/band-singer-click.png) \--- /task \---
 
-\--- ülesanne \--- Kostüümide nimed ei ole hetkel väga kasulikud. Sisestage kostüümide tekstikastidesse, et muuta nende nimed "mitte laulmiseks" ja "laulmiseks".
+\--- task \--- Kostüümide nimed ei ole hetkel eriti kasulikud. Trüki kostüümide tekstikastidesse, et muuta nende nimed: "ei laula" ja "laulab".
 
-![ekraanipilt](images/band-singer-name-annotated.png) \--- / ülesanne \---
+![kuvatõmmis](images/band-singer-name-annotated.png) \--- /task \---
 
-\--- ülesanne \--- Nüüd, kui sul on oma lauljale kaks erinevat kostüümi, saate valida, millist kostüümi kuvatakse! Lisage need kaks koodiplokki oma laulja sprite:
+\--- task \--- Nüüd, kui sul on oma lauljale kaks erinevat kostüümi, saad valida, millist kostüümi kuvatakse! Lisa need kaks koodiplokki oma laulja spaidile:
 
 ```blocks3
-kui see sprite klõpsas
-+ lüliti kostüümi (laulmine v)
-esitusheli (laulja1 v) kuni tehtud
-+ lülita kostüüm (mitte laulu v)
+kui spraiti klõpsata
++võta kostüüm (laulab v)
+mängi heli (laulja1 v) kuni lõpuni
+võta kostüüm (ei laula v)
 ```
 
 Kostüümi muutmiseks kasutatav koodiplokk on jaotises `Looks`{: class = "block3looks}. \--- / ülesanne \---
