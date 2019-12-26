@@ -1,22 +1,22 @@
 ## Laulja tegemine
 
-Nüüd lisate oma bändile laulja!
+Nüüd lisad oma bändile laulja!
 
-\--- ülesanne \---
+\--- task \---
 
-Lisage oma lavale laulja sprite.
+Lisa oma Lavale laulja sprait.
 
-![ekraanipilt](images/band-singer-mic.png)
+![kuvatõmmis](images/band-singer-mic.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
-\--- / ülesanne \---
+\--- /task \---
 
-\--- ülesanne \---
+\--- task \---
 
-Enne kui saate oma laulja laulda, peate oma laulja helile lisama heli. Veenduge, et olete valinud oma laulja sprite, seejärel klõpsake vahekaardil Helid ja klõpsake nuppu **Valige heli**:
+Enne, kui saad oma laulja laulma panna, pead oma laulja spraidile lisama heli. Veendu, et oled valinud oma laulja spraidi, seejärel klõpsa vahekaardil Helid ja siis klõpsa nupul **Vali heli**:
 
-![ekraanipilt](images/band-import-sound-annotated.png) \--- / ülesanne \---
+![kuvatõmmis](images/band-import-sound-annotated.png) \--- /task \---
 
 \--- ülesanne \--- Klõpsa ülaosas olevas nimekirjas **hääl** ja seejärel vali oma sprite lisamiseks heli.
 
