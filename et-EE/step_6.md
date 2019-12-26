@@ -18,17 +18,17 @@ Enne, kui saad oma laulja laulma panna, pead oma laulja spraidile lisama heli. V
 
 ![kuvatõmmis](images/band-import-sound-annotated.png) \--- /task \---
 
-\--- ülesanne \--- Klõpsa ülaosas olevas nimekirjas **hääl** ja seejärel vali oma sprite lisamiseks heli.
+\--- task \--- Klõpsa ülaosas olevas loendis **Helid**, seejärel vali heli, mida oma spraidile lisada.
 
-![ekraanipilt](images/band-choose-sound.png) \--- / ülesanne \---
+![kuvatõmmis](images/band-choose-sound.png) \--- /task \---
 
-\--- ülesanne \--- Heli kasutamiseks lisage oma laulja sprite'ile järgmised koodiplokid:
+\--- task \--- Heli kasutamiseks lisa oma laulja spraidile järgmised koodiplokid:
 
 ```blocks3
-kui see sprite klõpsas
-mängida heli (laulja1 v), kuni tegite
+kui spraiti klõpsata
+mängi heli (laulja1 v) kuni lõpuni
 ```
 
-\--- / ülesanne \---
+\--- /task \---
 
-\--- ülesanne \--- Klõpsake oma lauljal laval ja vaadake, mis juhtub. Kas ta laulab? \--- / ülesanne \---
+\--- task \--- Klõpsa laval oma lauljal ja vaata, mis juhtub. Kas ta laulab? \--- /task \---
