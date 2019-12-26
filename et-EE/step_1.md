@@ -20,7 +20,7 @@ See on projekti **Scratch 3** versioon. On ka [projekti Scratch 2 versioon](http
 
 \--- print-only \--- Sa teed mängu, kus saad laulu või trummipõrina kuulmiseks lauljal või trummil klõpsata.
 
-![mängu ekraanipilt](images/demo.png) \--- /print-only \---
+![mängu kuvatõmmis](images/demo.png) \--- /print-only \---
 
 ## \--- collapse \---
 
@@ -40,20 +40,20 @@ See on projekti **Scratch 3** versioon. On ka [projekti Scratch 2 versioon](http
 
 #### Tarkvara
 
-+ Scratch 3 (kas [online](http://rpf.io/scratchon){: target = "_ blank"} või [offline](http://rpf.io/scratchoff){: target = "_ blank"})
++ Scratch 3 (kas [võrguühendusega](http://rpf.io/scratchon){:target="_blank"} või [võrguväliselt](http://rpf.io/scratchoff){: target="_blank"})
 
-\--- / kollaps \---
+\--- /collapse \---
 
-## \--- kollaps \---
+## \--- collapse \---
 
-## pealkiri: Lisainfo õpetajatele
+## title: Lisainfo õpetajatele
 
 \--- no-print \---
 
-Kui teil on vaja seda projekti printida, kasutage [printeri sõbralikku versiooni](https://projects.raspberrypi.org/en/projects/rock-band/print){: target = "_ blank"}.
+Kui sul on vaja see projekt välja printida, siis kasuta [printerisõbralikku versiooni](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
-\--- / no-print \---
+\--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+Leiad [lõpetatud projekti siit](http://rpf.io/p/en/rock-band-get){: target="_blank.
 
-\--- / kollaps \---
+\--- /collapse \---
