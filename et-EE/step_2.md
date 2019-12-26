@@ -4,33 +4,33 @@ Enne kodeerimise alustamist pead koodi lisama "asja". Scratchis nimetatakse neid
 
 \--- task \--- Ava uus Scratchi projekt.
 
-**Veebis:**ava uus Scratchi veebiprojekt aadressil [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**Veebis:** ava uus Scratchi veebiprojekt aadressil [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-**Offline:** avab võrguühenduseta redaktoris uue projekti.
+**Võrguühenduse puudumisel:** ava uus projekt võrguvälises redaktoris.
 
-Kui teil on vaja alla laadida ja paigaldada Scratch offline redaktor, leiate selle aadressilt [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"}.
+Kui sul on vaja alla laadida ja installida Scratchi võrguväline redaktor, mine aadressile [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 See näeb välja selline:
 
-![ekraanipilt](images/band-scratch.png) \--- / ülesanne \--- \--- ülesanne \--- Kassitõbi, mida näete, on Scratch maskott. Sa ei vaja seda mängu, nii et vabanege sellest, klõpsates seda hiire parema nupuga ja seejärel klõpsates nupul ****.
+![ekraanipilt](images/band-scratch.png) \--- /task \--- \--- task \--- Kassi sprait, mida näed, on Scratchi maskott. Sa ei vaja seda selles mängus, nii et vabane sellest, klõpsates seda hiire parema nupuga ja seejärel klõpsates nupul **kustuta**.
 
-![ekraanipilt](images/band-delete-annotated.png) \--- / ülesanne \---
+![ekraanipilt](images/band-delete-annotated.png) \--- /task \---
 
-\--- ülesanne \--- Järgmine, klõpsake **Valige sprite raamatust** et avada kõigi Scratch spritide nimekiri.
+\--- task \--- Järgmisena klõpsa **Vali sprait teegist**, et avada kõigi Scratchi spraitide loend.
 
-![ekraanipilt](images/band-sprite-library.png) \--- / ülesanne \---
+![ekraanipilt](images/band-sprite-library.png) \--- /task \---
 
-\--- ülesanne \--- Kerige alla, kuni näete trumli sprite. Klõpsake trumlil, et see oma projektile lisada.
+\--- task \--- Keri alla, kuni näed trummi spraiti. Klõpsa trummil, et see oma projektile lisada.
 
 ![ekraanipilt](images/band-sprite-drum.png)
 
-\--- / ülesanne \---
+\--- /task \---
 
-\--- ülesanne \---
+\--- task \---
 
-Klõpsake ja lohistage trumli etapi põhjale.
+Klõpsa ja lohista trumm Lava allaossa.
 
-\--- / ülesanne \---
+\--- /task \---
 
 \--- ülesanne - Anna oma programmile nimi, tippides ülaosas olevasse tekstikasti.
 
