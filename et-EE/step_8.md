@@ -10,24 +10,24 @@ võta instrumendiks ((1) Klaver v)
 mängi nooti (60) (0.25) lööki
 ```
 
-Teie vahendid ei pea olema realistlikud. Näiteks võid teha klaverit, mis on valmistatud muffinitest!
+Sinu muusikariistad ei pea siiski realistlikud olema. Näiteks võid teha klaveri, mis on tehtud muffinitest!
 
-![ekraanipilt](images/band-piano.png)
+![kuvatõmmis](images/band-piano.png)
 
-Raamatukogust saab kasutada rohkem spriteid ja te saate ka ise oma spriide värvida!
+Sa saad kasutada rohkem spraite raamatukogust ja saad ka ise oma spraite värvida!
 
-![ekraanipilt](images/band-draw.png)
+![kuvatõmmis](images/band-draw.png)
 
-## \--- kollaps \---
+## \--- collapse \---
 
-## pealkiri: Miks on minu sprite hüpped, kui see kostüümi muudab?
+## title: Miks minu sprait "hüppab", kui see kostüümi muudab?
 
-Oma sprite loomisel võib juhtuda, et sprite klõpsamisel hüppab see kostüümi muutmisel. Seda seetõttu, et kaks kostüümi ei ole samas kohas.
+Oma spraidi loomisel võib juhtuda, et spraidil klõpsamisel "hüppab" see kostüümi muutmisel. Seda seetõttu, et kaks kostüümi ei ole samasse kohta koondatud.
 
-Selle parandamiseks veenduge, et teie sprite kostüümide keskused on samad.
+Selle parandamiseks veendu, et sinu spraidi kostüümide keskkohad on samad.
 
-\--- / kollaps \---
+\--- /collapse \---
 
-Kui teil on mikrofon, saate salvestada oma helisid ja kasutada isegi oma veebikaamerat oma instrumentide tabamiseks!
+Kui sul on mikrofon, saad salvestada omaenda helisid ja kasutada isegi oma veebikaamerat oma instrumentide löömiseks!
 
-![ekraanipilt](images/band-io.png)
+![kuvatõmmis](images/band-io.png)
