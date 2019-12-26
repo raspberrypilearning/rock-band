@@ -1,10 +1,10 @@
 ## Kostüümid
 
-Nüüd teete oma laulja välja nagu ta laulab!
+Nüüd jätad oma lauljast mulje, justkui ta laulaks!
 
-\--- ülesanne - Uue kostüümi loomisel saate muuta, kuidas teie laulja sprite välja näeb. Klõpsake vahekaardil Kostüümid ja näete laulja kostüümi.
+\--- task \--- Uue kostüümi loomiseks laulja spraidil klõpsates saad muuta, kuidas see välja näeb. Klõpsa vahekaardil Kostüümid ja näed laulja kostüümi.
 
-![ekraanipilt](images/band-singer-costume-annotated.png) \--- / ülesanne \---
+![kuvatõmmis](images/band-singer-costume-annotated.png) \--- /task \---
 
 \--- ülesanne \--- Paremklõpsake kostüümil ja seejärel klõpsake selle koopia loomiseks **eksemplari**.
 
