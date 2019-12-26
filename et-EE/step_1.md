@@ -1,38 +1,38 @@
 \--- no-print \---
 
-See on projekti **Scratch 3** versioon. Samuti on projekti [Scratch 2 versioon](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+See on projekti **Scratch 3** versioon. On ka [projekti Scratch 2 versioon](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
-\--- / no-print \---
+\--- /no-print \---
 
 ## Sissejuhatus
 
-Õpi koodima oma muusikariistu!
+Õpi, kuidas enda muusikariistu kodeerida!
 
-### Mida te teete
+### Mida sa teed
 
-\--- no-print \--- Alustamiseks klõpsake rohelist lippu. Seejärel klõpsa lauljale või trumlile, et kuulda, mida nad tunnevad.
+\--- no-print \--- Alustamiseks klõpsa rohelisele lipule. Seejärel klõpsa lauljale või trummile, et kuulda, kuidas nad kõlavad.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-\--- / no-print \---
+\--- /no-print \---
 
-\--- print-only \--- Sa teed mängu, kus saate laulja või trumli kuulamiseks laulja või trumli klõpsata.
+\--- print-only \--- Sa teed mängu, kus saad laulu või trummipõrina kuulmiseks lauljal või trummil klõpsata.
 
-![mängu ekraanipilt](images/demo.png) \--- / ainult printimiseks \---
+![mängu ekraanipilt](images/demo.png) \--- /print-only \---
 
-## \--- kollaps \---
+## \--- collapse \---
 
-## pealkiri: Mida sa õpid
+## title: Mida sa õpid
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ Kasuta koodi spraidi kostüümi muutmiseks Scratchis
++ Kasuta koodi, et panna spraidid Scratchis sisendandmetele reageerima
++ Lisa Scratchis spraidile helisid
 
-## \--- kollaps \---
+## \--- collapse \---
 
-## pealkiri: Mida on vaja
+## title: Mida sul vaja on
 
 #### Riistvara
 
