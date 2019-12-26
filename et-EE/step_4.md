@@ -1,10 +1,10 @@
-## Trumli tegemine
+## Trummi tegemine
 
-Nüüd lisate oma trummile koodi, nii et trummel klõpsates annab heli.
+Nüüd lisad oma trummile koodi, nii et trummil klõpsates teeb see häält.
 
-Koodiplokid leiate vahekaardil Skriptid ja need on kõik värvikoodid!
+Koodiplokid leiad vahekaardil Skriptid ja need on kõik värvikodeeritud!
 
-\--- ülesanne \---
+\--- task \---
 
 Esmalt lisage laiendus **Music** et saaksite mängida instrumente.
 
