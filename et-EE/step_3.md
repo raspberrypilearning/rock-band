@@ -1,10 +1,10 @@
-## Etapp
+## Lava
 
-**Stage** on ala paremal ja on koht, kus oma projekti ärkab ellu. Mõtle sellele kui jõudluspiirkonnale, just nagu tegelik etapp!
+**Lava** on ala paremal ja koht, kus su projekt ärkab ellu. Mõtle sellele kui esinemisalale, just nagu päris lava!
 
-\--- ülesanne \--- Praegu on lava valge ja tundub üsna igav! Lisage sellele taust, klõpsates nupul **Vali taust**.
+\--- task \--- Praegu on lava valge ja tundub üsna igav! Lisa sellele taust, klõpsates nupul **Vali taust**.
 
-![ekraanipilt](images/band-stage-choose.png) \--- / ülesanne \---
+![kuvatõmmis](images/band-stage-choose.png) \--- /task \---
 
 \--- ülesanne \--- Klõpsake ülaosas oleval **siseruumides** . Seejärel klõpsa teatri taustal.
 
