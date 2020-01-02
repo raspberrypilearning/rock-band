@@ -1,6 +1,6 @@
 \--- no-print \---
 
-මෙම ව්‍යාපෘතිය **Scratch 3** අනුවාදය (version එක )යොදාගෙන කර ඇත. මෙම ව්යාපෘතියේම [Scratch 2 අනුවාදයක්](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) ද ඇත.
+මෙම ව්‍යාපෘතිය **Scratch 3** අනුවාදය (version එක) යොදාගෙන කර ඇත. මෙම ව්යාපෘතියේම [Scratch 2 අනුවාදයක්](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) ද ඇත.
 
 \--- /no-print \---
 
@@ -10,7 +10,7 @@
 
 ### ඔබ සාදන්නට යන දේ
 
-\--- no-print \--- ආරම්භ කිරීමට green කොඩිය ක්ලික් කරන්න. ඉන්පසු, ගායකයා හෝ බෙරය මත ක්ලික් කර ඔවුන් ශබ්ද කරන දේ ඇසෙනු ඇත.
+\--- no-print \--- ආරම්භ කිරීමට කොළ පාට කොඩිය මත ක්ලික් කරන්න. ඉන්පසු, ගායකයා හෝ බෙරය මත ක්ලික් කර ඔවුන් ශබ්ද නගන අයුරු ඇසෙනු ඇත.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
