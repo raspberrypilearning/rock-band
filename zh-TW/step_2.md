@@ -2,7 +2,7 @@
 
 在你開始編碼之前，你需要添加一個'東西'來編碼。在Scratch中，這些'東西'被稱為 **角色**。
 
-\--- task \--- 打開一個新的Scratch項目。
+\--- task \--- 建立一個新的 Scratch 專案。
 
 **在線：** 在 [rpf.io/scratch-new](http://rpf.io/scratch-new){：target =“_ blank”}打開一個新的在線Scratch項目。
 
