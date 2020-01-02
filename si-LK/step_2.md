@@ -4,13 +4,13 @@
 
 \--- task \--- නව Scratch ව්යාපෘතියක් (project එකක්) විවෘත්ත කරන්න.
 
-**අන්තර්ජාල මාර්ගගත(Online):** [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"} හි අන්තර්ජාල මාර්ගගතව නව Scratch ව්‍යාපෘතියක් විවෘත කරන්න.
+**අන්තර්ජාල මාර්ගගත (Online):**නව Scratch ව්‍යාපෘතියක් විවෘත කිරීමට. [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-**අන්තර්ජාලයට නොබැඳිව(Offline):** නොබැඳි සංස්කාරකයේ(offline editor එකේ) නව ව්‍යාපෘතියක්(new project එකක්) විවෘත කරන්න.
+**අන්තර්ජාලයට නොබැඳිව(Offline):** නොබැඳි සංස්කාරකයේ(offline editor එකේ) නව ව්‍යාපෘතියක් (new project එකක්) විවෘත කිරීමට.
 
-ඔබට Scratch නොබැඳි සංස්කාරකය(offline editor එක) බාගත(download) කර ස්ථාපනය(install) කිරීමට අවශ්‍ය නම්, ඔබට එය [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} වෙතින් ලබාගත හැකිය.
+ඔබට Scratch නොබැඳි සංස්කාරකය (offline editor එක) බාගත කර ස්ථාපනය කිරීමට අවශ්‍ය නම්, එය [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} වෙතින් ලබාගත හැක.
 
-එය මේ වගේ ය:
+නව ව්‍යාපෘතිය පෙනෙන අයුරු:
 
 ![තිර රුව(screenshot)](images/band-scratch.png) \--- /task \--- \--- task \--- ඔබට දැකිය හැකි බළල් sprite යනු Scratch mascot ය. මෙම ක්‍රීඩාව සඳහා ඔබට එය අවශ්‍ය නොවේ, එබැවින් එය right-click කර ** delete ක්ලික් කිරීමෙන් එය ඉවත් කරන්න ** .
 
