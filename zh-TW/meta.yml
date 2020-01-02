@@ -4,7 +4,7 @@ listed: true
 copyedit: false
 title: 搖滾樂隊
 description: 學習如何編碼實現自己的樂器
-version: 4
+version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
@@ -23,7 +23,7 @@ steps:
   - 
     title: 造型
   - 
-    title: "造型"
+    title: "挑戰：改良你的樂隊"
     challenge: true
   - 
-    title: "挑戰：改變鼓的造型"
+    title: "然後呢？"
