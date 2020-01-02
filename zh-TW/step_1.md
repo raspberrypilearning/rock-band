@@ -1,8 +1,8 @@
-\---沒有印刷\---
+\--- no-print \---
 
-這是該項目的 **Scratch 3** 版本。項目</a>還有 Scratch 2版本。</p> 
+這個專案是 **Scratch 3** 版本。另外還有 [Scratch 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) 版本。
 
-\--- /無印刷\---
+\--- /no-print \---
 
 ## 介紹
 
@@ -10,29 +10,29 @@
 
 ### 你將會做出
 
-\--- no-print \--- 單擊綠色標記開始。然後，單擊歌手或鼓聲，聽聽它們的聲音。
+\--- no-print \--- 點擊綠色旗子運行程式，然後，點擊歌手或鼓，聽聽他們會發出什麼聲音。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-\--- /無印刷\---
+\--- /no-print \---
 
-\---只打印\--- 您將製作一個遊戲，您可以點擊歌手或鼓來聽到唱歌或鼓聲。
+\--- print-only \--- 你會做出個遊戲，點擊歌手或鼓就可以聽到歌聲或鼓聲。
 
-![遊戲截圖](images/demo.png) \--- /僅打印\---
+![遊戲截圖](images/demo.png) \--- /print-only \---
 
 ## - - 自動隱藏選單 - -
 
-## 標題：你將學到什麼
+## title: 你會學到
 
-+ 使用代碼在Scratch中更改精靈的服裝
-+ 使用代碼使精靈對Scratch中的輸入作出反應
-+ 在Scratch 添加聲音給精靈\--- /崩潰\---
++ 用 Scratch 程式替換角色的造型
++ 用 Scratch 程式讓角色對輸入做反應
++ 在 Scratch 裡添加一些聲音給角色 \--- /collapse \---
 
 ## \--- collapse \---
 
-## 標題：你需要什麼
+## title: 你會用到
 
 #### 硬體
 
