@@ -4,23 +4,23 @@
 
 \--- task \--- 建立一個新的 Scratch 專案。
 
-**在線：** 在 [rpf.io/scratch-new](http://rpf.io/scratch-new){：target =“_ blank”}打開一個新的在線Scratch項目。
+**線上版：**你可以連結 [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"} 以新建專案。
 
-**離線：** 在離線編輯器中打開一個新項目。
+**離線版：**在離線編輯器的工作列中開啟選單並點擊新建專案。。
 
-如果您需要下載並安裝Scratch離線編輯器，可以在 [rpf.io/scratchoff](http://rpf.io/scratchoff){：target =“_ blank”}找到它。
+如果你需要 Scratch 離線版編輯器，可以連結到 [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}。
 
-它看起來像這樣：
+它看起來會像這樣：
 
-![截圖](images/band-scratch.png) \--- / task \--- \---任務\--- 你可以看到的貓精靈是Scratch吉祥物。你不需要這個遊戲，所以通過右鍵單擊然後點擊 **刪除**來擺脫它。
+![截圖](images/band-scratch.png) \--- /task \--- \--- task \--- 首先你會看到一隻貓，這個角色是 Scratch 的代表吉祥物。在這個遊戲裡你不需要牠，因此你可以在角色的縮圖區上點擊**垃圾桶**圖示來刪除牠。
 
 ![截圖](images/band-delete-annotated.png) \--- /task \---
 
-\--- task \--- 接下來，單擊 **從庫** 選擇sprite打開所有Scratch sprite的列表。
+\--- task \--- 接下來，點擊**選個角色**以打開範例角色庫。
 
 ![截圖](images/band-sprite-library.png) \--- /task \---
 
-\--- task \--- 向下滾動直到看到鼓精靈。單擊鼓將其添加到項目中。
+\--- task \--- 滾動頁面直到看到 drum（鼓）。在角色圖案上點一下就可以把它添加到專案。
 
 ![截圖](images/band-sprite-drum.png)
 
