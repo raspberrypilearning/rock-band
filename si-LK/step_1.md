@@ -1,6 +1,6 @@
 \--- no-print \---
 
-මෙය **Scratch 3** අනුවාදයේ(version එකේ) ව්‍යාපෘතියකි. මෙම ව්යාපෘතියේ [Scratch 2 අනුවාදයක්(version එකක්)](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) ද ඇත.
+මෙම ව්‍යාපෘතිය **Scratch 3** අනුවාදය (version එක )යොදාගෙන කර ඇත. මෙම ව්යාපෘතියේම [Scratch 2 අනුවාදයක්](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) ද ඇත.
 
 \--- /no-print \---
 
