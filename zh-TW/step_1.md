@@ -40,20 +40,20 @@
 
 #### 軟體
 
-+ 從頭開始3（ [在線](http://rpf.io/scratchon){：target =“_ blank”}或 [離線](http://rpf.io/scratchoff){：target =“_ blank”}）
++ Scratch 3（[線上版](http://rpf.io/scratchon){:target="_blank"} 或 [離線版](http://rpf.io/scratchoff){:target="_blank"}）
 
 - - 自動隱藏選單 - -
 
 ## \--- collapse \---
 
-## 標題：教育工作者的附加信息
+## title: 給教師的其它資訊
 
-\---沒有印刷\---
+\--- no-print \---
 
 如果您需要打印此項目，請使用 [打印機友好版本](https://projects.raspberrypi.org/en/projects/rock-band/print){:target =“_ blank”}.
 
-\--- /無印刷\---
+\--- /no-print \---
 
-你可以在這裡找到 [完成的項目](http://rpf.io/p/en/rock-band-get)。
+你可以在這裡找到[已經完成的專案](http://rpf.io/p/en/rock-band-get)。
 
 - - 自動隱藏選單 - -
