@@ -1,18 +1,18 @@
 ## 挑戰：改變鼓的造型
 
-現在您已經構建了第一個Scratch項目，為什麼不看看 [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch項目？
+你已經做完了你的第一個 Scratch 專案了？不妨到[太空迷航](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch 專案看看。
 
-\--- no-print \--- 單擊綠色標記以查看動畫。
+\--- no-print \--- 點擊綠旗看看這個動畫。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-\--- /無印刷\---
+\--- /no-print \---
 
-\---只打印\---
+\--- print-only \---
 
-![完成項目](images/space-final.png)
+![完成專案](images/space-final.png)
 
-\--- /僅打印\---
+\--- /print-only \---
