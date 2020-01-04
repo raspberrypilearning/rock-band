@@ -6,9 +6,9 @@
 
 ## 介紹
 
-學習如何編碼自己的樂器！
+學習如何用程式寫個專屬你自己的樂器！
 
-### 你將會做出
+### 你會做出的玩意兒
 
 \--- no-print \--- 點擊綠色旗子運行程式，然後，點擊歌手或鼓，聽聽他們會發出什麼聲音。
 
@@ -22,7 +22,7 @@
 
 ![遊戲截圖](images/demo.png) \--- /print-only \---
 
-## - - 自動隱藏選單 - -
+## \--- collapse \---
 
 ## title: 你會學到
 
@@ -42,7 +42,7 @@
 
 + Scratch 3（[線上版](http://rpf.io/scratchon){:target="_blank"} 或 [離線版](http://rpf.io/scratchoff){:target="_blank"}）
 
-- - 自動隱藏選單 - -
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -50,10 +50,10 @@
 
 \--- no-print \---
 
-如果您需要打印此項目，請使用 [打印機友好版本](https://projects.raspberrypi.org/en/projects/rock-band/print){:target =“_ blank”}.
+如果你需要列印這個專案，可以先切換成[列印友好模式](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}。
 
 \--- /no-print \---
 
 你可以在這裡找到[已經完成的專案](http://rpf.io/p/en/rock-band-get)。
 
-- - 自動隱藏選單 - -
+\--- /collapse \---
