@@ -3,7 +3,7 @@ hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
 title: 搖滾樂隊
-description: 學習如何編碼實現自己的樂器
+description: 學習用程式打造你的專屬樂器
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
@@ -12,14 +12,14 @@ steps:
   - 
     title: 角色
   - 
-    title: 舞臺
+    title: 舞台
   - 
-    title: 製作鼓
+    title: 製造一個鼓
   - 
-    title: "挑戰：改進你的鼓"
+    title: "挑戰：改良你的鼓"
     challenge: true
   - 
-    title: 製作歌手
+    title: 製造一個歌手
   - 
     title: 造型
   - 
