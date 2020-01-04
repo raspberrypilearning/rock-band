@@ -1,4 +1,4 @@
-## 挑戰：改變鼓的造型
+## 然後呢？
 
 你已經做完了你的第一個 Scratch 專案了？不妨到[太空迷航](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch 專案看看。
 
