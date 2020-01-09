@@ -14,7 +14,7 @@
 
 לחץ על הרחבת ** מוסיקה ** כדי להוסיף אותה.
 
-![music extension highlighted](images/click-music-annotated.png)
+![הרחבת מוסיקה מודגשת](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -30,8 +30,8 @@ when this sprite clicked play drum (\(1\) Snare Drum v) for (0.25) beats
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+ודא כי הבלוקים מחוברים יחד (כמו לבני לגו).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \--- לחץ על התוף כדי לנסות את הכלי החדש שלך! \--- /task \---
