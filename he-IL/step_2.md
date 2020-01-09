@@ -4,7 +4,7 @@
 
 \--- task \--- פתח פרוייקט חדש של Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+** מקוון: ** לפתוח פרוייקט חדש באינטרנט Scratch ב [ rpf.io / scratchon ](http://rpf.io/scratch-new) {:target="_blank"}.
 
 ** לא מקוון: ** פתח פרוייקט חדש בעורך הלא מקוון.
 
