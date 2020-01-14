@@ -1,4 +1,4 @@
-## Sfida: Cambiare il costume del tamburo
+## Sfida: migliora la tua banda
 
 Usa quello che hai imparato in questo progetto per formare la tua band! Puoi creare tutti gli strumenti che vuoi: guarda gli sprite e i suoni disponibili per farti un'idea.
 
