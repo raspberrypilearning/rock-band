@@ -10,7 +10,7 @@
 
 ### 你将做出什么
 
-\--- no-print \--- 单击绿旗开始运行程序。然后，单击歌手或鼓，听听它们会发出什么样的声音。
+\--- no-print \--- 点击绿旗开始运行程序。然后，点击歌手或鼓，听听它们会发出什么样的声音。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -27,7 +27,7 @@
 ## title: 你将学到什么
 
 + 使用代码在Scratch中更改角色的服装
-+ 使用代码使角色对Scratch中的输入作出反应
++ 使用代码使角色在Scratch中对输入作出反应
 + 在Scratch中给角色添加音效 \--- /collapse \---
 
 ## \--- collapse \---
