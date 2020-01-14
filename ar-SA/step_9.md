@@ -2,6 +2,8 @@
 
 والان بعد أن صنعت اول مشروع لك في السكراتش Scratch، لما لا تلقي نظرة على مشروع [تائه في الفضاء](https://projects.raspberrypi.org/ar-SA/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)؟
 
+--- no-print ---
+
 انقر على العلم الاخضر لترى المشروع.
 
 <div class="scratch-preview">
@@ -16,6 +18,8 @@
 ![المشروع كامل](images/space-final.png)
 
 --- /print-only ---
+
+***
 
 ### تمت ترجمة هذا المشروع بواسطة متطوعين:
 
