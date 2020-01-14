@@ -54,6 +54,6 @@ Si necesita imprimir este proyecto, use la [versión imprimible](https://project
 
 \--- /no-print \---
 
-Puede encontrar el [proyecto completado aquí](http://rpf.io/p/en/rock-band-get).
+Puedes encontrar el [proyecto completado aquí](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
