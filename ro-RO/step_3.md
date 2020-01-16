@@ -2,14 +2,26 @@
 
 **Scena** este zona din dreapta, și este locul unde proiectele tale prind viață. Gândește-te la ea ca la un loc de reprezentație, exact ca o scenă adevărată!
 
-\--- task \--- Momentan, scena este albă și arată destul de plictisitor! Adăugă un decor dând click pe **Alege un Decor**.
+\--- task \---
 
-![captură de ecran](images/band-stage-choose.png) \--- /task \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- task \--- Dă click pe **Interioare** în listă în partea de sus. Apoi, dă click pe un decor de teatru.
+![screenshot](images/band-stage-choose.png)
 
-![captură de ecran](images/band-backdrop.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Scena ta ar trebui sa arate acum cam așa:
+\--- task \---
 
-![captură de ecran](images/band-stage.png) \--- /task \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
