@@ -2,14 +2,26 @@
 
 **Giai đoạn** là khu vực bên phải và là nơi dự án của bạn đi vào cuộc sống. Hãy nghĩ về nó như một khu vực biểu diễn, giống như một sân khấu thực sự!
 
-\--- nhiệm vụ \--- Hiện tại, sân khấu màu trắng và trông khá nhàm chán! Thêm một phông nền cho nó bằng cách nhấp vào **Chọn một phông nền**.
+\--- task \---
 
-![ảnh chụp màn hình](images/band-stage-choose.png) \--- /bài tập \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- task \--- Nhấp vào **Trong nhà** trong danh sách ở trên cùng. Sau đó bấm vào một bối cảnh nhà hát.
+![screenshot](images/band-stage-choose.png)
 
-![ảnh chụp màn hình](images/band-backdrop.png) \--- /bài tập \---
+\--- /bài tập \---
 
-\--- task \--- Giai đoạn của bạn bây giờ trông giống như thế này:
+\--- task \---
 
-![ảnh chụp màn hình](images/band-stage.png) \--- /bài tập \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
