@@ -16,13 +16,21 @@ Aggiungi uno sprite del cantante al tuo Palco.
 
 Prima di far cantare il tuo cantante, devi aggiungere un suono allo sprite del tuo cantante. Assicurati di aver selezionato il tuo sprite del cantante, quindi clicca sulla scheda Suoni e seleziona **Scegli un suono**:
 
-![schermata](images/band-import-sound-annotated.png) \--- /task \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- task \--- Fai clic su **Voce** nell'elenco in alto, quindi scegli un suono da aggiungere al tuo sprite.
+\--- /task \---
 
-![schermata](images/band-choose-sound.png) \--- /task \---
+\--- task \---
 
-\--- task \--- Per usare il suono, aggiungi i seguenti blocchi di codice al tuo sprite del cantante:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 quando clicchi su questo sprite
@@ -31,4 +39,8 @@ riproduci il suono (cantante 1 v) fino al completamento
 
 \--- /task \---
 
-\--- task \--- Clicca sul tuo cantante sul palco e guarda cosa succede. Inizia a cantare? \--- / task \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
