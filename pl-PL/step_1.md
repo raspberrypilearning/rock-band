@@ -10,7 +10,9 @@ Wykonując ten projekt nauczysz się, jak zaprogramować własne instrumenty muz
 
 ### Co będziesz robił
 
-\--- no-print \--- Aby rozpocząć, kliknij zieloną flagę. Następnie kliknij na wokalistkę lub na bębenek, żeby usłyszeć jak brzmią.
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,9 +20,13 @@ Wykonując ten projekt nauczysz się, jak zaprogramować własne instrumenty muz
 
 \--- /no-print \---
 
-\--- print-only \--- Stworzysz grę, podczas której możesz klikać na piosenkarkę lub bębenek, żeby usłyszeć śpiew lub wybijany rytm.
+\--- print-only \---
 
-![zrzut ekranu z gry](images/demo.png) \--- /print-only \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -28,7 +34,9 @@ Wykonując ten projekt nauczysz się, jak zaprogramować własne instrumenty muz
 
 + Używania kodu, żeby zmienić kostium duszka w Scratch
 + Używania kodu, żeby duszki reagowały na dane wejściowe w Scratch
-+ Dodawania dźwięków do duszka w Scratch \--- /collapse \---
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -50,10 +58,10 @@ Wykonując ten projekt nauczysz się, jak zaprogramować własne instrumenty muz
 
 \--- no-print \---
 
-Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Możesz znaleźć [ukończoną wersję projektu tutaj](http://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
