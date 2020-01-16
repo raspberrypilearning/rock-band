@@ -2,42 +2,62 @@
 
 코딩을 시작하기 전에 코드에 '무언가'를 추가 해야 합니다. 스크래치에서 이 '무언가'는 **스프라이트**라고 합니다.
 
-\---task\--- 새로운 스크래치 프로젝트를 엽니다.
+\--- task \---
 
-** 온라인: ** [ rpf.io/scratch-new에서 새로운 온라인 스크래치 프로젝트 열기 ](http://rpf.io/scratch-new) {: target = "_ blank"}
+Open a new Scratch project.
 
-** 오프라인: ** 오프라인 에디터에서 새 프로젝트를 엽니다.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-스크래치 오프라인 에디터를 다운로드 받아야 하는 경우, [rpf.io/scratchoff](http://rpf.io/scratchoff) 에서 다운 받을 수 있습니다. \--- /task"}.
+**Offline:** open a new project in the offline editor.
 
-그림으로 보면 다음과 같습니다.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-![스크린샷](images/band-scratch.png) \--- / task \--- \--- task \--- 당신이 볼 수 있는 고양이 스프라이트는 스크래치 마스코트입니다. 이 게임에서는 필요하지 않으므로 마우스 오른쪽 버튼으로 클릭 한 다음 **을 클릭하여 제거하십시오. **.
+It looks like this:
 
-![스크린샷](images/band-delete-annotated.png) \--- /task \---
-
-\--- task \--- 그런 다음 **저장소에서 스프라이트 선택**을 클릭하여 모든 스크래치 스프라이트의 목록을 엽니다.
-
-![스크린샷](images/band-sprite-library.png) \--- /task \---
-
-\--- task \--- 드럼 스프라이트가 보일 때까지 아래로 스크롤하십시오. 드럼을 클릭하고 확인 을 클릭하여 프로젝트에 추가하십시오.
-
-![스크린샷](images/band-sprite-drum.png)
+![screenshot](images/band-scratch.png)
 
 \--- /task \---
 
 \--- task \---
 
-드럼을 클릭하여 스테이지 아래쪽으로 끕니다.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+
+![스크린샷](images/band-delete-annotated.png)
 
 \--- /task \---
 
-\--- task \--- 왼쪽 위 모서리에 있는 텍스트 상자에 원하는 프로젝트 이름을 입력해주세요.
+\--- task \---
 
-![이름](images/band-name-annotated.png)
+Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
 
-그런 다음 **파일**을 클릭하고, **저장하기**를 클릭하여 프로젝트를 저장할 수 있습니다.
+![screenshot](images/band-sprite-library.png)
 
-온라인이 아닌 경우나 스크래치 계정이없는 경우에 **내 컴퓨터에 프로젝트 다운로드하기**를 클릭하여 프로젝트 사본을 저장할 수 있습니다.
+\--- /task \---
 
-![스크린샷](images/band-save.png) \--- /task \---
+\--- task \---
+
+Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+
+![screenshot](images/band-sprite-drum.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click and drag the drum to the bottom of the Stage.
+
+\--- /task \---
+
+\--- task \---
+
+Give your program a name by typing into the text box at the top.
+
+![name](images/band-name-annotated.png)
+
+Then click on **File**, and then on **Save now** to save your project.
+
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+
+![screenshot](images/band-save.png)
+
+\--- /task \---
