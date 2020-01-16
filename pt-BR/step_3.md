@@ -2,14 +2,26 @@
 
 O **Palco** é a área à direita, e é onde seu projeto ganha vida. Pense nele como uma área de atuação, assim como um palco real!
 
-\--- task \--- Neste momento, o palco está em branco e muito chato! Adicione um cenário clicando em **Selecionar cenário**.
+\--- task \---
 
-![captura de tela](images/band-stage-choose.png) \--- /task \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- task \--- Clique em **Interior** na lista no topo. Depois, clique no cenário de um teatro.
+![screenshot](images/band-stage-choose.png)
 
-![screenshot](images/band-backdrop.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Seu cenário agora deve estar parecido com este:
+\--- task \---
 
-![screenshot](images/band-stage.png) \--- /task \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
