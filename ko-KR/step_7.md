@@ -2,23 +2,41 @@
 
 가수가 노래하는 것처럼 보이게 해 봐요!
 
-\--- task \--- 가수 스프라이트의 새로운 모양을 만들어 클릭 할 때 어떻게 보일지 변경할 수도 있습니다. 모양 탭을 클릭하면 가수 이미지가 나타납니다.
+\--- task \---
 
-![스크린샷](images/band-singer-costume-annotated.png) \--- /task \---
+You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
 
-\--- task \--- 모양을 마우스 오른쪽 버튼으로 클릭하고 **복사**를 클릭하여 모양 사본을 만듭니다.
+![screenshot](images/band-singer-costume-annotated.png)
 
-![스크린샷](images/band-singer-duplicate.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- 새로운 모양('Singer2') 을 클릭 한 다음 선 도구를 선택하고 가수가 노래하는것 처럼 보이게 선을 그립니다.
+\--- task \---
 
-![스크린샷](images/band-singer-click.png) \--- /task \---
+Right-click on the costume and then click on **duplicate** to create a copy of it.
 
-\--- task \--- 의상의 이름은 그다지 도움이 되지 않습니다. 복장의 텍스트 상자에 이름을 '노래하지 않음'과 '노래하기'로 변경하십시오.
+![screenshot](images/band-singer-duplicate.png)
 
-![스크린샷](images/band-singer-name-annotated.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- 가수를 위한 두 가지 모양이 생겼으니, 어떤 모양이 표시 될지 선택할 수 있어요! 다음 두 블록을 가수에게 추가해 보세요.
+\--- task \---
+
+Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+
+![screenshot](images/band-singer-click.png)
+
+\--- /task \---
+
+\--- task \---
+
+The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+
+![screenshot](images/band-singer-name-annotated.png)
+
+\--- /task \---
+
+\--- task \---
+
+Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
 
 ```blocks3
 이 스프라이트가를 클릭할 때
@@ -27,14 +45,24 @@
 +(노래가 아니라 v) 로 의상을 바꾸기
 ```
 
-의상을 변경하기 위한 코드 블록은 `형태`{: class = "blocklooks"} 섹션에 있습니다 \--- /task \---
+The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
 
-\--- task \--- 무대에서 가수를 클릭하고 어떻게 되는지 보십시오. 가수가 노래합니까? \--- /task \---
+\--- /task \---
 
-\--- task \--- 드럼이 소리나고 있는 것처럼 보이게 만들어봅시다!
+\--- task \---
 
-![스크린샷](images/band-drum-final.png)
+Click on your singer on the stage. Does she look like she is singing?
+
+\--- /task \---
+
+\--- task \---
+
+Now make your drum look like it's being hit!
+
+![screenshot](images/band-drum-final.png)
 
 - 가수 스프라이트의 의상 변경 지침을 참조하십시오.
 
-새 코드들이 잘 작동하는지 확인하는 걸 잊지 마세요 \--- /task \---
+Remember to test that your new code works!
+
+\--- /task \---
