@@ -2,42 +2,62 @@
 
 在你开始编码之前，你需要添加一个“东西”来编码。在Scratch中，这个“东西”叫做**角色**。
 
-\--- task \--- 打开一个新的Scratch项目。
+\--- task \---
 
-**在线： **点击[rpf.io/scrath-new](http://rpf.io/scratch-new)链接打开一个新的Scratch在线项目 { target="_blank"}。
+Open a new Scratch project.
 
-**离线： **在离线编辑器中打开一个新项目。
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-如果您需要下载并安装Scratch离线编辑器，可以点击链接[ rpf.io/scratchoff ](http://rpf.io/scratchoff)获取 {：target="_blank"}。
+**Offline:** open a new project in the offline editor.
 
-它看起来像这样：
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-![截屏](images/band-scratch.png) \--- / task \--- \--- task \--- 你看到的猫是Scratch的吉祥物。在这个游戏中你不需要这个角色，所以右键单击它然后点击 **删除**来删除它。
+It looks like this:
 
-![截图](images/band-delete-annotated.png) \--- /task \---
-
-\--- task \--- 接下来，单击 **从库** 选择sprite打开所有Scratch sprite的列表。
-
-![截屏](images/band-sprite-library.png) \--- /task \---
-
-\--- task \--- 向下滚动直到看到一个鼓（drum）的角色。点击鼓将其添加到你的项目中。
-
-![截屏](images/band-sprite-drum.png)
+![screenshot](images/band-scratch.png)
 
 \--- /task \---
 
 \--- task \---
 
-点击并拖动鼓将其拉到舞台底部。
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+
+![截屏](images/band-delete-annotated.png)
 
 \--- /task \---
 
-\--- task \--- 在顶部的文本框中输入您的程序名称。
+\--- task \---
 
-![名称](images/band-name-annotated.png)
+Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
 
-然后点击 **文件**，再点击 **保存** 来保存你的项目。
+![screenshot](images/band-sprite-library.png)
 
-如果您不在线或没有Scratch帐户，则可以通过点击 **保存到计算机** 来保存你的项目的副本。
+\--- /task \---
 
-![截图](images/band-save.png) \--- /task \---
+\--- task \---
+
+Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+
+![screenshot](images/band-sprite-drum.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click and drag the drum to the bottom of the Stage.
+
+\--- /task \---
+
+\--- task \---
+
+Give your program a name by typing into the text box at the top.
+
+![name](images/band-name-annotated.png)
+
+Then click on **File**, and then on **Save now** to save your project.
+
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+
+![screenshot](images/band-save.png)
+
+\--- /task \---
