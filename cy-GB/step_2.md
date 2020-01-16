@@ -2,42 +2,62 @@
 
 Cyn i ti allu dechrau codio, bydd angen i ti ychwanegu ‘rhywbeth’ i godio. Yn Scratch, mae’r ‘pethau’ yma yn cael eu galw yn **gipluniau**.
 
-\--- task \--- Agor prosiect Scratch newydd.
+\--- task \---
 
-**Arlein:** agora brosiect Scratch newydd yma [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+Open a new Scratch project.
 
-**All-lein** agora brosiect newydd yn y golygydd all-lein.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-Os oes angen i ti lawrlwytho a gosod golygydd Scratch all-lein, mae modd dod o hyd iddo yma [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+**Offline:** open a new project in the offline editor.
 
-Mae'n edrych fel hyn:
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-![sgrinlun](images/band-scratch.png) \--- /task \--- \--- task \--- Masgot Scratch yw’r ciplun o’r gath y gweli di ar y sgrin. Fe wnawn ni gael gwared ohono, trwy glicio ar y dde a gwasgu **dileu**.
+It looks like this:
 
-![sgrinlun](images/band-delete-annotated.png) \--- /task \---
-
-\--- task \--- Clicia **Dewiswch Gorlun** i agor holl gorluniau Scratch.
-
-![sgrinlun](images/band-sprite-library.png) \--- /task \---
-
-\--- task \--- Sgrolia i waelod y rhestr tan dy fod yn gweld corlun drwm. Clicia ar y drwm i’w ychwanegu i dy brosiect.
-
-![sgrinlun](images/band-sprite-drum.png)
+![screenshot](images/band-scratch.png)
 
 \--- /task \---
 
 \--- task \---
 
-Clicia a llusga'r drwm i waelod y Llwyfan.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+
+![sgrinlun](images/band-delete-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Rho enw i dy brosiect, gan deipio un i’r blwch testun ar y top.
+\--- task \---
 
-![enw](images/band-name-annotated.png)
+Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
 
-Clicia **Ffeil** ac **Arbed nawr** i gadw dy brosiect.
+![screenshot](images/band-sprite-library.png)
 
-Os nad wyt ti arlein neu os nad oes gen ti gyfrif Scratch, mae modd arbed dy brosiect trwy glicio **Llwytho i’r cyfrifiadur** yn lle.
+\--- /task \---
 
-![sgrinlun](images/band-save.png) \--- /task \---
+\--- task \---
+
+Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+
+![screenshot](images/band-sprite-drum.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click and drag the drum to the bottom of the Stage.
+
+\--- /task \---
+
+\--- task \---
+
+Give your program a name by typing into the text box at the top.
+
+![name](images/band-name-annotated.png)
+
+Then click on **File**, and then on **Save now** to save your project.
+
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+
+![screenshot](images/band-save.png)
+
+\--- /task \---
