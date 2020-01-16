@@ -2,23 +2,41 @@
 
 Nawr rwyt ti am wneud i dy ganwr edrych fel ei bod yn canu!
 
-\--- task \--- Galli di newid sut mae corlun dy ganwr yn edrych trwy greu gwisg newydd. Dewisa’r tab Gwisgoedd, ac fe weli di lun o wisg y canwr.
+\--- task \---
 
-![sgrinlun](images/band-singer-costume-annotated.png) \--- /task \---
+You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
 
-Dewisa clic-dde ar y wisg, a clicia **dyblygu** i greu copi o’r wisg.
+![screenshot](images/band-singer-costume-annotated.png)
 
-![sgrinlun](images/band-singer-duplicate.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Clicia ar y wisg newydd (‘Singer2’) a dewisa y teclyn llinell i wneud iddi edrych fel bod sain yn dod o geg y canwr.
+\--- task \---
 
-![sgrinlun](images/band-singer-click.png) \--- /task \---
+Right-click on the costume and then click on **duplicate** to create a copy of it.
 
-\--- task \--- Dyw enwau’r gwisgoedd ddim yn llawer o gymorth ar hyn o bryd. Teipia yn y blwch testun ‘ddim yn canu’ ac ‘yn canu’ i wahaniaethu rhwng y ddau.
+![screenshot](images/band-singer-duplicate.png)
 
-![sgrinlun](images/band-singer-name-annotated.png) \--- /task \---
+\--- /task \---
 
-Nawr bod gyda ti ddau wisg gwahanol i dy ganwr, galli di ddewis pa wisg sydd yn cael ei arddangos! Ychwanega y ddau floc yma i gorlun dy ganwr:
+\--- task \---
+
+Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+
+![screenshot](images/band-singer-click.png)
+
+\--- /task \---
+
+\--- task \---
+
+The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+
+![screenshot](images/band-singer-name-annotated.png)
+
+\--- /task \---
+
+\--- task \---
+
+Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
 
 ```blocks3
 pan gaiff y ciplun yma ei glicio
@@ -27,14 +45,24 @@ chwarae sain (Singer1 v) tan y diwedd
 +newid gwisg i (not singing v)
 ```
 
-Mae’r côd ar gyfer newid y wisg yn yr adran `Edrychiad`{:class="block3looks"}. \--- /task \---
+The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
 
-\--- task \--- Clicia dy ganwr ar y llwyfan. Ydy e'n edrych fel ei bod hi'n canu? \--- /task \---
+\--- /task \---
 
-\--- task \--- Nawr gwna i dy ddrwm edrych fel ei fod yn cael ei daro!
+\--- task \---
 
-![sgrinlun](images/band-drum-final.png)
+Click on your singer on the stage. Does she look like she is singing?
+
+\--- /task \---
+
+\--- task \---
+
+Now make your drum look like it's being hit!
+
+![screenshot](images/band-drum-final.png)
 
 - Defnyddia'r cyfarwyddiadau i newid gwisg dy ganwr i fod o gymorth i ti.
 
-Cofia brofi fod dy gôd newydd yn gweithio! \--- /task \---
+Remember to test that your new code works!
+
+\--- /task \---
