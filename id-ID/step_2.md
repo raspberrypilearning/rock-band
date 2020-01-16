@@ -2,25 +2,41 @@
 
 Sebelum kamu mulai membuat kode, kamu harus menambahkan 'sesuatu' pada kode. Pada Scratch, 'sesuatu' itu disebut **sprite**.
 
-\---tugas\--- membuka proyek Scratch baru.
+\--- task \---
 
-** Online: ** buka proyek Scratch online baru di [ rpf.io/scratch-new ](http://rpf.io/scratch-new) {: target = "_ blank"}.
+Open a new Scratch project.
 
-** Offline: ** buka proyek baru di editor offline.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-Jika Anda perlu mengunduh dan menginstal editor Scratch offline, Anda dapat menemukannya di [ rpf.io/scratchoff ](http://rpf.io/scratchoff) {: target = "_ blank"}.
+**Offline:** open a new project in the offline editor.
 
-Tampak seperti ini:
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-![screenshot](images/band-scratch.png) \---/task\--- \---tugas\--- Sprite kucing yang kamu lihat adalah maskot Scratch. Kamu tidak memerlukannya untuk permainan ini, singkirkan kucing tersebut dengan mengklik kanan dan kemudian klik **Hapus**.
+It looks like this:
 
-![screenshot](images/band-delete-annotated.png) \--- /tugas \---
+![screenshot](images/band-scratch.png)
 
-\---tugas\--- Selanjutnya, klik pada **Pilih sprite dari pustaka** untuk membuka daftar semua sprite Scratch.
+\--- /task \---
 
-![screenshot](images/band-sprite-library.png) \--- /task \---
+\--- task \---
 
-\--- tugas \--- Skrol ke bawah sampai kamu melihat sprite dram. Klik dram tersebut untuk menambahkannya ke proyek mu.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+
+![screenshot](images/band-delete-annotated.png)
+
+\--- /tugas \---
+
+\--- task \---
+
+Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+
+![screenshot](images/band-sprite-library.png)
+
+\--- /task \---
+
+\--- task \---
+
+Scroll down until you see a drum sprite. Click on a drum to add it to your project.
 
 ![screenshot](images/band-sprite-drum.png)
 
@@ -28,16 +44,20 @@ Tampak seperti ini:
 
 \--- task \---
 
-Klik dan seret drum ke bawah panggung.
+Click and drag the drum to the bottom of the Stage.
 
-\--- /tugas \---
+\--- /task \---
 
-\--- tugas \--- Beri program mu nama dengan mengetikkannya di kotak teks bagian atas.
+\--- task \---
 
-![nama](images/band-name-annotated.png)
+Give your program a name by typing into the text box at the top.
 
-Kemudian klik pada ** File **, dan kemudian ** Simpan sekarang ** untuk menyelamatkan proyek Anda.
+![name](images/band-name-annotated.png)
 
-Jika kamu tidak online / daring atau tidak punya akun Scratch, kamu bisa menyimpan salinan proyek mu dengan mengklik **simpan pada komputer**.
+Then click on **File**, and then on **Save now** to save your project.
 
-![screenshot](images/band-save.png) \--- /tugas \---
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+
+![screenshot](images/band-save.png)
+
+\--- /task \---
