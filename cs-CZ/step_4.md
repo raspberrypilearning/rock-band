@@ -18,7 +18,9 @@ Click on the **Music** extension to add it.
 
 \--- /task \---
 
-\--- task \--- Click on the drum sprite, and then drag these two blocks into the code area on the right:
+\--- task \---
+
+Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
 when this sprite clicked
@@ -35,4 +37,8 @@ Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \---
+
+Click on the drum to try out your new instrument!
+
+\--- /task \---
