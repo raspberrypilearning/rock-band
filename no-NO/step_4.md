@@ -18,7 +18,9 @@ Klikk på **Musikk**-utvidelsen for å legge den til.
 
 \--- /task \---
 
-\--- task \--- Klikk på trommefiguren, og dra deretter disse to klossene inn i kodeområdet til høyre:
+\--- task \---
+
+Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
 når denne figuren klikkes
@@ -27,7 +29,7 @@ trommeslag (\(1\) Skarptromme v) som varer (0.25) takter
 
 \--- no-print \---
 
-![skjermbilde](images/connect-block.gif)
+![screenshot](images/connect-block.gif)
 
 \--- /no-print \---
 
@@ -35,4 +37,8 @@ Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \---
+
+Click on the drum to try out your new instrument!
+
+\--- /task \---
