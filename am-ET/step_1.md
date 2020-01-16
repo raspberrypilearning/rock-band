@@ -10,17 +10,23 @@
 
 ### የምትሰሩት ነገር
 
-\--- no-print \--- ለመጀመር አረንጓዴውን ባንዲራ ጠቅ ያድርጉ። ከዚያም ዘፋኙን ወይም ከበሮውን ጠቅ በማድረግ የሚያሰሙትን ድምጽ ስሙ።
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-\--- / no-print \---
+\--- /no-print \---
 
-\--- print-only \--- ዘፋኙን ወይም ከበሮውን ጠቅ በማድረግ ዘፈን ወይም የከበሮ ድምጽ የሚያወጣ ጌም ትሰራላቹህ። 
+\--- print-only \---
 
-![የጌም ቅጽበታዊ ገጽ እይታ](images/demo.png) \--- / print-only \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -28,7 +34,9 @@
 
 + Scratch ውስጥ ኮድ በመጠቀም የ ስፕራይቱን ልብስ ቀይሩ
 + Scratch ውስጥ ኮዶችን በመጠቀም ስፕራይቶች ለግቤቶች ምላሽ እንዲሰጡ ማድረግ
-+ በ Scratch ድምጾችን ወደ ስፕራይቶች ውስጥ ጨምሩ \--- / collapse \---
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -50,9 +58,9 @@
 
 \--- no-print \---
 
-ይህንን ፕሮጀክት ማተም የሚያስፈልግዎ ከሆነ, [ለህት-ምቹ የሆነውን ስሪት](https://projects.raspberrypi.org/en/projects/rock-band/print){: target = "_ blank"} ይጠቀሙ።
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
-\--- / no-print \---
+\--- /no-print \---
 
 You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
