@@ -10,7 +10,9 @@
 
 ### ඔබ සාදන්නට යන දේ
 
-\--- no-print \--- ආරම්භ කිරීමට කොළ පාට කොඩිය මත ක්ලික් කරන්න. ඉන්පසු, ගායකයා හෝ බෙරය මත ක්ලික් කර ඔවුන් ශබ්ද නගන අයුරු ඇසෙනු ඇත.
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,9 +20,13 @@
 
 \--- /no-print \---
 
-\--- print-only \--- ගායනය හෝ ඩ්‍රම් ශබ්දය ඇසීමට ඔබට ගායකයා හෝ බෙරය මත ක්ලික් කළ හැකි ක්‍රීඩාවක් සාදනු ඇත.
+\--- print-only \---
 
-![ක්‍රීඩා තිර රුව](images/demo.png) \--- /print-only \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -28,7 +34,9 @@
 
 + කේතයක් බවිතා කර Scratch ස්ප්‍රයිට් (sprite) එකේ ඇඳුම වෙනස් කිරීම.
 + Scratch හි ආදාන (input) වලට, sprites ප්‍රතික්‍රියා කරන ලෙස කේත කිරීම
-+ Scratch sprite එකකට ශබ්දයක් එකතු කිරීම \--- /collapse \---
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -50,10 +58,10 @@
 
 \--- no-print \---
 
-ඔබට මෙම ව්‍යාපෘතිය මුද්‍රණය කිරීමට අවශ්‍ය නම්, කරුණාකර [මුද්‍රණ-හිතකාමී අනුවාදය(printer-friendly version)](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"} භාවිතා කරන්න.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-[ සම්පුර්ණ කරන ලද ව්‍යාපෘතිය ඔබට මෙහි සොයාගත හැකිය ](http://rpf.io/p/en/rock-band-get) .
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
