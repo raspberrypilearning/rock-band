@@ -16,13 +16,21 @@ Legg til en figur på scenen din.
 
 Før du kan få sangerinnen til å synge, må du legge til en lyd på figuren av sangerinnen. Forsikre deg om at du har valgt sangerinne-figuren, deretter klikker på Lyd-arkfanen, og klikk på **Velg en lyd**:
 
-![skjermbilde](images/band-import-sound-annotated.png) \--- /task \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- task \--- Klikk på **Stemme** i listen øverst, og velg deretter en lyd du vil legge til figuren din.
+\--- /task \---
 
-![skjermbilde](images/band-choose-sound.png) \--- /task \---
+\--- task \---
 
-\--- task \--- For å bruke lyden, kan du legge til følgende kodeklossen til sangerinne figuren:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 når denne figuren klikkes
@@ -31,4 +39,8 @@ spill lyden (singer1 v) til den er ferdig
 
 \--- /task \---
 
-\--- task \--- Klikk på sangerinnen på scenen og se hva som skjer. Synger hun? \--- /task \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
