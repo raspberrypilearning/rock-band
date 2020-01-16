@@ -10,7 +10,9 @@ Leer hoe je je eigen muziekinstrumenten kunt coderen!
 
 ### Wat ga je maken
 
-\--- no-print \--- Klik op de groene vlag om te beginnen. Klik vervolgens op de zanger of de drum om te horen hoe ze klinken.
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,9 +20,13 @@ Leer hoe je je eigen muziekinstrumenten kunt coderen!
 
 \--- /no-print \---
 
-\--- print-only \--- Je gaat een spel maken waar je op de zangeres of de drum kunt klikken om te horen hoe ze klinken.
+\--- print-only \---
 
-![game screenshot](images/demo.png) \--- /print-only \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -28,7 +34,9 @@ Leer hoe je je eigen muziekinstrumenten kunt coderen!
 
 + Gebruik code om het kostuum van een sprite in Scratch te veranderen
 + Gebruik code om sprites te laten reageren op invoer in Scratch
-+ Geluiden aan een sprite toevoegen in Scratch \--- /collapse \---
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -50,10 +58,10 @@ Leer hoe je je eigen muziekinstrumenten kunt coderen!
 
 \--- no-print \---
 
-Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/rock-band/print) {:target="_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Je kunt het [afgeronde project](http://rpf.io/p/en/rock-band-get) hier vinden.
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
