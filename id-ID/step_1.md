@@ -10,17 +10,23 @@ Pelajari cara membuat kode alat musik Anda sendiri!
 
 ### Apa yang akan Anda buat
 
-\--- tidak-dicetak \--- Klik bendera hijau untuk memulai. Kemudian, klik penyanyi atau drum untuk mendengar seperti apa suaranya.
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-\--- /tidak-dicetak \---
+\--- /no-print \---
 
-\--- hanya cetak \--- Kamu akan membuat permainan di mana kamu dapat mengeklik penyanyi atau drum untuk mendengar suara bernyanyi atau gendang.
+\--- print-only \---
 
-![tangkapan layar permainan](images/demo.png) \--- /print-only \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -28,7 +34,9 @@ Pelajari cara membuat kode alat musik Anda sendiri!
 
 + Gunakan kode untuk merubah kostum sprite di Scratch
 + Gunakan kode untuk membuat sprite terhubung ke masukan di Scratch
-+ Tambahkan suara pada sprite di Scratch
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -50,10 +58,10 @@ Pelajari cara membuat kode alat musik Anda sendiri!
 
 \--- no-print \---
 
-Jika kamu perlu mencetak proyek ini, silakan gunakan versi ramah-printer [](https://projects.raspberrypi.org/en/projects/rock-band/print){: target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
-\--- /tidak dicetak \---
+\--- /no-print \---
 
-Kamu bisa menentukan [proyek lengkapnya disini](http://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
