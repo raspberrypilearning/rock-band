@@ -2,14 +2,26 @@
 
 왼쪽에 있는 **무대** 영역은 프로젝트가 살아 움직이는 공간입니다. 실제 무대처럼 공연이 이뤄지는 곳이라고 생각하면 됩니다!
 
-\--- task \--- 지금 무대는 흰색이고 꽤 지루해 보입니다! **배경을 선택하기**를 클릭하여 배경을 추가하십시오.
+\--- task \---
 
-![스크린샷](images/band-stage-choose.png) \--- /task \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- task \--- 위에 있는 목록에서 **실내** 를 클릭하십시오. 그런 다음 극장 배경을 클릭하십시오.
+![screenshot](images/band-stage-choose.png)
 
-![스크린샷](images/band-backdrop.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- 무대는 이제 다음과 비슷하게 보입니다:
+\--- task \---
 
-![스크린샷](images/band-stage.png) \--- /task \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
