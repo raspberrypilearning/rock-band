@@ -2,14 +2,26 @@
 
 **መድረክ** በስተቀኝ የሚገኘው ቦታ ሲሆን የፕሮጀክቱን ተግባር የምናይበት ነው። ልክ እንደ ተእይንት ማሳያ መድረ አድርገህ/ሽ ውሰደ/ጂው!
 
-\--- ተግባር \--- አሁን ላይ, መድረኩ ነጭ እና አስቀያሚ ይመስላል. **የ backdrop**ን ጠቅ በማድረግ የ backdrop አክልን ጠቅ ያድርጉ.
+\--- task \---
 
-![ቅጽበታዊ ገጽ እይታ](images/band-stage-choose.png) \--- / task \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- ተግባር \--- ውስጥ ከዝርዝሩ ውስጥ **ኢንዶርንስ** የሚለውን ይጫኑ. ከዛ በኋላ በቲያትር ቤት ላይ ጠቅ ያድርጉ.
+![screenshot](images/band-stage-choose.png)
 
-![ቅጽበታዊ ገጽ እይታ](images/band-backdrop.png) \--- / task \---
+\--- / task \---
 
-\--- ተግባር \--- ደረጃዎ ከዚህ አሁን ከዚህ ጋር ተመሳሳይ ይመስላል:
+\--- task \---
 
-![ቅጽበታዊ ገጽ እይታ](images/band-stage.png) \--- / task \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
