@@ -2,14 +2,26 @@
 
 El **Stage** escenario es la zona de la izquierda, y es donde tu proyecto cobra vida. Considéralo como la zona de actuación, ¡como si fuera un escenario real!
 
-\--- task \--- En este momento, el escenario es blanco y se ve bastante aburrido! Agregue un telón de fondo haciendo clic en ** Choose a backdrop **.
+\--- task \---
 
-![captura de pantalla](images/band-stage-choose.png) \--- / tarea \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- task \--- Haga clic en ** Indoors ** en la lista en la parte superior. Luego haga clic en el fondo de un teatro.
+![screenshot](images/band-stage-choose.png)
 
-![captura de pantalla](images/band-backdrop.png) \--- / tarea \---
+\--- / tarea \---
 
-\--- task \--- Tu escenario ahora debería verse similar a esto:
+\--- task \---
 
-![captura de pantalla](images/band-stage.png) \--- función \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
