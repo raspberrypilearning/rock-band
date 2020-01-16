@@ -10,7 +10,9 @@
 
 ### あなたが作るもの
 
-\--- no-print \--- 緑色のフラグをクリックして開始します。次に、歌手またはドラムをクリックして、どのような音が鳴るかを聞きます。
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,9 +20,13 @@
 
 \--- /no-print \---
 
-\--- print-only \--- 歌手またはドラムをクリックして、歌やドラムの音を聞くことができるゲームを作成します。
+\--- print-only \---
 
-![ゲームのスクリーンショット](images/demo.png) \--- /print-only \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -28,7 +34,9 @@
 
 + Scratchでコードを使用してスプライトのコスチュームを変更する
 + Scratchでコードを使用してスプライトを入力に反応させる
-+ Scratchでスプライトにサウンドを追加する \--- / collapse \---
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -50,10 +58,10 @@
 
 \--- no-print \---
 
-このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}を使用してください。
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-[ここで完成したプロジェクト](http://rpf.io/p/en/rock-band-get)を見ることができます 。
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
