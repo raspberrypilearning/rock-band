@@ -16,13 +16,21 @@
 
 Για να τραγουδήσει η τραγουδίστριά σου, πρέπει να προσθέσεις σε αυτή έναν ήχο. Βεβαιώσου ότι έχεις επιλέξει την τραγουδίστριά σου και στη συνέχεια κάνε κλικ στην καρτέλα Ήχοι και ξανά κλικ στο **Διαλέξτε έναν ήχο από τη βιβλιοθήκη**:
 
-![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- task \--- Κάνε κλικ στο **Voice** στη λίστα που βρίσκεται στην κορυφή και, στη συνέχεια, επίλεξε έναν ήχο που θα προσθέσεις στο χαρακτήρα σου.
+\--- /task \---
 
-![screenshot](images/band-choose-sound.png) \--- /task \---
+\--- task \---
 
-\--- task \--- Για να χρησιμοποιήσεις τον ήχο, πρόσθεσε τα ακόλουθα μπλοκ κώδικα στον χαρακτήρα τραγουδίστριας σου:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 όταν γίνει κλικ σε αυτό το αντικείμενο
@@ -31,4 +39,8 @@
 
 \--- /task \---
 
-\--- task \--- Κάνε κλικ στην τραγουδίστρια σου στο σκηνικό και δες τι συμβαίνει. Τραγουδάει; \--- /task \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
