@@ -2,42 +2,62 @@
 
 Trước khi bạn có thể bắt đầu viết mã, bạn sẽ cần thêm một 'điều' vào mã. Trong Scratch, những 'thứ' này được gọi là **sprite**.
 
-\--- task \--- Mở một dự án Scratch mới.
+\--- task \---
+
+Open a new Scratch project.
 
 **Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-**Ngoại tuyến:** mở một dự án mới trong trình chỉnh sửa ngoại tuyến.
+**Offline:** open a new project in the offline editor.
 
-Nếu bạn cần tải xuống và cài đặt trình soạn thảo ngoại tuyến Scratch, bạn có thể tìm thấy nó tại [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-Nó trông như thế này:
+It looks like this:
 
-![ảnh chụp màn hình](images/band-scratch.png) \--- / task \--- \--- task \--- Sprite mèo mà bạn có thể thấy là linh vật Scratch. Bạn không cần nó cho trò chơi này, vì vậy hãy loại bỏ nó bằng cách nhấp chuột phải vào nó và sau đó nhấp vào **xóa**.
+![screenshot](images/band-scratch.png)
 
-![ảnh chụp màn hình](images/band-delete-annotated.png) \--- /bài tập \---
+\--- /task \---
 
-\--- task \--- Tiếp theo, nhấp vào **Chọn sprite từ thư viện** để mở danh sách tất cả các sprite Scratch.
+\--- task \---
 
-![ảnh chụp màn hình](images/band-sprite-library.png) \--- /bài tập \---
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
-\--- task \--- Cuộn xuống cho đến khi bạn thấy một sprite trống. Bấm vào một cái trống để thêm nó vào dự án của bạn.
-
-![ảnh chụp màn hình](images/band-sprite-drum.png)
+![ảnh chụp màn hình](images/band-delete-annotated.png)
 
 \--- /bài tập \---
 
 \--- bài tập \---
 
-Nhấp và kéo trống xuống dưới cùng của Giai đoạn.
+Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+
+![screenshot](images/band-sprite-library.png)
+
+\--- /task \---
+
+\--- task \---
+
+Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+
+![screenshot](images/band-sprite-drum.png)
 
 \--- /bài tập \---
 
-\--- task \--- Give your program a name by typing into the text box at the top.
+\--- task \---
 
-![Tên](images/band-name-annotated.png)
+Click and drag the drum to the bottom of the Stage.
 
-Sau đó bấm vào **Tệp**, rồi vào **Lưu ngay** để lưu dự án của bạn.
+\--- /task \---
 
-Nếu bạn không trực tuyến hoặc không có tài khoản Scratch, bạn có thể lưu bản sao dự án của mình bằng cách nhấp vào **Lưu vào máy tính của bạn**.
+\--- task \---
 
-![ảnh chụp màn hình](images/band-save.png) \--- /bài tập \---
+Give your program a name by typing into the text box at the top.
+
+![name](images/band-name-annotated.png)
+
+Then click on **File**, and then on **Save now** to save your project.
+
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+
+![screenshot](images/band-save.png)
+
+\--- /task \---
