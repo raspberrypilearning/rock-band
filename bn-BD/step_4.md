@@ -18,7 +18,9 @@
 
 \--- task \---
 
-\--- task \--- ড্রাম স্প্রাইটে ক্লিক করুন এবং তারপরে এই দুটি ব্লকটি ডানদিকে কোড অঞ্চলে টানুন:
+\--- task \---
+
+Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
 এই স্প্রাইট ক্লিক করলে
@@ -29,10 +31,14 @@ play drum (\(1\) Snare Drum v) for (0.25) beats
 
 ![screenshot](images/connect-block.gif)
 
-\--- no-print \---
+\--- /no-print \---
 
-নিশ্চিত করুন যে ব্লকগুলি একসাথে সংযুক্ত রয়েছে (লেগো ইটগুলির মতো)।.
+Make sure that the blocks are connected together (like LEGO bricks).
+
+\--- /task \---
 
 \--- task \---
 
-\--- task \--- আপনার নতুন উপকরণটি চেষ্টা করতে ড্রামে ক্লিক করুন! \--- /task \---
+Click on the drum to try out your new instrument!
+
+\--- /task \---
