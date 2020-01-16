@@ -10,7 +10,9 @@ Dysga sut i godio offerynnau cerddorol!
 
 ### Beth fyddi di'n ei greu
 
-\--- no-print \--- Clicia'r faner werdd i gychwyn. Yna, clicia ar y canwr neu drwm i glywed sut mae nhw'n swnio.
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,9 +20,13 @@ Dysga sut i godio offerynnau cerddorol!
 
 \--- /no-print \---
 
-\--- print-only \--- Fyddi di'n creu gêm lle mae modd clicio ar y canwr neu'r drwm i glywed sain canu neu drwm.
+\--- print-only \---
 
-![sgrînlun gêm](images/demo.png) \--- /print-only \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \---collapse\---
 
@@ -28,7 +34,9 @@ Dysga sut i godio offerynnau cerddorol!
 
 + Defnyddio côd i newid gwisg ciplun yn Scratch
 + Defnyddio côd i wneud i’r cipluniau ymateb i fewnbwn yn Scratch
-+ Ychwanegu synau at y ciplun yn Scratch
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \---collapse\---
 
@@ -50,10 +58,10 @@ Dysga sut i godio offerynnau cerddorol!
 
 \--- no-print \---
 
-Os oes angen i chi argraffu y prosiect, defnyddiwch [fersiwn i'w argraffu](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Gallwch ddod o hyd i'r prosiect gorffenedig [ yma ](http://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
