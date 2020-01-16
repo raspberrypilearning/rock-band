@@ -10,7 +10,9 @@ Lær hvordan du kan kode dine egne musikkinstrumenter!
 
 ### Hva du vil lage
 
-\--- no-print \--- Klikk på det grønne flagger for å starte. Deretter klikker du på sangerinnen eller trommen for å høre hva slags lyd de lager.
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,9 +20,13 @@ Lær hvordan du kan kode dine egne musikkinstrumenter!
 
 \--- /no-print \---
 
-\--- print-only \--- Du skal lage et spill der du kan klikke på en sangerinne eller trommer for å høre hva slags lyd de lager.
+\--- print-only \---
 
-![skjermbilde av spillet](images/demo.png) \--- /print-only \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -28,7 +34,9 @@ Lær hvordan du kan kode dine egne musikkinstrumenter!
 
 + Bruke kode for å endre drakten til en figur i Scratch
 + Bruke kode for å få en figur til å reagere når du klikker på noe i Scratch
-+ Legge til lyd på en figur i Scratch \--- /collapse \---
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -50,10 +58,10 @@ Lær hvordan du kan kode dine egne musikkinstrumenter!
 
 \--- no-print \---
 
-Hvis du trenger å skrive ut dette prosjektet, bruk den [utskriftsvennlige versjonen](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Du kan finne det [ferdige prosjektet her](http://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
