@@ -2,23 +2,41 @@
 
 الان ستجعل من المغنية تبدو كأنها تغني!
 
-يمكنك تغيير مظهر كائن المغنية عند النقر عليه، وذلك بإنشاء مظهر جديد. انقر فوق علامة التبويب المظاهر، وسترى صورة المغنية.
+\--- task \---
 
-![لقطة الشاشة](images/band-singer-costume-annotated.png) \--- /task \---
+You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
 
-انقر بزر الماوس الأيمن على المظهر ثم انقر فوق **مضاعفة** لإنشاء نسخة من المظهر.
+![screenshot](images/band-singer-costume-annotated.png)
 
-![لقطة الشاشة](images/band-singer-duplicate.png) \---/task--
+\---/task--
 
-انقر فوق المظهر الجديد (المُسمى ‘Singer2’)، ثم حدِّد الأداة خط وارسم خطوطًا لتجعل المغنية تبدو وكأنها تغني.
+\--- task \---
 
-![لقطة الشاشة](images/band-singer-click.png) \--- /task \---
+Right-click on the costume and then click on **duplicate** to create a copy of it.
 
-ليست أسماء المظاهر ذات دلالة حقيقية في الوقت الحالي. أعد تسمية المظهرين بحيث يُسمى أحدهما ‘لا تغني’ والآخر ‘تغني’ بكتابة الاسم الجديد لكل مظهر في مربع النص.
+![screenshot](images/band-singer-duplicate.png)
 
-![لقطة الشاشة](images/band-singer-name-annotated.png) \--- /task \---
+\--- /task \---
 
-بعد أن أصبح لديك الآن مظهران مختلفان للمغنية، يمكنك اختيار المظهر الذي تريد عرضه! أضف هاتين الكتلتَين البرمجيتَين إلى المغنية:
+\--- task \---
+
+Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+
+![screenshot](images/band-singer-click.png)
+
+\--- /task \---
+
+\--- task \---
+
+The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+
+![screenshot](images/band-singer-name-annotated.png)
+
+\--- /task \---
+
+\--- task \---
+
+Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
 
 ```blocks3
 عند النقر على هذا الكائن
@@ -28,14 +46,24 @@
 
 ```
 
-يوجد قالب التعليمات البرمجية لتغيير المظهر في قسم `المظاهر`.
+The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
 
-انقر فوق المغنية. هل تبدو وكأنها تغني؟
+\--- /task \---
 
-والان اجعل الطبلة تبدو وكأنها تُدق!
+\--- task \---
 
-![لقطة الشاشة](images/band-drum-final.png)
+Click on your singer on the stage. Does she look like she is singing?
+
+\--- /task \---
+
+\--- task \---
+
+Now make your drum look like it's being hit!
+
+![screenshot](images/band-drum-final.png)
 
 - استخدم تعليمات تغيير مظهر المغنية الموجودة في الخطوة السابقة لمساعدتك.
 
-تذكَّر أن تختبر التعليمة البرمجية الجديدة للتأكد من أنها تعمل بالشكل المطلوب!
+Remember to test that your new code works!
+
+\--- /task \---
