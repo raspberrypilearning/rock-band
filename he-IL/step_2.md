@@ -2,42 +2,62 @@
 
 לפני שתוכל להתחיל לקודד, יהיה עליך להוסיף 'משהו ' לקוד. ב Scratch, "משהו" כאלה נקראים ** דמויות **.
 
-\--- task \--- פתח פרוייקט חדש של Scratch.
+\--- task \---
 
-** מקוון: ** לפתוח פרוייקט חדש באינטרנט Scratch ב [ rpf.io / scratchon ](http://rpf.io/scratch-new) {:target="_blank"}.
+Open a new Scratch project.
 
-** לא מקוון: ** פתח פרוייקט חדש בעורך הלא מקוון.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-אם עליך להוריד ולהתקין את העורך הלא מקוון של Scratch, תוכל למצוא אותו בכתובת [ rpf.io/scratchoff ](http://rpf.io/scratchoff) {:target="_blank"}.
+**Offline:** open a new project in the offline editor.
 
-זה נראה כך:
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-![צילום מסך](images/band-scratch.png) \--- / task \--- \--- task \--- דמות החתול שאתה יכול לראות הוא קוד סקראטץ. אתה לא תזדקק לו במשחק הזה, אז הסר אותו על ידי לחיצה ימנית ולאחר מכן לחיצה על ** מחק **.
+It looks like this:
 
-![צילום מסך](images/band-delete-annotated.png) \--- /task \---
-
-\--- task \--- לאחר מכן, לחץ על ** בחר דמות מהספרייה ** כדי לפתוח רשימה של כל דמויות סקראטץ.
-
-![צילום מסך](images/band-sprite-library.png) \--- /task \---
-
-\--- משימה \--- גלול למטה עד שתראה דמות תוף. לחץ על תוף כדי להוסיף אותו לפרויקט שלך.
-
-![צילום מסך](images/band-sprite-drum.png)
+![screenshot](images/band-scratch.png)
 
 \--- /task \---
 
 \--- task \---
 
-לחץ וגרור את התוף לתחתית הבמה.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+
+![צילום מסך](images/band-delete-annotated.png)
 
 \--- /task \---
 
-\--- task \--- תן לתוכנית שם על ידי הקלדה לתוך תיבת הטקסט בחלק העליון.
+\--- task \---
 
-![שם](images/band-name-annotated.png)
+Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
 
-לאחר מכן לחץ על ** קובץ **, ולאחר מכן על ** שמור כעת ** כדי לשמור את הפרוייקט.
+![screenshot](images/band-sprite-library.png)
 
-אם אינך מחובר או שאין לך משתמש בסקראטץ', באפשרותך לשמור עותק של הפרויקט על-ידי לחיצה על ** שמור במחשב שלך ** במקום זאת.
+\--- /task \---
 
-![צילום מסך](images/band-save.png) \--- /task \---
+\--- task \---
+
+Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+
+![screenshot](images/band-sprite-drum.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click and drag the drum to the bottom of the Stage.
+
+\--- /task \---
+
+\--- task \---
+
+Give your program a name by typing into the text box at the top.
+
+![name](images/band-name-annotated.png)
+
+Then click on **File**, and then on **Save now** to save your project.
+
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+
+![screenshot](images/band-save.png)
+
+\--- /task \---
