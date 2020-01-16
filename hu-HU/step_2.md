@@ -2,42 +2,62 @@
 
 Mielőtt elkezdenéd a kódolást, hozzá kell adnod egy 'dolgot' a kódhoz. A Scratch-ben ezeket a 'dolgokat' **szereplőknek** nevezik.
 
-\--- task \--- Nyiss meg egy új Scratch projektet.
+\--- task \---
 
-**Online:** nyiss megy egy új online Scratch projektet itt:[rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_ blank"}.
+Open a new Scratch project.
 
-**Offline:** nyiss egy új projektet az offline szerkesztőben.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-Ha le szeretnéd tölteni és telepíteni a Scratch offline szerkesztőt, akkor azt itt találod: [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+**Offline:** open a new project in the offline editor.
 
-Így néz ki:
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-![képernyőkép](images/band-scratch.png) \--- /task \--- \--- task \--- A macska szereplő a Scratch kabalája. Ehhez a játékhoz rá nincs szükség - kattints rá a jobb egérgombbal, majd kattints a **törlés**-re.
+It looks like this:
 
-![képernyőkép](images/band-delete-annotated.png) \--- /task \---
-
-\--- task \--- Következő lépésként kattints a **Válassz szereplőt a könyvtárból** gombra, hogy megnyisd a listát az összes Scratch szereplőről.
-
-![képernyőkép](images/band-sprite-library.png) \--- /task \---
-
-\--- task \--- Görgess le, amíg meg nem jelenik egy dob szereplő. Kattints a dobra a projekthez való hozzáadáshoz.
-
-![képernyőkép](images/band-sprite-drum.png)
+![screenshot](images/band-scratch.png)
 
 \--- /task \---
 
 \--- task \---
 
-Kattints a dobra és húzd a színpad aljára.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+
+![képernyőkép](images/band-delete-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Adj nevet a programodnak a felső soron található szövegdobozban.
+\--- task \---
 
-![név](images/band-name-annotated.png)
+Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
 
-Ezután kattints a **Fájl** menüpontra, majd a **Mentés most** gombra a projekt mentéséhez.
+![screenshot](images/band-sprite-library.png)
 
-Ha nem vagy online vagy nincs Scratch fiókod, letöltheted a projektedet a **Mentsd le a számítógépedre** menüponttal.
+\--- /task \---
 
-![képernyőkép](images/band-save.png) \--- /task \---
+\--- task \---
+
+Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+
+![screenshot](images/band-sprite-drum.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click and drag the drum to the bottom of the Stage.
+
+\--- /task \---
+
+\--- task \---
+
+Give your program a name by typing into the text box at the top.
+
+![name](images/band-name-annotated.png)
+
+Then click on **File**, and then on **Save now** to save your project.
+
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+
+![screenshot](images/band-save.png)
+
+\--- /task \---
