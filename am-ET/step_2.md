@@ -2,42 +2,62 @@
 
 ኮድ መጻፍ ከመጀመርዎ በፊት ፣ ኮዱ ውስጥ አንድ "ነገር" መጨመር ያስፈልግዎታል። በ Scratch ውስጥ ፣ እነዚህ "ነገሮች" **sprites** ተብለው ይጠራሉ።
 
-\--- task \--- አዲስ Scratch ፕሮጀክት ይክፈቱ.
+\--- task \---
 
-**ኦንላይን:** አዲስ የኦንላይን Scratch ፕሮጀክት ከ [rpf.io/scratch-new](http://rpf.io/scratch-new){: target = "_ blank"} ለይ ይክፈቱ።
+Open a new Scratch project.
 
-**ኦፍላይን:** በ ኦፍላይን አርታዒ ላይ አንድ አዲስ ፕሮጀክት ይክፈቱ።
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-የScratch ኦፍላይን አርታዒን ማውረድ እና መጫን ካስፈለገዎት ከ [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"} ላይ ሊያገኙት ይችላሉ።
+**Offline:** open a new project in the offline editor.
 
-ይሄ ይመስላል:
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-![ቅጽበታዊ ገጽ እይታ](images/band-scratch.png) \--- / task \--- \--- task \--- የምታዩት የድመት ስፕራይት የScratch አርማ ነው። ለዚህ ጌም አያስፈልግም፣ ስለዚህ ቀኝ-ጠቅ በማድረግ እና ከዚያ ላይ **መሰረዝ** ጠቅ በማድረግ አስወግዱት።
+It looks like this:
 
-![ቅጽበታዊ ገጽ እይታ](images/band-delete-annotated.png) \--- / task \---
+![screenshot](images/band-scratch.png)
 
-\--- task \--- ቀጥሎ ፣ **ከግምጃ ውስጥ ስፕራይት ምረጡ ** ላይ ጠቅ በማድረግ የሁሉንም የ Scratch ስፕራይቶችን ዝርዝር ክፈቱ።
+\--- /task \---
 
-![ቅጽበታዊ ገጽ እይታ](images/band-sprite-library.png) \--- / task \---
+\--- task \---
 
-\--- task \--- የከበሮ ስፕራይት እስከሚታይ ድረስ ወደታች ይሸብልሉ ። ከበሮ ላይ ጠቅ በማድረግ ወደ ፕሮጀክቱ ጨምሩት።
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
-![ቅጽበታዊ ገጽ እይታ](images/band-sprite-drum.png)
+![ቅጽበታዊ ገጽ እይታ](images/band-delete-annotated.png)
 
 \--- / task \---
 
 \--- task \---
 
-ከበሮውን ጠቅ አድርገው በመያዝ ወደ መድረኩ የታችኛው ክፍል ይጎትቱት።
+Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+
+![screenshot](images/band-sprite-library.png)
+
+\--- /task \---
+
+\--- task \---
+
+Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+
+![screenshot](images/band-sprite-drum.png)
 
 \--- / task \---
 
-\--- task \--- ከላይ ባለው የጽሑፍ ሳጥን ውስጥ በመተየብ ለፕሮግራሙ ስም ስም ይስጡት።
+\--- task \---
 
-![ስም](images/band-name-annotated.png)
+Click and drag the drum to the bottom of the Stage.
 
-ከዚያም **ፋይል** ላይ ጠቅ ያድርጉና ከዚያም **ሴቭ አሁን** ጠቅ በማድረግ ፕሮጀክትዎን ሴቭ አድርጉ።
+\--- /task \---
 
-ኦንላይን ላይ ካልሆናቹህ ወይም የScratch አካውንት ከሌልዎ በ **ወደ ኮምፒውተር ሴቭ ** ላይ በመጫን የፕሮጀክትዎን ቅጂ ሴቭ ማድረግ ይችላሉ።
+\--- task \---
 
-![ቅጽበታዊ ገጽ እይታ](images/band-save.png) \--- / task \---
+Give your program a name by typing into the text box at the top.
+
+![name](images/band-name-annotated.png)
+
+Then click on **File**, and then on **Save now** to save your project.
+
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+
+![screenshot](images/band-save.png)
+
+\--- /task \---
