@@ -18,21 +18,27 @@
 
 \--- / task \---
 
-\--- ተግባር \--- በትራፊክ ስፒር ላይ ጠቅ ያድርጉ ከዚያም እነዚህን ሁለት ጥቆማዎች በስተቀኝ ላይ ባለው የኮድ ክፍል ውስጥ ይጎትቱት:
+\--- task \---
+
+Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
 ይህ ጽሑፍ
 መጫወት ድራም (\ (1 \) Snare Drum v) ለ (0.25) ቢሽ
 ```
 
-\--- አትም \---
+\--- no-print \---
 
-![ቅጽበታዊ ገጽ እይታ](images/connect-block.gif)
+![screenshot](images/connect-block.gif)
 
-\--- / no-print \---
+\--- /no-print \---
 
 Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \---
+
+Click on the drum to try out your new instrument!
+
+\--- /task \---
