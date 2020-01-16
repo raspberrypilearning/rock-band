@@ -2,14 +2,26 @@
 
 **ステージ**は右のエリアで選択できます。ここでプロジェクトは動きます。本物のステージのように、パフォーマンスエリアと考えてください！
 
-\--- task \--- この時点では、ステージは白く、かなり退屈に見えます！**背景を選ぶ**をクリックして、背景を追加します。
+\--- task \---
 
-![スクリーンショット](images/band-stage-choose.png) \--- /task \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- task \--- 上部のリストにある**屋内**をクリックします。次に、劇場の背景をクリックします。
+![screenshot](images/band-stage-choose.png)
 
-![スクリーンショット](images/band-backdrop.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- あなたのステージは、今このように見えているはずです。
+\--- task \---
 
-![スクリーンショット](images/band-stage.png) \--- /task \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
