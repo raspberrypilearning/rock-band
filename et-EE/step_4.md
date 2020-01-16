@@ -18,7 +18,9 @@ Klõpsa laiendusel **Muusika** selle lisamiseks.
 
 \--- /task \---
 
-\--- task \--- Klõpsa trummi spraidil, seejärel lohista need kaks plokki paremal asuvasse koodialasse:
+\--- task \---
+
+Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
 kui spraiti klõpsata
@@ -27,12 +29,16 @@ mängi trummi ((1) Soolotrumm v) kestusega (0.25)
 
 \--- no-print \---
 
-![kuvatõmmis](images/connect-block.gif)
+![screenshot](images/connect-block.gif)
 
 \--- /no-print \---
 
-Veendu, et plokid on omavahel ühendatud (nagu LEGO klotsid).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Klõpsa trummil, et proovida oma uut instrumenti! \--- /task \---
+\--- task \---
+
+Click on the drum to try out your new instrument!
+
+\--- /task \---
