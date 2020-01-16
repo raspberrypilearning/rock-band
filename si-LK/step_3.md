@@ -2,14 +2,26 @@
 
 **Stage** යනු දකුණු පස ඇති ප්‍රදේශය වන අතර ඔබේ ව්‍යාපෘතිය ජීවයට පැමිණේ. එය සැබෑ වේදිකාවක් මෙන් කාර්ය සාධන ප්‍රදේශයක් ලෙස සිතන්න!
 
-\--- task \--- මේ මොහොතේ, වේදිකාව සුදු වන අතර එය ඉතා කම්මැලි ය! **Choose a backdrop** මත ක්ලික් කිරීමෙන් එයට පසුබිමක් එක් කරන්න
+\--- task \---
 
-![තිර රුව(screenshot)](images/band-stage-choose.png) \--- /task \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- task \--- ඉහළ ලැයිස්තුවේ **Indoors** මත ක්ලික් කරන්න . ඉන්පසු රංග පසුබිම මත ක්ලික් කරන්න.
+![screenshot](images/band-stage-choose.png)
 
-![තිර රුව(screenshot)](images/band-backdrop.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- ඔබගේ වේදිකාව දැන් මේ හා සමාන විය යුතුය:
+\--- task \---
 
-![තිර රුව(screenshot)](images/band-stage.png) \--- /task \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
