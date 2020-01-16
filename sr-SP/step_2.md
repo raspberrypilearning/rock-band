@@ -2,42 +2,62 @@
 
 Пре него што почнеш са програмирањем, мораш да додаш оно што ћеш програмирати. У Скречу то се зове **лик**.
 
-\--- task \--- Започни нови Скреч пројекат.
+\--- task \---
 
-**На мрежи**: започни нови пројекат у Скреч уређивачу на мрежи на [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+Open a new Scratch project.
 
-**Ван мреже:** започни нови пројекат на Скреч уређивачу ван мреже.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-Ако је потребно да преузмеш и инсталираш Скреч уређивач ван мреже, можеш га пронаћи на [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+**Offline:** open a new project in the offline editor.
 
-Он изгледа овако:
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-![снимак екрана](images/band-scratch.png) \--- /task \--- \--- task \--- Лик мачке коју видиш је маскота Скреча. Она ти није потребна за ову игру, отараси је се тако што ћеш кликнути десним тастером миша на њу, а затим на **обриши**.
+It looks like this:
 
-![снимак екрана](images/band-delete-annotated.png) \--- /task \---
-
-\--- task \--- Затим кликни на **Изабери лик** да би отворио списак свих Скреч ликова.
-
-![снимак екрана](images/band-sprite-library.png) \--- /task \---
-
-\--- task \--- Скролуј ка доле док не угледаш лик бубња. Кликни на бубањ да би га додао/ла у пројекат.
-
-![снимак екрана](images/band-sprite-drum.png)
+![screenshot](images/band-scratch.png)
 
 \--- /task \---
 
 \--- task \---
 
-Кликни и превуци бубањ на дно Позорнице.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+
+![снимак екрана](images/band-delete-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Дај свом програму име, тако што ћеш га уписати у поље за текст у горњем делу.
+\--- task \---
 
-![име](images/band-name-annotated.png)
+Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
 
-Кликни на **Дадотека**, а затим на **Сачувај одмах** да би сачувао/ла свој пројекат.
+![screenshot](images/band-sprite-library.png)
 
-Ако не користиш Скреч на мрежи или немаш Скреч налог, можеш да сачуваш копију свог пројекта тако што ћеш кликнути на **Сачувај на свом рачунару**.
+\--- /task \---
 
-![снимак екрана](images/band-save.png) \--- /task \---
+\--- task \---
+
+Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+
+![screenshot](images/band-sprite-drum.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click and drag the drum to the bottom of the Stage.
+
+\--- /task \---
+
+\--- task \---
+
+Give your program a name by typing into the text box at the top.
+
+![name](images/band-name-annotated.png)
+
+Then click on **File**, and then on **Save now** to save your project.
+
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+
+![screenshot](images/band-save.png)
+
+\--- /task \---
