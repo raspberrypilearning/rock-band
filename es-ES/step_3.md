@@ -2,14 +2,26 @@
 
 La **Etapa** es el área a la derecha y es donde su proyecto cobra vida. ¡Piense en ello como un área de actuación, como un escenario real!
 
-\--- tarea \--- Por el momento, el escenario es blanco y se ve bastante aburrido! Agregue un fondo haciendo clic en **Elija un fondo**.
+\--- task \---
 
-![screenshot](images/band-stage-choose.png) \--- /task \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- tarea \--- Haga clic en **Interior** en la lista en la parte superior. Luego haga clic en un telón de teatro.
+![screenshot](images/band-stage-choose.png)
 
-![screenshot](images/band-backdrop.png) \--- /task \---
+\--- /task \---
 
-\--- tarea \--- Su etapa ahora debería ser similar a esto:
+\--- task \---
 
-![captura de pantalla](images/band-stage.png) \--- /task \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
