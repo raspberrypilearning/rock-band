@@ -10,7 +10,9 @@ Aprenda a programar os seus próprios instrumentos musicais!
 
 ### O que você vai fazer
 
-\--- no-print \--- Clique na bandeira verde para começar. Depois, clique na cantora ou no tambor para ouvir como eles soam.
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,9 +20,13 @@ Aprenda a programar os seus próprios instrumentos musicais!
 
 \--- /no-print \---
 
-\--- print-only \--- Você vai fazer um jogo onde você pode clicar na cantora ou no tambor para ouvir sons de canto ou bateria.
+\--- print-only \---
 
-![captura de tela do jogo](images/demo.png) \--- /print-only \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -28,7 +34,9 @@ Aprenda a programar os seus próprios instrumentos musicais!
 
 + Usar código para mudar a fantasia de um ator no Scratch
 + Usar código para fazer atores reagirem a entradas no Scratch
-+ Adicionar sons a um ator no Scratch
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -50,10 +58,10 @@ Aprenda a programar os seus próprios instrumentos musicais!
 
 \--- no-print \---
 
-Se você precisar imprimir este projeto, por favor, utilize a [versão para impressão](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Você pode encontrar o [projeto completo aqui](http://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
