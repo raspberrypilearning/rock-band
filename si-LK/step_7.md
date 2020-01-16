@@ -2,23 +2,41 @@
 
 දැන් ඔබ ඔබේ ගායකයා ඇය ගායනා කරන ආකාරයට පෙනෙනු ඇත!
 
-\--- task \--- නව ඇඳුමක් නිර්මාණය කිරීමෙන් ඔබේ ගායක ස්ප්‍රයිට් (sprite ) ක්ලික් කළ විට එහි පෙනුම වෙනස් කළ හැකිය.Costumes tab ක්ලික් කරන්න, එවිට ඔබට ගායක ඇඳුම (costume)පෙනෙනු ඇත.
+\--- task \---
 
-![තිර රුව(screenshot)](images/band-singer-costume-annotated.png) \--- /task \---
+You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
 
-\--- task \--- ඇඳුම (costume)මත දකුණු-ක්ලික් කර එහි පිටපතක් සෑදීමට **duplicate** මත ක්ලික් කරන්න .
+![screenshot](images/band-singer-costume-annotated.png)
 
-![තිර රුව(screenshot)](images/band-singer-duplicate.png) \--- /task \---
+\--- /task \---
 
-\---- task \--- නව ඇඳුම මත ක්ලික් කරන්න ('සිංගර් 2' (Singer2) ලෙස හැඳින්වේ), පසුව රේඛීය මෙවලම (line tool ) තෝරා රේඛා අඳින්න එවිට ඔබේ ගායකයා ශබ්ද නගන බවක් පෙනේ.
+\--- task \---
 
-![තිර රුව(screenshot)](images/band-singer-click.png) \--- /task \---
+Right-click on the costume and then click on **duplicate** to create a copy of it.
 
-\--- task \--- මේ මොහොතේ ඇඳුමේ නම් එතරම් ප්‍රයෝජනවත් නොවේ. ඇඳුමේ පෙළ කොටු තුළට ටයිප් කර ඔවුන්ගේ නම් 'not singing' සහ 'singing' ලෙස වෙනස් කරන්න.
+![screenshot](images/band-singer-duplicate.png)
 
-![තිර රුව(screenshot)](images/band-singer-name-annotated.png) \--- /task \---
+\--- /task \---
 
-\--- කාර්යය \--- දැන් ඔබේ ගායකයා සඳහා වෙනස් ඇඳුම් දෙකක් ඇති බැවින්, පෙන්විය යුතු ඇඳුම තෝරා ගත හැකිය! ඔබේ ගායක ස්ප්‍රයිට්)(sprite ) වෙත මෙම කේත කොටස් (code blocks) දෙක එකතු කරන්න:
+\--- task \---
+
+Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+
+![screenshot](images/band-singer-click.png)
+
+\--- /task \---
+
+\--- task \---
+
+The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+
+![screenshot](images/band-singer-name-annotated.png)
+
+\--- /task \---
+
+\--- task \---
+
+Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
 
 ```blocks3
 when this sprite clicked
@@ -27,14 +45,24 @@ play sound (singer1 v) until done
 +switch costume to (not singing v)
 ```
 
-ඇඳුම වෙනස් කිරීම සඳහා කේත කොටස Looks{:class="block3looks"} කොටසෙහි ඈත \--- /task \---
+The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
 
-\--- task \--- වේදිකාවේ සිටින ඔබේ ගායකයා මත ක්ලික් කර සිදුවන්නේ කුමක්දැයි බලන්න. ඇය ගායනා කරනවාද? \--- /task \---
+\--- /task \---
 
-\--- task \--- දැන් ඔබේ බෙරයට පහර දුන් බවක් පෙනෙන්නට සලස්වන්න!
+\--- task \---
 
-![තිර රුව(screenshot)](images/band-drum-final.png)
+Click on your singer on the stage. Does she look like she is singing?
+
+\--- /task \---
+
+\--- task \---
+
+Now make your drum look like it's being hit!
+
+![screenshot](images/band-drum-final.png)
 
 - ඔබට උපකාර කිරීම සඳහා ඔබේ ගායක ස්ප්‍රයිට්ගේ ඇඳුම (sprite's costume) වෙනස් කිරීම සඳහා උපදෙස් (instructions) භාවිතා කරන්න.
 
-ඔබගේ නව කේතය (code) ක්‍රියාත්මක වන බව පරීක්ෂා කිරීමට මතක තබා ගන්න! \--- /task \---
+Remember to test that your new code works!
+
+\--- /task \---
