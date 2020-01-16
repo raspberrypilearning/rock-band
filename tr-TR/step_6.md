@@ -16,13 +16,21 @@ Sahne Alanı'na bir şarkıcı kuklası ekleyin.
 
 Şarkıcınızın şarkı söylemeye başlamasından önce şarkıcı kuklasına bir ses eklemeniz gerekir. Şarkıcı kuklanızın seçili olduğundan emin olduktan sonra Sesler sekmesine geçin ve **Bir Ses Seç**'i tıklayın:
 
-![ekran görüntüsü](images/band-import-sound-annotated.png) \--- /task \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- task \--- En üstteki listeden **Ses** sekmesine tıklayın ve kuklanıza eklemek için bir ses seçin.
+\--- /task \---
 
-![ekran görüntüsü](images/band-choose-sound.png) \--- /task \---
+\--- task \---
 
-\--- task \--- Sesi kullanmak için, şarkıcı kuklanıza aşağıdaki kod bloklarını ekleyin:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 bu kukla tıklandığında
@@ -31,4 +39,8 @@ bu kukla tıklandığında
 
 \--- /task \---
 
-\--- task \--- Sahnede şarkıcınıza tıklayın ve ne olduğunu görün. Şarkı söylüyor mu? \--- /task \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
