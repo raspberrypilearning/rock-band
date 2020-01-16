@@ -10,7 +10,9 @@
 
 ### Τι θα φτιάξεις
 
-\--- no-print \--- Κάνε κλικ στην πράσινη σημαία για να ξεκινήσεις. Στη συνέχεια, κάνε κλικ στην τραγουδίστρια ή στο τύμπανο για να ακούσεις πώς παίζουν.
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,9 +20,13 @@
 
 \--- /no-print \---
 
-\--- print-only \--- Θα φτιάξεις ένα παιχνίδι όπου μπορείς να κάνεις κλικ στον τραγουδιστή ή στο τύμπανο για να ακούσεις ήχους τραγουδιού ή τύμπανου.
+\--- print-only \---
 
-![game screenshot](images/demo.png) \--- /print-only \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -28,7 +34,9 @@
 
 + Να χρησιμοποιείς κώδικα για να αλλάξεις την ενδυμασία ενός χαρακτήρα στη Scratch
 + Να χρησιμοποιείς κώδικα για να κάνεις το χαρακτήρα να αντιδρά σε κάτι που θα εισάγεις στη Scratch
-+ Να προσθέτεις ήχους σε ένα χαρακτήρα στη Scratch \--- /collapse \---
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -50,10 +58,10 @@
 
 \--- no-print \---
 
-Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](http://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
