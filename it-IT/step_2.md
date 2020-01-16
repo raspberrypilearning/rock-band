@@ -2,42 +2,62 @@
 
 Prima di poter cominciare a programmare, hai bisogno di aggiungere al tuo progetto un ‘oggetto’ da programmare. In Scratch questi ‘oggetti’ si chiamano **sprite**.
 
-\--- compito \--- Apre un nuovo progetto Scratch.
+\--- task \---
 
-**Online:** apri un nuovo progetto Scratch online su [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+Open a new Scratch project.
 
-**Offline:** apri un nuovo progetto nell'editor offline.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-Se hai bisogno di scaricare ed installare l'editor Scratch offline, puoi trovarlo su [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+**Offline:** open a new project in the offline editor.
 
-Apparirà così:
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-![schermata](images/band-scratch.png) \--- / compito \--- \--- compito \--- Il gatto sprite che vedi è la mascotte di Scratch. Non ne hai bisogno per questo gioco, quindi eliminalo cliccandoci sopra col tasto destro e scegli **Elimina**.
+It looks like this:
 
-![schermata](images/band-delete-annotated.png) \--- /compito \---
+![screenshot](images/band-scratch.png)
 
-\--- compito \--- Adesso fai clic su **Scegli sprite dalla libreria** per aprire un elenco di tutti gli sprite di Scratch.
+\--- /task \---
 
-![schermata](images/band-sprite-library.png) \--- /compito \---
+\--- task \---
 
-\--- compito \--- Scorri in basso fino a uno sprite del tamburo. Clicca su un tamburo per aggiungerlo al tuo progetto.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
-![schermata](images/band-sprite-drum.png)
+![schermata](images/band-delete-annotated.png)
 
 \--- /compito \---
 
 \--- compito \---
 
-Clicca e trascina il tamburo sul fondo del palco.
+Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
 
-\--- /compito \---
+![screenshot](images/band-sprite-library.png)
 
-\--- task \--- Assegna un nome al tuo programma digitandolo nella casella di testo in alto.
+\--- /task \---
 
-![nome](images/band-name-annotated.png)
+\--- task \---
 
-Adesso clicca su **File**, quindi su **Salva ora** per salvare il progetto.
+Scroll down until you see a drum sprite. Click on a drum to add it to your project.
 
-Se non sei online o non hai un account Scratch, puoi salvare una copia del progetto cliccando su **Salva sul computer**.
+![screenshot](images/band-sprite-drum.png)
 
-![schermata](images/band-save.png) \--- /task \---
+\--- /task \---
+
+\--- task \---
+
+Click and drag the drum to the bottom of the Stage.
+
+\--- /task \---
+
+\--- task \---
+
+Give your program a name by typing into the text box at the top.
+
+![name](images/band-name-annotated.png)
+
+Then click on **File**, and then on **Save now** to save your project.
+
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+
+![screenshot](images/band-save.png)
+
+\--- /task \---
