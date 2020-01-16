@@ -2,23 +2,41 @@
 
 Ας φτιάξουμε την τραγουδίστριά σου ώστε να φαίνεται σαν να τραγουδάει!
 
-\---task\--- Μπορείς επίσης να αλλάζεις τον τρόπο εμφάνισης του αντικειμένου τραγουδίστρια όταν γίνει κλικ, δημιουργώντας μια νέα ενδυμασία. Κάνε κλικ στην καρτέλα Ενδυμασίες και θα δεις την εικόνα της τραγουδίστριας.
+\--- task \---
 
-![screenshot](images/band-singer-costume-annotated.png) \--- /task \---
+You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
 
-\--- task \--- Κάνε δεξί κλικ στην ενδυμασία και ξανά κλικ στο **διπλασιασμός** για να δημιουργήσεις ένα αντίγραφο της ενδυμασίας.
+![screenshot](images/band-singer-costume-annotated.png)
 
-![screenshot](images/band-singer-duplicate.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Κάνε κλικ στη νέα ενδυμασία (που ονομάζεται 'Singer2') και στη συνέχεια, επίλεξε το εργαλείο γραμμής και σχεδίασε γραμμές για να φανεί ότι η τραγουδίστρια βγάζει ήχο.
+\--- task \---
 
-![screenshot](images/band-singer-click.png) \--- /task \---
+Right-click on the costume and then click on **duplicate** to create a copy of it.
 
-\--- task \--- Τα ονόματα των κοστουμιών δεν είναι πολύ χρήσιμα αυτή τη στιγμή. Πληκτρολόγησε στα πλαίσια κειμένου των κοστουμιών για να αλλάξεις τα ονόματά τους σε «δεν τραγουδάει» και «τραγουδάει».
+![screenshot](images/band-singer-duplicate.png)
 
-![screenshot](images/band-singer-name-annotated.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Τώρα που έχεις δύο διαφορετικές ενδυμασίες για την τραγουδίστριά σου, μπορείς να επιλέξεις ποια ενδυμασία εμφανίζεται! Πρόσθεσε αυτά τα δύο μπλοκ κώδικα στην τραγουδίστριά σου:
+\--- task \---
+
+Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+
+![screenshot](images/band-singer-click.png)
+
+\--- /task \---
+
+\--- task \---
+
+The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+
+![screenshot](images/band-singer-name-annotated.png)
+
+\--- /task \---
+
+\--- task \---
+
+Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
 
 ```blocks3
 όταν γίνει κλικ σε αυτό το αντικείμενο
@@ -27,14 +45,24 @@
 +άλλαξε ενδυμασία σε (δεν τραγουδάει v)
 ```
 
-Το μπλοκ κώδικα για την αλλαγή της ενδυμασίας βρίσκεται στην ενότητα `Όψεις`{:class="blocklooks"}.
+The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
 
-\--- task \--- Κάνε κλικ στην τραγουδίστρια σου στο σκηνικό και δες τι συμβαίνει. Τραγουδάει; \--- /task \---
+\--- /task \---
 
-\--- task \--- Τώρα κάνε το τύμπανο σου να μοιάζει σαν να το χτυπάς!
+\--- task \---
+
+Click on your singer on the stage. Does she look like she is singing?
+
+\--- /task \---
+
+\--- task \---
+
+Now make your drum look like it's being hit!
 
 ![screenshot](images/band-drum-final.png)
 
 - Χρησιμοποίησε τις οδηγίες για να αλλάξεις το κοστούμι της τραγουδίστριας σου για να σε βοηθήσει.
 
-Θυμήσου να δοκιμάσεις ότι ο νέος κώδικας λειτουργεί \--- /task \---
+Remember to test that your new code works!
+
+\--- /task \---
