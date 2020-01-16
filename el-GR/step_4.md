@@ -18,7 +18,9 @@
 
 \--- /task \---
 
-\--- task \--- Κάνε κλικ στον χαρακτήρα του τύμπανου και, στη συνέχεια, σύρε αυτά τα δύο μπλοκ στην περιοχή κώδικα στα δεξιά:
+\--- task \---
+
+Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
 όταν γίνει κλικ σε αυτό το αντικείμενο
@@ -35,4 +37,8 @@ Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \---
+
+Click on the drum to try out your new instrument!
+
+\--- /task \---
