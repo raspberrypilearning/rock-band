@@ -16,13 +16,21 @@ Add hozzá egy énekes szereplőt a színpadhoz.
 
 Mielőtt az énekesed énekelni tudna, hangot kell hozzáadnod az énekes szereplőhöz. Győződj meg róla, hogy kiválasztottad az énekes szereplőt, kattints a Hangok fülre, majd a **Válassz hangot** gombra:
 
-![képernyőkép](images/band-import-sound-annotated.png) \--- /task \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- task \--- Kattints a lista tetején lévő **Hang** gombra, majd válassz egy hangot a szereplődnek.
+\--- /task \---
 
-![képernyőkép](images/band-choose-sound.png) \--- /task \---
+\--- task \---
 
-\--- task \--- A hang használatához add hozzá az alábbi kódblokkot az énekes szereplőhöz:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 ezen szereplőre kattintáskor
@@ -31,4 +39,8 @@ játszd végig (singer1 v) hangot
 
 \--- /task \---
 
-\--- task \--- Kattints az énekesre a színpadon és nézd meg mi történik. Énekel? \--- / task \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
