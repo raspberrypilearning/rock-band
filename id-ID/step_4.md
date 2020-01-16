@@ -18,20 +18,26 @@ Klik pada ** Musik ** ekstensi untuk menambahkannya.
 
 \--- /task \---
 
-\--- task \--- Klik pada drum sprite, lalu seret kedua blok ini ke area kode di sebelah kanan:
+\--- task \---
+
+Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
 setelah kamu mengklik sprite, mainkan dram (\(1\) senar dram v) sebanyak (0.25) ketukan
 ```
 
-\--- tidak-dicetak \---
+\--- no-print \---
 
-![tangkapan layar](images/connect-block.gif)
+![screenshot](images/connect-block.gif)
 
-\--- /tidak dicetak \---
+\--- /no-print \---
 
-Pastikan blok-bloknya terhubung satu sama lain (seperti pada permainan LEGO).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- tugas \--- Klik pada drum untuk mencoba instrumen baru kamu! \--- / tugas \---
+\--- task \---
+
+Click on the drum to try out your new instrument!
+
+\--- /task \---
