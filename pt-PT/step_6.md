@@ -16,13 +16,21 @@ Acrescenta um actor de cantor ao teu palco.
 
 Antes de fazer cantar o teu cantor, vais ter que adicionar um som ao actor do teu cantor. Assegura-te de que tens o actor do cantor selecionado, e depois clica no separador Sons e seleciona ** Escolher um som **:
 
-![captura de ecrã](images/band-import-sound-annotated.png) \--- /task \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- task \--- Clica em ** Vozes ** na lista que se encontra na parte superior e escolhe um som para adicionar ao teu ator.
+\--- /task \---
 
-![captura de ecrã](images/band-choose-sound.png) \--- /task \---
+\--- task \---
 
-\--- task \--- Para utilizar o som, adiciona os seguintes blocos de código ao teu actor cantor:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 quando alguém clicar em ti
@@ -31,4 +39,8 @@ toca o som (singer1 v) até terminar
 
 \--- /task \---
 
-\--- task \--- Clica na tua cantora no palco e vê o que acontece. Ela canta? \--- /task \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
