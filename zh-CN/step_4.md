@@ -18,7 +18,9 @@
 
 \--- /task \---
 
-\--- task \--- 点击鼓，然后将这两个代码块拖到右边的代码区：
+\--- task \---
+
+Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
 当角色被点击
@@ -27,12 +29,16 @@
 
 \--- no-print \---
 
-![截屏](images/connect-block.gif)
+![screenshot](images/connect-block.gif)
 
 \--- /no-print \---
 
-确保代码块是连接在一起的（就像乐高积木那样）。
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- 点击鼓来试试你的新乐器！ \--- /task \---
+\--- task \---
+
+Click on the drum to try out your new instrument!
+
+\--- /task \---
