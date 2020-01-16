@@ -10,7 +10,9 @@
 
 ### आप क्या बनाएँगे
 
-\--- नो-प्रिंट \--- शुरू करने के लिए हरी झंडी पर क्लिक करें। फिर, गायक या ड्रम पर क्लिक करके सुनें कि वे क्या पसंद करते हैं।
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,9 +20,13 @@
 
 \--- /no-print \---
 
-\--- प्रिंट-ओनली \--- आप एक गेम बनाएंगे जहाँ आप गायक या ड्रम पर क्लिक करके गाने या ड्रम की आवाज़ सुन सकते हैं।
+\--- print-only \---
 
-![खेल स्क्रीनशॉट](images/demo.png) \--- /print-only \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -28,7 +34,9 @@
 
 + स्क्रैच में स्प्राइट की पोशाक को बदलने के लिए कोड का उपयोग करें
 + स्प्रिट बनाने के लिए कोड का उपयोग करें स्क्रैच में इनपुट पर प्रतिक्रिया करें
-+ स्क्रैच \--- / पतन \--- में एक स्प्राइट में ध्वनि जोड़ें
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -50,10 +58,10 @@
 
 \--- no-print \---
 
-यदि आपको यह प्रोजेक्ट प्रिंट करना हो, कृपया </a>प्रिंटर-अनुकूल संस्करण</0>{:target="_blank"} का उपयोग करें।
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-आप पा सकते हैं [पूरा परियोजना यहाँ](http://rpf.io/p/en/rock-band-get)।
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
