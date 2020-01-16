@@ -2,23 +2,41 @@
 
 Teraz sprawisz, że twoja wokalistka będzie wyglądała, jakby śpiewała!
 
-\--- task \--- Możesz zmienić wygląd duszka wokalistki, gdy zostanie kliknięty tworząc nowy kostium. Kliknij zakładkę Kostiumy, a zobaczysz kostium wokalistki.
+\--- task \---
 
-![zrzut ekranu](images/band-singer-costume-annotated.png) \--- /task \---
+You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
 
-\--- task \--- Kliknij kostium prawym przyciskiem myszy, a następnie kliknij **duplikuj**, aby utworzyć jego kopię.
+![screenshot](images/band-singer-costume-annotated.png)
 
-![zrzut ekranu](images/band-singer-duplicate.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Kliknij nowy kostium (nazwany „Singer2”), a następnie wybierz narzędzie linii i narysuj linie, aby wyglądało na to, że wokalistka wydaje dźwięk.
+\--- task \---
 
-![zrzut ekranu](images/band-singer-click.png) \--- /task \---
+Right-click on the costume and then click on **duplicate** to create a copy of it.
 
-\--- task \--- Nazwy kostiumów nie są w tej chwili bardzo pomocne. W pola tekstowe kostiumów wpisz odpowiedni tekst, aby zmienić ich nazwy na „nie śpiewa” i „śpiewa”.
+![screenshot](images/band-singer-duplicate.png)
 
-![zrzut ekranu](images/band-singer-name-annotated.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Teraz, kiedy masz dwa różne kostiumy dla swojej wokalistki, możesz wybrać, który kostium zostanie wyświetlony! Dodaj te dwa bloczki kodu do duszka wokalistki:
+\--- task \---
+
+Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+
+![screenshot](images/band-singer-click.png)
+
+\--- /task \---
+
+\--- task \---
+
+The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+
+![screenshot](images/band-singer-name-annotated.png)
+
+\--- /task \---
+
+\--- task \---
+
+Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
 
 ```blocks3
 kiedy ten duszek kliknięty
@@ -27,14 +45,24 @@ graj dźwięk (singer1 v) aż do końca
 +przełącz kostium na (nie śpiewa v)
 ```
 
-Bloczek kodu do zmiany kostiumu znajduje się w sekcji `Wygląd`{:class="block3looks"}. \--- /task \---
+The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
 
-\--- task \--- Kliknij na wokalistkę na scenie i zobacz co się stanie. Czy ona wygląda jakby śpiewała? \--- /task \---
+\--- /task \---
 
-\--- task \--- Teraz spraw, by twój bębenek wyglądał, jakby został uderzony!
+\--- task \---
 
-![zrzut ekranu](images/band-drum-final.png)
+Click on your singer on the stage. Does she look like she is singing?
+
+\--- /task \---
+
+\--- task \---
+
+Now make your drum look like it's being hit!
+
+![screenshot](images/band-drum-final.png)
 
 - Żeby sobie pomóc, skorzystaj z instrukcji zmiany kostiumu duszka wokalistki.
 
-Pamiętaj, aby przetestować, czy Twój nowy kod działa! \--- / task \---
+Remember to test that your new code works!
+
+\--- /task \---
