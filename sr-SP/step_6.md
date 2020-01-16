@@ -16,13 +16,21 @@
 
 Пре него што направиш да твоја певачица пева, мораш да лику певачице додаш звук. Прво изабери лик певачице, затим кликни на картицу "Звукови" и, на крају кликни **Изабери звук**:
 
-![снимак екрана](images/band-import-sound-annotated.png) \--- /task \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- task \--- Кликни на **Глас** у листи на врху, а затим одабери звук који ћеш додати својем лику.
+\--- /task \---
 
-![снимак екрана](images/band-choose-sound.png) \--- /task \---
+\--- task \---
 
-\--- task \--- Да употребиш звук, додај следеће блокове кода лику твоје певачице:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 када је кликнуто на овај лик :: events
@@ -31,4 +39,8 @@
 
 \--- /task \---
 
-\--- task \--- Кликни на твоју певачицу на позорници и види шта се догађа. Да ли она пева? \--- /task \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
