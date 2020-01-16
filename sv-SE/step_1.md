@@ -10,7 +10,9 @@ Lär dig att koda musikinstrument!
 
 ### Vad kommer du att att göra
 
-Klicka på den gröna flaggan för att börja. Klicka sen på sångaren eller trumman för att höra hur de låter.
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,9 +20,13 @@ Klicka på den gröna flaggan för att börja. Klicka sen på sångaren eller tr
 
 \--- /no-print \---
 
-Du kommer att göra ett spel där du kan klicka på sångaren eller trumman för att höra sång och trummljud.
+\--- print-only \---
 
-![game screenshot](images/demo.png) \--- /print-only \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -28,7 +34,9 @@ Du kommer att göra ett spel där du kan klicka på sångaren eller trumman för
 
 + Ändra på en sprites klädsel i Scratch
 + Använd kod i Scratch för att få en sprite att reagera
-+ Lägg till ljud till en sprite i Scratch
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \--- collapse \---
 
