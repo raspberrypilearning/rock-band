@@ -2,14 +2,26 @@
 
 **Scenen** er området til høyre, og det er her prosjektet ditt kommer til live. Tenk på det som et forestillingsområde, akkurat som en ekte scene!
 
-\--- task \--- For øyeblikket er scenen hvit og ser ganske kjedelig ut! Legg til en bakgrunn ved å klikke på **Velg et bakgrunnsbilde**.
+\--- task \---
 
-![skjermbilde](images/band-stage-choose.png) \--- /task \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- task \--- Klikk på **Innendørs** i listen øverst. Klikk deretter på teaterbakgrunnen (Theater).
+![screenshot](images/band-stage-choose.png)
 
-![skjermbilde](images/band-backdrop.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Scenen din skal nå se ut som denne:
+\--- task \---
 
-![skjermbilde](images/band-stage.png) \--- /task \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
