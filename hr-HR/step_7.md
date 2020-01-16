@@ -2,23 +2,41 @@
 
 Sada ćeš učiniti da tvoja pjevačica izgleda kao da pjeva!
 
-\--- zadatak \--- Možeš napraviti novi kostim i tako promijeniti kako tvoja pjevačica izgleda kad se na nju klikne. Klikni na karticu Kostimi i vidjet ćeš kostim pjevačice.
+\--- task \---
 
-![snimka zaslona](images/band-singer-costume-annotated.png) \--- /task \---
+You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
 
-\--- task \--- Desnom tipkom miša klikni na kostim lika, a zatim na **Dupliciraj** da napraviš kopiju kostima.
+![screenshot](images/band-singer-costume-annotated.png)
 
-![snimka zaslona](images/band-singer-duplicate.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Klikni na novi kostim („Pjevač2”), a zatim odaberi alat za crtanje linija i nacrtaj linije tako da izgleda kao da pjevačica stvara zvuk.
+\--- task \---
 
-![snimka zaslona](images/band-singer-click.png) \--- /task \---
+Right-click on the costume and then click on **duplicate** to create a copy of it.
 
-\--- task \--- Nazivi kostima trenutno nisu od velike pomoći - daj im nova imena! U tekstni okvir kostima upiši „pjeva” i „ne pjeva”.
+![screenshot](images/band-singer-duplicate.png)
 
-![snimka zaslona](images/band-singer-name-annotated.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Sad kad imaš dva različita kostima, možeš birati u kojem će kostimu tvpja pjevačica biti prikazana! Dodaj ova dva bloka kôda liku pjevačice:
+\--- task \---
+
+Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+
+![screenshot](images/band-singer-click.png)
+
+\--- /task \---
+
+\--- task \---
+
+The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+
+![screenshot](images/band-singer-name-annotated.png)
+
+\--- /task \---
+
+\--- task \---
+
+Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
 
 ```blocks3
 Kada je lik kliknut
@@ -27,14 +45,24 @@ sviraj zvuk (Pjevačica1 v) do kraja
 +promijeni kostim u (ne pjeva v)
 ```
 
-Blok kôda za promjenu kostima nalazi se u kategoriji `Izgled`{:class="block3looks"}. \--- /task \---
+The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
 
-\--- task \--- Klikni na pjevačicu na pozornici. Izgleda li kao da pjeva? \--- /task \---
+\--- /task \---
 
-\--- task \--- Sada napravi da izgleda kao da netko udara po tvom bubnju!
+\--- task \---
 
-![snimka zaslona](images/band-drum-final.png)
+Click on your singer on the stage. Does she look like she is singing?
+
+\--- /task \---
+
+\--- task \---
+
+Now make your drum look like it's being hit!
+
+![screenshot](images/band-drum-final.png)
 
 - Iskoristi upute za promjenu kostima pjevačice.
 
-Ne zaboravi provjeriti radi li tvoj novi kôd! \--- /task \---
+Remember to test that your new code works!
+
+\--- /task \---
