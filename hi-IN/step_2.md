@@ -2,42 +2,62 @@
 
 इससे पहले कि आप कोडिंग आरंभ कर सकें, आपको कोड में 'चीज़' को जोड़ना होगा। Scratch में, इन 'चीज़' को **स्प्राइट्स** कहा जाता है।
 
-\--- कार्य \--- एक नया स्क्रैच प्रोजेक्ट खोलें।
+\--- task \---
 
-**ऑनलाइन:** [rpf.io/scratch-new](http://rpf.io/scratch-new){: target = "_ blank"} पर एक नया ऑनलाइन स्क्रैच प्रोजेक्ट खोलें।
+Open a new Scratch project.
 
-**ऑफ़लाइन:** ऑफ़लाइन संपादक में एक नई परियोजना खोलें।
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-यदि आपको स्क्रैच ऑफ़लाइन संपादक को डाउनलोड और इंस्टॉल करने की आवश्यकता है, तो आप इसे [rpf.io/scratchoff](http://rpf.io/scratchoff) {:target="_blank"} पर पा सकते हैं।
+**Offline:** open a new project in the offline editor.
 
-यह इस तरह दिखता है:
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-![स्क्रीनशॉट](images/band-scratch.png) \--- [task \--- \--- task \--- बिल्ली जो आप देख सकती है, वह है स्क्रैच शुभंकर। आपको इस गेम के लिए इसकी आवश्यकता नहीं है, इसलिए इसे राइट-क्लिक करके हटा दें और फिर **डिलीट**पर क्लिक करें।
+It looks like this:
 
-![स्क्रीनशॉट](images/band-delete-annotated.png) \--- /task \---
-
-\--- कार्य \--- अगला, सभी स्क्रैच स्प्राइट की सूची खोलने के लिए लाइब्रेरी</strong> से स्प्राइट चुनें **पर क्लिक करें।</p> 
-
-![स्क्रीनशॉट](images/band-sprite-library.png) \--- /task \---
-
-\--- कार्य \--- एक ड्रम स्प्राइट देखने तक नीचे स्क्रॉल करें। इसे अपने प्रोजेक्ट में जोड़ने के लिए ड्रम पर क्लिक करें।
-
-![स्क्रीनशॉट](images/band-sprite-drum.png)
+![screenshot](images/band-scratch.png)
 
 \--- /task \---
 
 \--- task \---
 
-क्लिक करें और ड्रम को स्टेज के नीचे तक खींचें।
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+
+![स्क्रीनशॉट](images/band-delete-annotated.png)
 
 \--- /task \---
 
-\--- task \--- शीर्ष पर पाठ बॉक्स में लिखकर अपने कार्यक्रम को एक नाम दें।
+\--- task \---
 
-![नाम](images/band-name-annotated.png)
+Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
 
-इसके बाद अपने प्रोजेक्ट को सेव करने के लिए **फाइल**पर क्लिक करें और फिर **सेव** पर क्लिक करें।
+![screenshot](images/band-sprite-library.png)
 
-आप ऑनलाइन नहीं होते या एक स्क्रैच खाता नहीं है, तो आप पर क्लिक करके अपनी परियोजना की एक प्रति बचा सकता है **आपके कंप्यूटर के लिए सहेजें** के बजाय।
+\--- /task \---
 
-![स्क्रीनशॉट](images/band-save.png) \--- /task \---
+\--- task \---
+
+Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+
+![screenshot](images/band-sprite-drum.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click and drag the drum to the bottom of the Stage.
+
+\--- /task \---
+
+\--- task \---
+
+Give your program a name by typing into the text box at the top.
+
+![name](images/band-name-annotated.png)
+
+Then click on **File**, and then on **Save now** to save your project.
+
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+
+![screenshot](images/band-save.png)
+
+\--- /task \---
