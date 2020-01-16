@@ -16,13 +16,21 @@ Adaugă un personaj care cântă pe scena ta.
 
 Înainte să faci cântăreața să cânte, trebuie să îi adaugi un sunet. Asigură-te că ai ales cântăreața, și apoi dă click pe tabul Sunete, și dă click pe **Alege un sunet**:
 
-![captură de ecran](images/band-import-sound-annotated.png) \--- /task \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- task \--- Dă click pe **Voce** în lista din partea de sus, iar apoi alege sunetul pe care vrei să îl adaugi personajului tău.
+\--- /task \---
 
-![captură de ecran](images/band-choose-sound.png) \--- /task \---
+\--- task \---
 
-\--- task \--- Pentru a folosi sunetul, adaugă următoarele blocuri personajului tău:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 când se dă click pe acest personaj
@@ -31,4 +39,8 @@ redă sunetul (singer1 v) până la final
 
 \--- /task \---
 
-\--- task \--- Dă click pe cântăreața ta de pe scenă și vezi ce se întâmplă. Cântă? \--- /task \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
