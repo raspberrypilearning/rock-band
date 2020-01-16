@@ -2,23 +2,41 @@
 
 Nüüd jätad oma lauljast mulje, justkui ta laulaks!
 
-\--- task \--- Uue kostüümi loomiseks laulja spraidil klõpsates saad muuta, kuidas see välja näeb. Klõpsa vahekaardil Kostüümid ja näed laulja kostüümi.
+\--- task \---
 
-![kuvatõmmis](images/band-singer-costume-annotated.png) \--- /task \---
+You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
 
-\--- task \--- Klõpsa hiire parema nupuga kostüümil ja seejärel klõpsa sellest koopia loomiseks nupul **paljunda**.
+![screenshot](images/band-singer-costume-annotated.png)
 
-![kuvatõmmis](images/band-singer-duplicate.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Klõpsa uuel kostüümil (nimega „Laulja2”), seejärel vali joone tööriist ja joonista jooned, et jääks mulje, et sinu laulja teeb häält.
+\--- task \---
 
-![kuvatõmmis](images/band-singer-click.png) \--- /task \---
+Right-click on the costume and then click on **duplicate** to create a copy of it.
 
-\--- task \--- Kostüümide nimed ei ole hetkel eriti kasulikud. Trüki kostüümide tekstikastidesse, et muuta nende nimed: "ei laula" ja "laulab".
+![screenshot](images/band-singer-duplicate.png)
 
-![kuvatõmmis](images/band-singer-name-annotated.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Nüüd, kui sul on oma lauljale kaks erinevat kostüümi, saad valida, millist kostüümi kuvatakse! Lisa need kaks koodiplokki oma laulja spaidile:
+\--- task \---
+
+Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+
+![screenshot](images/band-singer-click.png)
+
+\--- /task \---
+
+\--- task \---
+
+The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+
+![screenshot](images/band-singer-name-annotated.png)
+
+\--- /task \---
+
+\--- task \---
+
+Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
 
 ```blocks3
 kui spraiti klõpsata
@@ -27,14 +45,24 @@ mängi heli (laulja1 v) kuni lõpuni
 võta kostüüm (ei laula v)
 ```
 
-Kostüümi muutmiseks kasutatav koodiplokk on jaotises `Välimus`{:class="block3looks}. \--- /task \---
+The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
 
-\--- task \--- Klõpsa laval oma lauljal. Kas ta näeb välja nagu ta laulaks? \--- /task \---
+\--- /task \---
 
-\--- task \--- Jäta nüüd oma trummist mulje nagu seda löödaks!
+\--- task \---
 
-![kuvatõmmis](images/band-drum-final.png)
+Click on your singer on the stage. Does she look like she is singing?
+
+\--- /task \---
+
+\--- task \---
+
+Now make your drum look like it's being hit!
+
+![screenshot](images/band-drum-final.png)
 
 - Kasuta sind abistavaid juhiseid oma laulja spraidi kostüümi muutmiseks.
 
-Ära unustage testida, kas sinu uus kood töötab! \--- /task \---
+Remember to test that your new code works!
+
+\--- /task \---
