@@ -10,17 +10,23 @@
 
 ### आपण काय तयार करणार
 
-\--- no-print \--- सुरू करण्यासाठी हिरव्या ध्वज क्लिक करा. मग, वाद्य वाजवताना ऐकण्यासाठी गायक किंवा ड्रमवर क्लिक करा.
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-\--- / no-print \---
+\--- /no-print \---
 
-\--- print-only \--- आपण गायन किंवा ड्रम आवाज ऐकण्यास गायक किंवा ड्रम वर क्लिक करू शकता, जेथे एक खेळ करेल.
+\--- print-only \---
 
-![गेम स्क्रीनशॉट](images/demo.png) \--- / print-only \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -28,7 +34,9 @@
 
 + Use code to change a sprite's costume in Scratch
 + Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -48,11 +56,11 @@
 
 ## title: शिक्षकांसाठी अतिरिक्त माहिती
 
-\--- / no-print \---
+\--- no-print \---
 
-आपल्यला हा प्रकल्प प्रिंट करणे आवश्यक असल्यास, कृपया [छपाईयंत्र अनुकूल आवृत्ती](https://projects.raspberrypi.org/en/projects/rock-band/print){: target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
-\--- / no-print \---
+\--- /no-print \---
 
 You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
