@@ -2,14 +2,26 @@
 
 **Oder** je področje na desni strani, kjer tvoj projekt oživi. O njemu razmišljaj, kot o površini za nastopanje, kakor pri pravem odru!
 
-\--- task \--- Trenutno je oder bel in izgleda precej dolgočasno! Dodaj mu ozadje s klikom na **Izberi ozadje**.
+\--- task \---
 
-![posnetek zaslona](images/band-stage-choose.png) \--- /task \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- task \--- Na vrhu seznama izberi **Notranjost**, potem pa klikni na sliko gledališča.
+![screenshot](images/band-stage-choose.png)
 
-![posnetek zaslona](images/band-backdrop.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Tvoj oder bi sedaj moral biti podoben temu:
+\--- task \---
 
-![posnetek zaslona](images/band-stage.png) \--- /task \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
