@@ -16,13 +16,21 @@
 
 قبل أن تتمكن من أن تجعل المغنية تغني، ستحتاج إلى إضافة صوت إلى كائن المغنية. تأكد من أنك قمت بتحديد كائن المغنية، وانقر فوق علامة التبويب (الأصوات)، ثم انقر فوق **اختيار صوت من المكتبة**:
 
-![لقطة الشاشة](images/band-import-sound-annotated.png) \--- /task \---
+![screenshot](images/band-import-sound-annotated.png)
 
-انقر على قائمة **الاصوات** الموجودة في الاعلى، ثم اختار صوت مناسب لإضافته إلى الكائن.
+\--- /task \---
 
-![لقطة الشاشة](images/band-choose-sound.png) \--- /task \---
+\--- task \---
 
-لكي تستخدم الصوت، قم باضافة هذه التعليمة البرمجية إلى كان المغنية:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 عند النقر على هذا الكائن
@@ -31,4 +39,8 @@
 
 \--- /task \---
 
-انقر على المعنية في المنصة ولاحظ ما يحدث. هل تغني؟
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
