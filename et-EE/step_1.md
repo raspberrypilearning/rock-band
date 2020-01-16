@@ -10,7 +10,9 @@ See on projekti **Scratch 3** versioon. On ka [projekti Scratch 2 versioon](http
 
 ### Mida sa teed
 
-\--- no-print \--- Alustamiseks klõpsa rohelisele lipule. Seejärel klõpsa lauljale või trummile, et kuulda, kuidas nad kõlavad.
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,9 +20,13 @@ See on projekti **Scratch 3** versioon. On ka [projekti Scratch 2 versioon](http
 
 \--- /no-print \---
 
-\--- print-only \--- Sa teed mängu, kus saad laulu või trummipõrina kuulmiseks lauljal või trummil klõpsata.
+\--- print-only \---
 
-![mängu kuvatõmmis](images/demo.png) \--- /print-only \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -28,7 +34,9 @@ See on projekti **Scratch 3** versioon. On ka [projekti Scratch 2 versioon](http
 
 + Kasuta koodi spraidi kostüümi muutmiseks Scratchis
 + Kasuta koodi, et panna spraidid Scratchis sisendandmetele reageerima
-+ Lisa Scratchis spraidile helisid
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -50,10 +58,10 @@ See on projekti **Scratch 3** versioon. On ka [projekti Scratch 2 versioon](http
 
 \--- no-print \---
 
-Kui sul on vaja see projekt välja printida, siis kasuta [printerisõbralikku versiooni](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Leiad [lõpetatud projekti siit](http://rpf.io/p/en/rock-band-get){: target="_blank.
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
