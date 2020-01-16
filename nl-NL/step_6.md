@@ -16,13 +16,21 @@ Voeg een zangeres sprite toe aan je speelveld.
 
 Voordat je je zangeres kunt laten zingen, moet je een geluid aan je sprite toevoegen. Zorg ervoor dat je de zangeres hebt geselecteerd, klik vervolgens op het tabblad Geluiden en klik op **Kies een geluid**:
 
-![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- task \--- Klik op **Stem** in de lijst bovenaan en kies vervolgens een geluid die je aan je sprite wilt toevoegen.
+\--- /task \---
 
-![screenshot](images/band-choose-sound.png) \--- /task \---
+\--- task \---
 
-\--- task \--- Om het geluid te gebruiken, voeg je de volgende codeblokken toe aan je zangeres sprite:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 wanneer op deze sprite wordt geklikt :: events
@@ -31,4 +39,8 @@ start geluid (singer1 v) en wacht :: sound
 
 \--- /task \---
 
-\--- task \--- Klik op je zangeres op het podium en kijk wat er gebeurt. Zingt ze? \--- /task \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
