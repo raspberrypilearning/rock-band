@@ -2,14 +2,26 @@
 
 **Lava** on ala paremal ja koht, kus su projekt ärkab ellu. Mõtle sellele kui esinemisalale, just nagu päris lava!
 
-\--- task \--- Praegu on lava valge ja tundub üsna igav! Lisa sellele taust, klõpsates nupul **Vali taust**.
+\--- task \---
 
-![kuvatõmmis](images/band-stage-choose.png) \--- /task \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- task \--- Klõpsa loendi ülaosas oleval **Ruumis**. Seejärel klõpsa teatri taustal.
+![screenshot](images/band-stage-choose.png)
 
-![kuvatõmmis](images/band-backdrop.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Sinu lava peaks nüüd sarnanema sellele:
+\--- task \---
 
-![kuvatõmmis](images/band-stage.png) \--- /task \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
