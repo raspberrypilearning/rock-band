@@ -18,7 +18,9 @@
 
 \--- /task \---
 
-\--- task \--- Кликни на лик бубња, а затим превуци ова два блока у област за код са десне стране:
+\--- task \---
+
+Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
 када је кликнуто на овај лик :: events
@@ -27,12 +29,16 @@
 
 \--- no-print \---
 
-![снимак екрана](images/connect-block.gif)
+![screenshot](images/connect-block.gif)
 
 \--- /no-print \---
 
-Побрини се да су блокови спојени заједно (као LEGO коцкице).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Кликни на бубањ да испробаш свој нови инструмент! \--- /task \---
+\--- task \---
+
+Click on the drum to try out your new instrument!
+
+\--- /task \---
