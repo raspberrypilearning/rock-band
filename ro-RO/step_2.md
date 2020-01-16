@@ -2,42 +2,62 @@
 
 Înainte de a începe să programezi, trebuie să adaugi „un lucru” în codul tău. În Scratch, aceste „lucruri” se numesc **personaje**.
 
-\--- task \--- Deschide un proiect nou Scratch.
+\--- task \---
 
-**Online:** deschide online un proiect nou de Scratch la [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+Open a new Scratch project.
 
-**Offline:** deschide un proiect nou în editorul offline.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-Dacă trebuie să descarci și să instalezi editorul Scratch offline, îl poți găsi la [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+**Offline:** open a new project in the offline editor.
 
-Arată așa:
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-![captură de ecran](images/band-scratch.png) \--- /task \--- \--- task \--- Personajul pisică pe care îl vezi este mascota Scratch. Nu ai nevoie de el pentru acest joc, așa că scapă de el dând click dreapta pe el și apoi dând click pe **șterge**.
+It looks like this:
 
-![captură de ecran](images/band-delete-annotated.png) \--- /task \---
-
-\--- Apoi, dă click pe **Alege un costum** pentru a deschide o listă cu toate personajele disponibile din Scratch.
-
-![captură de ecran](images/band-sprite-library.png) \--- /task \---
-
-\--- task \--- Derulează până în dreptul tobei. Dă click pe tobă pentru a o adăuga proiectului tău.
-
-![captură de ecran](images/band-sprite-drum.png)
+![screenshot](images/band-scratch.png)
 
 \--- /task \---
 
 \--- task \---
 
-Dă click și trage toba în partea de jos a scenei.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+
+![captură de ecran](images/band-delete-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Dă un nume programului tău prin introducerea denumirii în caseta text de sus.
+\--- task \---
 
-![nume](images/band-name-annotated.png)
+Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
 
-Apoi dă click pe **Fișier**, și apoi pe **Salvează acum** pentru a salva proiectul.
+![screenshot](images/band-sprite-library.png)
 
-Dacă nu ești online sau nu ai un cont Scratch, poți să salvezi o copie a proiectului tău dând click în schimb pe **Salvează pe calculatorul tău**.
+\--- /task \---
 
-![captură de ecran](images/band-save.png) \--- /task \---
+\--- task \---
+
+Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+
+![screenshot](images/band-sprite-drum.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click and drag the drum to the bottom of the Stage.
+
+\--- /task \---
+
+\--- task \---
+
+Give your program a name by typing into the text box at the top.
+
+![name](images/band-name-annotated.png)
+
+Then click on **File**, and then on **Save now** to save your project.
+
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+
+![screenshot](images/band-save.png)
+
+\--- /task \---
