@@ -16,13 +16,21 @@
 
 इससे पहले कि आप अपने गायक को गा सकते हैं, आपको अपने गायक स्प्राइट में एक ध्वनि जोड़ने की आवश्यकता है। सुनिश्चित करें कि आपने अपने गायक स्प्राइट का चयन किया है, फिर ध्वनि टैब पर क्लिक करें, और **पर क्लिक करें एक ध्वनि चुनें**
 
-![स्क्रीनशॉट](images/band-import-sound-annotated.png) \--- /task \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- task \--- शीर्ष पर सूची में **आवाज** पर क्लिक करें, और फिर अपने स्प्राइट में जोड़ने के लिए एक ध्वनि चुनें।
+\--- /task \---
 
-![स्क्रीनशॉट](images/band-choose-sound.png) \--- /task \---
+\--- task \---
 
-\--- task \--- ध्वनि का उपयोग करने के लिए, निम्नलिखित कोड को अपने गायक स्प्राइट में जोड़ें:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 जब यह स्प्राइट किया गया तब तक
@@ -31,4 +39,8 @@
 
 \--- /task \---
 
-\--- कार्य \--- मंच पर अपने गायक पर क्लिक करें और देखें कि क्या होता है। क्या वह गाती है? \--- / कार्य \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
