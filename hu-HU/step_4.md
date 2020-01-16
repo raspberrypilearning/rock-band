@@ -18,7 +18,9 @@ Kattints a **Zene** bővítményre a hozzáadáshoz.
 
 \--- /task \---
 
-\--- task \--- Kattints a dob szereplőre, majd húzd ezt a két blokkot a jobb oldali kódterületre:
+\--- task \---
+
+Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
 ezen szereplőre kattintáskor
@@ -27,7 +29,7 @@ játssz ((1) Pergődob v) dobon (0.25) ütemig
 
 \--- no-print \---
 
-![képernyőkép](images/connect-block.gif)
+![screenshot](images/connect-block.gif)
 
 \--- /no-print \---
 
@@ -35,4 +37,8 @@ Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \---
+
+Click on the drum to try out your new instrument!
+
+\--- /task \---
