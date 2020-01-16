@@ -18,7 +18,9 @@ Klikni na proširenje **Glazba**.
 
 \--- /task \---
 
-\--- task \--- Klikni na lik bubnja, a zatim povuci ova dva bloka u prostor za kôd s desne strane:
+\--- task \---
+
+Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
 Kada je lik kliknut
@@ -27,12 +29,16 @@ bubnjaj ((1) Mali bubanj v) (0.25) puta
 
 \--- no-print \---
 
-![snimka zaslona](images/connect-block.gif)
+![screenshot](images/connect-block.gif)
 
 \--- /no-print \---
 
-Provjerite jesu li blokovi povezani (poput LEGO cigle).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Klikni na bubanj i isprobaj svoj novi instrument! \--- /task \---
+\--- task \---
+
+Click on the drum to try out your new instrument!
+
+\--- /task \---
