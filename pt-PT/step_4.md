@@ -18,7 +18,9 @@ Clica na extensão ** Música ** para a adicionar.
 
 \--- /task \---
 
-\--- task \--- Clica no actor de tambor e arrasta estes dois blocos para a área de código à direita:
+\--- task \---
+
+Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
 quando alguém clicar em ti
@@ -27,12 +29,16 @@ toca a percussão ((1) Snare Drum v) durante (0.25) tempos
 
 \--- no-print \---
 
-![captura de ecrã](images/connect-block.gif)
+![screenshot](images/connect-block.gif)
 
 \--- /no-print \---
 
-Certifica-te de que os blocos estão ligados juntos (como tijolos LEGO).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Clica no tambor para experimentar o teu novo instrumento! \--- /task \---
+\--- task \---
+
+Click on the drum to try out your new instrument!
+
+\--- /task \---
