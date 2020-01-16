@@ -2,14 +2,26 @@
 
 A **színpad** a jobb oldali terület, ahol a projekted életre kel. Gondolj rá úgy, mint egy előadó terület, akárcsak egy igazi színpad!
 
-\--- task \--- Jelenleg a színpad fehér, és nagyon unalmasnak tűnik! Adj hozzá egy hátteret a **Válassz hátteret** gomb segítségével.
+\--- task \---
 
-![képernyőkép](images/band-stage-choose.png) \--- /task \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- task \--- Kattints a lista tetején lévő **Beltér** gombra. Ezután válaszd ki a 'Theater' hátterret.
+![screenshot](images/band-stage-choose.png)
 
-![képernyőkép](images/band-backdrop.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- A színpadnak most hasonlóan kell kinéznie:
+\--- task \---
 
-![képernyőkép](images/band-stage.png) \--- /task \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
