@@ -10,7 +10,9 @@
 
 ### Шта ћеш направити
 
-\--- no-print \--- Кликни на зелену заставицу да почнеш. Затим кликни на певачицу или бубањ да чујеш како звучи.
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,9 +20,13 @@
 
 \--- /no-print \---
 
-\--- print-only \--- Направићеш игру у којој ћеш моћи да кликнеш на певачицу или бубањ како би чуо певање или звук бубња.
+\--- print-only \---
 
-![снимак екрана игре](images/demo.png) \--- /print-only \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -28,7 +34,9 @@
 
 + Помоћу кода променити костим лику у Скречу
 + Помоћу кода направити да ликови реагују на наредбе у Скречу
-+ Додати звукове лику у Скречу \--- /collapse \---
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -50,10 +58,10 @@
 
 \--- no-print \---
 
-Уколико је потребно да одштампате овај пројекат, молимо Вас користите [Верзију за штампање](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Завршени пројекат можете пронаћи [овде](http://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
