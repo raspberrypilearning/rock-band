@@ -16,13 +16,21 @@ Dodaj duszka wokalistki do swojej sceny.
 
 Zanim będziesz mogła spowodować, żeby Twoja wokalistka zaśpiewała, musisz dodać dźwięk do duszka wokalistki. Upewnij się, że wybrałaś duszka dla swojej wokalistki, a następnie kliknij zakładkę Dźwięki i kliknij **Wybierz dźwięk**:
 
-![zrzut ekranu](images/band-import-sound-annotated.png) \--- /task \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- task \--- Kliknij na **Głos** na liście u góry, a następnie wybierz dźwięk, który chcesz dodać do swojego duszka.
+\--- /task \---
 
-![zrzut ekranu](images/band-choose-sound.png) \--- /task \---
+\--- task \---
 
-\--- task \--- Aby użyć dźwięku, dodaj następujące bloczki kodu do duszka wokalistki:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 kiedy ten duszek kliknięty
@@ -31,4 +39,8 @@ graj dźwięk (singer1 v) aż do końca
 
 \--- /task \---
 
-\--- task \--- Kliknij na wokalistkę na scenie i zobacz co się stanie. Czy ona śpiewa? \--- /task \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
