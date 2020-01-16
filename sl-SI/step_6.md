@@ -16,13 +16,21 @@ Na oder dodaj figuro pevke.
 
 Preden bo tvoja pevka lahko pela, moraš figuri pevke dodati zvok. Prepričaj se, da si izbral figuro pevke, nato izberi zavihek Zvoki in klikni na **Izberi zvok**:
 
-![posnetek zaslona](images/band-import-sound-annotated.png) \--- /task \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- task \--- Iz seznama na vrhu izberi kategorijo **Glas**, potem pa poišči zvok, ki bi ga rad dodal figuri.
+\--- /task \---
 
-![posnetek zaslona](images/band-choose-sound.png) \--- /task \---
+\--- task \---
 
-\--- task \--- Da bi zvok uporabil, svoji pevki dodaj naslednje bloke kode:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 ko kliknemo to figuro
@@ -31,4 +39,8 @@ predvajaj zvok (pevec1 v) do konca
 
 \--- /task \---
 
-\--- task \--- Klikni na pevko, ki je na odru in opazuj, kaj se zgodi. Ali poje? \--- /task \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
