@@ -2,23 +2,41 @@
 
 ¡Ahora harás que tu cantante parezca que está cantando!
 
-\--- tarea \--- Puedes cambiar el aspecto de tu sprite cantante cuando se hace clic creando un nuevo disfraz. Haz clic en la pestaña Disfraces y verás el disfraz de cantante.
+\--- task \---
 
-![captura de pantalla](images/band-singer-costume-annotated.png) \--- /task \---
+You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
 
-\--- tarea \--- Haga clic derecho en el disfraz y luego haga clic en **duplicado** para crear una copia del mismo.
+![screenshot](images/band-singer-costume-annotated.png)
 
-![captura de pantalla](images/band-singer-duplicate.png) \--- /task \---
+\--- /task \---
 
-\--- tarea \--- Haz clic en el nuevo traje (llamado 'Singer2'), y luego selecciona la herramienta de línea y dibuja líneas para que parezca que tu cantante está haciendo un sonido.
+\--- task \---
 
-![screenshot](images/band-singer-click.png) \--- /task \---
+Right-click on the costume and then click on **duplicate** to create a copy of it.
 
-\--- tarea \--- Los nombres de los disfraces no son muy útiles en este momento. Escriba en los cuadros de texto de los disfraces para cambiar sus nombres a "no cantar" y "cantar".
+![screenshot](images/band-singer-duplicate.png)
 
-![captura de pantalla](images/band-singer-name-annotated.png) \--- /task \---
+\--- /task \---
 
-\--- tarea \--- Ahora que tienes dos trajes diferentes para tu cantante, ¡puedes elegir qué traje se muestra! Agregue estos dos bloques de código a su sprite cantante:
+\--- task \---
+
+Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+
+![screenshot](images/band-singer-click.png)
+
+\--- /task \---
+
+\--- task \---
+
+The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+
+![screenshot](images/band-singer-name-annotated.png)
+
+\--- /task \---
+
+\--- task \---
+
+Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
 
 ```blocks3
 cuando este sprite hizo clic en
@@ -27,14 +45,24 @@ reproduce el sonido (cantante1 v) hasta que se hace
 + cambia el disfraz a (no canta v)
 ```
 
-El bloque de código para cambiar el disfraz se encuentra en la sección `Looks`{: class = "block3looks"}. \--- / tarea \---
+The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
 
-\--- tarea \--- Haz clic en tu cantante en el escenario. ¿Parece que está cantando? \--- / tarea \---
+\--- /task \---
 
-\--- tarea \--- Ahora haz que tu tambor parezca que está siendo golpeado!
+\--- task \---
 
-![captura de pantalla](images/band-drum-final.png)
+Click on your singer on the stage. Does she look like she is singing?
+
+\--- /task \---
+
+\--- task \---
+
+Now make your drum look like it's being hit!
+
+![screenshot](images/band-drum-final.png)
 
 - Usa las instrucciones para cambiar el disfraz de sprite de tu cantante para ayudarte.
 
-¡Recuerde probar que su nuevo código funciona! \--- / tarea \---
+Remember to test that your new code works!
+
+\--- /task \---
