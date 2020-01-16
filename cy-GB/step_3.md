@@ -2,14 +2,26 @@
 
 Y **Llwyfan** yw’r ardal ar y dde lle bydd dy brosiect yn dod yn fyw. Meddylia amdano fel ardal berfformio, yn union fel llwyfan go iawn!
 
-\--- task \--- Ar hyn o bryd, mae’r llwyfan yn wyn ac yn edrych yn ddiflas! Beth am ychwanegu cefnlen i’r llwyfan, gan ddewis **Dewiswch gefnlen**.
+\--- task \---
 
-![sgrinlun](images/band-stage-choose.png) \--- /task \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- task \--- Clicia **Dan Do** ar y top, yna clicia gefnlen theatr.
+![screenshot](images/band-stage-choose.png)
 
-![sgrinlun](images/band-backdrop.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Fe ddylai dy lwyfan edrych yn debyg i hyn:
+\--- task \---
 
-![sgrinlun](images/band-stage.png) \--- /task \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
