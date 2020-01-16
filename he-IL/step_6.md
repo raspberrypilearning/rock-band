@@ -16,13 +16,21 @@
 
 לפני שתוכל לגרום לזמרת לשיר, אתה צריך להוסיף קול לזמרת. ודא כי בחרת את דמות הזמרת שלך, ולאחר מכן לחץ על הכרטיסיית הצלילים, ולחץ על ** בחר צליל **:
 
-![צילום מסך](images/band-import-sound-annotated.png) \--- /task \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- task \--- לחץ על ** קול ** ברשימה בראש, ולאחר מכן בחר צליל להוסיף לדמות שלך.
+\--- /task \---
 
-![צילום מסך](images/band-choose-sound.png) \--- /task \---
+\--- task \---
 
-\--- task \--- כדי להשתמש בצליל, הוסף את הקוד הבא לזמרת שלך:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 when this sprite clicked play sound (singer1 v) until done
@@ -30,4 +38,8 @@ when this sprite clicked play sound (singer1 v) until done
 
 \--- /task \---
 
-\--- task \--- לחץ על הזמרת שלך על הבמה וראה מה קורה. היא שרה? \--- /task \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
