@@ -10,17 +10,23 @@ Tìm hiểu làm thế nào để mã hóa nhạc cụ của riêng bạn!
 
 ### Những gì bạn sẽ làm
 
-\--- không in \--- Nhấp vào cờ xanh để bắt đầu. Sau đó, bấm vào ca sĩ hoặc trống để nghe những gì họ nghe.
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-\--- / không in \---
+\--- /no-print \---
 
-\--- chỉ in \--- Bạn sẽ tạo một trò chơi trong đó bạn có thể nhấp vào ca sĩ hoặc trống để nghe tiếng hát hoặc tiếng trống.
+\--- print-only \---
 
-![ảnh chụp màn hình trò chơi](images/demo.png) \--- / chỉ in \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \--- sự sụp đổ \---
 
@@ -28,7 +34,9 @@ Tìm hiểu làm thế nào để mã hóa nhạc cụ của riêng bạn!
 
 + Use code to change a sprite's costume in Scratch
 + Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \--- sự sụp đổ \---
 
@@ -42,18 +50,18 @@ Tìm hiểu làm thế nào để mã hóa nhạc cụ của riêng bạn!
 
 + Cào 3 ( [trực tuyến](http://rpf.io/scratchon){: target = "_ blank"} hoặc [ngoại tuyến](http://rpf.io/scratchoff){: target = "_ blank"})
 
-\--- /sự sụp đổ \---
+\--- /collapse \---
 
 ## \--- sự sụp đổ \---
 
 ## tiêu đề: Thông tin bổ sung cho các nhà giáo dục
 
-\--- không in \---
+\--- no-print \---
 
-Nếu bạn cần in dự án này, vui lòng sử dụng [phiên bản thân thiện với máy in](https://projects.raspberrypi.org/en/projects/rock-band/print){: target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
-\--- / không in \---
+\--- /no-print \---
 
 You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
-\--- /sự sụp đổ \---
+\--- /collapse \---
