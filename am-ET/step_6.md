@@ -16,13 +16,21 @@
 
 ዘፋኞችዎን ከመዘመርዎ በፊት, ለቃለ-መጠይ-ቃላትዎ ድምጽ ማከል ያስፈልግዎታል. የዘፋኞችን ስፔራዎን መርጠዋል, ከዚያም በድምጾች ትር ላይ ጠቅ ያድርጉ እና **ጠቅ ያድርጉ. ድምጽ**ይምረጡ:
 
-![ቅጽበታዊ ገጽ እይታ](images/band-import-sound-annotated.png) \--- / task \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- ተግባር \--- ከላይ ከዝርዝሩ **ድምጽ** ላይ ጠቅ ያድርጉና ከዚያም ወደ ስፔርዎ ለመጨመር ድምጽ ይምረጡ.
+\--- /task \---
 
-![ቅጽበታዊ ገጽ እይታ](images/band-choose-sound.png) \--- / task \---
+\--- task \---
 
-\--- task \--- ድምጹን ለመጠቀም, ለቀጭቃዎችዎ ስዕሎች የሚከተሉትን የኮድ ቁልፎች ያክሉ.
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 ይህ ስፒል
@@ -30,6 +38,10 @@
  ) እስከሚጨርስ ድረስ
 ```
 
-\--- / task \---
+\--- /task \---
 
-\--- ተግባር \--- በትጥቅ ፈጣሪያችሁ ላይ ጠቅ ያድርጉ እና ምን እንደሚከሰት ይመልከቱ. ሰርታለች? \--- / ተግባር \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
