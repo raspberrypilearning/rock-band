@@ -2,14 +2,26 @@
 
 **Позорница** је област са десне стране, тамо где твој пројекат настаје. Замисли је као простор за извођење, баш као права позорница!
 
-\--- task \--- Тренутно је позорница бела и изгледа прилично досадно! Додај позадину тако што ћеш кликнути на **Одабери позадину**.
+\--- task \---
 
-![снимак екрана](images/band-stage-choose.png) \--- /task \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- task \--- Кликни на **Унутра** у листи на врху. Затим кликни на позадину театар.
+![screenshot](images/band-stage-choose.png)
 
-![снимак екрана](images/band-backdrop.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Твоја позорница би сада требало да изгледа слично овој:
+\--- task \---
 
-![снимак екрана](images/band-stage.png) \--- /task \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
