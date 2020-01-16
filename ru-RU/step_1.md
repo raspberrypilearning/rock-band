@@ -10,7 +10,9 @@
 
 ### Что тебе нужно будет сделать
 
-\--- Не печатать \--- Нажмите на зеленый флажок, чтобы начать. Затем нажмите на певицу или барабан, чтобы услышать, как звучат звуки.
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,9 +20,13 @@
 
 \--- /no-print \---
 
-\--- print-only \--- Ты создашь игру, в которой cможешь нажать на певицу или барабан, чтобы услышать пение или звуки барабанов.
+\--- print-only \---
 
-![скриншот игры](images/demo.png) \--- /print-only \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -28,7 +34,9 @@
 
 + Использовать код, чтобы изменять костюм спрайта в Scratch
 + Использовать код, чтобы заставить спрайты реагировать на ввод в Scratch
-+ Добавлять звуки к спрайту в Scratch \--- / collapse \---
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -50,10 +58,10 @@
 
 \--- no-print \---
 
-Если ты хочешь распечатать этот проект, то используй [версию для печати](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-[Здесь](http://rpf.io/p/en/rock-band-get) ты можешь найти завершенный проект</0>.
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
