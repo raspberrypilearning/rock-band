@@ -16,19 +16,31 @@ Thêm một ca sĩ sprite vào Sân khấu của bạn.
 
 Trước khi bạn có thể làm cho ca sĩ của mình hát, bạn cần thêm một âm thanh cho ca sĩ của bạn. Đảm bảo rằng bạn đã chọn sprite ca sĩ của mình, sau đó nhấp vào tab Âm thanh và nhấp vào **Chọn âm thanh**:
 
-![ảnh chụp màn hình](images/band-import-sound-annotated.png) \--- /bài tập \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- task \--- Nhấp vào **Voice** trong danh sách ở trên cùng, sau đó chọn âm thanh để thêm vào sprite của bạn.
+\--- /task \---
 
-![ảnh chụp màn hình](images/band-choose-sound.png) \--- /bài tập \---
+\--- task \---
 
-\--- task \--- Để sử dụng âm thanh, hãy thêm các khối mã sau vào sprite ca sĩ của bạn:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 khi sprite này nhấp
 phát âm thanh (singer1 v) cho đến khi hoàn thành
 ```
 
-\--- /bài tập \---
+\--- /task \---
 
-\--- task \--- Nhấp vào ca sĩ của bạn trên sân khấu và xem điều gì sẽ xảy ra. Cô ấy có biết hát không? \--- / nhiệm vụ \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
