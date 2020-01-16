@@ -2,7 +2,9 @@
 
 Nachdem du jetzt dein erstes Scratch Projekt erstellt hast, wirf doch einen Blick auf das Scratch-Projekt [Verschollen im Weltraum](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)!
 
-\--- no-print \--- Klicke auf die grüne Flagge, um die Animation zu sehen.
+\--- no-print \---
+
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -13,6 +15,6 @@ Nachdem du jetzt dein erstes Scratch Projekt erstellt hast, wirf doch einen Blic
 
 \--- print-only \---
 
-![Fertiges Projekt](images/space-final.png)
+![Complete project](images/space-final.png)
 
 \--- /print-only \---
