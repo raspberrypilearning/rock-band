@@ -2,42 +2,62 @@
 
 ඔබට කේතීකරණය ආරම්භ කිරීමට පෙර, ඔබ කෙතකිරීමට 'යමක්' එකතු කළ යුතුය. Scratch වලදී, මෙම 'මේවා' ** sprites ලෙස හැඳින්වේ **.
 
-\--- task \--- නව Scratch ව්යාපෘතියක් (project එකක්) විවෘත්ත කරන්න.
+\--- task \---
 
-**අන්තර්ජාල මාර්ගගත (Online):**නව Scratch ව්‍යාපෘතියක් විවෘත කිරීමට. [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+Open a new Scratch project.
 
-**අන්තර්ජාලයට නොබැඳිව(Offline):** නොබැඳි සංස්කාරකයේ(offline editor එකේ) නව ව්‍යාපෘතියක් (new project එකක්) විවෘත කිරීමට.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-ඔබට Scratch නොබැඳි සංස්කාරකය (offline editor එක) බාගත කර ස්ථාපනය කිරීමට අවශ්‍ය නම්, එය [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} වෙතින් ලබාගත හැක.
+**Offline:** open a new project in the offline editor.
 
-නව ව්‍යාපෘතිය පෙනෙන අයුරු:
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-![තිර රුව(screenshot)](images/band-scratch.png) \--- /task \--- \--- task \--- ඔබට දැකිය හැකි බළල් sprite ය Scratch හි mascot ය. මෙම ක්‍රීඩාව සඳහා ඔබට එය අවශ්‍ය නොවේ, එබැවින් එය right-click කර ** delete ක්ලික් කිරීමෙන් එය ඉවත් කරන්න **.
+It looks like this:
 
-![තිර රුව(screenshot)](images/band-delete-annotated.png) \--- /task \---
-
-\--- task \--- ඊළඟට, සියලුම Scratch sprites ලැයිස්තුවක් විවෘත කිරීමට ** පුස්තකාලයෙන් ස්ප්‍රයිට් (sprite) තෝරන්න ** 
-
-![තිර රුව(screenshot)](images/band-sprite-library.png) \--- /task \---
-
-\--- කාර්යය \--- ඔබ ඩ්‍රම් ස්ප්‍රයිට් (drum sprite) දකින තුරු පහළට scroll කරන්න. එය ඔබේ ව්‍යාපෘතියට එක් කිරීමට ඩ්‍රම් (drum) එකක් මත ක්ලික් කරන්න.
-
-![පින්තුරය](images/band-sprite-drum.png)
+![screenshot](images/band-scratch.png)
 
 \--- /task \---
 
 \--- task \---
 
-වේදිකාවේ පහළට ඩ්‍රම් එක ( drum ) ක්ලික් කර ඇදගෙන යන්න.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+
+![පින්තුරය](images/band-delete-annotated.png)
 
 \--- /task \---
 
-\--- task \--- ඉහළින් ඇති පෙළ කොටුවට (text box එකට) නමක් ටයිප් කිරීමෙන් ඔබේ වැඩසටහනට නමක් ලබාදෙන්න.
+\--- task \---
 
-![නම](images/band-name-annotated.png)
+Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
 
-ඔබට **File**ක්ලික් කර, ඉන්පසු **Save now** ක්ලික් කර ඔබේ ව්‍යාපෘතිය සුරැකීමට පුළුවන.
+![screenshot](images/band-sprite-library.png)
 
-ඔබ අන්තර්ජාලයට සබැඳිව නැත්නම් නම් හෝ Scratch ගිණුමක් නොමැති නම්, ඒ වෙනුවට **Save to your computer** ක්ලික් කිරීමෙන් ඔබේ ව්‍යාපෘතියේ පිටපතක් සුරැකිය හැක.
+\--- /task \---
 
-![තිර රුව(screenshot)](images/band-save.png) \--- /task \---
+\--- task \---
+
+Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+
+![screenshot](images/band-sprite-drum.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click and drag the drum to the bottom of the Stage.
+
+\--- /task \---
+
+\--- task \---
+
+Give your program a name by typing into the text box at the top.
+
+![name](images/band-name-annotated.png)
+
+Then click on **File**, and then on **Save now** to save your project.
+
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+
+![screenshot](images/band-save.png)
+
+\--- /task \---
