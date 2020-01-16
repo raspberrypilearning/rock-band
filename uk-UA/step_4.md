@@ -18,21 +18,27 @@
 
 \--- /task \---
 
-\--- task \--- Натисніть на спрайт барабана, а потім перетягніть ці два блоки в область коду справа:
+\--- task \---
+
+Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
 коли цей спрайт натиснув
 грати барабан (1) Snare Drum v) для (0,25) ударів
 ```
 
-\--- без друку \---
+\--- no-print \---
 
-![скріншот](images/connect-block.gif)
+![screenshot](images/connect-block.gif)
 
-\--- / без друку \---
+\--- /no-print \---
 
 Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \---
+
+Click on the drum to try out your new instrument!
+
+\--- /task \---
