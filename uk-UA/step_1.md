@@ -10,17 +10,23 @@
 
 ### Що ви робитимете
 
-\--- no-print \--- Щоб почати, натисніть зелений прапор. Потім натисніть на співаку або барабан, щоб почути, як вони звучать.
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-\--- / без друку \---
+\--- /no-print \---
 
-\--- тільки для друку \--- Ви зробите гру, де ви зможете натиснути на співака або барабан, щоб почути звуки співу або барабана.
+\--- print-only \---
 
-![скріншот гри](images/demo.png) \--- / тільки для друку \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -28,7 +34,9 @@
 
 + Use code to change a sprite's costume in Scratch
 + Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch \--- /collapse \---
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -42,17 +50,17 @@
 
 + Скретч 3 ( [онлайн](http://rpf.io/scratchon){: target = "_ blank"} або [офлайн](http://rpf.io/scratchoff){: target = "_ blank"})
 
-\---collapse\---
+\--- /collapse \---
 
 ## \--- collapse \---
 
 ## назва: Додаткова інформація для педагогів
 
-\--- без друку \---
+\--- no-print \---
 
-Якщо вам потрібно роздрукувати цей проект, будь ласка скористайтеся [ версією для друку ](https://projects.raspberrypi.org/en/projects/rock-band/print) {: target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
-\--- / без друку \---
+\--- /no-print \---
 
 You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
