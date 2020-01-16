@@ -18,7 +18,9 @@ Clique na extensão **Música** para adicioná-la.
 
 \--- /task \---
 
-\--- task \--- Clique no ator de tambor, e então arraste estes dois blocos para a área de código à direita:
+\--- task \---
+
+Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
 quando este ator for clicado
@@ -31,8 +33,12 @@ toque instrumento (\(1\) Tarol) por (0.25) batidas
 
 \--- /no-print \---
 
-Certifique-se de que os blocos estejam conectados juntos (como tijolos de LEGO).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Clique no tambor para experimentar o seu novo instrumento! \--- /task \---
+\--- task \---
+
+Click on the drum to try out your new instrument!
+
+\--- /task \---
