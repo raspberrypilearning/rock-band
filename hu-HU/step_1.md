@@ -10,7 +10,9 @@ Ismerd meg, hogyan programozhatsz saját hangszereket!
 
 ### Ezt fogod elkészíteni
 
-\--- no-print \--- Kattintson a zöld zászlóra a kezdethez. Ezután kattintson az énekesre vagy a dobra, hogy hallhassa, mit szólnak.
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,9 +20,13 @@ Ismerd meg, hogyan programozhatsz saját hangszereket!
 
 \--- /no-print \---
 
-\--- print-only \--- Elkészítesz egy játékot, ahol az énekesre vagy a dobra kattintva meghallgathatod az énekes vagy a dob hangját.
+\--- print-only \---
 
-![játék képernyőkép](images/demo.png) \--- /print-only \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -28,7 +34,9 @@ Ismerd meg, hogyan programozhatsz saját hangszereket!
 
 + Változtasd meg a szereplők jelmezét a Scratch-ben kód segítségével
 + Kód segítségével bírd rá a szereplőket, hogy reagáljanak a Scratch-ben a klikkelésre, billentyűlenyomásra
-+ Adj hangokat a szereplőknek a Scratch-ben \--- / collapse \---
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -50,10 +58,10 @@ Ismerd meg, hogyan programozhatsz saját hangszereket!
 
 \--- no-print \---
 
-Ha ki szeretnéd nyomtatni a projektet, használd a [nyomtatóbarát verziót.](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Itt található a [befejezett projekt](http://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
