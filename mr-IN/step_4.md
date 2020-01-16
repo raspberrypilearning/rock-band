@@ -18,7 +18,9 @@
 
 \--- /task \---
 
-\--- task \--- ड्रम स्प्राइटवर क्लिक करा आणि नंतर या दोन ब्लॉक्सला कोड क्षेत्रामध्ये उजवीकडे खेचा:
+\--- task \---
+
+Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
 जेव्हा या स्प्राइटने
@@ -27,7 +29,7 @@
 
 \--- no-print \---
 
-![स्क्रीनशॉट](images/connect-block.gif)
+![screenshot](images/connect-block.gif)
 
 \--- /no-print \---
 
@@ -35,4 +37,8 @@ Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \---
+
+Click on the drum to try out your new instrument!
+
+\--- /task \---
