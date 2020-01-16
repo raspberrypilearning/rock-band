@@ -16,13 +16,21 @@
 
 ඔබේ ගායකයා ගායනා කිරීමට පෙර, ඔබේ ගායක ස්ප්‍රයිට්(sprite) වලට ශබ්දයක් එක් කළ යුතුය. ඔබ ඔබේ ගායක ස්ප්‍රයිට් තෝරාගෙන ඇති බවට වග බලා ගන්න, පසුව ශබ්ද පටිත්ත ( Sounds tab)ක්ලික් කර ** ශබ්දයක් තෝරන්න ** :
 
-![තිර රුව(screenshot)](images/band-import-sound-annotated.png) \--- /task \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- task \--- ඉහළින් ඇති ලැයිස්තුවේ ** කටහඩ ** මත ක්ලික් කරන්න, ඉන්පසු ඔබේ ස්ප්‍රයිට් ( sprite) එකට එකතු කිරීමට ශබ්දයක් තෝරන්න.
+\--- /task \---
 
-![තිර රුව(screenshot)](images/band-choose-sound.png) \--- /task \---
+\--- task \---
 
-\--- task \--- ශබ්දය භාවිතා කිරීමට, ඔබේ ගායක ස්ප්‍රයිට් (sprite) වෙත පහත කේත කොටස් (code blocks)එකතු කරන්න:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 when this sprite clicked
@@ -31,4 +39,8 @@ play sound (singer1 v) until done
 
 \--- /task \---
 
-\--- කාර්යය \--- වේදිකාවේ සිටින ඔබේ ගායකයා මත ක්ලික් කර සිදුවන්නේ කුමක්දැයි බලන්න. ඇය ගායනා කරනවාද? \--- / කාර්යය \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
