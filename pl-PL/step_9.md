@@ -2,7 +2,9 @@
 
 Teraz, kiedy zbudowałeś swój pierwszy projekt Scratch, dlaczego nie spojrzeć na projekt Scratch [Zagubiona w kosmosie](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)?
 
-\--- no-print \--- Kliknij zieloną flagę, aby zobaczyć animację.
+\--- no-print \---
+
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -13,6 +15,6 @@ Teraz, kiedy zbudowałeś swój pierwszy projekt Scratch, dlaczego nie spojrzeć
 
 \--- print-only \---
 
-![Skończony projekt](images/space-final.png)
+![Complete project](images/space-final.png)
 
 \--- /print-only \---
