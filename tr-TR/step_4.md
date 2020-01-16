@@ -18,7 +18,9 @@ Eklemek için **Müzik** eklentisine tıklayın.
 
 \--- /task \---
 
-\--- task \--- Davul kuklasına tıklayın, ardından bu iki kod bloğunu sağdaki kodlama alanına sürükleyin:
+\--- task \---
+
+Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
 bu kukla tıklandığında
@@ -27,12 +29,16 @@ bu kukla tıklandığında
 
 \--- no-print \---
 
-![ekran görüntüsü](images/connect-block.gif)
+![screenshot](images/connect-block.gif)
 
 \--- /no-print \---
 
-Blokların birbirine bağlandığından emin olun (LEGO parçaları gibi).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Yeni enstrümanınızı denemek için davula tıklayın! \--- /task \---
+\--- task \---
+
+Click on the drum to try out your new instrument!
+
+\--- /task \---
