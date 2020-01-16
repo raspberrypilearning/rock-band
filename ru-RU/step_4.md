@@ -18,7 +18,9 @@
 
 \--- /task \---
 
-\--- task \--- Нажми на спрайт барабана, а затем перетащи эти два блока в область кода справа:
+\--- task \---
+
+Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
 когда спрайт нажат
@@ -27,12 +29,16 @@
 
 \--- no-print \---
 
-![снимок экрана](images/connect-block.gif)
+![screenshot](images/connect-block.gif)
 
 \--- /no-print \---
 
-Убедись, что блоки соединены вместе (как детали LEGO).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Нажми на барабан, чтобы опробовать свой новый инструмент! \--- /task \---
+\--- task \---
+
+Click on the drum to try out your new instrument!
+
+\--- /task \---
