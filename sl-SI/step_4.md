@@ -18,7 +18,9 @@ Klikni na razširitev **Glasba**, da jo dodaš.
 
 \--- /task \---
 
-\--- task \--- Klikni na figuro bobna in potem povleci ta dva bloka v območje za programiranje na desni:
+\--- task \---
+
+Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
 ko kliknemo to figuro
@@ -27,12 +29,16 @@ zaigraj na boben (\(1\) Mali boben v) za (0,25) udarcev
 
 \--- no-print \---
 
-![posnetek zaslona](images/connect-block.gif)
+![screenshot](images/connect-block.gif)
 
 \--- /no-print \---
 
-Prepričaj se, da so bloki med sabo povezani (kot lego kocke).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Klikni na boben, da preizkusiš svoj novi instrument! \--- /task \---
+\--- task \---
+
+Click on the drum to try out your new instrument!
+
+\--- /task \---
