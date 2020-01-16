@@ -16,13 +16,21 @@
 
 Прежде чем ты сможешь заставишь петь свою певицу, тебе нужно добавить звук к своему спрайту певицы. Убедись, что ты выбрал свой спрайт певицы, затем нажми на вкладку Звуки и нажми на **Выбрать звук**:
 
-![снимок экрана](images/band-import-sound-annotated.png) \--- /task \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- задача \--- Нажми **Голос** в списке вверху, а затем выбери звук для добавления к твоему спрайту.
+\--- /task \---
 
-![снимок экрана](images/band-choose-sound.png) \--- /task \---
+\--- task \---
 
-\--- task \--- Чтобы использовать звук, добавьте следующие блоки кода к своему спрайту певицы:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 когда спрайт нажат
@@ -31,4 +39,8 @@
 
 \--- /task \---
 
-\--- task \--- Нажми на свою певицу на сцене и посмотри, что происходит. Она поет? \--- /task \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
