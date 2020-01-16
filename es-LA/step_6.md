@@ -16,19 +16,31 @@ Añade un objeto de cantante a tu escenario.
 
 Antes de que puedas hacer cantar a tu cantante, necesitas añadir un sonido a tu objeto. Asegúrate de que has seleccionado a tu cantante, luego haz clic en la pestaña Sonidos, y haz clic en **Choose a sound** Selecciona un sonido de la biblioteca:
 
-![captura de pantalla](images/band-import-sound-annotated.png) \--- / tarea \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- task \--- Haga clic en **Voice** Voz en la lista de arriba, y luego elija un sonido para añadir a su sprite.
+\--- /task \---
 
-![captura de pantalla](images/band-choose-sound.png) \--- / tarea \---
+\--- task \---
 
-\--- task \--- Para usar el sonido, agrega los siguientes bloques de código a tu sprite de cantante:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 al hacer clic en este objeto
     tocar sonido [cantante1 v] y esperar
 ```
 
-\--- / tarea \---
+\--- /task \---
 
-\--- task\--- Haz clic en tu cantante en la etapa y ve lo que sucede. ¿canta? \--- /task \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
