@@ -2,23 +2,41 @@
 
 አሁን ዘፋኝዎ እየዘመች ትመስላለች!
 
-\--- ተግባር- አዲስ አለባበስ በመፍጠር ጠቅላይ ገጸ-ባህሪው እንዴት እንደሚመስል መቀየር ይችላሉ. የኪሶች ዝርዝር ትር ላይ ጠቅ ያድርጉና የዘፋኟ አለባበስ ያያሉ.
+\--- task \---
 
-![ቅጽበታዊ ገጽ እይታ](images/band-singer-costume-annotated.png) \--- / task \---
+You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
 
-\--- ተግባር \--- ልብሱ ላይ በቀኝ-ጠቅ ያድርጉ እና ከዚያ **ቅጂ** ላይ ጠቅ ያድርጉት.
+![screenshot](images/band-singer-costume-annotated.png)
 
-![ቅጽበታዊ ገጽ እይታ](images/band-singer-duplicate.png) \--- / task \---
+\--- / task \---
 
-\--- ተግባር \--- በአዲሱ ልብስ ('Singer2' ይባላል) ላይ ጠቅ ያድርጉ እና በመቀጠል የመስመር መሣሪያውን በመምረጥ መስመሮችን ይሳሉ እና ዘፋኝዎ ድምጽ እያሰማ መሆኑን የሚያሳይ ምልክት ያድርጉ.
+\--- task \---
 
-![ቅጽበታዊ ገጽ እይታ](images/band-singer-click.png) \--- / task \---
+Right-click on the costume and then click on **duplicate** to create a copy of it.
 
-\--- ተግባር \--- በአሁኑ ጊዜ የአሻንጉሊቶቹ ስም በጣም አጋዥ አይደለም. ለውትድርነቶቹ የጽሑፍ ሳጥኖች ስማቸውን 'ወደ ዘፈን' እና 'ዘፈን' ለመለወጥ ተጭነው ይጻፉ.
+![screenshot](images/band-singer-duplicate.png)
 
-![ቅጽበታዊ ገጽ እይታ](images/band-singer-name-annotated.png) \--- / task \---
+\--- / task \---
 
-\--- ተግባር \--- ለዘፋኞችዎ ሁለት የተለያዩ አለባበሶች ካሉዎት የትኛው ልብስ እንደሚታይ መምረጥ ይችላሉ! እነዚህ ሁለት የኮድ ብሎክዎች ለዘፋኙ sprite ያክሉት-
+\--- task \---
+
+Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+
+![screenshot](images/band-singer-click.png)
+
+\--- /task \---
+
+\--- task \---
+
+The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+
+![screenshot](images/band-singer-name-annotated.png)
+
+\--- /task \---
+
+\--- task \---
+
+Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
 
 ```blocks3
 ይህ sprite ጠቅ ጊዜ
@@ -27,14 +45,24 @@
 + ጋር የሚኖሩት መቀየር (ሲዘምሩ አይደለም v)
 ```
 
-ይህን ልብስ ለመለወጥ የኮዱ አግድ በ `Looks`{: class = "block3looks"} ክፍል ውስጥ ነው. / ተግባር \---
+The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
 
-\--- ተግባር \--- በዘፈንዎ ላይ ዘፋኙን ጠቅ ያድርጉ. እየዘመች ትመስላለች? \--- / ተግባር \---
+\--- /task \---
 
-\--- ተግባር \--- አሁን በትራፊክዎ እንደተደበደበ እንዲመስል ያድርጉት!
+\--- task \---
 
-![ቅጽበታዊ ገጽ እይታ](images/band-drum-final.png)
+Click on your singer on the stage. Does she look like she is singing?
+
+\--- /task \---
+
+\--- task \---
+
+Now make your drum look like it's being hit!
+
+![screenshot](images/band-drum-final.png)
 
 - እርስዎን ለማገዝ የእርስዎ የዘፈን ስፔር ልብስ ለመቀየር መመሪያዎችን ይጠቀሙ.
 
-አዲሱ ኮድዎ እየሰራ መሆኑን ለማረጋገጥ ይሞክሩ! / / ተግባር \---
+Remember to test that your new code works!
+
+\--- /task \---
