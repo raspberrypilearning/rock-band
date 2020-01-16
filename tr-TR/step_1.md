@@ -10,7 +10,9 @@ Kendi müzik enstrümanlarınızı nasıl kodlayacağınızı öğrenin!
 
 ### Neyi yapacaksınız
 
-\--- no-print \--- Başlamak için yeşil bayrağa tıklayın. Daha sonra seslerinin neye benzediğini duymak için şarkıcı veya davula tıklayın.
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,9 +20,13 @@ Kendi müzik enstrümanlarınızı nasıl kodlayacağınızı öğrenin!
 
 \--- /no-print \---
 
-\--- print-only \--- Bu proje ile şarkıcı veya davula tıklayarak şarkı söyleyen ve davul sesi çıkartan bir oyun yapacaksınız.
+\--- print-only \---
 
-![oyun ekran alıntısı](images/demo.png) \--- /print-only \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -28,7 +34,9 @@ Kendi müzik enstrümanlarınızı nasıl kodlayacağınızı öğrenin!
 
 + Scratch'te bir kukla kostümünü değiştirmek için kod kullanın
 + Scratch'te kuklaların, girdiye tepki vermesi için kod kullanın
-+ Scratch'te kuklalara sesler ekleyin \--- /collapse \---
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -50,10 +58,10 @@ Kendi müzik enstrümanlarınızı nasıl kodlayacağınızı öğrenin!
 
 \--- no-print \---
 
-Bu projeyi yazdırmanız gerekiyorsa lütfen [yazıcı-dostu sürümü](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"} kullanın.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-[Tamamlanmış projeye buradan](http://rpf.io/p/en/rock-band-get) ulaşabilirsiniz.
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
