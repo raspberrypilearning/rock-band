@@ -2,14 +2,26 @@
 
 ** הבמה ** הוא השטח בצד ימין, והוא המקום שבו הפרויקט שלך מתעורר לחיים. חשוב על זה כאזור ההתרחשות, בדיוק כמו במה אמיתית!
 
-\--- task \--- כרגע, הבמה לבנה ונראית די משעממת! הוספו רקע צבעוני על ידי לחיצה על ** בחר רקע **.
+\--- task \---
 
-![צילום מסך](images/band-stage-choose.png) \--- /task \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- משימה \--- לחץ על ** Indoors** ברשימה בראש. לאחר מכן לחץ על רקע תיאטרון.
+![screenshot](images/band-stage-choose.png)
 
-![צילום מסך](images/band-backdrop.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- הבמה שלך אמורה להיות דומה לזו:
+\--- task \---
 
-![צילום מסך](images/band-stage.png) \--- /task \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
