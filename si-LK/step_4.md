@@ -18,7 +18,9 @@
 
 \--- /task \---
 
-\--- කාර්යය \--- ඩ්‍රම් ස්ප්‍රයිට් (sprite) මත ක්ලික් කරන්න, ඉන්පසු මෙම කොටස් (blocks)දෙක දකුණු පස ඇති කේත (code) ප්‍රදේශයට ඇදගෙන යන්න:
+\--- task \---
+
+Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
 when this sprite clicked
@@ -27,12 +29,16 @@ play drum (\(1\) Snare Drum v) for (0.25) beats
 
 \--- no-print \---
 
-![තිර රුව(screenshot)](images/connect-block.gif)
+![screenshot](images/connect-block.gif)
 
 \--- /no-print \---
 
-කුට්ටි (blocks)එකට සම්බන්ධ වී ඇති බවට වග බලා ගන්න (LEGO ගඩොල් වැනි).
+Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- කාර්යය \--- ඔබේ නව මෙවලම අත්හදා බැලීමට බෙරය මත ක්ලික් කරන්න! \--- / කාර්යය \---
+\--- task \---
+
+Click on the drum to try out your new instrument!
+
+\--- /task \---
