@@ -2,14 +2,26 @@
 
 **Pozornica** je prostor na desnoj strani ekrana. Na njoj će se tvoj projekt prikazivati, baš kao na stvarnoj pozornici! 
 
-\--- task \--- Trenutno je pozornica bijela i izgleda prilično dosadno! Dodaj joj pozadinu klikom na **Odaberi pozadinu**.
+\--- task \---
 
-![snimka zaslona](images/band-stage-choose.png) \--- /task \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- task \--- Odaberi **Unutra** s popisa kategorija pri vrhu, a zatim klikni na kazalište (Theater).
+![screenshot](images/band-stage-choose.png)
 
-![snimka zaslona](images/band-backdrop.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Tvoja pozornica bi sada trebala izgledati slično ovome:
+\--- task \---
 
-![snimka zaslona](images/band-stage.png) \--- /task \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
