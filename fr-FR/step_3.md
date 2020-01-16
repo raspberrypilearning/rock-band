@@ -2,14 +2,26 @@
 
 La **scène** est la zone sur la droite et c'est où ton projet prend vie. Considère-le comme une zone de performance, tout comme une scène réelle !
 
-\--- task \--- Pour le moment, la scène est blanche et semble plutôt ennuyeuse ! Ajoute un arrière-plan en cliquant sur **Choisir un arrière-plan**.
+\--- task \---
 
-![capture d'écran](images/band-stage-choose.png) \--- /task \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- task \--- Clique sur **à l'intérieur** dans la liste en haut. Puis clique sur un décor de théâtre.
+![screenshot](images/band-stage-choose.png)
 
-![screenshot](images/band-backdrop.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Ta scène devrait maintenant ressembler à ceci :
+\--- task \---
 
-![capture d'écran](images/band-stage.png) \--- /task \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
