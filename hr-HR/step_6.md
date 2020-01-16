@@ -16,13 +16,21 @@ Dodaj lik pjevačice na svoju Pozornicu.
 
 Prije nego omogućiš svojoj pjevačici da pjeva, moraš joj dodati zvuk. Klikni na lik pjevačice, zatim na karticu Zvukovi, a onda na **Odaberi zvuk**:
 
-![snimka zaslona](images/band-import-sound-annotated.png) \--- /task \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- task \--- Klikni na **Glas** u popisu kategorija pri vrhu, a zatim odaberi zvuk koji želiš dodati liku.
+\--- /task \---
 
-![snimka zaslona](images/band-choose-sound.png) \--- /task \---
+\--- task \---
 
-\--- task \--- Da bi se zvuk upotrijebio, moraš dodati sljedeće blokove kôda liku pjevačice:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 Kada je lik kliknut
@@ -31,4 +39,8 @@ sviraj zvuk (singer1 v) do kraja
 
 \--- /task \---
 
-\--- task \--- Klikni na pjevačicu na pozornici i prati što će se dogoditi. Pjeva li? \--- /task \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
