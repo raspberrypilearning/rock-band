@@ -2,14 +2,26 @@
 
 Il **Palco** è l'area sulla destra, ed è dove il tuo progetto prende vita. Pensalo come un luogo di spettacolo, proprio come un vero palcoscenico!
 
-\--- task \--- Al momento, il palco è bianco e sembra piuttosto noioso! Aggiungi uno sfondo cliccando su **Scegli uno sfondo**.
+\--- task \---
 
-![schermata](images/band-stage-choose.png) \--- /task \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- task \--- Clicca su **Indoors** nell'elenco in alto. Quindi clicca su uno sfondo del teatro.
+![screenshot](images/band-stage-choose.png)
 
-![schermata](images/band-backdrop.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Il tuo stage dovrebbe ora somigliare a questo:
+\--- task \---
 
-![schermata](images/band-stage.png) \--- /task \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
