@@ -18,21 +18,27 @@ Nhấp vào tiện ích mở rộng **Music** để thêm nó.
 
 \--- /bài tập \---
 
-\--- task \--- Nhấp vào sprite trống, rồi kéo hai khối này vào vùng mã bên phải:
+\--- task \---
+
+Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
 khi sprite này nhấp
 phát trống (\ (1 \) Snare Drum v) cho (0,25) nhịp
 ```
 
-\--- không in \---
+\--- no-print \---
 
-![ảnh chụp màn hình](images/connect-block.gif)
+![screenshot](images/connect-block.gif)
 
-\--- / không in \---
+\--- /no-print \---
 
 Make sure that the blocks are connected together (like LEGO bricks).
 
 \--- /task \---
 
-\--- task \--- Click on the drum to try out your new instrument! \--- /task \---
+\--- task \---
+
+Click on the drum to try out your new instrument!
+
+\--- /task \---
