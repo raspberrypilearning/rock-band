@@ -16,13 +16,21 @@ Tambahkan sprite penyanyi ke Panggung mu.
 
 Sebelum kamu bisa membuat penyanyi mu bernyanyi, kamu perlu menambahkan suara ke sprite penyanyi mu. Pastikan kamu telah memilih sprite penyanyi mu, lalu klik pada tab Suara, dan klik pada ** Pilih suara **:
 
-![screenshot](images/band-import-sound-annotated.png) \--- /task \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- tugas \--- Klik pada ** Suara ** dalam daftar di bagian atas, dan kemudian pilih suara untuk ditambahkan ke sprite mu.
+\--- /task \---
 
-![screenshot](images/band-choose-sound.png) \--- /task \---
+\--- task \---
 
-\--- tugas \--- Untuk menggunakan suara, tambahkan blok kode berikut ke sprite penyanyi mu:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 saat sprite diklik
@@ -31,4 +39,8 @@ Mainkan suara(penyayi1 v) sampai selesai
 
 \--- /task \---
 
-\--- tugas \--- Klik penyanyi mu di atas panggung dan lihat apa yang terjadi. Apakah dia bernyanyi? \--- / tugas \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
