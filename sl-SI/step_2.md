@@ -2,42 +2,62 @@
 
 Preden lahko začneš s programiranjem, moraš v kodo dodati neko 'stvar'. V Scratchu se takšne 'stvari' imenujejo **figure**.
 
-\--- task \--- Odpri nov Scratch projekt.
+\--- task \---
 
-**S povezavo:** ustvari nov spletni Scratch projekt na [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+Open a new Scratch project.
 
-**Brez povezave:** ustvari nov projekt v namiznem Scratch urejevalniku.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-Če želiš prenesti in namestiti Namizni Scratch, ga lahko najdeš na [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"}.
+**Offline:** open a new project in the offline editor.
 
-To je videti tako:
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-![posnetek zaslona](images/band-scratch.png) \--- /task \--- \--- task \--- Figura mačke je maskota Scratcha. Za to igro je ne potrebuješ, zato se je znebi z desnim klikom na figuro, potem pa klikni še na **>zbriši**.
+It looks like this:
 
-![posnetek zaslona](images/band-delete-annotated.png) \--- /task \---
-
-\--- task \--- Sedaj klikni na **Izberi figuro**, da odpreš seznam vseh Scratch figur.
-
-![posnetek zaslona](images/band-sprite-library.png) \--- /task \---
-
-\--- task \--- Pomakni se navzdol, dokler ne najdeš bobna. Klikni nanj, da ga dodaš v svoj projekt.
-
-![posnetek zaslona](images/band-sprite-drum.png)
+![screenshot](images/band-scratch.png)
 
 \--- /task \---
 
 \--- task \---
 
-Klikni na boben in ga povleci na spodnjo stran odra.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+
+![posnetek zaslona](images/band-delete-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Poimenuj svoj program, tako da vneseš njegovo ime v polje na vrhu.
+\--- task \---
 
-![ime](images/band-name-annotated.png)
+Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
 
-Nato klikni **Datoteka** in **Shrani takoj**, da shraniš svoj projekt.
+![screenshot](images/band-sprite-library.png)
 
-Če nisi povezan-a s spletom ali nimaš Scratch računa, lahko kopijo projekta shraniš s klikom na **Shrani na računalnik**.
+\--- /task \---
 
-![posnetek zaslona](images/band-save.png) \--- /task \---
+\--- task \---
+
+Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+
+![screenshot](images/band-sprite-drum.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click and drag the drum to the bottom of the Stage.
+
+\--- /task \---
+
+\--- task \---
+
+Give your program a name by typing into the text box at the top.
+
+![name](images/band-name-annotated.png)
+
+Then click on **File**, and then on **Save now** to save your project.
+
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+
+![screenshot](images/band-save.png)
+
+\--- /task \---
