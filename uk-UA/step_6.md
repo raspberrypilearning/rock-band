@@ -16,13 +16,21 @@
 
 Перш ніж ви зможете зробити свого співака співом, вам потрібно додати звук до свого спрайта співака. Переконайтеся, що ви вибрали спрайт співака, а потім клацніть на вкладці Звуки і натисніть кнопку **Вибрати звук**:
 
-![скріншот](images/band-import-sound-annotated.png) \--- /task \---
+![screenshot](images/band-import-sound-annotated.png)
 
-\--- завдання \--- Натисніть на **голос** у списку у верхній частині, а потім виберіть звук, який потрібно додати до вашого спрайту.
+\--- /task \---
 
-![скріншот](images/band-choose-sound.png) \--- /task \---
+\--- task \---
 
-\--- завдання \--- Щоб використати звук, додайте наступні кодові блоки в ваш спрайт:
+Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+
+![screenshot](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
 коли цей спрайт натиснув
@@ -31,4 +39,8 @@
 
 \--- /task \---
 
-\--- завдання \--- Натисніть на Вашого співака на сцені і подивіться, що відбувається. Чи співає вона? \--- / завдання \---
+\--- task \---
+
+Click on your singer on the stage and see what happens. Does she sing?
+
+\--- /task \---
