@@ -2,42 +2,62 @@
 
 Zanim zaczniesz kodować, musisz dodać pewną „rzecz”, której będzie dotyczył twój kod. W Scratchu takie „rzeczy” nazywane są **duszkami**.
 
-\--- task \--- Otwórz nowy projekt Scratcha.
+\--- task \---
 
-**Online:** otwórz nowy projekt Scratch na stronie [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+Open a new Scratch project.
 
-**Offline:** otwórz nowy projekt w edytorze offline.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-Jeśli musisz pobrać i zainstalować edytor Scratcha, znajdziesz go na stronie [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+**Offline:** open a new project in the offline editor.
 
-Wygląda to tak:
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-![zrzut ekranu](images/band-scratch.png) \--- /task \--- \--- task \--- Kot widoczny na ekranie to maskotka Scratcha. Nie jest potrzebny do tej gry, więc usuń go, klikając go prawym przyciskiem myszy, a następnie klikając **usuń**.
+It looks like this:
 
-![zrzut ekranu](images/band-delete-annotated.png) \--- /task \---
-
-\--- task \--- Następnie kliknij **Wybierz duszka z biblioteki**, żeby otworzyć listę wszystkich duszków dostępnych w Scratchu.
-
-![zrzut ekranu](images/band-sprite-library.png) \--- /task \---
-
-\--- task \--- Przewijaj menu w dół, aż zobaczysz duszka wyglądającego jak bębenek. Kliknij na ten bębenek, żeby dodać go do swojego projektu.
-
-![zrzut ekranu](images/band-sprite-drum.png)
+![screenshot](images/band-scratch.png)
 
 \--- /task \---
 
 \--- task \---
 
-Kliknij i przeciągnij bębenek ku dolnej części Sceny.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+
+![zrzut ekranu](images/band-delete-annotated.png)
 
 \--- /task \---
 
-\--- task \--- Wpisz nazwę programu w polu tekstowym w górnej części ekranu.
+\--- task \---
 
-![nazwa](images/band-name-annotated.png)
+Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
 
-Następnie kliknij **Plik**, a potem **Zapisz teraz**, aby zapisać swój projekt.
+![screenshot](images/band-sprite-library.png)
 
-Jeśli nie korzystasz z wersji online lub nie masz konta Scratcha, możesz zapisać kopię projektu, klikając zamiast tego **Zapisz na swoim komputerze**.
+\--- /task \---
 
-![zrzut ekranu](images/band-save.png) \--- /task \---
+\--- task \---
+
+Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+
+![screenshot](images/band-sprite-drum.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click and drag the drum to the bottom of the Stage.
+
+\--- /task \---
+
+\--- task \---
+
+Give your program a name by typing into the text box at the top.
+
+![name](images/band-name-annotated.png)
+
+Then click on **File**, and then on **Save now** to save your project.
+
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+
+![screenshot](images/band-save.png)
+
+\--- /task \---
