@@ -2,14 +2,26 @@
 
 **Етап** - це область праворуч, і де ваш проект оживає. Подумайте про це як про ділянку продуктивності, як і справжню сцену!
 
-\--- завдання \--- На даний момент сцена є білою і виглядає досить нудно! Додайте фон до нього, натиснувши **Виберіть фоновий режим**.
+\--- task \---
 
-![скріншот](images/band-stage-choose.png) \--- /task \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- завдання \--- Клацніть на **приміщенні** у списку вгорі. Потім натисніть на театральний фон.
+![screenshot](images/band-stage-choose.png)
 
-![знімок екрану](images/band-backdrop.png) \--- /task \---
+\--- /task \---
 
-\--- завдання \--- Ваша сцена зараз повинна виглядати так:
+\--- task \---
 
-![скріншот](images/band-stage.png) \--- /task \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
