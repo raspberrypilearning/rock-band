@@ -2,23 +2,41 @@
 
 Теперь ты сделаешь так, чтобы твоя певица выглядела словно она поёт!
 
-\--- task \--- Ты можешь изменить внешний вид спрайта певицы при нажатии на него, создав новый костюм. Нажми на вкладку Костюмы, и ты увидишь костюм певицы.
+\--- task \---
 
-![снимок экрана](images/band-singer-costume-annotated.png) \--- /task \---
+You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
 
-\--- task \--- Щелкни правой кнопкой мыши на костюме и затем нажми **дублировать**, чтобы создать его копию.
+![screenshot](images/band-singer-costume-annotated.png)
 
-![снимок экрана](images/band-singer-duplicate.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Нажми на новый костюм (называется 'Singer2'), а затем выбери инструмент линия и нарисуй линии так, словно твоя певица издает звуки.
+\--- task \---
 
-![снимок экрана](images/band-singer-click.png) \--- /task \---
+Right-click on the costume and then click on **duplicate** to create a copy of it.
 
-\--- task \--- Названия костюмов на данный момент не очень полезны. Введи текст в текстовые поля костюмов, чтобы изменить их имена на «не поёт» и «поёт».
+![screenshot](images/band-singer-duplicate.png)
 
-![снимок экрана](images/band-singer-name-annotated.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Теперь, когда у тебя есть два разных костюма для твоей певицы, ты можешь выбрать, какой костюм будет отображаться! Добавь эти два блока кода к спрайту твоей певицы:
+\--- task \---
+
+Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+
+![screenshot](images/band-singer-click.png)
+
+\--- /task \---
+
+\--- task \---
+
+The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+
+![screenshot](images/band-singer-name-annotated.png)
+
+\--- /task \---
+
+\--- task \---
+
+Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
 
 ```blocks3
 когда спрайт нажат
@@ -27,14 +45,24 @@
 +изменить костюм на (не поёт v)
 ```
 
-Блок кода для смены костюма находится в секции `Внешний вид`{:class="block3looks"}. \--- /task \---
+The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
 
-\--- task \--- Нажми на певицу на сцене. Она выглядит так, как будто поет? \--- /task \---
+\--- /task \---
 
-\--- task \--- Теперь сделай так, будто по твоему барабану бьют!
+\--- task \---
 
-![снимок экрана](images/band-drum-final.png)
+Click on your singer on the stage. Does she look like she is singing?
+
+\--- /task \---
+
+\--- task \---
+
+Now make your drum look like it's being hit!
+
+![screenshot](images/band-drum-final.png)
 
 - Используй инструкции по изменению костюма спрайта твоей певицы, чтобы помочь себе.
 
-Не забудь проверить, что твой новый код работает! \--- /task \---
+Remember to test that your new code works!
+
+\--- /task \---
