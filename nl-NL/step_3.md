@@ -2,14 +2,26 @@
 
 Het **Speelveld** is het gebied linksboven, waar je project tot leven komt. Zie het als het spelgebied, net als een echt toneel!
 
-\--- task \--- Op dit moment is het podium wit en ziet het er behoorlijk saai uit! Voeg een achtergrond toe door op **Kies een achtergrond** te klikken.
+\--- task \---
 
-![screenshot](images/band-stage-choose.png) \--- /task \---
+At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-\--- task \--- Klik op **Binnen** in de lijst bovenaan. Klik vervolgens op de Theater achtergrond.
+![screenshot](images/band-stage-choose.png)
 
-![screenshot](images/band-backdrop.png) \--- /task \---
+\--- /task \---
 
-\--- task \--- Je speelveld zou er nu ongeveer zo uit moeten zien:
+\--- task \---
 
-![screenshot](images/band-stage.png) \--- /task \---
+Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+
+![screenshot](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
