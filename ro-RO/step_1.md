@@ -10,7 +10,9 @@ Acesta este versiunea **Scratch 3** a proiectului. Există, de asemenea, o [vers
 
 ### Ce vei face
 
-\--- no-print \--- Dă click pe steagul verde pentru a începe. Apoi, dă click pe cântăreață sau pe tobă pentru a auzi cum sună.
+\--- no-print \---
+
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -18,9 +20,13 @@ Acesta este versiunea **Scratch 3** a proiectului. Există, de asemenea, o [vers
 
 \--- /no-print \---
 
-\--- print-only \--- Vei face un joc în care poți da click pe cântăreață pentru a o auzi cum cântă sau pe tobă pentru a auzi sunete de tobă.
+\--- print-only \---
 
-![captură de ecran de joc](images/demo.png) \--- /print-only \---
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+
+![game screenshot](images/demo.png)
+
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -28,7 +34,9 @@ Acesta este versiunea **Scratch 3** a proiectului. Există, de asemenea, o [vers
 
 + Să folosești cod pentru a schimba costumul unui personaj în Scratch
 + Sa folosești cod pentru a face ca personajele să reacționeze la input în Scratch
-+ Să adaugi sunete la un personaj în Scratch \--- /collapse \---
++ Add sounds to a sprite in Scratch
+
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -50,10 +58,10 @@ Acesta este versiunea **Scratch 3** a proiectului. Există, de asemenea, o [vers
 
 \--- no-print \---
 
-Dacă trebuie să printezi acest proiect, folosește [versiunea printabilă](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Poți găsi [proiectul finalizat aici](http://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
