@@ -19,8 +19,10 @@ Sada kada je tvoj prvi Scratch projekt napravljen, zašto se ne okušaš u novom
 
 ***
 
-## Prijevod članova zajednice 
+Ovaj su projekt preveli volonteri:
 
-Ovaj je projekt preveo/la **Maja Manojlovic** i pregledao/la **Marin Vitaljić**. 
+Maja Manojlović
 
-Naši nevjerojatni volonteri prevoditelji pomažu nam da djeci širom svijeta pružimo priliku da nauče programirati. Možete nam pomoći da dosegnemo više djece prevođenjem naših projekata - pročitajte više na [rpf.io/translate](https://rpf.io/translate).
+Marin Vitaljić
+
+Zahvaljujući volonterima, možemo pružiti ljudima širom svijeta priliku da uče na svom jeziku. Možete nam pomoći da dođemo do većeg broja ljudi tako da postanete volonter prevoditelj. Više informacija možete pronaći na rpf.io/translate.
