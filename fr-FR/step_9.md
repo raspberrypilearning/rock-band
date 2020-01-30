@@ -17,9 +17,16 @@ Maintenant que tu as construit ton premier projet Scratch, pourquoi ne pas regar
 
 --- /print-only ---
 
+***
 
-**Traduction de la communauté**
+Ce projet a été traduit par des bénévoles:
 
-Ce projet a été traduit par **Simon Gleises**/**Jonathan Vannieuwkerke** et vérifié par **Mohamed Ali Chelbi**/**Michel Arnols**.
+Simon Gleises
 
-Nos incroyables bénévoles de traduction nous aident à donner aux enfants du monde entier la chance d'apprendre à coder. Vous pouvez nous aider à atteindre plus d'enfants en traduisant nos projets - en savoir plus sur [rpf.io/translate](https://rpf.io/translate).
+Jonathan Vannieuwkerke
+
+Mohamed Ali Chelbi
+
+Michel Arnols
+
+Grâce aux bénévoles, nous pouvons donner aux gens du monde entier la chance d'apprendre dans leur propre langue. Vous pouvez nous aider à atteindre plus de personnes en vous portant volontaire pour la traduction - plus d'informations sur rpf.io/translate.
