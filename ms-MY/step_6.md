@@ -6,7 +6,7 @@ Now you will add a singer to your band!
 
 Add a singer sprite to your Stage.
 
-![tangkapan skrin](images/band-singer-mic.png)
+![screenshot](images/band-singer-mic.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
