@@ -1,29 +1,29 @@
 ---
-hero_image: images / hero-rock-band-large.png
+hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
-title: Rock grubu
-description: Kendi müzik enstrümanlarınızı nasıl kodlayacağınızı öğrenin
+title: Rock band
+description: Learn how to code your own musical instruments
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
-    title: Giriş
+    title: Introduction
   - 
-    title: Sprite
+    title: Sprites
   - 
-    title: Sahne
+    title: The Stage
   - 
-    title: Davul yapmak
+    title: Making a drum
   - 
-    title: "Zorluk: Davulunuzu geliştirin"
+    title: "Challenge: improve your drum"
     challenge: true
   - 
-    title: Bir şarkıcı yapmak
+    title: Making a singer
   - 
-    title: Kostümler
+    title: Costumes
   - 
-    title: "Meydan Okuma: müzik grubunuzu geliştirin"
+    title: "Challenge: improve your band"
     challenge: true
   - 
-    title: "Sırada ne var?"
+    title: "What next?"
