@@ -1,10 +1,10 @@
 ## Fazendo um cantor(a)
 
-Agora você vai adicionar um cantor à sua banda!
+Now you will add a singer to your band!
 
 \--- task \---
 
-Adicione um ator de cantor ao seu palco.
+Add a singer sprite to your Stage.
 
 ![screenshot](images/band-singer-mic.png)
 
@@ -14,7 +14,7 @@ Adicione um ator de cantor ao seu palco.
 
 \--- task \---
 
-Antes de fazer seu cantor cantar, você precisa adicionar um som ao ator do seu cantor. Certifique-se de que você selecionou o seu ator de cantor, e então, clique na aba Sons e selecione **Escolher som da biblioteca**:
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
 
 ![screenshot](images/band-import-sound-annotated.png)
 
@@ -33,8 +33,8 @@ Click on **Voice** in the list at the top, and then choose a sound to add to you
 To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
-quando este ator for clicado
-toque o sim (singer1 v) até o fim
+when this sprite clicked
+play sound (singer1 v) until done
 ```
 
 \--- /task \---
