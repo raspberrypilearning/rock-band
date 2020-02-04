@@ -1,20 +1,20 @@
-## Trummi tegemine
+## Making a drum
 
-Nüüd lisad oma trummile koodi, nii et trummil klõpsates teeb see häält.
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-Koodiplokid leiad vahekaardil Skriptid ja need on kõik värvikodeeritud!
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
 \--- task \---
 
-Esmalt lisa laiendus **Muusika**, et saaksid instrumente mängida.
+First add the **Music** extension so you can play instruments.
 
-Klõpsa nupul **Lisa laiendus** alumises vasakus nurgas.
+Click on the **Add extension** button in the bottom left-hand corner.
 
-![lisa laienduse nupp esiletõstetud](images/add-extension-annotated.png)
+![add extension button highlighted](images/add-extension-annotated.png)
 
-Klõpsa laiendusel **Muusika** selle lisamiseks.
+Click on the **Music** extension to add it.
 
-![muusika laiendus esiletõstetud](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -23,8 +23,8 @@ Klõpsa laiendusel **Muusika** selle lisamiseks.
 Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
-kui spraiti klõpsata
-mängi trummi ((1) Soolotrumm v) kestusega (0.25)
+when this sprite clicked
+play drum (\(1\) Snare Drum v) for (0.25) beats
 ```
 
 \--- no-print \---
