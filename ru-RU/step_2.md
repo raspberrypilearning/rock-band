@@ -1,6 +1,6 @@
-## Спрайты
+## Sprites
 
-Перед тем как начать программировать, тебе нужно добавить в код «вещи». В Scratch эти «вещи» называются **спрайтами**.
+Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
 
 \--- task \---
 
@@ -22,7 +22,7 @@ It looks like this:
 
 The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
-![снимок экрана](images/band-delete-annotated.png)
+![screenshot](images/band-delete-annotated.png)
 
 \--- /task \---
 
