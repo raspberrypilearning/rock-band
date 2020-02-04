@@ -1,6 +1,6 @@
-## Kaj sledi?
+## What next?
 
-Zakaj si ne bi sedaj, ko si končal svoj prvi Scratch projekt, ogledal še Scratch projekt [Izgubljena v vesolju](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)?
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
 \--- no-print \---
 
