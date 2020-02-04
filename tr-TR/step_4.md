@@ -1,20 +1,20 @@
-## Davul yapma
+## Making a drum
 
-Şimdi davulunuza tıklandığında ses çıkartması için kod ekleyeceksiniz.
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-Tamamı renklerle-sınıflandırılmış kodlama bloklarını, kod sekmesi altında bulabilirsiniz!
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
 \--- task \---
 
-İlk önce **Müzik** eklentisini ekleyin böylece müzik aletlerini çalabilirsiniz.
+First add the **Music** extension so you can play instruments.
 
-Sol alt köşedeki **Eklenti Ekle** düğmesine tıklayın.
+Click on the **Add extension** button in the bottom left-hand corner.
 
-![eklenti ilave düğmesi vurgulanmış](images/add-extension-annotated.png)
+![add extension button highlighted](images/add-extension-annotated.png)
 
-Eklemek için **Müzik** eklentisine tıklayın.
+Click on the **Music** extension to add it.
 
-![müzik eklentisi vurgulanmış](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -23,8 +23,8 @@ Eklemek için **Müzik** eklentisine tıklayın.
 Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
-bu kukla tıklandığında
-(\(1\) Trampet) davulunu (0.25) vuruş çal
+when this sprite clicked
+play drum (\(1\) Snare Drum v) for (0.25) beats
 ```
 
 \--- no-print \---
