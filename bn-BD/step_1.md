@@ -4,7 +4,7 @@
 
 \--- no-print \---
 
-## পরিচিতি
+## ভূমিকা
 
 কীভাবে আপনার বাদ্যযন্ত্রগুলির কোড করবেন তা শিখুন!
 
@@ -12,7 +12,7 @@
 
 \--- no-print \---
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+শুরু করতে সবুজ পতাকাটি ক্লিক করুন। তারপরে, গায়ক বা ড্রামে ক্লিক করুন তারা কী শব্দ করছে তা শুনতে।.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,29 +22,29 @@ Click the green flag to begin. Then, click on the singer or the drum to hear wha
 
 \--- print-only \---
 
-You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+আপনাকে একটি গেম তৈরি করতে হবে যেখানে আপনি গায়ক বা ড্রামের উপর ক্লিক করে গান বা শব্দ শুনতে পারেন।.
 
-![game screenshot](images/demo.png)
+![গেমের স্ক্রিনশট](images/demo.png)
 
 \--- /print-only \---
 
 ## বন্ধ হত্তয়া
 
-## title: যা শিখতে পারবেন
+## শিরোনাম : যা শিখতে পারবেন
 
 + স্ক্র্যাচে কোড ব্যবহার করে একটি স্প্রিটের পোশাক পরিবর্তন করতে পারেন
-+ স্ক্র্যাচ ইনপুটটিতে একটি স্প্রিটের প্রতিক্রিয়া জানাতে কোড ব্যবহার করুন
-+ Add sounds to a sprite in Scratch
++ স্ক্র্যাচ ইনপুটটিতে একটি স্প্রাইটর প্রতিক্রিয়া জানাতে কোড ব্যবহার করুন
++ স্ক্র্যাচ এ একটি স্প্রাইটে শব্দ যুক্ত করুন
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: যা যা প্রয়োজন
+## শিরোনাম : যা যা প্রয়োজন
 
 #### হার্ডওয়্যার
 
-+ একটি কম্পিউটার যেথানে স্ক্র্যাচ ২. ০ বা Scratch 3 চালানো যাবে
++ একটি কম্পিউটার যেথানে স্ক্র্যাচ 3 চালানো যাবে
 
 #### সফটওয়্যার
 
@@ -54,14 +54,14 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## বন্ধ হত্তয়া
 
-## title: শিক্ষাবিদদের জন্য অতিরিক্ত তথ্য
+## শিরোনাম : শিক্ষাবিদদের জন্য অতিরিক্ত তথ্য
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+আপনি যদি এই প্রজেক্টটি প্রিন্ট করতে চান তবে [প্রিন্টার সহযোগী সংষ্করণ](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"} ব্যবহার করুন।.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+আপনি এখানে সমাপ্ত প্রকল্প সমূহ [completed project here](http://rpf.io/p/en/rock-band-get){:target="_blank"} সন্ধান করতে পারেন।.
 
 \--- /collapse \---
