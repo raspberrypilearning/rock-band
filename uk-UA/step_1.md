@@ -1,14 +1,14 @@
-\--- без друку \---
+\--- no-print \---
 
-Це **Подряпини 3** варіанти проекту. Існує також версія [Scratch 2 проекту](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
-\--- / без друку \---
+\--- /no-print \---
 
-## Вступ
+## Introduction
 
-Дізнайтеся, як кодувати власні музичні інструменти!
+Learn how to code your own musical instruments!
 
-### Що ви робитимете
+### What you will make
 
 \--- no-print \---
 
@@ -30,7 +30,7 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## \--- collapse \---
 
-## title: Що ви дізнаєтеся
+## title: What you will learn
 
 + Use code to change a sprite's costume in Scratch
 + Use code to make sprites react to input in Scratch
@@ -40,21 +40,21 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## \--- collapse \---
 
-## title: Що вам потрібно
+## title: What you will need
 
-#### Обладнання
+#### Hardware
 
-+ Комп'ютер, що підтримує Scratch 3
++ A computer capable of running Scratch 3
 
-#### Програмне забезпечення
+#### Software
 
-+ Скретч 3 ( [онлайн](http://rpf.io/scratchon){: target = "_ blank"} або [офлайн](http://rpf.io/scratchoff){: target = "_ blank"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## назва: Додаткова інформація для педагогів
+## title: Additional information for educators
 
 \--- no-print \---
 
