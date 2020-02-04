@@ -1,31 +1,33 @@
-## האתגר: שפר את הלהקה שלך
+## Challenge: improve your band
 
-השתמש במה שלמדת בפרויקט זה כדי ליצור את הלהקה שלך! אתה יכול ליצור כל כלי נגינה שתרצה - הסתכל בדמויות כלי הנגינה הזמינים והצלילים הזמינים כדי לקבל כמה רעיונות.
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-![צילום מסך](images/band-ideas-sounds.png)
+![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
-when this sprite clicked set instrument to (\(1\) Piano v) play note (60) for (0.25) beats
+when this sprite clicked
+set instrument to (\(1\) Piano v)
+play note (60) for (0.25) beats
 ```
 
-כלי הנגינה שלך לא חייב להיות מציאותי. לדוגמה, אתה יכול לעשות פסנתר עשוי מעוגיות!
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-![צילום מסך](images/band-piano.png)
+![screenshot](images/band-piano.png)
 
-אתה יכול להשתמש בדמויות נוספות מהספרייה, ואתה יכול אפילו לצייר דמויות משלך!
+You can use more sprites from the library, and you can also paint your own sprites!
 
-![צילום מסך](images/band-draw.png)
+![screenshot](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: מדוע הדמות שלי "קופצת" כאשר משנים תלבושת?
+## title: Why is my sprite 'jumping' when it changes costume?
 
-בעת יצירת דמות משלך, אתה עשוי לגלות כי כאשר אתה לוחץ על דמות, היא "קופצת" כאשר התלבושת משתנה. זאת משום ששתי התלבושות אינן ממורכזות באותה נקודה.
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
 
-כדי לתקן זאת, ודא כי המרכזים של התלבושות של דמות שלך נמצאים באותה נקודה.
+To fix this, make sure that the centres of your sprite's costumes are the same.
 
 \--- /collapse \---
 
-אם יש לך מיקרופון, אתה יכול להקליט צלילים משלך, ואתה יכול אפילו להשתמש במצלמת האינטרנט כדי לנגן בכלי הנגינה שלך!
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
-![צילום מסך](images/band-io.png)
+![screenshot](images/band-io.png)
