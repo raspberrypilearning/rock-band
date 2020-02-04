@@ -2,7 +2,7 @@
 
 এটি **স্ক্র্যাচ 3** প্রকল্পের সংস্করণ। প্রকল্পের একটি [স্ক্র্যাচ 2 সংস্করণও রয়েছে](https://projects.raspberrypi.org/bn-BD/projects/rock-band-scratch2)।.
 
---- no-print ---
+--- /no-print ---
 
 ## ভূমিকা
 
