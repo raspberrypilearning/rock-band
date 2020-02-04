@@ -1,14 +1,14 @@
 \--- no-print \---
 
-Bu, projenin **Scratch 3** sürümüdür. Projenin aynı zamanda [Scratch 2 sürümü](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) de vardır.
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
-## Giriş
+## Introduction
 
-Kendi müzik enstrümanlarınızı nasıl kodlayacağınızı öğrenin!
+Learn how to code your own musical instruments!
 
-### Neyi yapacaksınız
+### What you will make
 
 \--- no-print \---
 
@@ -30,31 +30,31 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## \--- collapse \---
 
-## title: Ne öğreneceksiniz
+## title: What you will learn
 
-+ Scratch'te bir kukla kostümünü değiştirmek için kod kullanın
-+ Scratch'te kuklaların, girdiye tepki vermesi için kod kullanın
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
 + Add sounds to a sprite in Scratch
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Nelere ihtiyacınız var
+## title: What you will need
 
-#### Donanım
+#### Hardware
 
-+ Scratch 3 çalıştırabilen bir bilgisayar
++ A computer capable of running Scratch 3
 
-#### Yazılım
+#### Software
 
-+ Scratch 3 ([çevrimiçi](http://rpf.io/scratchon){:target="_blank"} veya [çevrimdışı](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Eğitimciler için ek bilgiler
+## title: Additional information for educators
 
 \--- no-print \---
 
