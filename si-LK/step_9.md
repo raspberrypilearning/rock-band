@@ -1,6 +1,6 @@
-## ඊලඟට කුමක්ද?
+## What next?
 
-දැන් ඔබ ඔබේ පළමු Scratch ව්‍යාපෘතිය ගොඩනඟා ඇති අතර, එහි [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) දෙස නොබලන්නේ මන්ද? 
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
 \--- no-print \---
 
