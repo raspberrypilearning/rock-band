@@ -1,12 +1,12 @@
-## Роблячи виконавця
+## Making a singer
 
-Тепер ви додасте співака до своєї групи!
+Now you will add a singer to your band!
 
 \--- task \---
 
-Додайте спрайту співака до вашої сцени.
+Add a singer sprite to your Stage.
 
-![скріншот](images/band-singer-mic.png)
+![screenshot](images/band-singer-mic.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -14,7 +14,7 @@
 
 \--- task \---
 
-Перш ніж ви зможете зробити свого співака співом, вам потрібно додати звук до свого спрайта співака. Переконайтеся, що ви вибрали спрайт співака, а потім клацніть на вкладці Звуки і натисніть кнопку **Вибрати звук**:
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
 
 ![screenshot](images/band-import-sound-annotated.png)
 
@@ -33,8 +33,8 @@ Click on **Voice** in the list at the top, and then choose a sound to add to you
 To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
-коли цей спрайт натиснув
-відтворення звуку (singer1 v) до завершення
+when this sprite clicked
+play sound (singer1 v) until done
 ```
 
 \--- /task \---
