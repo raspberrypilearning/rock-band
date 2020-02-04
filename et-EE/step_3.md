@@ -1,6 +1,6 @@
-## Lava
+## The Stage
 
-**Lava** on ala paremal ja koht, kus su projekt ärkab ellu. Mõtle sellele kui esinemisalale, just nagu päris lava!
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
 \--- task \---
 
