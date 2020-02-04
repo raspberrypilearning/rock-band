@@ -1,18 +1,18 @@
 \--- no-print \---
 
-Ini adalah versi proyek ** Scratch 3 **. Ada juga versi proyek [ Scratch 2 ](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+Ini adalah versi ** Scratch 3 ** dari proyek. Ada pula proyek dengan versi [ Scratch 2 ](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
 ## pengantar
 
-Pelajari cara membuat kode alat musik Anda sendiri!
+Pelajari cara membuat kode alat musikmu sendiri!
 
 ### Apa yang akan Anda buat
 
 \--- no-print \---
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+Klik bendera hijau untuk memulai. Kemudian, klik penyanyi atau drum untuk mendengar seperti apa suaranya.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,25 +22,25 @@ Click the green flag to begin. Then, click on the singer or the drum to hear wha
 
 \--- print-only \---
 
-You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+Kamu akan membuat permainan di mana kamu dapat mengklik pada penyanyi dan drum untuk membuatnya bernyanyi atau mendengar suara drum.
 
-![game screenshot](images/demo.png)
+![tangkapan layar permainan](images/demo.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: Apa yang akan kamu pelajari
+## title: Yang akan kamu pelajari
 
-+ Gunakan kode untuk merubah kostum sprite di Scratch
-+ Gunakan kode untuk membuat sprite terhubung ke masukan di Scratch
-+ Add sounds to a sprite in Scratch
++ Gunakan kode untuk mengubah kostum sprite di Scratch
++ Gunakan kode untuk membuat sprite bereaksi terhadap input di dalam Scratch
++ Tambah suara ke sprite dalam Scratch
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Apa yang kamu butuhkan
+## title: Apa yang akan kamu butuhkan
 
 #### Perangkat keras
 
@@ -48,20 +48,20 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 #### Perangkat lunak
 
-+ Scratch 3 (baik [online](http://rpf.io/scratchon){:target="_blank"} atau [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (maupun [online](http://rpf.io/scratchon){:target="_blank"} atau [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## judul: Informasi tambahan untuk pendidik
+## title: Informasi tambahan untuk pengajar
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Jika kamu perlu mencetak proyek ini, silakan gunakan [versi cetak](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+Kamu bisa menemukan [proyek lengkapnya di sini](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
