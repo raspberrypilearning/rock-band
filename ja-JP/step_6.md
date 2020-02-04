@@ -16,7 +16,7 @@
 
 歌手に歌を歌わせる前に、歌手のスプライトにサウンドを追加する必要があります。 歌手のスプライトが選択されていることを確認してから、サウンドタブをクリック、そして**音を選ぶ**をクリックします。
 
-![screenshot](images/band-import-sound-annotated.png)
+![スクリーンショット](images/band-import-sound-annotated.png)
 
 \--- /task \---
 
@@ -24,7 +24,7 @@
 
 Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
 
-![screenshot](images/band-choose-sound.png)
+![スクリーンショット](images/band-choose-sound.png)
 
 \--- /task \---
 
