@@ -1,33 +1,33 @@
-## Изазов: Побољшај групу
+## Challenge: improve your band
 
-Употреби оно што си научио/ла у овом пројекту да би направио/ла сопствену групу! Можеш да направиш било који инструмент који ти се свиђа, погледај које звукове и инструменте имаш на располагању да би добио/ла идеје.
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-![снимак екрана](images/band-ideas-sounds.png)
+![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
-када је кликнуто на овај лик :: events
-нека инструмент буде ((1) Клавир v) :: music
-свирај ноту (60) током (0.25) откуцаја :: music
+when this sprite clicked
+set instrument to (\(1\) Piano v)
+play note (60) for (0.25) beats
 ```
 
-Твоји инструменти не морају да буду правог изгледа. Можеш, на пример, да направиш клавир од мафина!
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-![снимак екрана](images/band-piano.png)
+![screenshot](images/band-piano.png)
 
-Можеш да употребиш више ликова из библиотеке, а можеш и да обојиш своје ликове!
+You can use more sprites from the library, and you can also paint your own sprites!
 
-![снимак екрана](images/band-draw.png)
+![screenshot](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Зашто мој лик 'скаче' када промени костим?
+## title: Why is my sprite 'jumping' when it changes costume?
 
-Када прaвиш свог лика, можеш да приметиш, да када кликнеш на њега, лик 'скаче' док мења костим. То је зато што два костима нису центрирана на истом месту.
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
 
-Да ово поправиш, побрини се да су костими твојих ликова центрирани на истом месту.
+To fix this, make sure that the centres of your sprite's costumes are the same.
 
 \--- /collapse \---
 
-Ако имаш микрофон, можеш да снимиш сопствене звукове или чак да користиш веб-камеру да свираш своје инструменте!
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
-![снимак екрана](images/band-io.png)
+![screenshot](images/band-io.png)
