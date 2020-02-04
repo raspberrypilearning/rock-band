@@ -2,17 +2,17 @@
 
 Sekarang kamu akan menambahkan kode ke drum mu sehingga drum mengeluarkan suara saat diklik.
 
-Kamu dapat menemukan blok kode di tab Script, dan semuanya diberi kode warna!
+Kamu dapat menemukan blok kode di tab Script, dan semua code memiliki warna!
 
 \--- task \---
 
-Pertama-tama tambahkan **Musik** ekstensi sehingga kamu dapat memainkan instrumen.
+Pertama-tama tambahkan ekstensi **Musik** sehingga kamu dapat memainkan instrumen.
 
-Klik tombol **tambahkan ekstensi** dibagian sudut kiri bawah kamu.
+Klik tombol **Tambahkan ekstensi** dibagian sudut kiri bawahmu.
 
 ![tambahkan tombol ekstensi yang disorot](images/add-extension-annotated.png)
 
-Klik pada ** Musik ** ekstensi untuk menambahkannya.
+Klik pada ekstensi **Musik** untuk menambahkannya.
 
 ![ekstensi music yang disorot](images/click-music-annotated.png)
 
@@ -20,24 +20,25 @@ Klik pada ** Musik ** ekstensi untuk menambahkannya.
 
 \--- task \---
 
-Click on the drum sprite, and then drag these two blocks into the code area on the right:
+Klik pada drum sprite, lalu seret kedua blok ini ke area kode di sebelah kanan:
 
 ```blocks3
-setelah kamu mengklik sprite, mainkan dram (\(1\) senar dram v) sebanyak (0.25) ketukan
+ketika spite ini diklik
+mainkan drum (\(1\) Senar Drum v) sebanyak (0.25) ketukan
 ```
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![tangkapan layar](images/connect-block.gif)
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Pastikan bahwa blok-blok tersebut saling terhubung (seperti batu bata LEGO).
 
 \--- /task \---
 
 \--- task \---
 
-Click on the drum to try out your new instrument!
+Klik pada drum untuk mencoba instrumen barumu!
 
 \--- /task \---
