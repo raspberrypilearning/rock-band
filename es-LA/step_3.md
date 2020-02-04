@@ -1,6 +1,6 @@
-## El Escenario
+## The Stage
 
-El **Stage** escenario es la zona de la izquierda, y es donde tu proyecto cobra vida. Considéralo como la zona de actuación, ¡como si fuera un escenario real!
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
 \--- task \---
 
@@ -8,7 +8,7 @@ At the moment, the stage is white and looks pretty boring! Add a backdrop to it 
 
 ![screenshot](images/band-stage-choose.png)
 
-\--- / tarea \---
+\--- /task \---
 
 \--- task \---
 
