@@ -1,20 +1,20 @@
-## יצירת תוף
+## Making a drum
 
-עכשיו תוסיף קוד לתוף שלך, כך שישמיע צליל כאשר הוא נלחץ.
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-ניתן למצוא את בלוקי הקוד בכרטיסיית הסקריפטים, והם כולם מסודרים לפי צבעים!
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
 \--- task \---
 
-תחילה הוסף את הרחבת ה** מוסיקה ** כדי שתוכל לנגן בכלים השונים.
+First add the **Music** extension so you can play instruments.
 
-לחץ על כפתור ** הוסף הרחבה ** בפינה הימנית התחתונה.
+Click on the **Add extension** button in the bottom left-hand corner.
 
-![הלחצן 'הוסף הרחבה' מודגש](images/add-extension-annotated.png)
+![add extension button highlighted](images/add-extension-annotated.png)
 
-לחץ על הרחבת ** מוסיקה ** כדי להוסיף אותה.
+Click on the **Music** extension to add it.
 
-![הרחבת מוסיקה מודגשת](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -23,7 +23,8 @@
 Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
-when this sprite clicked play drum (\(1\) Snare Drum v) for (0.25) beats
+when this sprite clicked
+play drum (\(1\) Snare Drum v) for (0.25) beats
 ```
 
 \--- no-print \---
