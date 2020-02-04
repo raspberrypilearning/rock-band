@@ -1,14 +1,14 @@
 \--- no-print \---
 
-See on projekti **Scratch 3** versioon. On ka [projekti Scratch 2 versioon](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
-## Sissejuhatus
+## Introduction
 
-Õpi, kuidas enda muusikariistu kodeerida!
+Learn how to code your own musical instruments!
 
-### Mida sa teed
+### What you will make
 
 \--- no-print \---
 
@@ -30,31 +30,31 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## \--- collapse \---
 
-## title: Mida sa õpid
+## title: What you will learn
 
-+ Kasuta koodi spraidi kostüümi muutmiseks Scratchis
-+ Kasuta koodi, et panna spraidid Scratchis sisendandmetele reageerima
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
 + Add sounds to a sprite in Scratch
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Mida sul vaja on
+## title: What you will need
 
-#### Riistvara
+#### Hardware
 
-+ Arvuti, mis suudab käivitada Scratch 3
++ A computer capable of running Scratch 3
 
-#### Tarkvara
+#### Software
 
-+ Scratch 3 (kas [võrguühendusega](http://rpf.io/scratchon){:target="_blank"} või [võrguväliselt](http://rpf.io/scratchoff){: target="_blank"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Lisainfo õpetajatele
+## title: Additional information for educators
 
 \--- no-print \---
 
