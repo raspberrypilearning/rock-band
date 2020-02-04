@@ -39,10 +39,10 @@
 এখন আপনার গায়কীর জন্য দুটি আলাদা পোশাক রয়েছে, আপনি কোন পোশাকটি প্রদর্শিত হবে তা চয়ন করতে পারেন! আপনার গায়ক স্প্রাইটে এই দুটি কোড ব্লক যুক্ত করুন:
 
 ```blocks3
-যখন এই স্প্রাইট ক্লিক করা হল 
-+ স্যুইচ পোশাকটিতে ক্লিক করে (singing v)
-প্লে সাউন্ড (singer1 v ) না করা পর্যন্ত
-+ স্যুইচিউমে পোশাকে (not singing v)
+when this sprite clicked
++switch costume to (singing v)
+play sound (singer1 v) until done
++switch costume to (not singing v)
 ```
 
 পোশাক পরিবর্তন করার জন্য কোড ব্লকটি Looks</0{:class="block3looks"} বিভাগে আছে।।.</p>
