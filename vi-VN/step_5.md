@@ -1,15 +1,15 @@
-## Thử thách: cải thiện trống của bạn
+## Challenge: improving your drum
 
-Bạn có thể thay đổi âm thanh mà trống tạo ra khi nó nhấp không?
+Can you change the sound that the drum makes when it's clicked?
 
-![ảnh chụp màn hình](images/band-drum-sound.png)
+![screenshot](images/band-drum-sound.png)
 
-Bạn cũng có thể lấy trống để tạo ra âm thanh khi nhấn phím cách không? Bạn sẽ cần sử dụng `sự kiện`{: class = "block3events"} này:
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
 ```blocks3
-khi nhấn phím [space v]
+when [space v] key pressed
 ```
 
-Nếu bạn muốn sao chép mã hiện tại của mình, nhấp chuột phải vào mã và sau đó nhấp vào **trùng lặp**.
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
 
-![ảnh chụp màn hình](images/band-duplicate-code.png)
+![screenshot](images/band-duplicate-code.png)
