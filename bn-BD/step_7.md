@@ -1,68 +1,70 @@
 ## পরিধানসমূহ
 
-এখন আপনি গায়ককে গান গাওয়ার মত করে তুলবেন!
+এখন আপনি আপনার গায়ককে তিনি গানের মতো করে তুলবেন!
 
 \--- task \---
 
-You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
+কোনও নতুন পোশাক তৈরির মাধ্যমে ক্লিক করা আপনার গায়কের স্প্রিট কীভাবে দেখায় তা আপনি পরিবর্তন করতে পারেন। পোশাক ট্যাবে ক্লিক করুন, এবং আপনি গায়কের পোশাক দেখতে পাবেন।
 
-![screenshot](images/band-singer-costume-annotated.png)
+![স্ক্রিনশট](images/band-singer-costume-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Right-click on the costume and then click on **duplicate** to create a copy of it.
+পোশাকে ডান ক্লিক করুন এবং তারপরে **duplicate** এ ক্লিক করুন এটির একটি অনুলিপি তৈরি করতে।.
 
-![screenshot](images/band-singer-duplicate.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
-
-![screenshot](images/band-singer-click.png)
+![স্ক্রিনশট](images/band-singer-duplicate.png)
 
 \--- /task \---
 
 \--- task \---
 
-The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+নতুন পোশাকে ক্লিক করুন (যাকে 'সিঙ্গার 2' বলা হয়) এবং তারপরে লাইন সরঞ্জামটি নির্বাচন করুন এবং লাইনগুলি আঁকুন যাতে দেখে মনে হয় আপনার গায়ক কোনও শব্দ করছে.
 
-![screenshot](images/band-singer-name-annotated.png)
+![স্ক্রিনশট](images/band-singer-click.png)
 
 \--- /task \---
 
 \--- task \---
 
-Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
+পোশাকগুলির নামগুলি এই মুহুর্তে খুব বেশি সহায়ক নয়। পোশাকিদের পাঠ্য বাক্সগুলিতে তাদের নামগুলি 'না গাওয়া' এবং 'গাওয়া' পরিবর্তিত করতে টাইপ করুন।
+
+![স্ক্রিনশট](images/band-singer-name-annotated.png)
+
+\--- /task \---
+
+\--- task \---
+
+এখন আপনার গায়কীর জন্য দুটি আলাদা পোশাক রয়েছে, আপনি কোন পোশাকটি প্রদর্শিত হবে তা চয়ন করতে পারেন! আপনার গায়ক স্প্রাইটে এই দুটি কোড ব্লক যুক্ত করুন:
 
 ```blocks3
-when this sprite clicked
-+switch costume to (singing v)
-play sound (singer1 v) until done
-+switch costume to (not singing v)
+যখন এই স্প্রাইট ক্লিক করা হল 
++ স্যুইচ পোশাকটিতে ক্লিক করে (singing v)
+প্লে সাউন্ড (singer1 v ) না করা পর্যন্ত
++ স্যুইচিউমে পোশাকে (not singing v)
 ```
 
-The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
+পোশাক পরিবর্তন করার জন্য কোড ব্লকটি Looks</0{:class="block3looks"} বিভাগে আছে।।.</p>
 
-\--- /task \---
+<p>--- /task ---</p>
 
-\--- task \---
+<p>--- task ---</p>
 
-Click on your singer on the stage. Does she look like she is singing?
+<p>মঞ্চে আপনার গায়ক ক্লিক করুন। সে কি মনে হচ্ছে সে গান করছে?</p>
 
-\--- /task \---
+<p>--- /task ---</p>
 
-\--- task \---
+<p>--- task ---</p>
 
-Now make your drum look like it's being hit!
+<p>ড্রামকে আঘাত করা হচ্ছে এমন একটা দৃশ্যায়ন করুন!</p>
 
-![screenshot](images/band-drum-final.png)
+<p><img src="images/band-drum-final.png" alt="স্ক্রিনশট" /></p>
 
-- আপনার গায়ক স্প্রাইটের পোশাক পরিবর্তন করার জন্য প্রয়োজনীয় সহায়তার জন্য নির্দেশাবলী ব্যবহার করুন।.
+<ul>
+<li>আপনার গায়ক স্প্রাইটের পোশাক পরিবর্তন করার জন্য প্রয়োজনীয় সহায়তার জন্য নির্দেশাবলী ব্যবহার করুন।.</li>
+</ul>
 
-Remember to test that your new code works!
+<p>আপনার নতুন কোডটি কাজ করছে কিনা তা পরীক্ষা করে দেখুন!</p>
 
-\--- /task \---
+<p>--- /task ---</p>
