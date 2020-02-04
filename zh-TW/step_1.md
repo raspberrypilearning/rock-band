@@ -12,7 +12,7 @@
 
 \--- no-print \---
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+點擊綠色旗子運行程式，然後，點擊歌手或鼓，聽聽他們會發出什麼聲音。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,9 +22,9 @@ Click the green flag to begin. Then, click on the singer or the drum to hear wha
 
 \--- print-only \---
 
-You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+你會做出個遊戲，點擊歌手或鼓就可以聽到歌聲或鼓聲。
 
-![game screenshot](images/demo.png)
+![遊戲截圖](images/demo.png)
 
 \--- /print-only \---
 
@@ -34,7 +34,7 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 + 用 Scratch 程式替換角色的造型
 + 用 Scratch 程式讓角色對輸入做反應
-+ Add sounds to a sprite in Scratch
++ 在 Scratch 裡添加一些聲音給角色
 
 \--- /collapse \---
 
@@ -58,10 +58,10 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+如果你需要列印這個專案，可以先切換成[列印友好模式](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}。
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+你可以在這裡找到[已經完成的專案](http://rpf.io/p/en/rock-band-get)。
 
 \--- /collapse \---
