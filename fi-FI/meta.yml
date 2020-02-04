@@ -1,14 +1,14 @@
 ---
-hero_image: Kuvien / sankari-rock-bändi-large.png
+hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
-title: Rock-bändi
-description: Opi soittamaan omia soittimia
+title: Rock band
+description: Learn how to code your own musical instruments
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
-    title: esittely
+    title: Introduction
   - 
     title: Sprites
   - 
