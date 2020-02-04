@@ -1,33 +1,33 @@
-## Väljakutse: täiusta oma bändi
+## Challenge: improve your band
 
-Kasuta seda, mida oled selles projektis õppinud, et luua oma bänd! Sa saad luua mistahes endale meelepäraseid muusikariistu - vaata ideede kogumiseks saadaolevaid instrumentide spraite ja helisid.
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-![kuvatõmmis](images/band-ideas-sounds.png)
+![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
-kui spraiti klõpsata
-võta instrumendiks ((1) Klaver v)
-mängi nooti (60) (0.25) lööki
+when this sprite clicked
+set instrument to (\(1\) Piano v)
+play note (60) for (0.25) beats
 ```
 
-Sinu muusikariistad ei pea siiski realistlikud olema. Näiteks võid teha klaveri, mis on tehtud muffinitest!
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-![kuvatõmmis](images/band-piano.png)
+![screenshot](images/band-piano.png)
 
-Sa saad kasutada rohkem spraite raamatukogust ja saad ka ise oma spraite värvida!
+You can use more sprites from the library, and you can also paint your own sprites!
 
-![kuvatõmmis](images/band-draw.png)
+![screenshot](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Miks minu sprait "hüppab", kui see kostüümi muudab?
+## title: Why is my sprite 'jumping' when it changes costume?
 
-Oma spraidi loomisel võib juhtuda, et spraidil klõpsamisel "hüppab" see kostüümi muutmisel. Seda seetõttu, et kaks kostüümi ei ole samasse kohta koondatud.
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
 
-Selle parandamiseks veendu, et sinu spraidi kostüümide keskkohad on samad.
+To fix this, make sure that the centres of your sprite's costumes are the same.
 
 \--- /collapse \---
 
-Kui sul on mikrofon, saad salvestada omaenda helisid ja kasutada isegi oma veebikaamerat oma instrumentide löömiseks!
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
-![kuvatõmmis](images/band-io.png)
+![screenshot](images/band-io.png)
