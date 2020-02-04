@@ -1,15 +1,15 @@
-## Väljakutse: oma trummi täiustamine
+## Challenge: improving your drum
 
-Kas oskad muuta heli, mida trumm klõpsamisel teeb?
+Can you change the sound that the drum makes when it's clicked?
 
-![kuvatõmmis](images/band-drum-sound.png)
+![screenshot](images/band-drum-sound.png)
 
-Kas oskad ka trummi häält tegema panna, kui tühikuklahvi vajutada? Pead kasutama seda `sündmuse`{:class="block3events"} plokki:
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
 ```blocks3
-kui klõpsata klahvi [tühik v]
+when [space v] key pressed
 ```
 
-Kui soovid oma olemasolevat koodi kopeerida, siis klõpsa seda hiire parema nupuga ja seejärel klõpsa **paljunda**.
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
 
-![kuvatõmmis](images/band-duplicate-code.png)
+![screenshot](images/band-duplicate-code.png)
