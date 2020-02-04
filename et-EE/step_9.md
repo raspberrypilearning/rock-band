@@ -1,6 +1,6 @@
-## Mis edasi?
+## What next?
 
-Nüüd, kui oled ehitatud oma esimese Scratchi projekti, siis miks mitte heita pilk Scratchi projektile [Kosmosesse eksinud](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)?
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
 \--- no-print \---
 
