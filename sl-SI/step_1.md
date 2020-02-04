@@ -1,14 +1,14 @@
 \--- no-print \---
 
-To je **Scratch 3** različica projekta. Obstaja tudi [Scratch 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) različica projekta.
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
-## Uvod
+## Introduction
 
-Nauči se programirati svoje lastne glasbene instrumente!
+Learn how to code your own musical instruments!
 
-### Kaj boš ustvaril?
+### What you will make
 
 \--- no-print \---
 
@@ -30,31 +30,31 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## \--- collapse \---
 
-## title: Kaj se boš naučil-a?
+## title: What you will learn
 
-+ Uporabljati kodo, za spreminjanje videza figure v Scratchu
-+ Uporabljati kodo na tak način, da se figure v Scratchu odzovejo na uporabnikov vnos
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
 + Add sounds to a sprite in Scratch
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Kaj potrebuješ?
+## title: What you will need
 
-#### Strojna oprema
+#### Hardware
 
-+ Računalnik, ki lahko izvaja Scratch 3
++ A computer capable of running Scratch 3
 
-#### Programska oprema
+#### Software
 
-+ Scratch 3 (bodisi [na spletu](http://rpf.io/scratchon) {:target = "_blank"} ali [brez povezave](http://rpf.io/scratchoff){:target = "_blank"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Dodatne informacije za izobraževalce
+## title: Additional information for educators
 
 \--- no-print \---
 
