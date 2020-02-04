@@ -1,6 +1,6 @@
-## הבמה
+## The Stage
 
-** הבמה ** הוא השטח בצד ימין, והוא המקום שבו הפרויקט שלך מתעורר לחיים. חשוב על זה כאזור ההתרחשות, בדיוק כמו במה אמיתית!
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
 \--- task \---
 
