@@ -16,21 +16,21 @@
 
 在你讓歌手唱歌之前，你需要為你的歌手角色添加聲音。 檢查你選的是不是歌手角色，然後切換到音效頁籤，再點擊**選個音效**：
 
-![screenshot](images/band-import-sound-annotated.png)
+![截圖](images/band-import-sound-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+點擊範例庫最上方的**人聲** ，然後選擇一個要添加到角色的聲音。
 
-![screenshot](images/band-choose-sound.png)
+![截圖](images/band-choose-sound.png)
 
 \--- /task \---
 
 \--- task \---
 
-To use the sound, add the following code blocks to your singer sprite:
+要使用音效，請添加以下程式積木到你的歌手角色裡：
 
 ```blocks3
 當角色被點擊
@@ -41,6 +41,6 @@ To use the sound, add the following code blocks to your singer sprite:
 
 \--- task \---
 
-Click on your singer on the stage and see what happens. Does she sing?
+點擊舞台上的歌手，看看會發生什麼，她唱歌了嗎？
 
 \--- /task \---
