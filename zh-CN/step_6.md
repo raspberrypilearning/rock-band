@@ -1,10 +1,10 @@
 ## 创建一个歌手
 
-现在你将为你的乐队添加一名歌手！
+Now you will add a singer to your band!
 
 \--- task \---
 
-将Singer1角色添加到舞台中。
+Add a singer sprite to your Stage.
 
 ![截屏](images/band-singer-mic.png)
 
@@ -14,7 +14,7 @@
 
 \--- task \---
 
-在你让歌手唱歌之前，你需要为你的Singer角色添加声音。 确保您已选择Singer角色，然后点击”声音“选项卡，然后点击 **选择一个声音**：
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
 
 ![screenshot](images/band-import-sound-annotated.png)
 
@@ -33,8 +33,8 @@ Click on **Voice** in the list at the top, and then choose a sound to add to you
 To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
-当角色被点击
-播放声音 (Singer1 v) 等待播完
+when this sprite clicked
+play sound (singer1 v) until done
 ```
 
 \--- /task \---
