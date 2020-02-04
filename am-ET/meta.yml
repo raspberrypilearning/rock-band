@@ -1,29 +1,29 @@
 ---
-hero_image: images / hero-rock-band-large.png
+hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
-title: የሮክ ባንድ
-description: የራስዎን የሙዚቃ መሳሪያዎች እንዴት ፕሮግራም ማድረግ እንደሚችሉ ይማሩ
+title: Rock band
+description: Learn how to code your own musical instruments
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
-    title: መግቢያ
+    title: Introduction
   - 
-    title: ስፕራይቶች
+    title: Sprites
   - 
-    title: መድረክ
+    title: The Stage
   - 
-    title: ከበሮ መስራት
+    title: Making a drum
   - 
-    title: "ፈተና: ከበሮውን ማሻሻል"
+    title: "Challenge: improve your drum"
     challenge: true
   - 
-    title: ዘፋኝ መስራት
+    title: Making a singer
   - 
-    title: አልባሳት
+    title: Costumes
   - 
-    title: "ፈተና፤ ባንዱን ማሻሻል"
+    title: "Challenge: improve your band"
     challenge: true
   - 
-    title: "ቀጥሎ ምን ይሆናል?"
+    title: "What next?"
