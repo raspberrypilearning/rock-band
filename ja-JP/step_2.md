@@ -6,15 +6,15 @@
 
 Open a new Scratch project.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**オンライン: **新しいオンラインScratchプロジェクトを[rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}で開きます。
 
 **Offline:** open a new project in the offline editor.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Scratchオフラインエディタをダウンロードしてインストールする必要がある場合は、[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}で見つけることができます。:
 
-It looks like this:
+このような感じになります。
 
-![screenshot](images/band-scratch.png)
+![スクリーンショット](images/band-scratch.png)
 
 \--- /task \---
 
@@ -22,7 +22,7 @@ It looks like this:
 
 The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
-![スクリーンショット](images/band-delete-annotated.png)
+![screenshot](images/band-delete-annotated.png)
 
 \--- /task \---
 
@@ -30,7 +30,7 @@ The cat sprite that you can see is the Scratch mascot. You don't need it for thi
 
 Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
 
-![screenshot](images/band-sprite-library.png)
+![スクリーンショット](images/band-sprite-library.png)
 
 \--- /task \---
 
@@ -38,26 +38,26 @@ Next, click on **Choose sprite from library** to open up a list of all the Scrat
 
 Scroll down until you see a drum sprite. Click on a drum to add it to your project.
 
-![screenshot](images/band-sprite-drum.png)
+![スクリーンショット](images/band-sprite-drum.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+ドラムをクリックしてステージの下までドラッグします。
 
 \--- /task \---
 
 \--- task \---
 
-Give your program a name by typing into the text box at the top.
+上にあるテキストボックスに名前を入力して、プログラムに名前をつけます。
 
-![name](images/band-name-annotated.png)
+![名前](images/band-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+**ファイル** をクリックし、**今すぐ保存**をクリックするとプロジェクトを保存することができます。
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+オンラインでない場合、またはスクラッチアカウントを持っていない場合は、代わりに**コンピュータに保存**をクリックしてプロジェクトのコピーを保存できます。
 
-![screenshot](images/band-save.png)
+![スクリーンショット](images/band-save.png)
 
 \--- /task \---
