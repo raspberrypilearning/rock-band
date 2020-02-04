@@ -1,20 +1,20 @@
 ## Fantasias
 
-Use o que você aprendeu neste projeto para criar a sua própria banda! Você pode criar qualquer instrumento que quiser — veja os sons e instrumentos disponíveis para ter algumas ideias.
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
 ![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
-quando este ator for clicado
-mudar instrumento para (\(1\) Piano v)
-toque a nota (60) por (0.25) batidas
+when this sprite clicked
+set instrument to (\(1\) Piano v)
+play note (60) for (0.25) beats
 ```
 
-Seus instrumentos não precisam ser de verdade. Por exemplo, você pode criar um piano feito de bolinhos!
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
 ![screenshot](images/band-piano.png)
 
-Você pode usar mais atores da biblioteca, e você também pode pintar seus próprios atores!
+You can use more sprites from the library, and you can also paint your own sprites!
 
 ![captura de tela](images/band-draw.png)
 
@@ -24,10 +24,10 @@ Você pode usar mais atores da biblioteca, e você também pode pintar seus pró
 
 Ao criar o seu próprio ator, você pode descobrir que quando você clica nele, ele 'pula' quando muda de fantasia. Isso ocorre porque as duas fantasias não estão centralizadas no mesmo lugar.
 
-Para consertar isso, verifique se os centros das fantasias de seus atores são os mesmos.
+To fix this, make sure that the centres of your sprite's costumes are the same.
 
 \--- /collapse \---
 
-Se você tem um microfone, você pode gravar seus próprios sons e até mesmo usar uma webcam para tocar os seus instrumentos!
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
 ![captura de tela](images/band-io.png)
