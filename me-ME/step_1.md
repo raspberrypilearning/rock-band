@@ -4,11 +4,11 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## Uvod
+## Introduction
 
-Nauči kako da programiraš sopstvene muzičke instrumente!
+Learn how to code your own musical instruments!
 
-### Šta ćeš napraviti
+### What you will make
 
 \--- no-print \---
 
@@ -30,7 +30,7 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## \--- collapse \---
 
-## title: Šta ćeš naučiti
+## title: What you will learn
 
 + Use code to change a sprite's costume in Scratch
 + Use code to make sprites react to input in Scratch
@@ -40,15 +40,15 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## \--- collapse \---
 
-## title: Šta će ti biti potrebno
+## title: What you will need
 
-#### Hardver
+#### Hardware
 
-+ Računar koji može da pokrene Scratch 3
++ A computer capable of running Scratch 3
 
-#### Softver
+#### Software
 
-+ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} ili [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
