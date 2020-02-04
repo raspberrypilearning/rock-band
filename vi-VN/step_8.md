@@ -1,33 +1,33 @@
-## Thử thách: cải thiện ban nhạc của bạn
+## Challenge: improve your band
 
-Sử dụng những gì bạn đã học được trong dự án này để tạo ra ban nhạc của riêng bạn! Bạn có thể tạo bất kỳ nhạc cụ nào bạn thích - nhìn vào các họa tiết và âm thanh nhạc cụ có sẵn để có một số ý tưởng.
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-![ảnh chụp màn hình](images/band-ideas-sounds.png)
+![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
-khi sprite này nhấp vào
-bộ nhạc cụ thành (\ (1 \) Piano v)
-nốt nhạc (60) cho (0,25) nhịp
+when this sprite clicked
+set instrument to (\(1\) Piano v)
+play note (60) for (0.25) beats
 ```
 
-Nhạc cụ của bạn không phải là thực tế mặc dù. Ví dụ, bạn có thể làm một cây đàn piano làm từ bánh nướng xốp!
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-![ảnh chụp màn hình](images/band-piano.png)
+![screenshot](images/band-piano.png)
 
-Bạn có thể sử dụng nhiều họa tiết hơn từ thư viện, và bạn cũng có thể vẽ các họa tiết của riêng bạn!
+You can use more sprites from the library, and you can also paint your own sprites!
 
-![ảnh chụp màn hình](images/band-draw.png)
+![screenshot](images/band-draw.png)
 
-## \--- sự sụp đổ \---
+## \--- collapse \---
 
-## tiêu đề: Tại sao sprite của tôi 'nhảy' khi nó thay đổi trang phục?
+## title: Why is my sprite 'jumping' when it changes costume?
 
-Khi tạo sprite của riêng bạn, bạn có thể thấy rằng khi bạn nhấp vào sprite, nó 'nhảy' khi nó thay đổi trang phục. Điều này là do hai trang phục không tập trung ở cùng một nơi.
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
 
-Để khắc phục điều này, hãy đảm bảo rằng các trung tâm trang phục của sprite của bạn giống nhau.
+To fix this, make sure that the centres of your sprite's costumes are the same.
 
-\--- /sự sụp đổ \---
+\--- /collapse \---
 
-Nếu bạn có micrô, bạn có thể ghi lại âm thanh của chính mình và thậm chí bạn có thể sử dụng webcam để đánh các nhạc cụ của mình!
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
-![ảnh chụp màn hình](images/band-io.png)
+![screenshot](images/band-io.png)
