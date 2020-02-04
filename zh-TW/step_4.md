@@ -20,7 +20,7 @@
 
 \--- task \---
 
-Click on the drum sprite, and then drag these two blocks into the code area on the right:
+點擊鼓這個角色，然後將這兩個積木拖曳到右邊的程式工作區。
 
 ```blocks3
 當角色被點擊
@@ -29,16 +29,16 @@ Click on the drum sprite, and then drag these two blocks into the code area on t
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![截圖](images/connect-block.gif)
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+檢查你的積木有沒有拼在一起（就像樂高積木那樣）。
 
 \--- /task \---
 
 \--- task \---
 
-Click on the drum to try out your new instrument!
+在舞台上點一下鼓，試試你做的新樂器！
 
 \--- /task \---
