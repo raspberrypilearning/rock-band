@@ -4,24 +4,24 @@
 
 \--- task \---
 
-At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+一開始舞台會是白色的，看起來有些單調，**選個背景**吧！
 
-![screenshot](images/band-stage-choose.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
-
-![screenshot](images/band-backdrop.png)
+![截圖](images/band-stage-choose.png)
 
 \--- /task \---
 
 \--- task \---
 
-Your stage should now look similar to this:
+點擊範例庫最上方的**室內**，接著點擊 Theater（劇院）。
 
-![screenshot](images/band-stage.png)
+![截圖](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+現在你的舞台看起來會像這樣：
+
+![截圖](images/band-stage.png)
 
 \--- /task \---
