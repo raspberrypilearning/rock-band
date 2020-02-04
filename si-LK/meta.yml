@@ -1,29 +1,29 @@
 ---
-hero_image: images / hero-rock-band-large.png
+hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
-title: Rock band (රොක් බෑන්ඩ්)
-description: ඔබේම සංගීත භාණ්ඩ කේත(code) කරන්නේ කෙසේදැයි ඉගෙන ගන්න
+title: Rock band
+description: Learn how to code your own musical instruments
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
-    title: හැදින්වීම
+    title: Introduction
   - 
     title: Sprites
   - 
-    title: වේදිකාව
+    title: The Stage
   - 
-    title: බෙරයක් සෑදීම
+    title: Making a drum
   - 
-    title: "අභියෝගය: ඔබේ බෙරය වැඩි දියුණු කිරීම"
+    title: "Challenge: improve your drum"
     challenge: true
   - 
-    title: ගායකයෙකු සෑදීම
+    title: Making a singer
   - 
-    title: ඇදුම්
+    title: Costumes
   - 
-    title: "අභියෝගය: ඔබේ කන්ඩායම වැඩි දියුණු කිරීම"
+    title: "Challenge: improve your band"
     challenge: true
   - 
-    title: "ඊලඟට කුමක්ද?"
+    title: "What next?"
