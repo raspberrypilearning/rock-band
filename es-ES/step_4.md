@@ -1,20 +1,20 @@
 ## Crear un tambor
 
-Ahora agregará código a su batería para que suene cuando se hace clic.
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
 Puedes encontrar los bloques de código en la pestaña Programas, ¡y todos están codificados por colores!
 
 \--- task \---
 
-Primero agregue la extensión **Music** para que pueda tocar instrumentos.
+First add the **Music** extension so you can play instruments.
 
-Haz click en el botón ** Añadir Extensión ** en la esquina inferior izquierda.
+Click on the **Add extension** button in the bottom left-hand corner.
 
-![botón añadir extensión marcado](images/add-extension-annotated.png)
+![add extension button highlighted](images/add-extension-annotated.png)
 
-Haz click en la extensión **Música** para añadirla.
+Click on the **Music** extension to add it.
 
-![extensión de música resaltada](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -23,8 +23,8 @@ Haz click en la extensión **Música** para añadirla.
 Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
-cuando este sprite hizo clic en
-play drum (\ (1 \) Snare Drum v) durante (0.25) beats
+when this sprite clicked
+play drum (\(1\) Snare Drum v) for (0.25) beats
 ```
 
 \--- no-print \---
