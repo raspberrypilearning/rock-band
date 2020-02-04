@@ -1,20 +1,20 @@
-## Haciendo un cantante
+## Making a singer
 
-Ahora agregarás un cantante a tu banda!
+Now you will add a singer to your band!
 
-\--- función \---
+\--- task \---
 
-Añade un objeto de cantante a tu escenario.
+Add a singer sprite to your Stage.
 
-![captura de pantalla](images/band-singer-mic.png)
+![screenshot](images/band-singer-mic.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
-\--- / tarea \---
+\--- /task \---
 
-\--- tarea \---
+\--- task \---
 
-Antes de que puedas hacer cantar a tu cantante, necesitas añadir un sonido a tu objeto. Asegúrate de que has seleccionado a tu cantante, luego haz clic en la pestaña Sonidos, y haz clic en **Choose a sound** Selecciona un sonido de la biblioteca:
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
 
 ![screenshot](images/band-import-sound-annotated.png)
 
@@ -33,8 +33,8 @@ Click on **Voice** in the list at the top, and then choose a sound to add to you
 To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
-al hacer clic en este objeto
-    tocar sonido [cantante1 v] y esperar
+when this sprite clicked
+play sound (singer1 v) until done
 ```
 
 \--- /task \---
