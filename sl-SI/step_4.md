@@ -1,20 +1,20 @@
-## Izdelava bobna
+## Making a drum
 
-Sedaj boš svojemu bobnu dodal kodo, tako da bo boben ustvaril zvok, ko klikneš nanj.
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-V zavihku Koda lahko najdeš programske bloke, ki so vsi barvno označeni!
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
 \--- task \---
 
-Najprej dodaj razširitev **Glasba**, da lahko predvajaš instrumente.
+First add the **Music** extension so you can play instruments.
 
-Klikni na gumb **Dodaj razširitev** v spodnjem levem kotu.
+Click on the **Add extension** button in the bottom left-hand corner.
 
-![označen je gumb za razširitev](images/add-extension-annotated.png)
+![add extension button highlighted](images/add-extension-annotated.png)
 
-Klikni na razširitev **Glasba**, da jo dodaš.
+Click on the **Music** extension to add it.
 
-![označena je zvočna razširitev](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -23,8 +23,8 @@ Klikni na razširitev **Glasba**, da jo dodaš.
 Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
-ko kliknemo to figuro
-zaigraj na boben (\(1\) Mali boben v) za (0,25) udarcev
+when this sprite clicked
+play drum (\(1\) Snare Drum v) for (0.25) beats
 ```
 
 \--- no-print \---
