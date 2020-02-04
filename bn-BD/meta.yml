@@ -1,0 +1,20 @@
+---
+hero_image: images/hero-rock-band-large.png
+listed: true
+copyedit: false
+title: রক ব্যান্ড
+description: কীভাবে আপনার বাদ্যযন্ত্রগুলির কোড করবেন তা শিখুন
+version: 4.1.1
+last_tested: 2018-10-12
+steps:
+  - title: ভূমিকা
+  - title: স্প্রাইট
+  - title: মঞ্চ
+  - title: ড্রাম বানানো
+  - title: "চ্যালেঞ্জ: আপনার ড্রাম উন্নত করুন"
+    challenge: true
+  - title: গায়ক বানানো
+  - title: পরিধানসমূহ
+  - title: "চ্যালেঞ্জ: আপনার ড্রাম উন্নত করুন"
+    challenge: true
+  - title: "এরপর কি?"
