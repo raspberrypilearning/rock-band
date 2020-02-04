@@ -1,30 +1,30 @@
-## Làm trống
+## Making a drum
 
-Bây giờ bạn sẽ thêm mã vào trống của mình để trống phát ra âm thanh khi nhấp vào.
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-Bạn có thể tìm thấy các khối mã trong tab ScScript và tất cả chúng đều được mã hóa màu!
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
-\--- bài tập \---
+\--- task \---
 
-Đầu tiên thêm tiện ích mở rộng **Music** để bạn có thể chơi nhạc cụ.
+First add the **Music** extension so you can play instruments.
 
-Nhấp vào nút **Thêm tiện ích mở rộng** ở góc dưới bên trái.
+Click on the **Add extension** button in the bottom left-hand corner.
 
-![thêm nút mở rộng](images/add-extension-annotated.png)
+![add extension button highlighted](images/add-extension-annotated.png)
 
-Nhấp vào tiện ích mở rộng **Music** để thêm nó.
+Click on the **Music** extension to add it.
 
 ![music extension highlighted](images/click-music-annotated.png)
 
-\--- /bài tập \---
+\--- /task \---
 
 \--- task \---
 
 Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
-khi sprite này nhấp
-phát trống (\ (1 \) Snare Drum v) cho (0,25) nhịp
+when this sprite clicked
+play drum (\(1\) Snare Drum v) for (0.25) beats
 ```
 
 \--- no-print \---
