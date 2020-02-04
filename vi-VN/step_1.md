@@ -1,14 +1,14 @@
-\--- không in \---
+\--- no-print \---
 
-Đây là phiên bản **Scratch 3** của dự án. Ngoài ra còn có một [phiên bản Scratch 2 của dự án](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
-\--- / không in \---
+\--- /no-print \---
 
-## Giới thiệu
+## Introduction
 
-Tìm hiểu làm thế nào để mã hóa nhạc cụ của riêng bạn!
+Learn how to code your own musical instruments!
 
-### Những gì bạn sẽ làm
+### What you will make
 
 \--- no-print \---
 
@@ -28,9 +28,9 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 \--- /print-only \---
 
-## \--- sự sụp đổ \---
+## \--- collapse \---
 
-## tiêu đề: bạn sẽ học được gì
+## title: What you will learn
 
 + Use code to change a sprite's costume in Scratch
 + Use code to make sprites react to input in Scratch
@@ -38,23 +38,23 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 \--- /collapse \---
 
-## \--- sự sụp đổ \---
+## \--- collapse \---
 
-## tiêu đề: Những gì bạn sẽ cần
+## title: What you will need
 
-#### Phần cứng
+#### Hardware
 
-+ Một máy tính có khả năng chạy Scratch 3
++ A computer capable of running Scratch 3
 
-#### Phần mềm
+#### Software
 
-+ Cào 3 ( [trực tuyến](http://rpf.io/scratchon){: target = "_ blank"} hoặc [ngoại tuyến](http://rpf.io/scratchoff){: target = "_ blank"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
-## \--- sự sụp đổ \---
+## \--- collapse \---
 
-## tiêu đề: Thông tin bổ sung cho các nhà giáo dục
+## title: Additional information for educators
 
 \--- no-print \---
 
