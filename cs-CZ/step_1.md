@@ -1,12 +1,12 @@
 \--- no-print \---
 
-Toto je **Scratch 3** verze projektu. K dispozici je také verze pro [Scratch 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
 ## Úvod
 
-Nauč se jak kódovat vlastní hudební nástroje!
+Learn how to code your own musical instruments!
 
 ### Co budeš dělat
 
@@ -30,7 +30,7 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## \--- collapse \---
 
-## title: Co se naučíš
+## title: What you will learn
 
 + Use code to change a sprite's costume in Scratch
 + Use code to make sprites react to input in Scratch
@@ -40,15 +40,15 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## \--- collapse \---
 
-## title: Co budeš potřebovat
+## title: What you will need
 
 #### Hardware
 
-+ Počítač schopný spustit aplikaci Scratch 3
++ A computer capable of running Scratch 3
 
 #### Software
 
-+ Scratch 3 (buď [online](http://rpf.io/scratchon){:target="_blank"} nebo [offline](http://rpf.io/scratchoff){:target="_blank"} verzi"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
