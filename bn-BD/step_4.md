@@ -23,7 +23,7 @@
 ড্রাম স্প্রাইটে ক্লিক করুন এবং তারপরে এই দুটি ব্লকটি ডানদিকে কোড অঞ্চলে টানুন:
 
 ```blocks3
-এই স্প্রাইট ক্লিক করলে
+when this sprite clicked
 play drum (\(1\) Snare Drum v) for (0.25) beats
 ```
 
