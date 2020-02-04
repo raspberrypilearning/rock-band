@@ -1,6 +1,6 @@
 \--- no-print \---
 
-Esta é a versão **Scratch 3** do projeto. Há também uma versão [Scratch 2 do projeto](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
@@ -32,8 +32,8 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## title: O que você vai aprender
 
-+ Usar código para mudar a fantasia de um ator no Scratch
-+ Usar código para fazer atores reagirem a entradas no Scratch
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
 + Add sounds to a sprite in Scratch
 
 \--- /collapse \---
