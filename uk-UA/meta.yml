@@ -2,28 +2,28 @@
 hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
-title: Рок-гурт
-description: У цьому проекті ви дізнаєтеся, як запрограмувати власні музичні інструменти!
-version: 4
+title: Rock band
+description: Learn how to code your own musical instruments
+version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
-    title: З днем народження
+    title: Introduction
   - 
-    title: Спрайти
+    title: Sprites
   - 
-    title: Сцена
+    title: The Stage
   - 
-    title: Робимо барабан
+    title: Making a drum
   - 
-    title: "Завдання: вдоскональте свій барабан"
+    title: "Challenge: improve your drum"
     challenge: true
   - 
-    title: Робимо співачку
+    title: Making a singer
   - 
-    title: Костюми
+    title: Costumes
   - 
-    title: "Завдання: покращити групу"
+    title: "Challenge: improve your band"
     challenge: true
   - 
-    title: "Що далі?"
+    title: "What next?"
