@@ -28,11 +28,11 @@ Click on the drum sprite, and then drag these two blocks into the code area on t
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![スクリーンショット](images/connect-block.gif)
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+ブロックが (LEGOブロックのように) 一緒につながっていることを確認してください。
 
 \--- /task \---
 
