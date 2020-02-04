@@ -1,6 +1,6 @@
-## स्टेज
+## The Stage
 
-** Stage ** हे क्षेत्र उजवीकडे आहे आणि जिथे आपले प्रोजेक्ट आयुष्याकडे येते. वास्तविक टप्प्याप्रमाणे कार्यप्रदर्शन क्षेत्र म्हणून याचा विचार करा!
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
 \--- task \---
 
