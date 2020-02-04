@@ -1,6 +1,6 @@
-## Oder
+## The Stage
 
-**Oder** je področje na desni strani, kjer tvoj projekt oživi. O njemu razmišljaj, kot o površini za nastopanje, kakor pri pravem odru!
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
 \--- task \---
 
