@@ -1,15 +1,15 @@
-## ተፈታታኝ-ጥንካሬህን ማሻሻል
+## Challenge: improving your drum
 
-ድራቡ ጠቅ ሲያደርግ ድምፁን መለወጥ ይችላሉ?
+Can you change the sound that the drum makes when it's clicked?
 
-![ቅጽበታዊ ገጽ እይታ](images/band-drum-sound.png)
+![screenshot](images/band-drum-sound.png)
 
-የክፍል አሞላ በሚጫንበት ጊዜ ድምጽ ለማሰማት ድራማ ማግኘት ይችላሉ? ይህንን `ክስተት`{: class = "block3events"} ማገድ ያስፈልግዎታል:
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
 ```blocks3
-[የ space v] ቁልፍ ሲጫን
+when [space v] key pressed
 ```
 
-ነባር ኮድዎን ለመገልበጥ ከፈለጉ, በቀኝ-ጠቅ ያድርጉ እና ከዚያ **አባዛ**ጠቅ ያድርጉ.
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
 
-![ቅጽበታዊ ገጽ እይታ](images/band-duplicate-code.png)
+![screenshot](images/band-duplicate-code.png)
