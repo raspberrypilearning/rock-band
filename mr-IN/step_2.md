@@ -1,6 +1,6 @@
-## स्प्राइट्स
+## Sprites
 
-आपण कोडिंग प्रारंभ करण्यापूर्वी आपल्याला कोडवर 'गोष्टी' मध्ये जोडण्याची आवश्यकता असेल. स्क्रॅचमध्ये, या गोष्टींना ** स्पिट्स् म्हणतात **.
+Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
 
 \--- task \---
 
@@ -22,7 +22,7 @@ It looks like this:
 
 The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
-![स्क्रीनशॉट](images/band-delete-annotated.png)
+![screenshot](images/band-delete-annotated.png)
 
 \--- /task \---
 
