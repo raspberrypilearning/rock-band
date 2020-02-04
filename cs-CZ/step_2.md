@@ -1,6 +1,6 @@
-## Sprajty
+## Sprites
 
-Než začneš kódovat, musíš přidat do kódu různé viditelné 'prvky'. V aplikaci Scratch se tyto "prvky" nazývají ** sprajty **.
+Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
 
 \--- task \---
 
