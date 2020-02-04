@@ -1,6 +1,6 @@
-## Kostümler
+## Costumes
 
-Şimdi şarkıcınızın şarkı söylüyormuş gibi gözükmesini sağlayacaksınız!
+Now you will make your singer look like she's singing!
 
 \--- task \---
 
@@ -39,10 +39,10 @@ The names of the costumes aren't very helpful at the moment. Type into the text 
 Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
 
 ```blocks3
-bu kukla tıklandığında
-(söylüyor) kılığına geç
-(Şarkıcı1) sesini bitene kadar çal
-(söylemiyor) kılığına geç
+when this sprite clicked
++switch costume to (singing v)
+play sound (singer1 v) until done
++switch costume to (not singing v)
 ```
 
 The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
@@ -61,7 +61,7 @@ Now make your drum look like it's being hit!
 
 ![screenshot](images/band-drum-final.png)
 
-- Size yardımcı olması için şarkıcı kuklanızın kostümünü değiştirme talimatlarını kullanın.
+- Use the instructions for changing your singer sprite's costume to help you.
 
 Remember to test that your new code works!
 
