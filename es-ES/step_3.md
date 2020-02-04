@@ -1,6 +1,6 @@
 ## El Escenario
 
-La **Etapa** es el área a la derecha y es donde su proyecto cobra vida. ¡Piense en ello como un área de actuación, como un escenario real!
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
 \--- task \---
 
