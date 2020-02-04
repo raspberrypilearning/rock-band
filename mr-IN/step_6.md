@@ -1,12 +1,12 @@
-## गायक बनवणे
+## Making a singer
 
-आता आपण आपल्या बँडमध्ये गायक जोडेल!
+Now you will add a singer to your band!
 
 \--- task \---
 
-आपल्या स्टेजवर गायक स्प्राइट जोडा.
+Add a singer sprite to your Stage.
 
-![स्क्रीनशॉट](images/band-singer-mic.png)
+![screenshot](images/band-singer-mic.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -14,7 +14,7 @@
 
 \--- task \---
 
-गायक गायन करण्यापूर्वी आपण आपल्या गायक स्प्राइटमध्ये आवाज जोडण्याची गरज आहे. आपण आपल्या गायक स्प्राइटची निवड केली असल्याचे सुनिश्चित करा, नंतर ध्वनी टॅबवर क्लिक करा आणि **Choose a sound** क्लिक करा:
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
 
 ![screenshot](images/band-import-sound-annotated.png)
 
@@ -33,8 +33,8 @@ Click on **Voice** in the list at the top, and then choose a sound to add to you
 To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
-जेव्हा हे स्पिट पूर्ण होईपर्यंत
-प्ले साउंड (गायक 1 व्ह) क्लिक करते
+when this sprite clicked
+play sound (singer1 v) until done
 ```
 
 \--- /task \---
