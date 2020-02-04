@@ -1,29 +1,29 @@
 ---
-hero_image: images / hero-rock-band-large.png
+hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
-title: Ban nhạc rock
-description: Tìm hiểu cách mã hóa nhạc cụ của riêng bạn
+title: Rock band
+description: Learn how to code your own musical instruments
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
-    title: Giới thiệu
+    title: Introduction
   - 
     title: Sprites
   - 
-    title: Sân khấu
+    title: The Stage
   - 
-    title: Làm trống
+    title: Making a drum
   - 
-    title: "Thử thách: cải thiện trống của bạn"
+    title: "Challenge: improve your drum"
     challenge: true
   - 
-    title: Làm ca sĩ
+    title: Making a singer
   - 
-    title: Trang phục
+    title: Costumes
   - 
-    title: "Thử thách: cải thiện ban nhạc của bạn"
+    title: "Challenge: improve your band"
     challenge: true
   - 
-    title: "Tiếp theo là gì?"
+    title: "What next?"
