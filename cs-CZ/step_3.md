@@ -1,4 +1,4 @@
-## Jeviště
+## The Stage
 
 The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
