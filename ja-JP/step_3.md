@@ -6,7 +6,7 @@
 
 At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-![screenshot](images/band-stage-choose.png)
+![スクリーンショット](images/band-stage-choose.png)
 
 \--- /task \---
 
@@ -14,7 +14,7 @@ At the moment, the stage is white and looks pretty boring! Add a backdrop to it 
 
 Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
-![screenshot](images/band-backdrop.png)
+![スクリーンショット](images/band-backdrop.png)
 
 \--- /task \---
 
@@ -22,6 +22,6 @@ Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
 Your stage should now look similar to this:
 
-![screenshot](images/band-stage.png)
+![スクリーンショット](images/band-stage.png)
 
 \--- /task \---
