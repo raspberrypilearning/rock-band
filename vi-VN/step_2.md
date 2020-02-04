@@ -1,6 +1,6 @@
 ## Sprites
 
-Trước khi bạn có thể bắt đầu viết mã, bạn sẽ cần thêm một 'điều' vào mã. Trong Scratch, những 'thứ' này được gọi là **sprite**.
+Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
 
 \--- task \---
 
@@ -22,11 +22,11 @@ It looks like this:
 
 The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
-![ảnh chụp màn hình](images/band-delete-annotated.png)
+![screenshot](images/band-delete-annotated.png)
 
-\--- /bài tập \---
+\--- /task \---
 
-\--- bài tập \---
+\--- task \---
 
 Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
 
@@ -40,7 +40,7 @@ Scroll down until you see a drum sprite. Click on a drum to add it to your proje
 
 ![screenshot](images/band-sprite-drum.png)
 
-\--- /bài tập \---
+\--- /task \---
 
 \--- task \---
 
