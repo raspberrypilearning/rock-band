@@ -8,7 +8,7 @@
 
 ![স্ক্রিনশট](images/band-stage-choose.png)
 
---- টাস্ক ---
+--- /task ---
 
 --- task ---
 

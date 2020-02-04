@@ -24,7 +24,7 @@
 
 ![স্ক্রিনশট](images/band-delete-annotated.png)
 
---- task ---
+--- /task ---
 
 --- task ---
 
@@ -40,7 +40,7 @@
 
 ![স্ক্রিনশট](images/band-sprite-drum.png)
 
---- task ---
+--- /task ---
 
 --- task ---
 
