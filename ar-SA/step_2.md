@@ -4,9 +4,9 @@
 
 \--- task \---
 
-Open a new Scratch project.
+افتح مشروع سكراتش (Scratch) جديدًا وفارغًا.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**اتصال بالانترنيت:** افتح مشروع سكراتش Scratch جديد عبر الانترنيت من [rpf.io/scratch-new](http://rpf.io/scratch-new) {:target="_blank"}.
 
 **Offline:** open a new project in the offline editor.
 
