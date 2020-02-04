@@ -1,15 +1,15 @@
-## Meydan Okuma: Davulunuzu geliştirin
+## Challenge: improving your drum
 
-Davulun tıklandığında çıkardığı sesi değiştirebilir misiniz?
+Can you change the sound that the drum makes when it's clicked?
 
-![ekran görüntüsü](images/band-drum-sound.png)
+![screenshot](images/band-drum-sound.png)
 
-Ayrıca klavyeden boşluk tuşuna basılınca, davulunuzdan ses çıkarmayı sağlayabilir misiniz? Bunun için `olaylar`{:class="block3events"} bloğunu kullanmanız gerekir:
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
 ```blocks3
-[boşluk] tuşuna basılınca
+when [space v] key pressed
 ```
 
-Mevcut kodunuzu sağ tıklayıp **çoğalt** seçeneğini tıklayarak kopyalayabilirsiniz.
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
 
-![ekran görüntüsü](images/band-duplicate-code.png)
+![screenshot](images/band-duplicate-code.png)
