@@ -1,6 +1,6 @@
-## መድረክ
+## The Stage
 
-**መድረክ** በስተቀኝ የሚገኘው ቦታ ሲሆን የፕሮጀክቱን ተግባር የምናይበት ነው። ልክ እንደ ተእይንት ማሳያ መድረ አድርገህ/ሽ ውሰደ/ጂው!
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
 \--- task \---
 
@@ -8,7 +8,7 @@ At the moment, the stage is white and looks pretty boring! Add a backdrop to it 
 
 ![screenshot](images/band-stage-choose.png)
 
-\--- / task \---
+\--- /task \---
 
 \--- task \---
 
