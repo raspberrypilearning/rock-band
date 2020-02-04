@@ -2,28 +2,28 @@
 hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
-title: להקת רוק
-description: בפרויקט זה תלמדו איך ליצור את כלי נגינה שלכם
+title: Rock band
+description: Learn how to code your own musical instruments
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
-    title: הקדמה
+    title: Introduction
   - 
-    title: דמויות
+    title: Sprites
   - 
-    title: הבמה
+    title: The Stage
   - 
-    title: יצירת תוף
+    title: Making a drum
   - 
-    title: "האתגר: שפר את התוף שלך"
+    title: "Challenge: improve your drum"
     challenge: true
   - 
-    title: יצירת זמרת
+    title: Making a singer
   - 
-    title: תילבושות
+    title: Costumes
   - 
-    title: "האתגר: שפר את הלהקה שלך"
+    title: "Challenge: improve your band"
     challenge: true
   - 
-    title: "מה הלאה?"
+    title: "What next?"
