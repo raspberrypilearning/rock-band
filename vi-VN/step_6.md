@@ -1,20 +1,20 @@
-## Làm ca sĩ
+## Making a singer
 
-Bây giờ bạn sẽ thêm một ca sĩ vào ban nhạc của bạn!
+Now you will add a singer to your band!
 
-\--- bài tập \---
+\--- task \---
 
-Thêm một ca sĩ sprite vào Sân khấu của bạn.
+Add a singer sprite to your Stage.
 
-![ảnh chụp màn hình](images/band-singer-mic.png)
+![screenshot](images/band-singer-mic.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
-\--- /bài tập \---
+\--- /task \---
 
-\--- bài tập \---
+\--- task \---
 
-Trước khi bạn có thể làm cho ca sĩ của mình hát, bạn cần thêm một âm thanh cho ca sĩ của bạn. Đảm bảo rằng bạn đã chọn sprite ca sĩ của mình, sau đó nhấp vào tab Âm thanh và nhấp vào **Chọn âm thanh**:
+Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
 
 ![screenshot](images/band-import-sound-annotated.png)
 
@@ -33,8 +33,8 @@ Click on **Voice** in the list at the top, and then choose a sound to add to you
 To use the sound, add the following code blocks to your singer sprite:
 
 ```blocks3
-khi sprite này nhấp
-phát âm thanh (singer1 v) cho đến khi hoàn thành
+when this sprite clicked
+play sound (singer1 v) until done
 ```
 
 \--- /task \---
