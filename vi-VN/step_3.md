@@ -1,6 +1,6 @@
-## Sân khấu
+## The Stage
 
-**Giai đoạn** là khu vực bên phải và là nơi dự án của bạn đi vào cuộc sống. Hãy nghĩ về nó như một khu vực biểu diễn, giống như một sân khấu thực sự!
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
 \--- task \---
 
@@ -8,7 +8,7 @@ At the moment, the stage is white and looks pretty boring! Add a backdrop to it 
 
 ![screenshot](images/band-stage-choose.png)
 
-\--- /bài tập \---
+\--- /task \---
 
 \--- task \---
 
