@@ -2,28 +2,28 @@
 hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
-title: Rockband
-description: Lär dig hur du kodar dina egna musikinstrument
+title: Rock band
+description: Learn how to code your own musical instruments
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
-    title: Introduktion
+    title: Introduction
   - 
     title: Sprites
   - 
-    title: Scenen
+    title: The Stage
   - 
-    title: Att göra en trumma
+    title: Making a drum
   - 
-    title: "Utmaning: förbättra din trumma"
+    title: "Challenge: improve your drum"
     challenge: true
   - 
-    title: Skapa en sångare
+    title: Making a singer
   - 
-    title: Klädsel
+    title: Costumes
   - 
-    title: "Utmaning: förbättra ditt band"
+    title: "Challenge: improve your band"
     challenge: true
   - 
-    title: "Vad händer nu?"
+    title: "What next?"
