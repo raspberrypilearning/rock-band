@@ -1,33 +1,33 @@
-## Задача: улучшить твою группу
+## Challenge: improve your band
 
-Используйте то, что ты узнал в этом проекте, чтобы создать свою собственную группу! Ты можешь создавать любые инструменты, которые тебе нравятся — посмотри на доступные спрайты инструментов и звуки, чтобы получить несколько идеи.
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-![снимок экрана](images/band-ideas-sounds.png)
+![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
-когда спрайт нажат
-изменить инструмент на ((1) Фортепиано v)
-играйте ноту (60) в течение (0.25) бита
+when this sprite clicked
+set instrument to (\(1\) Piano v)
+play note (60) for (0.25) beats
 ```
 
-Твои инструменты не должны быть реалистичными, кстати. Например, ты можешь сделать пианино из кексов!
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-![снимок экрана](images/band-piano.png)
+![screenshot](images/band-piano.png)
 
-Ты можешь использовать больше спрайтов из библиотеки, а также можешь рисовать свои собственные спрайты!
+You can use more sprites from the library, and you can also paint your own sprites!
 
-![снимок экрана](images/band-draw.png)
+![screenshot](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Почему мой спрайт «прыгает», когда он меняет костюм?
+## title: Why is my sprite 'jumping' when it changes costume?
 
-При создании своего собственного спрайта ты можешь обнаружить, что, при нажатии на спрайт, он «прыгает» при изменении костюма. Это потому, что два костюма не находятся в одном и том же месте.
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
 
-Чтобы это исправить, убедись, что центры костюмов твоего спрайта совпадают.
+To fix this, make sure that the centres of your sprite's costumes are the same.
 
 \--- /collapse \---
 
-Если у тебя есть микрофон, ты можешь записывать свои собственные звуки, и ты даже можешь использовать веб-камеру, чтобы трогать твои инструменты!
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
-![снимок экрана](images/band-io.png)
+![screenshot](images/band-io.png)
