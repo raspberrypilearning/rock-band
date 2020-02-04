@@ -1,15 +1,15 @@
-## Изазов: Побољшај бубањ
+## Challenge: improving your drum
 
-Можеш ли да промениш звук који бубањ прави када се кликне на њега?
+Can you change the sound that the drum makes when it's clicked?
 
-![снимак екрана](images/band-drum-sound.png)
+![screenshot](images/band-drum-sound.png)
 
-Можеш ли да направиш да бубањ прави звук када се притисне тастер за размак? Мораћеш да употребиш овај блок који се налази у одељку `Догађаји`{:class="block3events"}:
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
 ```blocks3
-када је дирка [размак v] притиснута :: events
+when [space v] key pressed
 ```
 
-Ако хоћеш да копираш свој постојећи код, кликни десним тастером миша на нега, а затим кликнути на **умножи**.
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
 
-![снимак екрана](images/band-duplicate-code.png)
+![screenshot](images/band-duplicate-code.png)
