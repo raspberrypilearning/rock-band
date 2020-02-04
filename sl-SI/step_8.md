@@ -1,33 +1,33 @@
-## Izziv: izboljšaj svojo skupino
+## Challenge: improve your band
 
-Uporabi to, kar si se naučil v tem projektu, da ustvariš svojo lastno glasbeno skupino! Lahko ustvariš poljubne instrumente - oglej si instrumente in zvoke, ki so že na voljo, da dobiš ideje.
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-![posnetek zaslona](images/band-ideas-sounds.png)
+![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
-ko kliknemo na to figuro
-nastavi inštrument na (\ (1 \) Klavir v)
-predvajaj noto (60) za (0,25) udarcev
+when this sprite clicked
+set instrument to (\(1\) Piano v)
+play note (60) for (0.25) beats
 ```
 
-Tvoji instrumenti so lahko tudi izmišljeni. Lahko denimo ustvariš klavir iz kolačkov!
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-![posnetek zaslona](images/band-piano.png)
+![screenshot](images/band-piano.png)
 
-Lahko uporabiš več figur iz knjižnice, lahko pa tudi narišeš svoje!
+You can use more sprites from the library, and you can also paint your own sprites!
 
-![posnetek zaslona](images/band-draw.png)
+![screenshot](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Zakaj moja figura 'skače', ko spremeni videz?
+## title: Why is my sprite 'jumping' when it changes costume?
 
-Ko ustvariš svojo lastno figuro, boš morda opazil, da ob kliku na figuro ta 'skoči', ko spremeni videz. Razlog je v tem, da videza nista centrirana na istem položaju.
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
 
-Da bi to popravil, poskrbi, da bosta centra obeh videzov figure enaka.
+To fix this, make sure that the centres of your sprite's costumes are the same.
 
 \--- /collapse \---
 
-Če imaš mikrofon, lahko posnameš lastne zvoke, za proženje instrumentov pa lahko uporabiš celo spletno kamero!
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
-![posnetek zaslona](images/band-io.png)
+![screenshot](images/band-io.png)
