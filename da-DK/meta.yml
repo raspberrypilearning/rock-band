@@ -2,13 +2,13 @@
 hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
-title: Rockband
-description: I dette projekt skal du lære, hvordan du kan kode dit eget musikinstrument!
-version: 4
-last_tested: 2017-10-01
+title: Rock band
+description: Learn how to code your own musical instruments
+version: 4.1.1
+last_tested: 2018-10-12
 steps:
   - 
-    title: Rockband
+    title: Introduction
   - 
     title: Sprites
   - 
