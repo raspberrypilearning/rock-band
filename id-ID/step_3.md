@@ -4,24 +4,24 @@
 
 \--- task \---
 
-At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+Saat ini, panggungnya putih dan terlihat sangat membosankan! Tambahkan latar belakang padanya dengan mengklik **Pilih latar belakang**.
 
-![screenshot](images/band-stage-choose.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
-
-![screenshot](images/band-backdrop.png)
+![tangkapan layar](images/band-stage-choose.png)
 
 \--- /task \---
 
 \--- task \---
 
-Your stage should now look similar to this:
+Klik pada **Dalam Ruangan** dalam daftar di bagian atas. Kemudian klik pada latar belakang teater.
 
-![screenshot](images/band-stage.png)
+![tangkapan layar](images/band-backdrop.png)
+
+\--- /task \---
+
+\--- task \---
+
+Panggungnya sekarang harusnya terlihat seperti ini:
+
+![tangkapan layar](images/band-stage.png)
 
 \--- /task \---
