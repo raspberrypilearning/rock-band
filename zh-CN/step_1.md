@@ -1,6 +1,6 @@
 \--- no-print \---
 
-这个项目是基于**Scratch 3**版本的，另外还有一个基于[Scratch 2的版本](https://projects.raspberrypi.org/en/projects/rock-band-scratch2)。
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
@@ -30,17 +30,17 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## \--- collapse \---
 
-## title: 你将学到什么
+## title: What you will learn
 
-+ 使用代码在Scratch中更改角色的服装
-+ 使用代码使角色在Scratch中对输入作出反应
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
 + Add sounds to a sprite in Scratch
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: 你需要准备什么
+## title: What you will need
 
 #### 硬件
 
@@ -48,13 +48,13 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 #### 软件
 
-+ Scratch 3 ([在线版本](http://rpf.io/scratchon){:target="_blank"}或[离线版本](http://rpf.io/scratchoff){:target="_blank"}）
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: 教师附加信息
+## title: Additional information for educators
 
 \--- no-print \---
 
