@@ -4,24 +4,24 @@
 
 \--- task \---
 
-At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+এই মুহুর্তে, মঞ্চটি সাদা এবং দেখতে বেশ একঘেয়ে দেখাচ্ছে! **Choose a backdrop**ক্লিক করে একটি ব্যাকড্রপ এতে যুক্ত করুন।.
 
-![screenshot](images/band-stage-choose.png)
+![স্ক্রিনশট](images/band-stage-choose.png)
+
+\--- টাস্ক \---
 
 \--- task \---
 
-\--- task \---
+তালিকার শীর্ষ থেকে **Indoors** ক্লিক করুন তারপরে একটি থিয়েটারের পটভূমিতে ক্লিক করুন।.
 
-Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
-
-![screenshot](images/band-backdrop.png)
+![স্ক্রিনশট](images/band-backdrop.png)
 
 \--- /task \---
 
 \--- task \---
 
-Your stage should now look similar to this:
+আপনার স্টেজটি এখন এটির মতো দেখতে পাওয়া উচিত:
 
-![screenshot](images/band-stage.png)
+![স্ক্রিনশট](images/band-stage.png)
 
 \--- /task \---
