@@ -1,6 +1,6 @@
-## Спрайти
+## Sprites
 
-Перш ніж почати кодування, вам потрібно додати "щось", щоб кодувати. У Скретчі, це "щось" називають ** спрайтами **.
+Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
 
 \--- task \---
 
@@ -22,7 +22,7 @@ It looks like this:
 
 The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
-![скріншот](images/band-delete-annotated.png)
+![screenshot](images/band-delete-annotated.png)
 
 \--- /task \---
 
