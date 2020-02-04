@@ -1,6 +1,6 @@
-## Костюми
+## Costumes
 
-Тепер ви змусите співака виглядати так, як вона співає!
+Now you will make your singer look like she's singing!
 
 \--- task \---
 
@@ -39,10 +39,10 @@ The names of the costumes aren't very helpful at the moment. Type into the text 
 Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
 
 ```blocks3
-коли цей спрайт натиснув
-+ перейти костюм на (співати v)
-відтворення звуку (співачка1 v), поки не зроблено
-+ перейти костюм (не співати v)
+when this sprite clicked
++switch costume to (singing v)
+play sound (singer1 v) until done
++switch costume to (not singing v)
 ```
 
 The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
@@ -61,7 +61,7 @@ Now make your drum look like it's being hit!
 
 ![screenshot](images/band-drum-final.png)
 
-- Використовуйте інструкції для зміни костюма спрайт-співака, щоб допомогти вам.
+- Use the instructions for changing your singer sprite's costume to help you.
 
 Remember to test that your new code works!
 
