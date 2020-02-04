@@ -1,8 +1,8 @@
-## Vytvoření bubnu
+## Making a drum
 
 Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-Bloky pro tvorbu kódu najdeš na kartě Scénáře a všechny jsou podle funkce rozlišeny barevně!
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
 \--- task \---
 
