@@ -1,33 +1,33 @@
-## Meydan Okuma: müzik grubunuzu geliştirin
+## Challenge: improve your band
 
-Kendi müzik grubunuzu oluşturmak için bu projede öğrendiklerinizi kullanın! İstediğiniz enstrümanları oluşturabilirsiniz - fikir edinmek için mevcut enstrüman kuklalarına ve seslere bakın.
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-![ekran görüntüsü](images/band-ideas-sounds.png)
+![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
-bu kukla tıklandığında
-Enstrümanı (\(1\) Piyano) yap
-(60) notasını (0.25) vuruşunda çal
+when this sprite clicked
+set instrument to (\(1\) Piano v)
+play note (60) for (0.25) beats
 ```
 
-Enstrümanlarınızın o kadar da gerçekçi olmak zorunda değil. Örneğin, keklerden yapılmış bir piyano yapabilirsiniz!
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-![ekran görüntüsü](images/band-piano.png)
+![screenshot](images/band-piano.png)
 
-Kütüphaneden daha fazla kukla kullanabilir ve kendi kuklalarınızı da boyayabilirsiniz!
+You can use more sprites from the library, and you can also paint your own sprites!
 
-![ekran görüntüsü](images/band-draw.png)
+![screenshot](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Kuklam kostümünü değiştirdiğinde neden zıplıyor?
+## title: Why is my sprite 'jumping' when it changes costume?
 
-Kendi kuklanızı oluştururken, kukla tıklatılıp kostümünü değiştirirken 'zıpladığını' görebilirsiniz. Bunun nedeni iki kostümün aynı yerde merkezli olmamasıdır.
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
 
-Bunu düzeltmek için, kukla kostümlerinin merkezlerinin aynı olduğundan emin olun.
+To fix this, make sure that the centres of your sprite's costumes are the same.
 
 \--- /collapse \---
 
-Bir mikrofonunuz varsa, kendi seslerinizi kaydedebilir, hatta müzik enstrümanlarınızı kullanmak için bir web kamerası bile kullanabilirsiniz!
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
-![ekran alıntısı](images/band-io.png)
+![screenshot](images/band-io.png)
