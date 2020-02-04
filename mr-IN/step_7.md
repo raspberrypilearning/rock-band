@@ -1,6 +1,6 @@
-## पोशाख
+## Costumes
 
-आता तुम्ही गायक बनवल्यासारखे वाटेल!
+Now you will make your singer look like she's singing!
 
 \--- task \---
 
@@ -39,10 +39,10 @@ The names of the costumes aren't very helpful at the moment. Type into the text 
 Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
 
 ```blocks3
-जेव्हा या स्पिटने
-+ स्विच कॉस्च्यूम (गायन वी) वर
-प्ले साउंड (गायक 1 व्ही) पूर्ण होईपर्यंत
-+ स्विच कॉस्च्यूम क्लिक केले (व्ही गाणे नाही)
+when this sprite clicked
++switch costume to (singing v)
+play sound (singer1 v) until done
++switch costume to (not singing v)
 ```
 
 The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
@@ -61,7 +61,7 @@ Now make your drum look like it's being hit!
 
 ![screenshot](images/band-drum-final.png)
 
-- आपल्याला मदत करण्यासाठी आपल्या गायक स्प्राइटच्या पोशाख बदलण्यासाठी निर्देश वापरा.
+- Use the instructions for changing your singer sprite's costume to help you.
 
 Remember to test that your new code works!
 
