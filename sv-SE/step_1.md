@@ -1,14 +1,14 @@
 \--- no-print \---
 
-Det här är **Scratch 3** versionen av projektet. Det finns också [Scratch 2 versionen av projektet](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
-## Introduktion
+## Introduction
 
-Lär dig att koda musikinstrument!
+Learn how to code your own musical instruments!
 
-### Vad kommer du att att göra
+### What you will make
 
 \--- no-print \---
 
@@ -30,23 +30,23 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## \--- collapse \---
 
-## titel: Vad du kommer att lära dig
+## title: What you will learn
 
-+ Ändra på en sprites klädsel i Scratch
-+ Använd kod i Scratch för att få en sprite att reagera
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
 + Add sounds to a sprite in Scratch
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## titel: Vad du kommer att behöva
+## title: What you will need
 
-#### Hårdvara
+#### Hardware
 
-+ En dator som kan hantera Scratch 3
++ A computer capable of running Scratch 3
 
-#### Mjukvara
+#### Software
 
 + Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
