@@ -1,33 +1,33 @@
-## ተፈታታኝ-ባንድዎን ያሻሽሉ
+## Challenge: improve your band
 
-የራስዎ ባንድ ለመስራት በዚህ ፕሮጀክት የተማራችሁትን ይጠቀሙ! የሚወዱዋቸውን ማንኛቸውም መሣሪያዎች ሊፈጥሩ ይችላሉ - አንዳንድ ሀሳቦችን ለማግኘት የሚገኙትን የመሳሪያ ስክሪፕቶች እና ድምፆች ይመልከቱ.
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-![ቅጽበታዊ ገጽ እይታ](images/band-ideas-sounds.png)
+![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
-ይህ ስፒል
-ማዋቀሪያ መሣሪያን ወደ (\ \ 1 \) ፒያኖ መጫወት ሲጀምር
-የማጫወቻ ማስታወሻ (60) ለ (0.25) ቢቶች
+when this sprite clicked
+set instrument to (\(1\) Piano v)
+play note (60) for (0.25) beats
 ```
 
-የሙዚቃ መሳሪያዎችዎ ግን እውነታዊ መሆን የለባቸውም. ለምሳሌ, ከጨዋታዎች የተሠራ ፒያኖን ልታደርጉ ትችላላችሁ!
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-![ቅጽበታዊ ገጽ እይታ](images/band-piano.png)
+![screenshot](images/band-piano.png)
 
-ከቤተመጽሐፍት ላይ ብዙ ስፔሪሶችን መጠቀም ይችላሉ, እንዲሁም የራስዎን ስፔሪስ ቀለም መቀባት ይችላሉ!
+You can use more sprites from the library, and you can also paint your own sprites!
 
-![ቅጽበታዊ ገጽ እይታ](images/band-draw.png)
+![screenshot](images/band-draw.png)
 
 ## \--- collapse \---
 
-## ርእስ: ልብስዎ ለውጥን በሚቀይርበት ጊዜ የእኔ ስፒረግ 'መዝለል' የሆነው ለምንድን ነው?
+## title: Why is my sprite 'jumping' when it changes costume?
 
-የራስዎን ስፒር ሲፈጥሩ, ስፔር ላይ ጠቅ በሚያደርጉበት ጊዜ, ለውጦ ልብስ ስለሚለወጥ 'ይዝላል' ይህ ሁለቱ ልብስ እራሱ በአንድ ቦታ ላይ ባለመሆኑ ነው.
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
 
-ይህንን ለመጠገን, የሽፋጌዎችዎ መሃላዎች ማዕከላት ተመሳሳይ ከሆኑ ያረጋግጡ.
+To fix this, make sure that the centres of your sprite's costumes are the same.
 
 \--- /collapse \---
 
-ማይክሮፎን ካለዎት የራስዎን ድምፆች መመዝገብ ይችላሉ, እንዲያውም መሳሪያዎን ለመምታት ዌብካም መጠቀም ይችላሉ!
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
-![ቅጽበታዊ ገጽ እይታ](images/band-io.png)
+![screenshot](images/band-io.png)
