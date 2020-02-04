@@ -1,6 +1,6 @@
-## ඇදුම්
+## Costumes
 
-දැන් ඔබ ඔබේ ගායකයා ඇය ගායනා කරන ආකාරයට පෙනෙනු ඇත!
+Now you will make your singer look like she's singing!
 
 \--- task \---
 
@@ -61,7 +61,7 @@ Now make your drum look like it's being hit!
 
 ![screenshot](images/band-drum-final.png)
 
-- ඔබට උපකාර කිරීම සඳහා ඔබේ ගායක ස්ප්‍රයිට්ගේ ඇඳුම (sprite's costume) වෙනස් කිරීම සඳහා උපදෙස් (instructions) භාවිතා කරන්න.
+- Use the instructions for changing your singer sprite's costume to help you.
 
 Remember to test that your new code works!
 
