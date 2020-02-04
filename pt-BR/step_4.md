@@ -1,6 +1,6 @@
 ## Fazendo um tambor
 
-Agora você vai adicionar código ao seu tambor para que ele faça um som quando for clicado.
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
 Você pode encontrar os blocos de código na guia Scripts e eles são todos agrupados por cores!
 
@@ -8,7 +8,7 @@ Você pode encontrar os blocos de código na guia Scripts e eles são todos agru
 
 Primeiro adicione a extensão **Música** para que você possa tocar instrumentos.
 
-Clique no botão **Adicionar Extensão** no canto inferior esquerdo.
+Click on the **Add extension** button in the bottom left-hand corner.
 
 ![add extension button highlighted](images/add-extension-annotated.png)
 
@@ -23,8 +23,8 @@ Clique na extensão **Música** para adicioná-la.
 Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
-quando este ator for clicado
-toque instrumento (\(1\) Tarol) por (0.25) batidas
+when this sprite clicked
+play drum (\(1\) Snare Drum v) for (0.25) beats
 ```
 
 \--- no-print \---
