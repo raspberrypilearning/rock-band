@@ -1,20 +1,20 @@
-## Создание барабана
+## Making a drum
 
-Теперь ты добавишь код к своему барабану, чтобы барабан издал звук при нажатии на него.
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-Ты можешь найти блоки кода во вкладке Код, и все они закодированы цветом!
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
 \--- task \---
 
-Сначала добавь расширение **Музыка**, чтобы ты мог играть на инструментах.
+First add the **Music** extension so you can play instruments.
 
-Нажми кнопку **Добавить расширение** в левом нижнем углу.
+Click on the **Add extension** button in the bottom left-hand corner.
 
-![подсвеченная кнопка добавления расширения](images/add-extension-annotated.png)
+![add extension button highlighted](images/add-extension-annotated.png)
 
-Нажми на расширение **Музыка**, чтобы добавить его.
+Click on the **Music** extension to add it.
 
-![подсвеченное расширение музыка](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -23,8 +23,8 @@
 Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
-когда спрайт нажат
-барабану играть ((1) Малый барабан v) (0.25) бита
+when this sprite clicked
+play drum (\(1\) Snare Drum v) for (0.25) beats
 ```
 
 \--- no-print \---
