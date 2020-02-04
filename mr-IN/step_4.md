@@ -1,18 +1,18 @@
-## ड्रम बनवत आहे
+## Making a drum
 
-आता आपण आपल्या ड्रममध्ये कोड जोडू शकता जेणेकरून क्लिक केल्यावर ड्रम आवाज निर्माण करेल.
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-आपण स्क्रीप्ट टॅबमध्ये कोड ब्लॉक शोधू शकता आणि ते सर्व रंग-कोडित आहेत!
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
 \--- task \---
 
-प्रथम **Music** विस्तार म्हणून आपण वाद्य वाजवू शकता.
+First add the **Music** extension so you can play instruments.
 
-** Add Extension ** वर क्लिक करा खाली डाव्या बाजूला कोपर्यात बटण.
+Click on the **Add extension** button in the bottom left-hand corner.
 
-![हायलाइट केलेले विस्तार बटण जोडा](images/add-extension-annotated.png)
+![add extension button highlighted](images/add-extension-annotated.png)
 
-** Music ** वर क्लिक करा तो जोडण्यासाठी विस्तार.
+Click on the **Music** extension to add it.
 
 ![music extension highlighted](images/click-music-annotated.png)
 
@@ -23,8 +23,8 @@
 Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
-जेव्हा या स्प्राइटने
-प्ले ड्रम (\ (1 \) स्नॅर ड्रम v) (0.25) बिट्सवर क्लिक केले
+when this sprite clicked
+play drum (\(1\) Snare Drum v) for (0.25) beats
 ```
 
 \--- no-print \---
