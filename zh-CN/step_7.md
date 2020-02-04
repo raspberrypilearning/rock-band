@@ -1,6 +1,6 @@
 ## 造型
 
-现在你要让你的歌手看起来像她在唱歌！
+Now you will make your singer look like she's singing!
 
 \--- task \---
 
@@ -39,10 +39,10 @@ The names of the costumes aren't very helpful at the moment. Type into the text 
 Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
 
 ```blocks3
-当角色被点击
-+换成(唱歌 v) 造型
-播放声音(singer1 v) 等待播完
-+换成(不唱歌 v) 造型
+when this sprite clicked
++switch costume to (singing v)
+play sound (singer1 v) until done
++switch costume to (not singing v)
 ```
 
 The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
@@ -61,7 +61,7 @@ Now make your drum look like it's being hit!
 
 ![screenshot](images/band-drum-final.png)
 
-- 利用关于更改角色造型的说明来帮助你。
+- Use the instructions for changing your singer sprite's costume to help you.
 
 Remember to test that your new code works!
 
