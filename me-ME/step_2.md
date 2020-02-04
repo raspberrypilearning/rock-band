@@ -1,6 +1,6 @@
-## Likovi (sprites)
+## Sprites
 
-Prije nego što počneš da kreiraš kôd, biće potrebno da dodaš 'objekat' na koji se će se kôd odnositi. U Scratch-u se ovi 'objekti' zovu **sprites** (likovi).
+Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
 
 \--- task \---
 
