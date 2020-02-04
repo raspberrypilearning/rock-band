@@ -1,6 +1,6 @@
 ## 接下来还有什么？
 
-现在您已经制作了第一个Scratch项目，为什么不再看看 [迷失太空](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) 的Scratch项目？
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
 \--- no-print \---
 
