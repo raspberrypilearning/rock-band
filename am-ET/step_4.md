@@ -1,30 +1,30 @@
-## ድራማ ማድረግ
+## Making a drum
 
-አሁን ድራማው ከተጫነ በኋላ ድራማ እንዲሰማዎት ለማድረግ ወደ እርስዎ ድራፕ ኮድ ያክላሉ.
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-በስክሪፕቶች ትሩ ላይ ያሉ የቁጥጥር ክፍሎችን ማግኘት ይችላሉ, እና ሁሉም ቀለማ ኮዱን ናቸው!
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
-\--- ተግባር \---
+\--- task \---
 
-በመጀመሪያ መሳሪያዎችን ማጫወት እንዲችሉ የ **ሙዚቃ** ቅጥያውን ያክሉ.
+First add the **Music** extension so you can play instruments.
 
-ወደ ላይ ጠቅ ያድርጉ **አክል ቅጥያ** ከታች በስተግራ በኩል ያለውን አዝራር.
+Click on the **Add extension** button in the bottom left-hand corner.
 
-![የቅጥያ አዝራሩ ድብልቅ አክል](images/add-extension-annotated.png)
+![add extension button highlighted](images/add-extension-annotated.png)
 
-ለማከል በ **ሙዚቃ** ቅጥያ ላይ ጠቅ ያድርጉ.
+Click on the **Music** extension to add it.
 
 ![music extension highlighted](images/click-music-annotated.png)
 
-\--- / task \---
+\--- /task \---
 
 \--- task \---
 
 Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
-ይህ ጽሑፍ
-መጫወት ድራም (\ (1 \) Snare Drum v) ለ (0.25) ቢሽ
+when this sprite clicked
+play drum (\(1\) Snare Drum v) for (0.25) beats
 ```
 
 \--- no-print \---
