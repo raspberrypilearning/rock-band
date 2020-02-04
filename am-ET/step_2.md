@@ -1,6 +1,6 @@
-## ስፕራይቶች
+## Sprites
 
-ኮድ መጻፍ ከመጀመርዎ በፊት ፣ ኮዱ ውስጥ አንድ "ነገር" መጨመር ያስፈልግዎታል። በ Scratch ውስጥ ፣ እነዚህ "ነገሮች" **sprites** ተብለው ይጠራሉ።
+Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
 
 \--- task \---
 
@@ -22,9 +22,9 @@ It looks like this:
 
 The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
-![ቅጽበታዊ ገጽ እይታ](images/band-delete-annotated.png)
+![screenshot](images/band-delete-annotated.png)
 
-\--- / task \---
+\--- /task \---
 
 \--- task \---
 
@@ -40,7 +40,7 @@ Scroll down until you see a drum sprite. Click on a drum to add it to your proje
 
 ![screenshot](images/band-sprite-drum.png)
 
-\--- / task \---
+\--- /task \---
 
 \--- task \---
 
