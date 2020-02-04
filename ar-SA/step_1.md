@@ -24,7 +24,7 @@ Click the green flag to begin. Then, click on the singer or the drum to hear wha
 
 You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
 
-![game screenshot](images/demo.png)
+![لقطة شاشة للعبة](images/demo.png)
 
 \--- /print-only \---
 
@@ -34,7 +34,7 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 + استخدام البرمجة لتغيير زي كائن في برنامج السكراتش (Scratch)
 + استخدام البرمجة لجعل الكائنات تتفاعل مع مدخل في السكراتش (Scratch)
-+ Add sounds to a sprite in Scratch
++ إضافة الأصوات إلى كائن في سكراتش
 
 \--- /collapse \---
 
@@ -58,10 +58,10 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [نسخة سهلة الطباعة](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+يمكنك ايجاد [المشروع كامل هنا](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
