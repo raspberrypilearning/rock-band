@@ -4,11 +4,11 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## ആമുഖം
+## Introduction
 
 Learn how to code your own musical instruments!
 
-### നിങ്ങൾ എന്ത് ചെയ്യും
+### What you will make
 
 \--- no-print \---
 
