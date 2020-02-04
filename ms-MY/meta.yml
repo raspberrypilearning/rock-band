@@ -1,14 +1,14 @@
 ---
-hero_image: imej / hero-rock-band-large.png
+hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
-title: Kumpulan rock
-description: Ketahui cara mengodkan alat muzik anda sendiri
+title: Rock band
+description: Learn how to code your own musical instruments
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
-    title: Pengenalan
+    title: Introduction
   - 
     title: Sprites
   - 
