@@ -1,6 +1,6 @@
-## Trang phục
+## Costumes
 
-Bây giờ bạn sẽ làm cho ca sĩ của bạn trông giống như cô ấy đang hát!
+Now you will make your singer look like she's singing!
 
 \--- task \---
 
@@ -8,7 +8,7 @@ You can change how your singer sprite looks when it's clicked by creating a new 
 
 ![screenshot](images/band-singer-costume-annotated.png)
 
-\--- /bài tập \---
+\--- /task \---
 
 \--- task \---
 
@@ -16,7 +16,7 @@ Right-click on the costume and then click on **duplicate** to create a copy of i
 
 ![screenshot](images/band-singer-duplicate.png)
 
-\--- /bài tập \---
+\--- /task \---
 
 \--- task \---
 
@@ -39,10 +39,10 @@ The names of the costumes aren't very helpful at the moment. Type into the text 
 Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
 
 ```blocks3
-khi sprite này nhấp
-+ chuyển trang phục sang (hát v)
-phát âm thanh (singer1 v) cho đến khi thực hiện
-+ chuyển trang phục sang (không hát v)
+when this sprite clicked
++switch costume to (singing v)
+play sound (singer1 v) until done
++switch costume to (not singing v)
 ```
 
 The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
@@ -61,7 +61,7 @@ Now make your drum look like it's being hit!
 
 ![screenshot](images/band-drum-final.png)
 
-- Sử dụng các hướng dẫn để thay đổi trang phục ca sĩ của bạn để giúp bạn.
+- Use the instructions for changing your singer sprite's costume to help you.
 
 Remember to test that your new code works!
 
