@@ -1,14 +1,14 @@
 \--- no-print \---
 
-זוהי גרסה ** Scratch 3 **של הפרויקט. יש גם גרסה [ Scratch 2 של הפרויקט ](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
-## הקדמה
+## Introduction
 
-למד כיצד לקודד את כלי הנגינה שלך!
+Learn how to code your own musical instruments!
 
-### מה תעשה
+### What you will make
 
 \--- no-print \---
 
@@ -30,31 +30,31 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## \--- collapse \---
 
-## title: מה תלמד
+## title: What you will learn
 
-+ השתמש בקוד כדי לשנות את התחפושת של הדמות בסקראצ׳
-+ השתמש בקוד כדי לגרום לדמויות להגיב לקלט בסקראצ׳
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
 + Add sounds to a sprite in Scratch
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: למה תזדקק
+## title: What you will need
 
-#### חומרה
+#### Hardware
 
-+ מחשב המסוגל להריץ סקראטץ 3
++ A computer capable of running Scratch 3
 
-#### תוכנה
+#### Software
 
-+ Scratch 3 (או [מכוון](http://rpf.io/scratchon){:target="_blank"} or [לא מקוון](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: מידע נוסף למורי המועדון
+## title: Additional information for educators
 
 \--- no-print \---
 
