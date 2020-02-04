@@ -1,6 +1,6 @@
 ## 舞台
 
-**舞台**在左侧区域，它是为你的项目注入生命的地方。将它想象成一个表演区域，就像现实中的舞台一样！
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
 \--- task \---
 
