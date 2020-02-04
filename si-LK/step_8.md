@@ -1,8 +1,8 @@
-## අභියෝගය: ඔබේ කන්ඩායම වැඩි දියුණු කිරීම
+## Challenge: improve your band
 
-ඔබේම සංගීත කණ්ඩායමක් සෑදීමට මෙම ව්‍යාපෘතියේ ඔබ ඉගෙන ගත් දේ භාවිතා කරන්න! ඔබට කැමති ඕනෑම උපකරණයක් නිර්මාණය කළ හැකිය - අදහසක්ල ගැනීම සඳහා පවතින උපකරණ ස්ප්‍රීතු (sprites) සහ ශබ්ද (sounds ) දෙස බලන්න.
+Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
-![තිර රුව(screenshot)](images/band-ideas-sounds.png)
+![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
 when this sprite clicked
@@ -10,24 +10,24 @@ set instrument to (\(1\) Piano v)
 play note (60) for (0.25) beats
 ```
 
-ඔබේ උපකරණ යථාර්ථවාදී විය යුතු නැත. උදාහරණයක් ලෙස, ඔබට මෆින් වලින් සාදන ලද පියානෝවක් සෑදිය හැකිය!
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
 
-![තිර රුව(screenshot)](images/band-piano.png)
+![screenshot](images/band-piano.png)
 
-ඔබට පුස්තකාලයෙන් ( library) වැඩි ස්ප්‍රීතු (sprites) භාවිතා කළ හැකි අතර, ඔබට ඔබේම ස්ප්‍රීතු සෑදිය හැකිය!
+You can use more sprites from the library, and you can also paint your own sprites!
 
-![තිර රුව(screenshot)](images/band-draw.png)
+![screenshot](images/band-draw.png)
 
 ## \--- collapse \---
 
-## මාතෘකාව: ඇඳුම වෙනස් කරන විට මගේ ස්ප්‍රයිට් (sprite) පනින්නේ ('jumping') ඇයි?
+## title: Why is my sprite 'jumping' when it changes costume?
 
-ඔබේම ස්ප්‍රයිට් (sprite) නිර්මාණය කරන විට, ඔබ ස්ප්‍රයිට් (sprite)ක්ලික් කළ විට, එය ඇඳුම් මාරු කරන විට එය 'පනින' (' jumps')බව ඔබට පෙනී යනු ඇත. මෙයට හේතුව ඇඳුම් දෙක එකම ස්ථානයක කේන්ද්‍රගත නොවීමයි.
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
 
-මෙය නිවැරදි කිරීම සඳහා, ඔබේ ස්ප්‍රයිට් ඇඳුමේ මධ්‍යස්ථාන එක හා සමාන බවට වග බලා ගන්න.
+To fix this, make sure that the centres of your sprite's costumes are the same.
 
 \--- /collapse \---
 
-ඔබට මයික්‍රෝෆෝනයක් තිබේ නම්, ඔබට ඔබේම ශබ්ද පටිගත කළ හැකි අතර, ඔබේ උපකරණවලට පහර දීමට වෙබ් කැමරාවක් පවා භාවිතා කළ හැකිය!
+If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
 
-![තිර රුව(screenshot)](images/band-io.png)
+![screenshot](images/band-io.png)
