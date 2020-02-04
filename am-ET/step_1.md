@@ -1,14 +1,14 @@
 \--- no-print \---
 
-ይህ የፕሮጀክቱ **<0> Scratch 3** ስሪት ነው። በተጨማሪ [ የፕሮጀክቱ Scratch 2 ስሪትም አለ](https://projects.raspberrypi.org/en/projects/rock-band-scratch2)።
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
-\--- / no-print \---
+\--- /no-print \---
 
-## መግቢያ
+## Introduction
 
-የራስዎን የሙዚቃ መሳሪያዎች እንዴት እንደሚሰሩ ይማሩ!
+Learn how to code your own musical instruments!
 
-### የምትሰሩት ነገር
+### What you will make
 
 \--- no-print \---
 
@@ -30,31 +30,31 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## \--- collapse \---
 
-## ርእሱ: ምን ይማራሉ
+## title: What you will learn
 
-+ Scratch ውስጥ ኮድ በመጠቀም የ ስፕራይቱን ልብስ ቀይሩ
-+ Scratch ውስጥ ኮዶችን በመጠቀም ስፕራይቶች ለግቤቶች ምላሽ እንዲሰጡ ማድረግ
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
 + Add sounds to a sprite in Scratch
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## ርእስ: ሚያስፈልጉ ነገሮች
+## title: What you will need
 
-#### ሃርድ ዌር
+#### Hardware
 
-+ Scratch 3 ማሄድ የሚችል ኮምፒውተር
++ A computer capable of running Scratch 3
 
-#### ሶፍትዌር
+#### Software
 
-+ Scratch 3 (ወይ [ኦንላይን](http://rpf.io/scratchon){: target = "_ blank"} ወይም [ኦፍላይን](http://rpf.io/scratchoff){: target = "_ blank"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## ርእስ፡ ለአስተማሪዎች ተጨማሪ መረጃ
+## title: Additional information for educators
 
 \--- no-print \---
 
