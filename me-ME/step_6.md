@@ -1,4 +1,4 @@
-## Stvaranje pjevačice
+## Making a singer
 
 Now you will add a singer to your band!
 
