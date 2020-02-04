@@ -1,12 +1,12 @@
 ## Membuat penyanyi
 
-Sekarang tambahkan penyayi pada band mu!
+Sekarang tambahkan penyayi pada band milikmu!
 
 \--- task \---
 
-Tambahkan sprite penyanyi ke Panggung mu.
+Tambahkan sprite penyanyi ke Panggungmu.
 
-![screenshot](images/band-singer-mic.png)
+![tangkapan layar](images/band-singer-mic.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -14,33 +14,33 @@ Tambahkan sprite penyanyi ke Panggung mu.
 
 \--- task \---
 
-Sebelum kamu bisa membuat penyanyi mu bernyanyi, kamu perlu menambahkan suara ke sprite penyanyi mu. Pastikan kamu telah memilih sprite penyanyi mu, lalu klik pada tab Suara, dan klik pada ** Pilih suara **:
+Sebelum kamu bisa membuat penyanyimu bernyanyi, kamu perlu menambahkan suara ke sprite penyanyimu. Pastikan kamu telah memilih sprite penyanyimu, lalu klik pada tab Suara, dan klik pada ** Pilih suara**:
 
-![screenshot](images/band-import-sound-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
-
-![screenshot](images/band-choose-sound.png)
+![tangkapan layar](images/band-import-sound-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-To use the sound, add the following code blocks to your singer sprite:
+Klik pada **Suara** dalam daftar di bagian atas, dan kemudian pilih suara untuk ditambahkan ke sprite milikmu.
+
+![tangkapan layar](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+Untuk menggunakan suara, tambahkan blok kode berikut ke sprite penyanyimu:
 
 ```blocks3
-saat sprite diklik
-Mainkan suara(penyayi1 v) sampai selesai
+saat sprite ini diklik
+mainkan suara (penyayi1 v) sampai selesai
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Click on your singer on the stage and see what happens. Does she sing?
+Klik penyanyimu di atas panggung dan lihat apa yang terjadi. Apakah dia bernyanyi?
 
 \--- /task \---
