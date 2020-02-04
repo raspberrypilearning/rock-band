@@ -1,6 +1,6 @@
 ## ¿Qué sigue?
 
-Ahora que ha creado su primer proyecto Scratch, ¿por qué no echar un vistazo al proyecto Scratch [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)?
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
 \--- no-print \---
 
