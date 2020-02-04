@@ -1,6 +1,6 @@
-## Позорница
+## The Stage
 
-**Позорница** је област са десне стране, тамо где твој пројекат настаје. Замисли је као простор за извођење, баш као права позорница!
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
 \--- task \---
 
