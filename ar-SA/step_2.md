@@ -14,7 +14,7 @@
 
 وهو يبدو بهذا الشكل:
 
-![screenshot](images/band-scratch.png)
+![لقطة الشاشة](images/band-scratch.png)
 
 \--- /task \---
 
@@ -30,7 +30,7 @@
 
 بعد ذلك، **انقر فوق اختيار كائن من المكتبة** لفتح قائمة تحتوي على كل كائنات برنامج Scratch.
 
-![screenshot](images/band-sprite-library.png)
+![لقطة الشاشة](images/band-sprite-library.png)
 
 \--- /task \---
 
@@ -38,7 +38,7 @@
 
 مرِّر إلى أسفل إلى أن ترى كائن الطبلة. وانقر فوق الطبلة لإضافتها إلى مشروعك.
 
-![screenshot](images/band-sprite-drum.png)
+![لقطة الشاشة](images/band-sprite-drum.png)
 
 \--- /task \---
 
@@ -50,14 +50,14 @@
 
 \--- task \---
 
-Give your program a name by typing into the text box at the top.
+أعطي مشروعك إسمً بكتابة الاسم داخل مربع النص في الأعلى.
 
-![name](images/band-name-annotated.png)
+![الاسم](images/band-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+اضغط على القائمة **ملف** ومن ثم **حفظ الان** لتخزين مشروعك.
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+اذا لم تكن مرتبط بالانترنيت او لا تملك حساب سكراتش Scratch، بامكانك خزن نسخة من مشروعك على جهازك الخاص بالضغط على **الحفظ الى حاسوبك**.
 
-![screenshot](images/band-save.png)
+![لقطة الشاشة](images/band-save.png)
 
 \--- /task \---
