@@ -22,7 +22,7 @@
 
 \--- task \---
 
-Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+上部のリストから**声**をクリック、そしてスプライトに追加するサウンドを選択します。
 
 ![スクリーンショット](images/band-choose-sound.png)
 
@@ -30,7 +30,7 @@ Click on **Voice** in the list at the top, and then choose a sound to add to you
 
 \--- task \---
 
-To use the sound, add the following code blocks to your singer sprite:
+サウンドを使用するには、歌手のスプライトに次のコードブロックを追加します。
 
 ```blocks3
 このスプライトが押されたとき、終わるまで (Singer1 v) の音を鳴らす
@@ -40,6 +40,6 @@ To use the sound, add the following code blocks to your singer sprite:
 
 \--- task \---
 
-Click on your singer on the stage and see what happens. Does she sing?
+歌手をクリックして、ちゃんと歌うか確認しましょう。
 
 \--- /task \---
