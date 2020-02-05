@@ -4,7 +4,7 @@
 
 \--- task \---
 
-At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+この時点では、ステージは白く、かなり退屈に見えます！**背景を選ぶ**をクリックして、背景を追加します。
 
 ![スクリーンショット](images/band-stage-choose.png)
 
@@ -12,7 +12,7 @@ At the moment, the stage is white and looks pretty boring! Add a backdrop to it 
 
 \--- task \---
 
-Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+上部のリストにある**屋内**をクリックします。次に、Theaterの背景をクリックします。
 
 ![スクリーンショット](images/band-backdrop.png)
 
@@ -20,7 +20,7 @@ Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
 \--- task \---
 
-Your stage should now look similar to this:
+みなさんのステージはこんなふうに見えているはずです。
 
 ![スクリーンショット](images/band-stage.png)
 
