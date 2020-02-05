@@ -4,24 +4,24 @@
 
 \--- task \---
 
-At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+حالياً، تأخذ المنصة اللون الأبيض وتبدو مملة بعض الشيء! لنضِف خلفية إلى المنصة بالنقر فوق **اختيار خلفية من المكتبة**.
 
-![screenshot](images/band-stage-choose.png)
+![لقطة الشاشة](images/band-stage-choose.png)
 
 \---/task--
 
 \--- task \---
 
-Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+انقر فوق **داخلي** من القائمة بالاعلى، وثم انقر فوق خلفية منصة مسرح (Theater).
 
-![screenshot](images/band-backdrop.png)
+![لقطة الشاشة](images/band-backdrop.png)
 
 \--- /task \---
 
 \--- task \---
 
-Your stage should now look similar to this:
+ستكون المنصة كما يلي:
 
-![screenshot](images/band-stage.png)
+![لقطة الشاشة](images/band-stage.png)
 
 \--- /task \---
