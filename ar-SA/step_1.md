@@ -12,7 +12,7 @@
 
 \--- no-print \---
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+انقر فوق العلم الأخضر لتبدأ. ثم انقر فوق المغنية أو الطبلة لتسمع صوتها.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,7 +22,7 @@ Click the green flag to begin. Then, click on the singer or the drum to hear wha
 
 \--- print-only \---
 
-You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+ستقوم بصنع لعبة حيث يمكنك النقر فوق المغنية او الطبلة لتسمع الغناء او صوت الطبلة.
 
 ![لقطة شاشة للعبة](images/demo.png)
 
@@ -36,7 +36,7 @@ You will make a game where you can click on the singer or the drum to hear singi
 + استخدام البرمجة لجعل الكائنات تتفاعل مع مدخل في السكراتش (Scratch)
 + إضافة الأصوات إلى كائن في سكراتش
 
-\--- /collapse \---
+\--- collapse \---
 
 ## \--- collapse \---
 
