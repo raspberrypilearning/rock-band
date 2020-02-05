@@ -20,7 +20,7 @@
 
 \--- task \---
 
-Click on the drum sprite, and then drag these two blocks into the code area on the right:
+ドラムスプライトをクリックし、これら2つのブロックを右のコードエリアにドラッグします。
 
 ```blocks3
 このスプライトがクリックされたとき、(\(1\) スネアドラム v) のドラムを (0.25) 拍鳴らす
@@ -38,6 +38,6 @@ Click on the drum sprite, and then drag these two blocks into the code area on t
 
 \--- task \---
 
-Click on the drum to try out your new instrument!
+ドラムをクリックして、鳴らしてみてください！
 
 \--- /task \---
