@@ -4,7 +4,7 @@
 
 \--- task \---
 
-You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
+新しいコスチュームを作成することで、クリックしたときに歌手のスプライト見え方を変えることができます。コスチュームタブをクリックすると、歌手のコスチュームが表示されます。
 
 ![スクリーンショット](images/band-singer-costume-annotated.png)
 
@@ -12,7 +12,7 @@ You can change how your singer sprite looks when it's clicked by creating a new 
 
 \--- task \---
 
-Right-click on the costume and then click on **duplicate** to create a copy of it.
+コスチュームを右クリックし、**複製**をクリックするとコピーを作成します。
 
 ![スクリーンショット](images/band-singer-duplicate.png)
 
@@ -20,7 +20,7 @@ Right-click on the costume and then click on **duplicate** to create a copy of i
 
 \--- task \---
 
-Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+新しいコスチューム（『Singer2』という名前です）をクリックして、直線ツールを使い、歌手が歌っているように線を引きましょう。
 
 ![スクリーンショット](images/band-singer-click.png)
 
@@ -28,7 +28,7 @@ Click on the new costume (called 'Singer2'), and then select the line tool and d
 
 \--- task \---
 
-The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+コスチュームの名前は今のところあまり役に立ちません。コスチュームのテキストボックスに入力して、名前を「歌わない」と「歌う」に変更します。
 
 ![スクリーンショット](images/band-singer-name-annotated.png)
 
@@ -36,7 +36,7 @@ The names of the costumes aren't very helpful at the moment. Type into the text 
 
 \--- task \---
 
-Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
+歌手のコスチュームが2種類になったので、表示する衣装を選択できます！これら2つのコードブロックを歌手のスプライトに追加します。
 
 ```blocks3
 このスプライトが押されたとき
@@ -45,24 +45,24 @@ Now that you have two different costumes for your singer, you can choose which c
 +コスチュームを(歌わないv) にする
 ```
 
-The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
+コスチュームを変えるブロックは、`見た目`{:class="blocklooks"}のところにあります。
 
 \--- /task \---
 
 \--- task \---
 
-Click on your singer on the stage. Does she look like she is singing?
+自分の歌手をクリックしてみてください。歌っているように見えますか？
 
 \--- /task \---
 
 \--- task \---
 
-Now make your drum look like it's being hit!
+ドラムが叩かれているように見せてください！
 
 ![スクリーンショット](images/band-drum-final.png)
 
 - 歌手のスプライトのコスチュームを変更する手順に従ってください。
 
-Remember to test that your new code works!
+新しいコードが動くかどうか、テストするのを忘れないようにしましょう！
 
 \--- /task \---
