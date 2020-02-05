@@ -20,7 +20,7 @@
 
 \--- task \---
 
-Click on the drum sprite, and then drag these two blocks into the code area on the right:
+انقر فوق كائن الطبلة ثم اسحب هاتين الكتلتَين إلى مساحة التعليمات البرمجية الموجودة على اليمين:
 
 ```blocks3
 عند النقر على هذا الكائن
@@ -29,16 +29,16 @@ play drum (\(1\) Snare Drum v) for (0.25) beats
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![لقطة الشاشة](images/connect-block.gif)
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+تأكد من أنهما مرتبطتان معًا (كمكعبات لعبة ليغو).
 
 \--- /task \---
 
 \--- task \---
 
-Click on the drum to try out your new instrument!
+انقر فوق الطبلة لتجرِّب آلتك الجديدة!
 
 \--- /task \---
