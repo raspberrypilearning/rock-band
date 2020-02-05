@@ -4,11 +4,11 @@
 
 \--- task \---
 
-Open a new Scratch project.
+新しいScratchのプロジェクトを開きましょう。
 
 **オンライン: **新しいオンラインScratchプロジェクトを[rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}で開きます。
 
-**Offline:** open a new project in the offline editor.
+**オフライン:**オフラインエディターで新しいプロジェクトを開きます。
 
 Scratchオフラインエディタをダウンロードしてインストールする必要がある場合は、[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}で見つけることができます。:
 
@@ -20,15 +20,15 @@ Scratchオフラインエディタをダウンロードしてインストール�
 
 \--- task \---
 
-The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+目の前に見えるネコのスプライトはScratchのマスコットです。右クリックしてから **削除 **をクリックして、消しましょう。
 
-![screenshot](images/band-delete-annotated.png)
+![スクリーンショット](images/band-delete-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+**スプライトをライブラリーから選択**をクリックすると、すべてのScratchスプライトのライブラリーが表示されます。
 
 ![スクリーンショット](images/band-sprite-library.png)
 
@@ -36,7 +36,7 @@ Next, click on **Choose sprite from library** to open up a list of all the Scrat
 
 \--- task \---
 
-Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+ドラムのスプライトが表示されるまで下にスクロールします。ドラムをクリックして、プロジェクトに追加します。
 
 ![スクリーンショット](images/band-sprite-drum.png)
 
