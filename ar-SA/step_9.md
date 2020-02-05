@@ -4,7 +4,7 @@
 
 \--- no-print \---
 
-Click on the green flag to see the animation.
+انقر على العلم الاخضر لترى المشروع.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Click on the green flag to see the animation.
 
 \--- print-only \---
 
-![Complete project](images/space-final.png)
+![المشروع كامل](images/space-final.png)
 
 \--- /print-only \---
