@@ -20,7 +20,7 @@
 
 \--- task \---
 
-Click on the drum sprite, and then drag these two blocks into the code area on the right:
+ड्रम स्प्राइट पर क्लिक करें, और फिर इन दो ब्लॉकों को दाईं ओर कोड क्षेत्र में खींचें:
 
 ```blocks3
 जब यह स्प्राइट (0.25) बीट के लिए
@@ -29,16 +29,16 @@ Click on the drum sprite, and then drag these two blocks into the code area on t
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![स्क्रीनशॉट](images/connect-block.gif)
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+यह निश्चित कीजिये की सरे ब्लॉक जुड़े हुए हैं (लेगो के तरह)।
 
 \--- /task \---
 
 \--- task \---
 
-Click on the drum to try out your new instrument!
+ड्रम पर क्लिक करे ताकि आप अपने नए यंत्र को बजा सकते हैं!
 
 \--- /task \---
