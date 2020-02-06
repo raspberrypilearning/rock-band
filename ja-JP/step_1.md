@@ -56,7 +56,7 @@ title: 必要なもの
 
 --- collapse ---
 ---
-title：教育者向けの追加情報
+title: 教育者向けの追加情報
 ---
 
 --- no-print ---
