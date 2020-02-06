@@ -10,7 +10,7 @@
 
 **オフライン:**オフラインエディターで新しいプロジェクトを開きます。
 
-Scratchオフラインエディタをダウンロードしてインストールする必要がある場合は、[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}で見つけることができます。:
+Scratchオフラインエディタをダウンロードしてインストールする必要がある場合は、[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}で見つけることができます。
 
 このような感じになります。
 
