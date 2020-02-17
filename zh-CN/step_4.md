@@ -1,44 +1,44 @@
 ## 制作一面鼓
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+现在，您将为鼓添加代码，以便在点击鼓时发出声音。
 
 你可以在脚本选项卡中找到所有代码块，他们都用颜色做了区分。
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+首先添加**音乐**扩展，以便您可以演奏乐器。
 
-Click on the **Add extension** button in the bottom left-hand corner.
+单击左下角的 **选择一个扩展** 按钮。
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![添加一个扩展按钮高亮显示](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+点击 **音乐** 扩展以添加它。
 
-![music extension highlighted](images/click-music-annotated.png)
+![音乐扩展高亮显示](images/click-music-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on the drum sprite, and then drag these two blocks into the code area on the right:
+点击鼓，然后将这两个代码块拖到右边的代码区：
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+当角色被点击
+击打(\(1\) 小军鼓 v)(0.25) 节拍
 ```
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![截图](images/connect-block.gif)
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+确保代码块是连接在一起的（就像乐高积木那样）。
 
 \--- /task \---
 
 \--- task \---
 
-Click on the drum to try out your new instrument!
+点击鼓来试试你的新乐器！
 
 \--- /task \---
