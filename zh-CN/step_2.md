@@ -1,26 +1,26 @@
 ## 角色
 
-在你开始编码之前，你需要添加一个“东西”来编码。在Scratch中，这个“东西”叫做**角色**。
+在你开始编程之前，你需要添加一个“东西”到程序里。在Scratch中，这个“东西”叫做**角色**。
 
 \--- task \---
 
-Open a new Scratch project.
+创建一个新的Scratch项目
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**在线：**在[rpf.io/scrath-new](http://rpf.io/scratch-new){:target="_blank"}打开一个新的Scratch在线项目 。
 
-**Offline:** open a new project in the offline editor.
+**离线：**在离线编辑器中打开一个新项目。
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+如果您需要下载并安装Scratch离线编辑器，可以在[ rpf.io/scratchoff ](http://rpf.io/scratchoff)中获取 {：target="_blank"}。
 
-It looks like this:
+它看起来像这样：
 
-![screenshot](images/band-scratch.png)
+![截屏](images/band-scratch.png)
 
 \--- /task \---
 
 \--- task \---
 
-The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+你看到的猫是Scratch的吉祥物。在这个游戏中你不需要这个角色，所以右键单击它然后点击 **删除**来删除它。
 
 ![截屏](images/band-delete-annotated.png)
 
@@ -28,36 +28,36 @@ The cat sprite that you can see is the Scratch mascot. You don't need it for thi
 
 \--- task \---
 
-Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+接下来，点击**从角色库中选取角色**，打开所有Scratch自带角色列表。
 
-![screenshot](images/band-sprite-library.png)
-
-\--- /task \---
-
-\--- task \---
-
-Scroll down until you see a drum sprite. Click on a drum to add it to your project.
-
-![screenshot](images/band-sprite-drum.png)
+![截屏](images/band-sprite-library.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+向下滚动直到看到一个鼓（drum）的角色。点击鼓将其添加到你的项目中。
+
+![截屏](images/band-sprite-drum.png)
 
 \--- /task \---
 
 \--- task \---
 
-Give your program a name by typing into the text box at the top.
+点击并拖动鼓将其拉到舞台底部。
 
-![name](images/band-name-annotated.png)
+\--- /task \---
 
-Then click on **File**, and then on **Save now** to save your project.
+\--- task \---
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+在页面上方的文本框中输入你想给你的程序起的名字。
 
-![screenshot](images/band-save.png)
+![名称](images/band-name-annotated.png)
+
+然后点击 **文件**，再点击 **保存** 来保存你的项目。
+
+如果您不在线或没有Scratch帐户，则可以通过点击 **保存到计算机** 来保存你的项目的副本。
+
+![截屏](images/band-save.png)
 
 \--- /task \---
