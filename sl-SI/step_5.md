@@ -1,15 +1,15 @@
-## Challenge: improving your drum
+## Izziv: izboljšaj svoj boben
 
-Can you change the sound that the drum makes when it's clicked?
+Ali lahko spremeniš zvok, ki ga ustvari boben, ko nanj klikneš?
 
-![screenshot](images/band-drum-sound.png)
+![posnetek zaslona](images/band-drum-sound.png)
 
-Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
+Ali lahko dosežeš, da boben ustvari zvok, ko pritisneš preslednico? Uporabiti boš moral ta blok{: class = "block3events"} iz kategorije `Dogodki`:
 
 ```blocks3
-when [space v] key pressed
+ko je pritisnjena tipka [presledek v]
 ```
 
-If you want to copy your existing code, right-click on it and then click on **duplicate**.
+Če želiš kopirati svojo obstoječo kodo, klikni na njo z desno tipko in nato izberi na **Podvoji**.
 
-![screenshot](images/band-duplicate-code.png)
+![posnetek zaslona](images/band-duplicate-code.png)
