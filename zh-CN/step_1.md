@@ -1,6 +1,6 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+这个项目是基于**Scratch 3**的，此外还有一个基于[Scratch 2的版本](https://projects.raspberrypi.org/en/projects/rock-band-scratch2)。
 
 \--- /no-print \---
 
@@ -12,7 +12,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- no-print \---
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+点击绿旗开始运行程序。然后，点击歌手或鼓，听听它们会发出什么样的声音。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,25 +22,25 @@ Click the green flag to begin. Then, click on the singer or the drum to hear wha
 
 \--- print-only \---
 
-You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+你将制作一个这样的游戏，当你点击歌手或鼓时，可以听到歌声或鼓声。
 
-![game screenshot](images/demo.png)
+![游戏截图](images/demo.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: 你将学到什么
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch
++ 使用代码在Scratch中更改角色的服装
++ 使用代码使角色在Scratch中对输入作出反应
++ 在Scratch中给角色添加音效
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: 你需要准备什么
 
 #### 硬件
 
@@ -48,20 +48,20 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 #### 软件
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([在线版本](http://rpf.io/scratchon){:target="_blank"}或[离线版本](http://rpf.io/scratchoff){:target="_blank"}）
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: 教师附加信息
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+如果你需要打印此项目，请使用[打印机友好版本](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}。
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+你可以在这里找到 [完成的项目](http://rpf.io/p/en/rock-band-get)。
 
 \--- /collapse \---
