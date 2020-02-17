@@ -2,28 +2,28 @@
 hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
-title: Rock band
-description: Learn how to code your own musical instruments
+title: Rock skupina
+description: Nauči se programirati lastna glasbila
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
-    title: Introduction
+    title: Uvod
   - 
-    title: Sprites
+    title: Figure
   - 
-    title: The Stage
+    title: Oder
   - 
-    title: Making a drum
+    title: Izdelava bobna
   - 
-    title: "Challenge: improve your drum"
+    title: "Izziv: izboljšajte svoj boben"
     challenge: true
   - 
-    title: Making a singer
+    title: Ustvarjanje pevke
   - 
-    title: Costumes
+    title: Videzi
   - 
-    title: "Challenge: improve your band"
+    title: "Izziv: izboljšajte svojo skupino"
     challenge: true
   - 
-    title: "What next?"
+    title: "Kaj sledi?"
