@@ -1,18 +1,18 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+To je **Scratch 3** različica projekta. Obstaja tudi [Scratch 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) različica projekta.
 
 \--- /no-print \---
 
-## Introduction
+## Uvod
 
-Learn how to code your own musical instruments!
+Nauči se programirati svoje lastne glasbene instrumente!
 
-### What you will make
+### Kaj boš ustvaril?
 
 \--- no-print \---
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+Za začetek klikni na zeleno zastavo. Nato klikni na pevko ali boben, da bi slišal, kako zvenita.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,46 +22,46 @@ Click the green flag to begin. Then, click on the singer or the drum to hear wha
 
 \--- print-only \---
 
-You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+Izdelal-a boš igro, v kateri lahko klikneš na pevko ali na boben, da bo slišati petje ali zvok bobna.
 
-![game screenshot](images/demo.png)
+![posnetek zaslona igre](images/demo.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Kaj se boš naučil-a?
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will need
-
-#### Hardware
-
-+ A computer capable of running Scratch 3
-
-#### Software
-
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Uporabljati kodo, za spreminjanje videza figure v Scratchu
++ Uporabljati kodo na tak način, da se figure v Scratchu odzovejo na uporabnikov vnos
++ Dodajati zvoke k figuri
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Kaj potrebuješ?
+
+#### Strojna oprema
+
++ Računalnik, ki lahko izvaja Scratch 3
+
+#### Programska oprema
+
++ Scratch 3 (bodisi [na spletu](http://rpf.io/scratchon) {:target = "_blank"} ali [brez povezave](http://rpf.io/scratchoff){:target = "_blank"})
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Dodatne informacije za izobraževalce
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Če želite natisniti ta projekt, uporabite [tiskalniku prijazno različico](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+Zaključen projekt lahko najdete [tukaj](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
