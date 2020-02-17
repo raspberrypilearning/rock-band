@@ -5,9 +5,9 @@ Uporabi to, kar si se v tem projektu naučil-a, da ustvariš svojo lastno glasbe
 ![posnetek zaslona](images/band-ideas-sounds.png)
 
 ```blocks3
-ko kliknemo na to figuro
-nastavi inštrument na ( (1 ) Klavir v)
-predvajaj noto (60) za (0,25) udarcev
+ko kliknemo to figuro
+nastavi inštrument na ((1) Piano v)
+predvajaj noto (60) za (0.25) udarce
 ```
 
 Tvoji instrumenti so lahko tudi izmišljeni. Lahko denimo ustvariš klavir iz kolačkov!
