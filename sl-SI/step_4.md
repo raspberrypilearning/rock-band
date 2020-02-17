@@ -1,44 +1,44 @@
-## Making a drum
+## Izdelava bobna
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+Sedaj boš svojemu bobnu dodal kodo, tako da bo boben ustvaril zvok, ko klikneš nanj.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+V zavihku Koda lahko najdeš programske bloke, ki so vsi barvno označeni!
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+Najprej dodaj razširitev **Glasba**, da lahko predvajaš instrumente.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+Klikni na gumb **Dodaj razširitev** v spodnjem levem kotu.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![označen je gumb za razširitev](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+Klikni na razširitev **Glasba**, da jo dodaš.
 
-![music extension highlighted](images/click-music-annotated.png)
+![označena je zvočna razširitev](images/click-music-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on the drum sprite, and then drag these two blocks into the code area on the right:
+Klikni na figuro bobna in potem povleci ta dva bloka v območje za programiranje na desni:
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+ko kliknemo to figuro
+zaigraj na boben (\(1\) Mali boben v) za (0,25) udarcev
 ```
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![posnetek zaslona](images/connect-block.gif)
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Prepričaj se, da so bloki res povezani (kot LEGO kocke).
 
 \--- /task \---
 
 \--- task \---
 
-Click on the drum to try out your new instrument!
+Klikni na boben in preizkusi svoj novi instrument!
 
 \--- /task \---
