@@ -24,7 +24,7 @@ Klikni na figuro bobna in potem povleci ta dva bloka v območje za programiranje
 
 ```blocks3
 ko kliknemo to figuro
-zaigraj na boben ((1) Snare Drum v) za (0.25) udarcev
+zaigraj na boben (\(1\) Snare Drum v) za (0.25) udarcev
 ```
 
 --- no-print ---

@@ -6,7 +6,7 @@ Uporabi to, kar si se v tem projektu naučil-a, da ustvariš svojo lastno glasbe
 
 ```blocks3
 ko kliknemo to figuro
-nastavi inštrument na ((1) Piano v)
+nastavi inštrument na (\(1\) Piano v)
 predvajaj noto (60) za (0.25) udarce
 ```
 
