@@ -1,23 +1,70 @@
+--- no-print ---
+
+这个项目是基于**Scratch 3**的，此外还有一个基于[Scratch 2的版本](https://projects.raspberrypi.org/zh-CN/projects/rock-band-scratch2)。
+
+--- /no-print ---
+
 ## 简介
 
 学习如何编码自己的乐器！
 
-### 你将制作什么
+### 你将做出什么
 
-点击绿旗开始。然后，点击歌手或鼓，听一下他们发出的声音。
+--- no-print ---
+
+点击绿旗开始运行程序。然后，点击歌手或鼓，听听它们会发出什么样的声音。
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/227514913/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-### 你将学到什么
+--- /no-print ---
 
-本项目涵盖[树莓派数字制作课程](http://rpf.io/curriculum){:target="_blank"} 如下几方面内容:
+--- print-only ---
 
-+ [利用基本的编程结构来创建简单的程序](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
+你将制作一个这样的游戏，当你点击歌手或鼓时，可以听到歌声或鼓声。
 
-### 教育者附加信息
+![游戏截图](images/demo.png)
+
+--- /print-only ---
+
+--- collapse ---
+---
+title: 你将学到什么
+---
+
++ 使用代码在Scratch中更改角色的服装
++ 使用代码使角色在Scratch中对输入作出反应
++ 在Scratch中给角色添加音效
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: 你需要准备什么
+---
+
+#### 硬件
+
++ 能够运行Scratch 3的电脑
+
+#### 软件
+
++ Scratch 3 ([在线版本](http://rpf.io/scratchon){:target="_blank"}或[离线版本](http://rpf.io/scratchoff){:target="_blank"}）
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: 教师附加信息
+---
+
+--- no-print ---
 
 如果你需要打印此项目，请使用[打印机友好版本](https://projects.raspberrypi.org/zh-CN/projects/rock-band/print){:target="_blank"}。
 
-使用页脚的链接访问此项目的GitHub版本库，所有资源（包括最终版示例）保存在'zh-CN/resources' 文件夹。
+--- /no-print ---
+
+你可以在这里找到 [完成的项目](http://rpf.io/p/zh-CN/rock-band-get)。
+
+--- /collapse ---

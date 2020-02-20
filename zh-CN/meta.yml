@@ -1,29 +1,20 @@
 ---
 hero_image: images/hero-rock-band-large.png
-theme: red
-duration: 2
 listed: true
-ingredient: false
 copyedit: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: 摇滚乐队
 description: 学习如何编自己的乐器
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-interests: ''
-technologies: scratch
-site_areas: projects
-hardware: ''
-software: scratch
-version: 4
-last_tested: 2017-10-01
+version: 4.1.1
+last_tested: 2018-10-12
 steps:
   - title: 简介
-  - title: 你需要什么
   - title: 角色
   - title: 舞台
   - title: 制作一面鼓
   - title: "挑战：改进你的鼓"
+    challenge: true
   - title: 创建一个歌手
   - title: 造型
-  - title: "挑战：修改鼓的造型"
-  - title: "挑战：组建你自己的乐队"
+  - title: "挑战：改进你的乐队"
+    challenge: true
+  - title: "接下来还有什么？"
