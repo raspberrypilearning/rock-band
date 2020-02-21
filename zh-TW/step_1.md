@@ -1,23 +1,67 @@
+--- no-print ---
+
+這個專案是 **Scratch 3** 版本。另外還有 [Scratch 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) 版本。
+
+--- /no-print ---
+
 ## 介紹
 
-學習如何編碼自己的樂器！
+學習如何用程式寫個專屬你自己的樂器！
 
-### 你會做什麼
+### 你會做出的玩意兒
 
-點擊綠旗開始。然後，點擊歌手或鼓，聽聽他們聽起來像什麼。
+--- no-print ---
+
+點擊綠色旗子運行程式，然後，點擊歌手或鼓，聽聽他們會發出什麼聲音。
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/229595572/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
 </div>
 
-### 你會學到什麼
+--- /no-print ---
 
-此項目涵蓋 [Raspberry Pi數字化課程](http://rpf.io/curriculum){:target="_blank"}的下列部分：
+--- print-only ---
 
-+ [使用基本的編程結構來創建簡單的程序](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
+你會做出個遊戲，點擊歌手或鼓就可以聽到歌聲或鼓聲。
 
-### 有關教育者的其他信息
+![遊戲截圖](images/demo.png)
 
-如果您需要打印此項目，請使用 [打印機友好版本](https://projects.raspberrypi.org/zh-TW/projects/rock-band/print){:target="_ blank"}.
+--- /print-only ---
 
-使用頁腳中的鏈接訪問此項目的GitHub倉庫，其中包含'zh-TW/resources'文件夾中的所有資源(包括示例完成的項目)。
+--- collapse ---
+---
+title: 你會學到
+---
++ 用 Scratch 程式替換角色的造型
++ 用 Scratch 程式讓角色對輸入做反應
++ 在 Scratch 裡添加一些聲音給角色
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: 你會用到
+---
+#### 硬體
+
++ 可運行Scratch 3的電腦
+
+#### 軟體
+
++ Scratch 3（[線上版](http://rpf.io/scratchon){:target="_blank"} 或 [離線版](http://rpf.io/scratchoff){:target="_blank"}）
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: 給教師的其它資訊
+---
+--- no-print ---
+
+如果你需要列印這個專案，可以先切換成[列印友好模式](https://projects.raspberrypi.org/zh-TW/projects/rock-band/print){:target="_blank"}。
+
+--- /no-print ---
+
+你可以在這裡找到[已經完成的專案](http://rpf.io/p/zh-TW/rock-band-get)。
+
+--- /collapse ---
