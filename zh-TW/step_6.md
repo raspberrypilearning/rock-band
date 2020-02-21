@@ -1,19 +1,46 @@
---- challenge ---
+## 製造一個歌手
 
-## 挑戰：改進你的鼓
+現在來幫你的樂隊添加一名歌手！
 
-+ 你可以改變鼓點擊時發出的聲音嗎？
+--- task ---
 
-![截圖](images/band-drum-sound.png)
+添加一個歌手角色到你的舞台。
 
-+ 當空格鍵被按下時，你可以讓鼓依然發出聲音嗎？您需要使用此 `事件`{:class="blockevents"} 代碼塊：
+![截圖](images/band-singer-mic.png)
 
-```blocks
-    當 [空白 v] 鍵被按下
+[[[generic-scratch3-sprite-from-library]]]
+
+--- /task ---
+
+--- task ---
+
+在你讓歌手唱歌之前，你需要為你的歌手角色添加聲音。 檢查你選的是不是歌手角色，然後切換到音效頁籤，再點擊**選個音效**：
+
+![截圖](images/band-import-sound-annotated.png)
+
+--- /task ---
+
+--- task ---
+
+點擊範例庫最上方的**人聲** ，然後選擇一個要添加到角色的聲音。
+
+![截圖](images/band-choose-sound.png)
+
+--- /task ---
+
+--- task ---
+
+要使用音效，請添加以下程式積木到你的歌手角色裡：
+
+```blocks3
+當角色被點擊
+播放音效 (Singer1 v) 直到結束
 ```
 
-您可以通過右鍵單擊現有代碼並單擊 **複製**來複製。
+--- /task ---
 
-![截圖](images/band-duplicate-code.png)
+--- task ---
 
---- /challenge ---
+點擊舞台上的歌手，看看會發生什麼，她唱歌了嗎？
+
+--- /task ---
