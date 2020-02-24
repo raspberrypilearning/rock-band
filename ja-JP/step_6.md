@@ -8,7 +8,7 @@
 
 ![スクリーンショット](images/band-singer-mic.png)
 
-[[[generic-scratch-sprite-from-library]]]
+[[[generic-scratch3-sprite-from-library]]]
 
 --- /task ---
 
