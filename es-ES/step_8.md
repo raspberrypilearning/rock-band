@@ -1,20 +1,20 @@
 ## Disfraces
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+¡Usa lo que has aprendido en este proyecto para hacer tu propia banda! Puedes crear cualquier instrumento que quieras: echa un vistazo a los objetos y sonidos de instrumentos disponibles para darte algunas ideas.
 
 ![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
-when this sprite clicked
-set instrument to (\(1\) Piano v)
-play note (60) for (0.25) beats
+al hacer clic en este objeto
+fijar instrumento a ((1) Piano v)
+tocar nota (60) durante (0.25) tiempos
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+Tus instrumentos no tienen por qué ser realistas. Por ejemplo, ¡podrías hacer un piano hecho de magdalenas!
 
 ![captura de pantalla](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+¡Puedes usar más objetos de la biblioteca, y también puedes pintar tus propios objetos!
 
 ![captura de pantalla](images/band-draw.png)
 
@@ -24,10 +24,10 @@ You can use more sprites from the library, and you can also paint your own sprit
 
 Cuando creas tu propio objeto, a lo mejor descubrirás que cuando haces clic encima de él, este 'salta' cuando cambia de disfraz. Esto pasa si los dos disfraces no están centrados en el mismo punto.
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+Para arreglarlo, asegúrate de que los centros de los disfraces de tu objeto sean los mismos.
 
 \--- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+Si tienes un micrófono, puedes grabar tus propios sonidos e incluso puedes usar una webcam para darle a tus instrumentos!
 
 ![screenshot](images/band-io.png)
