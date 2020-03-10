@@ -1,13 +1,28 @@
---- challenge ---
+## ¿Qué sigue?
 
-## Desafío: cambia el disfraz de tu tambor
+Ahora que has creado tu primer proyecto de Scratch, ¿por qué no echas un vistazo al proyecto de Scratch [Perdidos en el espacio](https://projects.raspberrypi.org/es-ES/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)?
 
-¿Sabes como hacer que parezca que tu tambor ha sido golpeado?
+--- no-print ---
 
-![captura de pantalla](images/band-drum-final.png)
+Haz clic en la bandera verde para ver la animación.
 
---- hints --- --- hint --- Usa las instrucciones de cómo cambiar el disfraz de tu cantante en el paso anterior como ayuda. --- /hint --- --- /hints ---
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/350291645/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-¡Acuérdate de comprobar si tu nuevo código funciona!
+--- /no-print ---
 
---- /challenge ---
+--- print-only ---
+
+![Proyecto terminado](images/space-final.png)
+
+--- /print-only ---
+
+
+***
+Traducción aportada por la comunidad
+
+Este proyecto fue traducido por Lourdes Paniagua Merchán/Sarah Jane Hubbard y revisado por Laura Lurati/Helmut Schlimper.
+
+Nuestros increíbles voluntarios de traducción nos ayudan a dar a los niños de todo el mundo la oportunidad de aprender a programar. Puedes ayudarnos a llegar a más niños traduciendo nuestros proyectos. Consigue más información en [rpf.io/translate](https://rpf.io/translate).

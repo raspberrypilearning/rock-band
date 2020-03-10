@@ -18,6 +18,7 @@ Además de utilizar objetos existentes, también puedes dibujar uno nuevo.
 ---
 title: ¿Por qué 'salta' el objeto cuando cambia de disfraz?
 ---
+
 + Cuando creas tu propio objeto, a lo mejor descubrirás que cuando haces clic encima de él, este 'salta' cuando cambia de disfraz. Esto pasa si los dos disfraces no están centrados en el mismo punto.
 
 Para arreglarlo, haz clic en **Fijar el centro del disfraz** para los dos disfraces, y asegúrate de que el centro esté en el mismo punto en ambos.
@@ -31,9 +32,3 @@ Si tienes un micrófono, puedes grabar tus propios sonidos, ¡o incluso usar una
 ![captura de pantalla](images/band-io.png)
 
 --- /challenge ---
-***
-### Traducción aportada por la comunidad 
-
-Este proyecto fue traducido por **María Alejandra Aguada / Sarah-Jane Hubbard / Montse Verdaguer** y revisado por **Helmut Schlimper**. 
-
-Nuestros increíbles voluntarios de traducción nos ayudan a dar a los niños de todo el mundo la oportunidad de aprender a programar. Puedes ayudarnos a llegar a más niños traduciendo nuestros proyectos. Consigue más información en [rpf.io/translators](https://rpf.io/translators).
