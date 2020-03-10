@@ -1,10 +1,10 @@
 ## Crear un cantante
 
-Now you will add a singer to your band!
+¡Ahora vas a añadir un cantante a tu banda!
 
 \--- task \---
 
-Add a singer sprite to your Stage.
+Añade un objeto de cantante a tu escenario. (Nota: cambia el nombre del objeto de Singer1 a Cantante1).
 
 ![captura de pantalla](images/band-singer-mic.png)
 
@@ -14,33 +14,33 @@ Add a singer sprite to your Stage.
 
 \--- task \---
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+Antes de que puedas hacer cantar a tu cantante, tienes que añadir un sonido al objeto. Asegúrate de haber seleccionado tu objeto cantante, luego haz clic en la pestaña Sonidos y haz clic en **Elige un sonido**:
 
-![screenshot](images/band-import-sound-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
-
-![screenshot](images/band-choose-sound.png)
+![captura de pantalla](images/band-import-sound-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-To use the sound, add the following code blocks to your singer sprite:
+Haz clic en **Voz** en la lista en la parte superior, y luego elige un sonido para añadir a tu objeto.
+
+![captura de pantalla](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+Para usar el sonido, añade los siguientes bloques de código a tu objeto cantante:
 
 ```blocks3
-when this sprite clicked
-play sound (singer1 v) until done
+al hacer clic en este objeto
+tocar sonido (Cantante1 v) hasta que termine
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Click on your singer on the stage and see what happens. Does she sing?
+Haz clic en tu cantante para ver qué pasa. ¿Canta?
 
 \--- /task \---
