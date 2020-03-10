@@ -12,7 +12,7 @@ Este es el ** Scratch 3 ** Versión del proyecto. También hay una versión [ Sc
 
 \--- no-print \---
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+Haz clic en la bandera verde para empezar. Luego, haz clic en el cantante o el tambor para escuchar cómo suenan.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,9 +22,9 @@ Click the green flag to begin. Then, click on the singer or the drum to hear wha
 
 \--- print-only \---
 
-You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+Vas a crear un juego en el que al hacer clic en el cantante o el tambor se escuchará el canto o los sonidos del tambor.
 
-![game screenshot](images/demo.png)
+![captura de pantalla del juego](images/demo.png)
 
 \--- /print-only \---
 
@@ -32,9 +32,9 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## title: Lo que vas a aprender
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch
++ Utilizar código para cambiar el disfraz de un objeto en Scratch
++ Utilizar código para hacer que los objetos reaccionen a entradas (input) en Scratch
++ Añadir sonidos a un objeto en Scratch
 
 \--- /collapse \---
 
@@ -58,10 +58,10 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Si necesitas imprimir este proyecto, por favor usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+Puedes encontrar el [proyecto terminado aquí](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
