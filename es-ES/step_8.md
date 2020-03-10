@@ -1,27 +1,34 @@
 ## Disfraces
 
-¡Vamos a hacer que parezca que la cantante esté cantando!
+¡Usa lo que has aprendido en este proyecto para hacer tu propia banda! Puedes crear cualquier instrumento que quieras: echa un vistazo a los objetos y sonidos de instrumentos disponibles para darte algunas ideas.
 
-+ Si creas un nuevo disfraz, también puedes cambiar el aspecto de tu cantante cuando haces clic para que cante. Haz clic en la pestaña Disfraces y verás la imagen de la cantante.
-    
-    ![captura de pantalla](images/band-singer-costume.png)
+![screenshot](images/band-ideas-sounds.png)
 
-+ Haz clic derecho en el disfraz y luego clica en **duplicar** para crear una copia del disfraz.
-    
-    ![captura de pantalla](images/band-singer-duplicate.png)
+```blocks3
+al hacer clic en este objeto
+fijar instrumento a (\(1\) Piano v)
+tocar nota (60) durante (0.25) tiempos
+```
 
-+ Haz clic en el nuevo disfraz (llamado 'Cantante2'), luego selecciona la herramienta línea y dibuja líneas para que parezca que tu cantante esté cantando.
-    
-    ![captura de pantalla](images/band-singer-click.png)
+Tus instrumentos no tienen por qué ser realistas. Por ejemplo, ¡podrías hacer un piano hecho de magdalenas!
 
-+ Ahora mismo los nombres de los disfraces no son muy útiles. Cambia el nombre de los dos disfraces para que se llamen 'no cantando' y 'cantando', escribiendo el nuevo nombre de cada uno en el cuadro de texto.
-    
-    ![captura de pantalla](images/band-singer-name.png)
+![captura de pantalla](images/band-piano.png)
 
-+ Ahora que tienes dos disfraces diferentes para tu cantante, ¡puedes escoger cual de ellos se visualiza! Agrega estos dos bloques a tu cantante:
-    
-    ![captura de pantalla](images/band-looks.png)
-    
-    El bloque de código para cambiar de disfraz se encuentra en la pestaña `Apariencia`{:class="blocklooks"}.
+¡Puedes usar más objetos de la biblioteca, y también puedes pintar tus propios objetos!
 
-+ Haz clic en tu cantante. ¿Parece que está cantando?
+![captura de pantalla](images/band-draw.png)
+
+--- collapse ---
+---
+title: ¿Por qué 'salta' el objeto cuando cambia de disfraz?
+---
+
+Cuando creas tu propio objeto, a lo mejor descubrirás que cuando haces clic encima de él, este 'salta' cuando cambia de disfraz. Esto pasa si los dos disfraces no están centrados en el mismo punto.
+
+Para arreglarlo, asegúrate de que los centros de los disfraces de tu objeto sean los mismos.
+
+--- /collapse ---
+
+Si tienes un micrófono, puedes grabar tus propios sonidos e incluso puedes usar una webcam para darle a tus instrumentos!
+
+![screenshot](images/band-io.png)

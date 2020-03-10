@@ -1,29 +1,27 @@
-## Objetos
+## El Escenario
 
-Antes de comenzar la codificación, necesitas añadir una “cosa” que animar. En Scratch, estas “cosas” se llaman **objetos**.
+El **Escenario** es la zona de la derecha, y es donde tu proyecto cobra vida. Piensa en él como la zona de actuación, ¡como si fuera un escenario de verdad!
 
-+ Para empezar, abre el editor de Scratch. Puedes encontrar el editor en línea de Scratch en <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. Éste es su aspecto:
-    
-    ![captura de pantalla](images/band-scratch.png)
+--- task ---
 
-+ El objeto gato que ves es la mascota de Scratch. Borrémoslo haciendo clic en la figura con el botón derecho y luego haciendo clic en **borrar**.
-    
-    ![captura de pantalla](images/band-delete.png)
+De momento, el escenario es blanco y ¡se ve bastante aburrido! Añádele un fondo haciendo clic en **Elige un fondo**.
 
-+ Luego, haz clic en **Selecciona un objeto de la biblioteca** para abrir una lista con todos los objetos de Scratch.
-    
-    ![captura de pantalla](images/band-sprite-library.png)
+![captura de pantalla](images/band-stage-choose.png)
 
-+ Baja hasta encontrar el objeto de un tambor. Selecciona un tambor, y haz clic en **“OK”** para añadirlo a tu proyecto.
-    
-    ![captura de pantalla](images/band-sprite-drum.png)
+--- /task ---
 
-+ Haz clic en el icono **encoger**, y luego haz clic en el tambor unas cuantas veces para hacerlo más pequeño.
-    
-    ![captura de pantalla](images/band-shrink.png)
+--- task ---
 
-Dale un nombre a tu proyecto escribiéndolo en la casilla de texto de la parte superior del escenario.
+Haz clic en **Interiores** en la lista de la parte superior. Luego haz clic en el fondo de un teatro.
 
-Después puedes hacer clic en **Archivo** y **Guardar ahora** para guardar tu proyecto. Si no tienes una cuenta de Scratch, puedes guardar una copia de tu proyecto haciendo clic en **Descargar a tu computadora**.
+![captura de pantalla](images/band-backdrop.png)
 
-![captura de pantalla](images/band-save.png)
+--- /task ---
+
+--- task ---
+
+Ahora tu escenario debe tener este aspecto:
+
+![captura de pantalla](images/band-stage.png)
+
+--- /task ---
