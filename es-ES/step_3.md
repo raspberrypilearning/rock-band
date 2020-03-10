@@ -1,27 +1,27 @@
 ## El Escenario
 
-The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+El **Escenario** es la zona de la derecha, y es donde tu proyecto cobra vida. Piensa en él como la zona de actuación, ¡como si fuera un escenario de verdad!
 
 \--- task \---
 
-At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+De momento, el escenario es blanco y ¡se ve bastante aburrido! Añádele un fondo haciendo clic en **Elige un fondo**.
 
-![screenshot](images/band-stage-choose.png)
+![captura de pantalla](images/band-stage-choose.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+Haz clic en **Interiores** en la lista de la parte superior. Luego haz clic en el fondo de un teatro.
 
-![screenshot](images/band-backdrop.png)
+![captura de pantalla](images/band-backdrop.png)
 
 \--- /task \---
 
 \--- task \---
 
-Your stage should now look similar to this:
+Ahora tu escenario debe tener este aspecto:
 
-![screenshot](images/band-stage.png)
+![captura de pantalla](images/band-stage.png)
 
 \--- /task \---
