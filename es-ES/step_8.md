@@ -6,7 +6,7 @@
 
 ```blocks3
 al hacer clic en este objeto
-fijar instrumento a ((1) Piano v)
+fijar instrumento a (\(1\) Piano v)
 tocar nota (60) durante (0.25) tiempos
 ```
 

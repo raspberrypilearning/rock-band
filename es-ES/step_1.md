@@ -50,7 +50,7 @@ title: Lo que vas a necesitar
 
 #### Software
 
-+ Scratch 3 (ya sea [online](http://rpf.io/scratchon){:target="_blank"} u [offline](http://rpf.io/scratchoff) {:target="_blank"})
++ Scratch 3 (ya sea [online](http://rpf.io/scratchon){:target="_blank"} u [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
