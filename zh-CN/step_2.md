@@ -10,7 +10,7 @@
 
 **离线：**在离线编辑器中打开一个新项目。
 
-如果您需要下载并安装Scratch离线编辑器，可以在[rpf.io/scratchoff](http://rpf.io/scratchoff)中获取{:target="_blank"}。
+如果您需要下载并安装Scratch离线编辑器，可以在[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}中获取。
 
 它看起来像这样：
 

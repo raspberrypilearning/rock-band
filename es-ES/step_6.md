@@ -4,7 +4,7 @@
 
 --- task ---
 
-Añade un objeto de cantante a tu escenario. (Nota: cambia el nombre del objeto de Singer1 a Cantante1).
+Añade un objeto de cantante a tu escenario. (Nota: en los siguientes ejemplos cambia el nombre del objeto, sonido y disfraz de Singer1 a Cantante1).
 
 ![captura de pantalla](images/band-singer-mic.png)
 
