@@ -4,39 +4,39 @@ Acum o să faci cântăreața să arate ca și cum ar cânta!
 
 \--- task \---
 
-You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
+Poți schimba modul în care arată personajul tău, atunci când e apăsat, adăugându-i un nou costum. Apasă pe tabul Costume, și vei vedea costumul cântăreței.
 
-![screenshot](images/band-singer-costume-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Right-click on the costume and then click on **duplicate** to create a copy of it.
-
-![screenshot](images/band-singer-duplicate.png)
+![captură de ecran](images/band-singer-costume-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+Dă click-dreapta pe costum și apoi dă click pe **duplică** pentru a crea o copie a costumului.
 
-![screenshot](images/band-singer-click.png)
-
-\--- /task \---
-
-\--- task \---
-
-The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
-
-![screenshot](images/band-singer-name-annotated.png)
+![captură de ecran](images/band-singer-duplicate.png)
 
 \--- /task \---
 
 \--- task \---
 
-Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
+Dă click pe noul costum (numit „Singer2”), apoi selectează linia din bara de unelte și desenează linii astfel încât să pară cum cântăreața scoate sunet.
+
+![captură de ecran](images/band-singer-click.png)
+
+\--- /task \---
+
+\--- task \---
+
+Numele costumelor nu sunt de mare ajutor în acest moment. Tastează în căsuțele text ale costumelor pentru a schimba numele lor în „cântă” și „nu cântă”.
+
+![captură de ecran](images/band-singer-name-annotated.png)
+
+\--- /task \---
+
+\--- task \---
+
+Acum, că ai două costume diferite pentru cântăreața ta, poți alege care costum este afișat! Adaugă aceste două blocuri cântăreței:
 
 ```blocks3
 când se dă click pe acest personaj
@@ -45,24 +45,24 @@ redă sunetul (singer1 v) până la final
 +schimbă costumul la (not singing v)
 ```
 
-The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
+Blocul pentru schimbarea costumului este în secțiunea `Aspect`{:class="block3looks"}.
 
 \--- /task \---
 
 \--- task \---
 
-Click on your singer on the stage. Does she look like she is singing?
+Dă click pe cântăreața ta de pe scenă și vezi ce se întâmplă. Pare că ar cânta?
 
 \--- /task \---
 
 \--- task \---
 
-Now make your drum look like it's being hit!
+Acum schimbă felul în care arată toba ta ca și cum ar fi lovită!
 
-![screenshot](images/band-drum-final.png)
+![captură de ecran](images/band-drum-final.png)
 
 - Folosește instrucțiunile pentru schimbarea costumului personajului tău dacă ai nevoie de ajutor.
 
-Remember to test that your new code works!
+Nu uita să testezi dacă noul cod funcționează corect!
 
 \--- /task \---
