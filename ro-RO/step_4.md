@@ -20,7 +20,7 @@ Dă click pe extensia **Muzica** pentru a o adăuga.
 
 \--- task \---
 
-Click on the drum sprite, and then drag these two blocks into the code area on the right:
+Dă click pe personajul tobă, și apoi trage aceste două blocuri în zona de cod din dreapta:
 
 ```blocks3
 când se dă click pe acest personaj
@@ -29,16 +29,16 @@ cântă la tobă ((1) Snare Drum v) pentru (0.25) bătăi
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![captură de ecran](images/connect-block.gif)
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Asigură-te că blocurile sunt conectate între ele (ca piesele de LEGO).
 
 \--- /task \---
 
 \--- task \---
 
-Click on the drum to try out your new instrument!
+Apasă pe tobă și incearcă noul instrument!
 
 \--- /task \---
