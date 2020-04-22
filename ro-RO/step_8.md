@@ -6,7 +6,7 @@ Folosește tot ceea ce ai învățat în acest proiect pentru a-ți face propria
 
 ```blocks3
 când se dă click pe acest personaj
-setează instrument la ((1) Piano v)
+setează instrument la (\(1\) Piano v)
 cântă nota (60) pentru (0.25) bătăi
 ```
 

@@ -24,7 +24,7 @@ Dă click pe personajul tobă, și apoi trage aceste două blocuri în zona de c
 
 ```blocks3
 când se dă click pe acest personaj
-cântă la tobă ((1) Snare Drum v) pentru (0.25) bătăi
+cântă la tobă (\(1\) Snare Drum v) pentru (0.25) bătăi
 ```
 
 --- no-print ---
