@@ -61,7 +61,7 @@ Haz clic en tu cantante en el escenario. ¿Parece que está cantando?
 
 ![captura de pantalla](images/band-drum-final.png)
 
-- Como ayudas puedes utilizar las instrucciones para cambiar el disfraz de tu objeto cantante.
+- Como ayuda puedes utilizar las instrucciones para cambiar el disfraz de tu objeto cantante.
 
 ¡No te olvides de comprobar si tu nuevo código funciona!
 
