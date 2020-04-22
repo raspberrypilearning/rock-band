@@ -1,6 +1,6 @@
 \--- no-print \---
 
-Este es el ** Scratch 3 ** Versión del proyecto. También hay una versión [ Scratch 2 del proyecto. ](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+Este es la versión del proyecto para ** Scratch 3 **. También hay una [versión para Scratch 2 del proyecto](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
