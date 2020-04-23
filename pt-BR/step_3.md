@@ -1,6 +1,6 @@
-## O palco
+## The Stage
 
-O **Palco** é a área à direita, e é onde seu projeto ganha vida. Pense nele como uma área de atuação, assim como um palco real!
+The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
 \--- task \---
 
