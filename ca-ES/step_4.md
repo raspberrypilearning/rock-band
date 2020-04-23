@@ -1,26 +1,26 @@
-## Making a drum
+## Fent un tambor
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+Ara afegiràs codi al teu tambor perquè aquest soni quan hi cliquis a sobre.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Pots trobar els blocs de codi a la pestanya Codi, i tots tenen codis de colors!
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+Primer afegeix l'extensió **Música** perquè puguis tocar instruments.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+Fes clic al botó **Afegeix una Extensió** de la part inferior esquerra.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![afegir extensió botó destacat](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+Fes clic a l’extensió **Música** per afegir-la.
 
-![music extension highlighted](images/click-music-annotated.png)
+![extensió música destacada](images/click-music-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on the drum sprite, and then drag these two blocks into the code area on the right:
+Fes clic al personatge del tambor i després arrossega aquests dos blocs a l'àrea de codi de la dreta:
 
 ```blocks3
 when this sprite clicked
@@ -29,16 +29,16 @@ play drum (\(1\) Snare Drum v) for (0.25) beats
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![captura de pantalla](images/connect-block.gif)
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Assegura't que els blocs estiguin connectats entre sí (com els maons de LEGO).
 
 \--- /task \---
 
 \--- task \---
 
-Click on the drum to try out your new instrument!
+Fes clic al tambor per provar el teu nou instrument!
 
 \--- /task \---
