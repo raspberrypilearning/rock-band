@@ -1,42 +1,42 @@
-## Costumes
+## Vestits
 
-Now you will make your singer look like she's singing!
+Ara faràs que el teu cantant sembli que canti!
 
 \--- task \---
 
-You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
+Pots canviar l’aspecte del teu personatge de cantant quan se'l cliqui assignant-li un nou vestit. Fes clic a la pestanya Vestits i veuràs el vestit del cantant.
 
-![screenshot](images/band-singer-costume-annotated.png)
+![captura de pantalla](images/band-singer-costume-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Right-click on the costume and then click on **duplicate** to create a copy of it.
+Fes clic amb el botó dret al vestit i després clic a **duplica** per crear-ne una còpia.
 
-![screenshot](images/band-singer-duplicate.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
-
-![screenshot](images/band-singer-click.png)
+![captura de pantalla](images/band-singer-duplicate.png)
 
 \--- /task \---
 
 \--- task \---
 
-The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+Fes clic al vestit nou (anomenat "Cantant2") i, a continuació, selecciona l'eina de línia i dibuixa línies perquè sembli que el teu cantant canta.
 
-![screenshot](images/band-singer-name-annotated.png)
+![captura de pantalla](images/band-singer-click.png)
 
 \--- /task \---
 
 \--- task \---
 
-Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
+De moment, els noms dels vestits no són de gran ajuda. Escriu dins els requadres de text dels vestits per canviar el seu nom per "no canta" i "canta".
+
+![captura de pantalla](images/band-singer-name-annotated.png)
+
+\--- /task \---
+
+\--- task \---
+
+Ara que tens dos vestits diferents pel teu cantant, pots triar el vestuari que es mostra! Afegeix aquests dos blocs de codi al personatge del teu cantant:
 
 ```blocks3
 when this sprite clicked
@@ -45,24 +45,24 @@ play sound (singer1 v) until done
 +switch costume to (not singing v)
 ```
 
-The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
+El bloc de codi per canviar el vestit es troba a la secció `Aspecte`{:class="block3looks"}.
 
 \--- /task \---
 
 \--- task \---
 
-Click on your singer on the stage. Does she look like she is singing?
+Fes clic al teu cantant de l'escenari. Sembla que està cantant?
 
 \--- /task \---
 
 \--- task \---
 
-Now make your drum look like it's being hit!
+Ara fes que el tambor sembli que s'està colpejant!
 
-![screenshot](images/band-drum-final.png)
+![captura de pantalla](images/band-drum-final.png)
 
-- Use the instructions for changing your singer sprite's costume to help you.
+- Segueix les instruccions per canviar el vestit del personatge del cant per ajudar-te.
 
-Remember to test that your new code works!
+No oblidis provar que el teu codi nou funciona!
 
 \--- /task \---
