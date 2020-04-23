@@ -1,27 +1,27 @@
-## The Stage
+## L'escenari
 
-The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+**L'escenari** es troba a la zona de la dreta, i és on cobra vida el teu projecte. Pensa en això com una àrea d’actuació, igual que un escenari real!
 
 \--- task \---
 
-At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+De moment, l'escenari és blanc i sembla molt avorrit. Afegeix-hi un fons fent clic a **Tria un fons**.
 
-![screenshot](images/band-stage-choose.png)
+![captura de pantalla](images/band-stage-choose.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+Fes clic a **Interiors** de la llista de la part superior. A continuació, fes clic a un fons de teatre.
 
-![screenshot](images/band-backdrop.png)
+![captura de pantalla](images/band-backdrop.png)
 
 \--- /task \---
 
 \--- task \---
 
-Your stage should now look similar to this:
+Ara el teu escenari hauria de ser similar a aquest:
 
-![screenshot](images/band-stage.png)
+![captura de pantalla](images/band-stage.png)
 
 \--- /task \---
