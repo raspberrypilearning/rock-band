@@ -1,6 +1,6 @@
-## Sprites
+## Corluniau
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Cyn i ti allu dechrau codio, bydd angen i ti ychwanegu ‘rhywbeth’ i godio. Yn Scratch, mae’r ‘pethau’ yma yn cael eu galw yn **gipluniau**.
 
 \--- task \---
 
@@ -22,7 +22,7 @@ It looks like this:
 
 The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
-![screenshot](images/band-delete-annotated.png)
+![sgrinlun](images/band-delete-annotated.png)
 
 \--- /task \---
 
