@@ -1,12 +1,12 @@
-## Making a singer
+## Fent un cantant
 
-Now you will add a singer to your band!
+Ara afegiràs un cantant a la teva banda!
 
 \--- task \---
 
-Add a singer sprite to your Stage.
+Afegeix un personatge de cantant a l'Escenari.
 
-![screenshot](images/band-singer-mic.png)
+![captura de pantalla](images/band-singer-mic.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -14,23 +14,23 @@ Add a singer sprite to your Stage.
 
 \--- task \---
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+Abans que puguis fer cantar el teu cantant, has d'afegir un so al seu personatge. Assegura't que has seleccionat el teu personatge de cantant, a continuació, fes clic a la pestanya Sons i fes clic a **Tria un so**:
 
-![screenshot](images/band-import-sound-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
-
-![screenshot](images/band-choose-sound.png)
+![captura de pantalla](images/band-import-sound-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-To use the sound, add the following code blocks to your singer sprite:
+Fes clic a **Veu** a la llista de la part superior i, a continuació, escull un so per afegir-lo al teu personatge.
+
+![captura de pantalla](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+Per utilitzar el so, afegeix els blocs de codi següents al teu personatge de cantant:
 
 ```blocks3
 when this sprite clicked
@@ -41,6 +41,6 @@ play sound (singer1 v) until done
 
 \--- task \---
 
-Click on your singer on the stage and see what happens. Does she sing?
+Fes clic al cantant a l'escenari i mira què passa. Canta?
 
 \--- /task \---
