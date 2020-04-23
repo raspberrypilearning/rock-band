@@ -1,14 +1,14 @@
 \--- no-print \---
 
-Dies ist die ** Scratch 3 ** Version des Projekts. Es gibt auch eine [ Scratch-2-Version des Projekts ](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
-## Einleitung
+## Introduction
 
-Lerne deine eigenen Musikinstrumente zu programmieren!
+Learn how to code your own musical instruments!
 
-### Was du machen wirst
+### What you will make
 
 \--- no-print \---
 
@@ -30,31 +30,31 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## \--- collapse \---
 
-## title: Was du lernen wirst
+## title: What you will learn
 
-+ Das Kostüm einer Figur in Scratch mithilfe eines Skripts wechseln
-+ Ein Skript verwenden um Figuren in Scratch auf Eingaben reagieren zu lassen
++ Use code to change a sprite's costume in Scratch
++ Use code to make sprites react to input in Scratch
 + Add sounds to a sprite in Scratch
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Was du brauchen wirst
+## title: What you will need
 
 #### Hardware
 
-+ Ein Computer, auf dem Scratch 3 ausgeführt werden kann
++ A computer capable of running Scratch 3
 
 #### Software
 
-+ Scratch 3 (entweder [online](http://rpf.io/scratchon){:target="_blank"} oder [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Zusätzliche Informationen für Pädagogen
+## title: Additional information for educators
 
 \--- no-print \---
 
