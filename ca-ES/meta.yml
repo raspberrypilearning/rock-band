@@ -2,28 +2,28 @@
 hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
-title: Rock band
-description: Learn how to code your own musical instruments
+title: Grup de Rock
+description: Aprèn a programar els teus propis instruments musicals
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
-    title: Introduction
+    title: Introducció
   - 
-    title: Sprites
+    title: Personatges
   - 
-    title: The Stage
+    title: L'escenari
   - 
-    title: Making a drum
+    title: Fent un tambor
   - 
-    title: "Challenge: improve your drum"
+    title: "Repte: millora el teu tambor"
     challenge: true
   - 
-    title: Making a singer
+    title: Fent un cantant
   - 
-    title: Costumes
+    title: Vestits
   - 
-    title: "Challenge: improve your band"
+    title: "Repte: millora la teva banda"
     challenge: true
   - 
-    title: "What next?"
+    title: "I ara què ve?"
