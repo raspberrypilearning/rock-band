@@ -1,18 +1,18 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+Aquesta és la versió de **Scratch 3** del projecte. També hi ha una [versió Scratch 2 del projecte](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Introducció
 
-Learn how to code your own musical instruments!
+Aprèn a programar els teus propis instruments musicals!
 
-### What you will make
+### Què faràs
 
 \--- no-print \---
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+Fes clic a la bandera verda per començar. A continuació, fes clic al cantant o al tambor per escoltar com sonen.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,46 +22,46 @@ Click the green flag to begin. Then, click on the singer or the drum to hear wha
 
 \--- print-only \---
 
-You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+Faràs un joc on pots fer clic sobre el cantant o el tambor per escoltar sons de cant o de bateria.
 
-![game screenshot](images/demo.png)
+![captura de pantalla del joc](images/demo.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## títol: Què aprendràs
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will need
-
-#### Hardware
-
-+ A computer capable of running Scratch 3
-
-#### Software
-
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Utilitzar codi per canviar el vestit del personatge a Scratch
++ Utilitzar codi per fer que els personatges reaccionin a l’entrada en Scratch
++ Afegir sons a un personatge a Scratch
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Què necessitaràs
+
+#### Maquinari
+
++ Un ordinador capaç d'executar Scratch 3
+
+#### Programari
+
++ Scratch 3 (ja sigui [en línia](http://rpf.io/scratchon){:target="_ blank"} o [fora de línia](http://rpf.io/scratchoff){:target="_ blank"})
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## títol: Informació addicional per educadors
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Si necessites imprimir aquest projecte, si us plau, utilitza la [versió per imprimir](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+Pots trobar el [projecte acabat aquí](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
