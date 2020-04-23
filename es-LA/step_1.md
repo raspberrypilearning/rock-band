@@ -1,18 +1,18 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+Esta es la versión **Scratch 3** del proyecto. También existe una versión [Scratch 2 del proyecto](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Introducción
 
-Learn how to code your own musical instruments!
+¡Aprende cómo codificar tus propios instrumentos musicales!
 
-### What you will make
+### Lo que harás
 
 \--- no-print \---
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+Haz clic en la bandera verde para empezar. Luego, haz clic en el cantante o el tambor para escuchar cómo suenan.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
