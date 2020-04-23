@@ -1,10 +1,10 @@
-## What next?
+## I ara què ve?
 
-Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
+Ara que has creat el teu primer projecte de Scratch, per què no fas una ullada al projecte de Scratch [Perduts a l’espai](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)?
 
 \--- no-print \---
 
-Click on the green flag to see the animation.
+Fes clic a la bandera verda per començar.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Click on the green flag to see the animation.
 
 \--- print-only \---
 
-![Complete project](images/space-final.png)
+![Projecte acabat](images/space-final.png)
 
 \--- /print-only \---
