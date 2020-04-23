@@ -1,8 +1,8 @@
-## Challenge: improve your band
+## Repte: millora la teva banda
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+Fes servir el que has après en aquest projecte per fer la teva pròpia banda! Pots crear qualsevol instrument que t'agradi — mira els personatges d'instruments i sons disponibles per obtenir-ne idees.
 
-![screenshot](images/band-ideas-sounds.png)
+![captura de pantalla](images/band-ideas-sounds.png)
 
 ```blocks3
 when this sprite clicked
@@ -10,24 +10,24 @@ set instrument to (\(1\) Piano v)
 play note (60) for (0.25) beats
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+Però els teus instruments no cal que siguin realistes. Per exemple, podries fer un piano fet amb magdalenes!
 
-![screenshot](images/band-piano.png)
+![captura de pantalla](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+Pots utilitzar més personatges de la biblioteca i també pots pintar els teus propis personatges!
 
-![screenshot](images/band-draw.png)
+![captura de pantalla](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## títol: Per què el meu personatge 'salta' quan canvia de vestit?
 
-When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+Quan crees el teu propi personatge, potser trobaràs que quan facis clic al personatge, "salta" a mesura que canvia de vestit. Això passa perquè els dos vestits no estan centrats en el mateix lloc.
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+Per solucionar-ho, assegura't que els centres dels vestits del teu personatge siguin els mateixos.
 
 \--- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+Si tens un micròfon, pots gravar els teus propis sons, i fins i tot pots utilitzar una càmera web per tocar els teus instruments!
 
-![screenshot](images/band-io.png)
+![captura de pantalla](images/band-io.png)
