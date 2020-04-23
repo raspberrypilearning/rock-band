@@ -1,20 +1,20 @@
-## Napravi bubanj
+## Making a drum
 
-Sada ćeš napisati kôd kako bi bubanj pravio zvuk kad na njega klikneš.
+Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
-Blokove kôda možeš pronaći na kartici Skripte i svi su označeni bojama!
+You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
 \--- task \---
 
-Prvo dodaj proširenje **Glazba** kako bi instrumenti svirali.
+First add the **Music** extension so you can play instruments.
 
-Klikni na gumb **Dodaj proširenje** u donjem lijevom kutu.
+Click on the **Add extension** button in the bottom left-hand corner.
 
-![istaknuti gumb za dodavanje proširenja](images/add-extension-annotated.png)
+![add extension button highlighted](images/add-extension-annotated.png)
 
-Klikni na proširenje **Glazba**.
+Click on the **Music** extension to add it.
 
-![istaknuto proširenje za glazbu](images/click-music-annotated.png)
+![music extension highlighted](images/click-music-annotated.png)
 
 \--- /task \---
 
@@ -23,8 +23,8 @@ Klikni na proširenje **Glazba**.
 Click on the drum sprite, and then drag these two blocks into the code area on the right:
 
 ```blocks3
-Kada je lik kliknut
-bubnjaj ((1) Mali bubanj v) (0.25) puta
+when this sprite clicked
+play drum (\(1\) Snare Drum v) for (0.25) beats
 ```
 
 \--- no-print \---
