@@ -1,4 +1,4 @@
---- no imprimir ---
+--- no-print ---
 
 Esta es la versión **Scratch 3** del proyecto. También existe una versión [Scratch 2 del proyecto](https://projects.raspberrypi.org/es-LA/projects/rock-band-scratch2).
 
