@@ -1,44 +1,44 @@
-## Making a drum
+## Haciendo un tambor
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+Ahora vas a añadir código a tu tambor para que haga un sonido cuando se haga clic sobre él.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+Puedes encontrar los bloques de código en la pestaña Código, ¡y todos están codificados por colores!
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+Primero añade la extensión **Música** para que puedas tocar instrumentos.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+Haz clic en el botón **Agregar extensión** en la esquina inferior izquierda.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![añadir botón de extensión resaltado](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+Haz clic en la extensión **Música** para añadirla.
 
-![music extension highlighted](images/click-music-annotated.png)
+![extensión de música resaltada](images/click-music-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on the drum sprite, and then drag these two blocks into the code area on the right:
+Haz clic en el objeto tambor, y luego arrastra estos dos bloques al área de código de la derecha:
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+al hacer clic en este objeto
+tocar tambor (\ (1 \) Caja v) durante (0.25) pulsos
 ```
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![captura de pantalla](images/connect-block.gif)
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Asegúrate de que los bloques estén conectados entre sí (como los ladrillos de LEGO).
 
 \--- /task \---
 
 \--- task \---
 
-Click on the drum to try out your new instrument!
+¡Haz clic en el tambor para probar tu nuevo instrumento!
 
 \--- /task \---
