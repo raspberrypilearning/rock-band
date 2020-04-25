@@ -1,63 +1,63 @@
-## Sprites
+## Personatges
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Abans de començar a programar, necessitaràs afegir una 'cosa' al codi. A Scratch, aquestes 'coses' s'anomenen **personatges**.
 
 \--- task \---
 
-Open a new Scratch project.
+Crea un projecte nou de Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**En línia:** obre un projecte d'Scratch nou en línia a [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_ blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Fora de línia:** obre un projecte nou a l’editor fora de línia.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si necessites descarregar i instal·lar l'editor fora de línia de Scratch, el pots trobar a [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-It looks like this:
+S'assembla a això:
 
-![screenshot](images/band-scratch.png)
+![captura de pantalla](images/band-scratch.png)
 
 \--- /task \---
 
 \--- task \---
 
-The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+El personatge del gat que veus és la mascota de Scratch. No la necessites per aquest joc, per tant, elimina'l fent clic sobre ell amb el botó dret del ratolí i després clicant sobre l'opció **esborra**, o també el pots eliminar clicant amb el botó esquerra del ratolí directament sobre la creu del personatge.
 
-![screenshot](images/band-delete-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
-
-![screenshot](images/band-sprite-library.png)
+![captura de pantalla](images/band-delete-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+A continuació, fes clic a **Tria un personatge de la biblioteca** per obrir una llista de tots els personatges de Scratch.
 
-![screenshot](images/band-sprite-drum.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click and drag the drum to the bottom of the Stage.
+![captura de pantalla](images/band-sprite-library.png)
 
 \--- /task \---
 
 \--- task \---
 
-Give your program a name by typing into the text box at the top.
+Desplaça't cap avall fins que vegis el personatge del tambor. Fes clic a un tambor per afegir-lo al teu projecte.
 
-![name](images/band-name-annotated.png)
+![captura de pantalla](images/band-sprite-drum.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+\--- /task \---
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+\--- task \---
 
-![screenshot](images/band-save.png)
+Fes clic i arrossega el tambor fins a la part inferior de l'Escenari.
+
+\--- /task \---
+
+\--- task \---
+
+Posa un nom al teu programa escrivint en el quadre de text de la part superior.
+
+![nom](images/band-name-annotated.png)
+
+A continuació, fes clic a **Fitxer** i després a **Desa ara** per guardar el teu projecte.
+
+Si no estàs en línia o no tens un compte de Scratch, pots desar una còpia del projecte fent clic a **Desa al teu ordinador** com alternativa.
+
+![captura de pantalla](images/band-save.png)
 
 \--- /task \---
