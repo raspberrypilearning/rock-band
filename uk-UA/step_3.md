@@ -1,27 +1,27 @@
-## The Stage
+## Сцена
 
-The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+**Сцена** — це область праворуч, де оживає твій проєкт. Вважай, що це місце для виступу так само, як і справжня сцена!
 
 \--- task \---
 
-At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+Наразі сцена біла і виглядає досить нудно! Додай тло, клацнувши на **Обрати тло**.
 
-![screenshot](images/band-stage-choose.png)
+![знімок екрана](images/band-stage-choose.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+Клацни на **У приміщенні** у списку вгорі. Далі клікни на тло театру.
 
-![screenshot](images/band-backdrop.png)
+![знімок екрана](images/band-backdrop.png)
 
 \--- /task \---
 
 \--- task \---
 
-Your stage should now look similar to this:
+Твоя сцена виглядатиме якось так:
 
-![screenshot](images/band-stage.png)
+![знімок екрана](images/band-stage.png)
 
 \--- /task \---
