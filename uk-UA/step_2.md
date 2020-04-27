@@ -1,63 +1,63 @@
-## Sprites
+## Спрайти
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Перш ніж розпочати, тобі потрібно додати "щось", для чого ти писатимеш програму. У Скретч, це "щось" називають **спрайтами**.
 
 \--- task \---
 
-Open a new Scratch project.
+Відкрий новий проєкт Скретч.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**Онлайн:** відкрий новий онлайн проєкт Скретч на [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Офлайн:** відкрий новий проєкт в офлайн-редакторі.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Якщо тобі треба завантажити та встановити офлайн-редактор Скретч, то ти можеш його знайти на [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-It looks like this:
+Це виглядатиме так:
 
-![screenshot](images/band-scratch.png)
+![знімок екрана](images/band-scratch.png)
 
 \--- /task \---
 
 \--- task \---
 
-The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+Спрайт кота, який ти бачиш — це талісман Скретч. Він тобі не знадобиться у цій грі, тому позбудься нього, натиснувши на іконку **видалити**.
 
-![screenshot](images/band-delete-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
-
-![screenshot](images/band-sprite-library.png)
+![знімок екрана](images/band-delete-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+Далі клікни **Обрати спрайт**, щоб відкрити бібліотеку всіх спрайтів у Скретч.
 
-![screenshot](images/band-sprite-drum.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click and drag the drum to the bottom of the Stage.
+![знімок екрана](images/band-sprite-library.png)
 
 \--- /task \---
 
 \--- task \---
 
-Give your program a name by typing into the text box at the top.
+Прокрути вниз, поки не знайдеш спрайт барабана. Клацни на нього для того, щоб додати в свій проєкт.
 
-![name](images/band-name-annotated.png)
+![знімок екрана](images/band-sprite-drum.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+\--- /task \---
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+\--- task \---
 
-![screenshot](images/band-save.png)
+Клацни і перетягни барабан вниз Сцени.
+
+\--- /task \---
+
+\--- task \---
+
+Задай назву свого проєкту, набравши її в текстовому полі вгорі.
+
+![назва](images/band-name-annotated.png)
+
+Потім клацни на **Файл**, а далі — **Зберегти негайно** для збереження свого проєкта.
+
+Якщо ти не підключений до інтернету, або не маєш облікового запису Скретч, то замість цього ти можеш зберегти копію свого проєкту, натиснувши **Вивантажити на ваш комп’ютер**.
+
+![знімок екрана](images/band-save.png)
 
 \--- /task \---
