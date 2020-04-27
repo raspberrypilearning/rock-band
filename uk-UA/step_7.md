@@ -1,68 +1,68 @@
-## Costumes
+## Образи
 
-Now you will make your singer look like she's singing!
+Тепер ти зробиш так, щоб співачка виглядала так, ніби співає!
 
 \--- task \---
 
-You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
+Ти можеш змінювати вигляд співачки, коли на неї клікають, створивши новий образ. Клікни на вкладку "Образи", і ти побачиш образ співачки.
 
-![screenshot](images/band-singer-costume-annotated.png)
+![знімок екрана](images/band-singer-costume-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Right-click on the costume and then click on **duplicate** to create a copy of it.
+Клікни правою кнопкою миші на образ і клацни **дублювати**, щоб створити його копію.
 
-![screenshot](images/band-singer-duplicate.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
-
-![screenshot](images/band-singer-click.png)
+![знімок екрана](images/band-singer-duplicate.png)
 
 \--- /task \---
 
 \--- task \---
 
-The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+Клікни на новий образ (що називається "Singer2"), а потім вибери інструмент для ліній, і намалюй їх так, ніби співачка видає звуки.
 
-![screenshot](images/band-singer-name-annotated.png)
+![знімок екрана](images/band-singer-click.png)
 
 \--- /task \---
 
 \--- task \---
 
-Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
+Зараз назви образів не дуже корисні. Зміни імена образів на "мовчить" та "співає" у відповідних текстових полях.
+
+![знімок екрана](images/band-singer-name-annotated.png)
+
+\--- /task \---
+
+\--- task \---
+
+Тепер, коли в тебе є два різних образи для твоєї співачки, ти можеш вибирати який з них відображатиметься! Додай ці два блоки коду до свого спрайта співачки:
 
 ```blocks3
-when this sprite clicked
-+switch costume to (singing v)
-play sound (singer1 v) until done
-+switch costume to (not singing v)
+коли спрайт натиснуто
++змінити образ на (співає v)
+відтворити звук (singer1 v) до кінця
++змінити образ на (мовчить v)
 ```
 
-The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
+Блоки коду для зміни образів знаходяться в секції `Вигляд`{:class="block3looks"}.
 
 \--- /task \---
 
 \--- task \---
 
-Click on your singer on the stage. Does she look like she is singing?
+Клікни на свою співачку. Чи виглядає вона так, ніби співає?
 
 \--- /task \---
 
 \--- task \---
 
-Now make your drum look like it's being hit!
+А тепер зроби так, щоб барабан виглядав так, ніби по ньому б’ють!
 
-![screenshot](images/band-drum-final.png)
+![знімок екрана](images/band-drum-final.png)
 
-- Use the instructions for changing your singer sprite's costume to help you.
+- Використовуй інструкції для зміни образу співачки як зразок.
 
-Remember to test that your new code works!
+Не забудь перевірити, чи працює твій новий код!
 
 \--- /task \---
