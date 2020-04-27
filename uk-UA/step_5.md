@@ -1,15 +1,15 @@
-## Challenge: improving your drum
+## Завдання: вдоскональ свій барабан
 
-Can you change the sound that the drum makes when it's clicked?
+Чи можеш ти змінити звук, який видає барабан, коли на нього натискають?
 
-![screenshot](images/band-drum-sound.png)
+![знімок екрана](images/band-drum-sound.png)
 
-Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
+Чи можеш ти змусити барабан також видавати звук, коли клавіша пропуск натиснута? Тобі потрібно буде використати цей блок із секції `Події`{: class = "block3events"}:
 
 ```blocks3
 when [space v] key pressed
 ```
 
-If you want to copy your existing code, right-click on it and then click on **duplicate**.
+Якщо ти хочеш скопіювати існуючий код, клацни правою кнопкою миші по ньому, а потім натисни на **Дублювати**.
 
-![screenshot](images/band-duplicate-code.png)
+![знімок екрана](images/band-duplicate-code.png)
