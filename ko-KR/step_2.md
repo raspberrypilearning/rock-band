@@ -1,6 +1,6 @@
-## Sprites
+## 스프라이트
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+코딩을 시작하기 전에 코드에 '무언가'를 추가 해야 합니다. 스크래치에서 이 '무언가'는 **스프라이트**라고 합니다.
 
 \--- task \---
 
@@ -22,7 +22,7 @@ It looks like this:
 
 The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
-![screenshot](images/band-delete-annotated.png)
+![스크린샷](images/band-delete-annotated.png)
 
 \--- /task \---
 
