@@ -1,68 +1,68 @@
 ## Fantasias
 
-Now you will make your singer look like she's singing!
+Agora vamos fazer sua cantora parecer que está cantando!
 
 \--- task \---
 
-You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
+Você pode mudar a aparência do seu ator de cantora quando ela é clicada, criando uma uma nova fantasia. Clique na aba Fantasias e você verá a fantasia da cantora.
 
-![screenshot](images/band-singer-costume-annotated.png)
+![captura de tela](images/band-singer-costume-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Right-click on the costume and then click on **duplicate** to create a copy of it.
+Clique com o botão direito na fantasia e selecione **duplicar** para criar uma cópia dela.
 
-![screenshot](images/band-singer-duplicate.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
-
-![screenshot](images/band-singer-click.png)
+![captura de tela](images/band-singer-duplicate.png)
 
 \--- /task \---
 
 \--- task \---
 
-The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+Clique na nova fantasia (chamada 'Singer2') e, em seguida, selecione a ferramenta de linha e desenhe linhas para fazer parecer que a sua cantora está cantando.
 
-![screenshot](images/band-singer-name-annotated.png)
+![captura de tela](images/band-singer-click.png)
 
 \--- /task \---
 
 \--- task \---
 
-Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
+Os nomes atuais das fantasias não são muito úteis. Digite nas caixas de texto das fantasias para mudar seus nomes para 'não cantando' e 'cantando'.
+
+![captura de tela](images/band-singer-name-annotated.png)
+
+\--- /task \---
+
+\--- task \---
+
+Agora que você tem duas fantasias diferentes para sua cantora, você pode escolher qual delas será exibida! Adicione esses dois blocos de código ao seu ator de cantora:
 
 ```blocks3
-when this sprite clicked
-+switch costume to (singing v)
-play sound (singer1 v) until done
-+switch costume to (not singing v)
+quando este ator for clicado
++ mude para a fantasia (cantando v)
+toque o som (singer1 v) até o fim
++ mude para a fantasia (não cantando v)
 ```
 
-The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
+O bloco de código para mudar a fantasia está na seção `Aparência`{:class="block3looks"}.
 
 \--- /task \---
 
 \--- task \---
 
-Click on your singer on the stage. Does she look like she is singing?
+Clique na sua cantora no palco. Parece que ela está cantando?
 
 \--- /task \---
 
 \--- task \---
 
-Now make your drum look like it's being hit!
+Agora faça com que seu tambor pareça que está sendo tocado!
 
-![screenshot](images/band-drum-final.png)
+![captura de tela](images/band-drum-final.png)
 
-- Use the instructions for changing your singer sprite's costume to help you.
+- Use as instruções usadas para mudar o ator da fantasia da sua cantora para te ajudar.
 
-Remember to test that your new code works!
+Lembre-se de testar se o seu novo código funciona!
 
 \--- /task \---
