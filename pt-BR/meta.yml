@@ -12,7 +12,7 @@ steps:
   - 
     title: Atores
   - 
-    title: O palco
+    title: O Palco
   - 
     title: Fazendo um tambor
   - 
@@ -23,7 +23,7 @@ steps:
   - 
     title: Fantasias
   - 
-    title: "Challenge: improve your band"
+    title: "Desafio: melhore sua banda"
     challenge: true
   - 
     title: "E agora?"
