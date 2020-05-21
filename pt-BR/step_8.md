@@ -1,20 +1,20 @@
-## Fantasias
+## Desafio: melhore sua banda
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+Use o que você aprendeu neste projeto para criar a sua própria banda! Você pode criar qualquer instrumento que quiser — veja os atores de instrumentos e sons disponíveis para ter algumas ideias.
 
-![screenshot](images/band-ideas-sounds.png)
+![captura de tela](images/band-ideas-sounds.png)
 
 ```blocks3
-when this sprite clicked
-set instrument to (\(1\) Piano v)
-play note (60) for (0.25) beats
+quando este ator for clicado
+mudar instrumento para (\(1\) Piano v)
+toque a nota (60) por (0.25) batidas
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+Seus instrumentos não precisam ser de verdade. Por exemplo, você pode criar um piano feito de bolinhos!
 
-![screenshot](images/band-piano.png)
+![captura de tela](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+Você pode usar mais atores da biblioteca, e você também pode pintar seus próprios atores!
 
 ![captura de tela](images/band-draw.png)
 
@@ -24,10 +24,10 @@ You can use more sprites from the library, and you can also paint your own sprit
 
 Ao criar o seu próprio ator, você pode descobrir que quando você clica nele, ele 'pula' quando muda de fantasia. Isso ocorre porque as duas fantasias não estão centralizadas no mesmo lugar.
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+Para consertar isso, verifique se os centros das fantasias de seus atores são os mesmos.
 
 \--- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+Se você tem um microfone, você pode gravar seus próprios sons e até mesmo usar uma webcam para tocar os seus instrumentos!
 
 ![captura de tela](images/band-io.png)
