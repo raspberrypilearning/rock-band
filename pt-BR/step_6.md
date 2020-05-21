@@ -1,10 +1,10 @@
 ## Fazendo um cantor(a)
 
-Now you will add a singer to your band!
+Agora você vai adicionar um cantor à sua banda!
 
 \--- task \---
 
-Add a singer sprite to your Stage.
+Adicione um ator de cantor ao seu palco.
 
 ![captura de tela](images/band-singer-mic.png)
 
@@ -14,33 +14,33 @@ Add a singer sprite to your Stage.
 
 \--- task \---
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+Antes de fazer seu cantor cantar, você precisa adicionar um som ao ator do seu cantor. Certifique-se de que você selecionou o seu ator de cantor, e então, clique na aba Sons e selecione **Escolher som da biblioteca**:
 
-![screenshot](images/band-import-sound-annotated.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
-
-![screenshot](images/band-choose-sound.png)
+![captura de tela](images/band-import-sound-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-To use the sound, add the following code blocks to your singer sprite:
+Clique em **Voz** na lista no topo da página, e então escolha um som para adicionar ao seu ator.
+
+![captura de tela](images/band-choose-sound.png)
+
+\--- /task \---
+
+\--- task \---
+
+Para usar o som, adicione os seguintes blocos de código ao seu ator de cantor:
 
 ```blocks3
-when this sprite clicked
-play sound (singer1 v) until done
+quando este ator for clicado
+toque o som (singer1 v) até o fim
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Click on your singer on the stage and see what happens. Does she sing?
+Clique na sua cantora no palco e veja o que acontece. Ela canta?
 
 \--- /task \---
