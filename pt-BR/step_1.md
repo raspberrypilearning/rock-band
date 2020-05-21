@@ -1,6 +1,6 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+Esta é a versão **Scratch 3** do projeto. Há também uma versão [Scratch 2 do projeto](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
@@ -12,7 +12,7 @@ Aprenda a programar os seus próprios instrumentos musicais!
 
 \--- no-print \---
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+Clique na bandeira verde para começar. Em seguida, clique no cantor ou no tambor para ouvir como soam.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,9 +22,9 @@ Click the green flag to begin. Then, click on the singer or the drum to hear wha
 
 \--- print-only \---
 
-You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+Você vai fazer um jogo onde você pode clicar na cantora ou no tambor para ouvir sons de canto ou bateria.
 
-![game screenshot](images/demo.png)
+![captura de tela do jogo](images/demo.png)
 
 \--- /print-only \---
 
@@ -32,9 +32,9 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## title: O que você vai aprender
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch
++ Usar código para mudar a fantasia de um ator no Scratch
++ Usar código para fazer atores reagirem a entradas no Scratch
++ Acrescentar sons a um ator no Scratch
 
 \--- /collapse \---
 
@@ -58,10 +58,10 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Se você precisar imprimir este projeto, por favor, utilize a [versão para impressão](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_ blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+Você pode encontrar o [projeto completo aqui](http://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
