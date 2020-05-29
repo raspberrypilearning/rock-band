@@ -1,27 +1,34 @@
-## Fantasias
+## Desafio: melhore sua banda
 
-Vamos fazer sua cantora parecer está cantando!
+Use o que você aprendeu neste projeto para criar a sua própria banda! Você pode criar qualquer instrumento que quiser — veja os atores de instrumentos e sons disponíveis para ter algumas ideias.
 
-+ Você também pode mudar o visual da sua cantora, criando uma nova fantasia. Para quando ela for clicada, mudar de visual. Clique na aba Fantasias e você verá a imagem da cantora.
-    
-    ![screenshot](images/band-singer-costume.png)
+![captura de tela](images/band-ideas-sounds.png)
 
-+ Clique com o botão direito na fantasia e clique em **duplicar** para criar uma cópia da fantasia.
-    
-    ![screenshot](images/band-singer-duplicate.png)
+```blocks3
+quando este ator for clicado
+mudar instrumento para (\(1\) Piano v)
+toque a nota (60) por (0.25) batidas
+```
 
-+ Clique na nova fantasia (chamado 'Singer2') e, em seguida, selecione a ferramenta de linha e desenhe linhas para fazer parecer que a sua cantora está cantando.
-    
-    ![screenshot](images/band-singer-click.png)
+Seus instrumentos não precisam ser de verdade. Por exemplo, você pode criar um piano feito de bolinhos!
 
-+ Os nomes das fantasias não são muito úteis no momento. Renomeie as duas para que elas sejam chamadas de 'não cantando' e 'cantando' digitando o novo nome de cada fantasia na caixa de texto.
-    
-    ![screenshot](images/band-singer-name.png)
+![captura de tela](images/band-piano.png)
 
-+ Agora que você tem duas fantasias diferentes para a sua cantora, você pode escolher qual será exibida! Adicione estes dois blocos a sua cantora:
-    
-    ![screenshot](images/band-looks.png)
-    
-    O bloco de código para mudar a fantasia está na seção `Aparência`{:class="blocklooks"}.
+Você pode usar mais atores da biblioteca, e você também pode pintar seus próprios atores!
 
-+ Clique na sua cantora. Ela parece estar cantando?
+![captura de tela](images/band-draw.png)
+
+--- collapse ---
+---
+title: Por que o meu ator está 'pulando' quando muda de roupa?
+---
+
+Ao criar o seu próprio ator, você pode descobrir que quando você clica nele, ele 'pula' quando muda de fantasia. Isso ocorre porque as duas fantasias não estão centralizadas no mesmo lugar.
+
+Para consertar isso, verifique se os centros das fantasias de seus atores são os mesmos.
+
+--- /collapse ---
+
+Se você tem um microfone, você pode gravar seus próprios sons e até mesmo usar uma webcam para tocar os seus instrumentos!
+
+![captura de tela](images/band-io.png)

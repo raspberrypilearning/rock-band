@@ -1,15 +1,44 @@
-## O palco
+## Fazendo um tambor
 
-O **palco** é a área à esquerda e é onde o seu projeto ganha vida. Pense nele como uma área de performance, assim como um palco real!
+Agora você vai adicionar código ao seu tambor para que ele faça um som quando for clicado.
 
-+ Até o momento, o palco é branco e parece muito chato! Vamos adicionar um pano de fundo ao palco, clicando em **Escolher pano de fundo da biblioteca**.
-    
-    ![screenshot](images/band-stage-choose.png)
+Você pode encontrar os blocos de código na guia Scripts e eles são todos agrupados por cores!
 
-+ Clique **Interior** à esquerda e, em seguida, clique em um cenário e clique em **OK**.
-    
-    ![screenshot](images/band-backdrop.png)
+--- task ---
 
-+ Seu palco deve ficar assim:
-    
-    ![screenshot](images/band-stage.png)
+Primeiro adicione a extensão **Música** para que você possa tocar instrumentos.
+
+Clique no botão **Adicionar Extensão** no canto inferior esquerdo.
+
+![botão de adicionar extensão destacado](images/add-extension-annotated.png)
+
+Clique na extensão **Música** para adicioná-la.
+
+![extensão de música destacada](images/click-music-annotated.png)
+
+--- /task ---
+
+--- task ---
+
+Clique no ator de tambor, e então arraste estes dois blocos para a área de código à direita:
+
+```blocks3
+quando este ator for clicado
+toque instrumento (\(1\) Tarol v) por (0.25) batidas
+```
+
+--- no-print ---
+
+![captura de tela](images/connect-block.gif)
+
+--- /no-print ---
+
+Certifique-se de que os blocos estejam conectados juntos (como tijolos de LEGO).
+
+--- /task ---
+
+--- task ---
+
+Clique no tambor para experimentar seu novo instrumento!
+
+--- /task ---

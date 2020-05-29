@@ -1,11 +1,15 @@
-## Fazendo um tambor
+## Desafio: melhore o seu tambor
 
-Vamos programar o seu tambor para fazer um som quando for atingido.
+Você pode mudar o som produzido pelo tambor quando ele é clicado?
 
-Você pode encontrar os blocos de código na guia Scripts e eles são todos agrupados por cores!
+![captura de tela](images/band-drum-sound.png)
 
-+ Clique no tambor e, em seguida, arraste estes dois blocos para a área de código à direita, certificando-se de que eles estejam conectados juntos (como blocos de Lego):
+Você também consegue fazer com que o tambor toque um som quando a barra de espaço é pressionada? Você vai precisar usar este bloco de `evento`{:class="block3events"}:
 
-![screenshot](images/connect-block.gif)
+```blocks3
+quando a tecla [espaço v] for pressionada
+```
 
-+ Clique no tambor para experimentar seu novo instrumento!
+Se você quiser copiar seu código atual, clique com o botão direito do mouse sobre ele e selecione **duplicar**.
+
+![screenshot](images/band-duplicate-code.png)

@@ -1,29 +1,27 @@
-## Atores
+## O palco
 
-Antes de começar a codificar, você precisará adicionar uma 'coisa' ao código. No Scratch, essas 'coisas' são chamadas de **atores**.
+O **Palco** é a área à direita, e é onde seu projeto ganha vida. Pense nele como uma área de atuação, assim como um palco real!
 
-+ Primeiro, abra o editor Scracth. Você pode encontrar uma versão online em <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>. A aparência é como esta:
-    
-    ![screenshot](images/band-scratch.png)
+--- task ---
 
-+ O gato (ator) que você pode ver é o mascote do Scratch. Vamos nos livrar dele clicando com o botão direito e depois clicando em **apagar**.
-    
-    ![screenshot](images/band-delete.png)
+Neste momento, o palco está em branco e parece muito chato! Adicione um cenário clicando em **Escolher um cenário**.
 
-+ Depois, clique em **Escolher ator da biblioteca** para ver a biblioteca de todos os atores no Scratch.
-    
-    ![screenshot](images/band-sprite-library.png)
+![captura de tela](images/band-stage-choose.png)
 
-+ Desça até você ver um ator de tambor. Clique em um tambor e clique em **Ok** para adicioná-lo ao seu projeto.
-    
-    ![screenshot](images/band-sprite-drum.png)
+--- /task ---
 
-+ Clique no ícone **Reduzir** e, em seguida, clique no tambor algumas vezes para torná-lo menor.
-    
-    ![screenshot](images/band-shrink.png)
+--- task ---
 
-Dê ao seu programa um nome digitando na caixa de texto no canto superior esquerdo.
+Clique em **Interior** no topo da página. Depois, clique em um cenário de teatro.
 
-Você pode então clicar em **Arquivo** e depois **Salvar agora** para salvar seu projeto. Nota: Se você estiver usando a versão online do Scratch, mas não possui uma conta Scratch, você pode salvar uma cópia do seu projeto clicando em **Baixar para o seu computador**.
+![capturas de tela](images/band-backdrop.png)
 
-![screenshot](images/band-save.png)
+--- /task ---
+
+--- task ---
+
+Seu cenário agora deve estar parecido com este:
+
+![capturas de tela](images/band-stage.png)
+
+--- /task ---
