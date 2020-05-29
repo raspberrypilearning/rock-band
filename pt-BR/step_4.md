@@ -24,7 +24,7 @@ Clique no ator de tambor, e então arraste estes dois blocos para a área de có
 
 ```blocks3
 quando este ator for clicado
-toque instrumento (\(1\) Tarol) por (0.25) batidas
+toque instrumento (\(1\) Tarol v) por (0.25) batidas
 ```
 
 --- no-print ---
