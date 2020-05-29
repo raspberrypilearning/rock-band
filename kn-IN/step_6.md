@@ -1,6 +1,6 @@
 ## Making a singer
 
-Now you will add a singer to your band!
+ಈಗ ನೀವು ನಿಮ್ಮ ತಂಡಕ್ಕೆ ಗಾಯಕನನ್ನು ಸೇರಿಸುತ್ತೀರಿ!
 
 \--- task \---
 
