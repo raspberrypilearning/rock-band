@@ -55,8 +55,9 @@ title: O que você vai precisar
 --- /collapse ---
 
 --- collapse ---
-
-## informações adicionais para educadores
+---
+title: Informações adicionais para educadores
+---
 
 --- no-print ---
 
