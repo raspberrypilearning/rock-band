@@ -1,4 +1,4 @@
-## Sprites
+## ಸ್ಪ್ರೈಟ್‌ಗಳು
 
 Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
 
@@ -12,7 +12,7 @@ Open a new Scratch project.
 
 If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-It looks like this:
+ಇದು ಈ ರೀತಿ ಕಾಣುತ್ತದೆ:
 
 ![screenshot](images/band-scratch.png)
 
