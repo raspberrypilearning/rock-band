@@ -1,15 +1,15 @@
-## Uitdaging: je trommel verbeteren
+## Challenge: improving your drum
 
-Kun je het geluid veranderen dat de trommel maakt als erop wordt geklikt?
+Can you change the sound that the drum makes when it's clicked?
 
 ![screenshot](images/band-drum-sound.png)
 
-Kun je de trommel ook laten horen als de spatiebalk wordt ingedrukt? Je moet dit `gebeurtenis` blok gebruiken{:class="blockevents"}:
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
 ```blocks3
-wanneer [spatiebalk] wordt ingedrukt
+when [space v] key pressed
 ```
 
-Als je je bestaande code wilt kopiëren, klik je er met de rechtermuisknop op en vervolgens op **dupliceren**.
+If you want to copy your existing code, right-click on it and then click on **duplicate**.
 
 ![screenshot](images/band-duplicate-code.png)
