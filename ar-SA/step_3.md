@@ -1,27 +1,27 @@
-## L'escenari
+## المنصة
 
-**L'escenari** es troba a la zona de la dreta, i és on cobra vida el teu projecte. Pensa en això com una àrea d’actuació, igual que un escenari real!
+</strong>المنصة** هي المساحة الموجودة على اليمين، وهي المكان الذي يخرج فيه مشروعك للحياة. لذا فكِّر فيها كمساحة للأداء، تمامًا كمنصة مسرح حقيقية!</p> 
 
 \--- task \---
 
-De moment, l'escenari és blanc i sembla molt avorrit. Afegeix-hi un fons fent clic a **Tria un fons**.
+حالياً، تأخذ المنصة اللون الأبيض وتبدو مملة بعض الشيء! لنضِف خلفية إلى المنصة بالنقر فوق **اختيار خلفية من المكتبة**.
 
-![captura de pantalla](images/band-stage-choose.png)
+![لقطة الشاشة](images/band-stage-choose.png)
+
+\---/task--
+
+\--- task \---
+
+انقر فوق **داخلي** من القائمة بالاعلى، وثم انقر فوق خلفية منصة مسرح (Theater).
+
+![لقطة الشاشة](images/band-backdrop.png)
 
 \--- /task \---
 
 \--- task \---
 
-Fes clic a **Interiors** de la llista de la part superior. A continuació, fes clic a un fons de teatre.
+ستكون المنصة كما يلي:
 
-![captura de pantalla](images/band-backdrop.png)
-
-\--- /task \---
-
-\--- task \---
-
-Ara el teu escenari hauria de ser similar a aquest:
-
-![captura de pantalla](images/band-stage.png)
+![لقطة الشاشة](images/band-stage.png)
 
 \--- /task \---
