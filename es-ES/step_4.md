@@ -1,44 +1,44 @@
-## Φτιάχνοντας ένα τύμπανο
+## Crear un tambor
 
-Τώρα, θα προσθέσεις κώδικα στο τύμπανο σου, έτσι ώστε να κάνει έναν ήχο όταν είναι πατημένο.
+Ahora vas a añadir código a tu tambor para que haga un sonido cuando se haga clic sobre él.
 
-Μπορείς να βρεις τα μπλοκ κώδικα στην καρτέλα Σενάρια και είναι όλα χρωματιστά!
+Puedes encontrar los bloques de código en la pestaña Programas, ¡y todos están codificados por colores!
 
-\--- task --
+\--- task \---
 
-Πρόσθεσε πρώτα την επέκταση **μουσική** ώστε να μπορείς να παίξεις μουσικά όργανα.
+Primero añade la extensión **Música** para que puedas tocar instrumentos.
 
-Κάνε κλικ στην **Προσθήκη επέκτασης** στην κάτω αριστερή γωνία.
+Haz clic en el botón **Añadir extensión ** en la esquina inferior izquierda.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![botón añadir extensión marcado](images/add-extension-annotated.png)
 
-Κάνε κλικ στην επέκταση **Μουσική** για να την προσθέσεις.
+Haz clic en la extensión **Música** para añadirla.
 
-![music extension highlighted](images/click-music-annotated.png)
+![extensión de música resaltada](images/click-music-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on the drum sprite, and then drag these two blocks into the code area on the right:
+Haz clic en el objeto tambor, y luego arrastra estos dos bloques al área de código de la derecha:
 
 ```blocks3
-όταν γίνει κλικ σε αυτό το αντικείμενο
-παίξε τύμπανο (\(1\) Snare Drum v) για (0.25) χτύπους
+al hacer clic en este objeto
+tocar tambor (\ (1 \) Caja v) durante (0.25) tiempos
 ```
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![captura de pantalla](images/connect-block.gif)
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Asegúrate de que los bloques estén conectado entre sí (como piezas de LEGO).
 
 \--- /task \---
 
 \--- task \---
 
-Click on the drum to try out your new instrument!
+¡Haz clic en el tambor para probar tu nuevo instrumento!
 
 \--- /task \---
