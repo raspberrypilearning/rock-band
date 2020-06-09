@@ -6,13 +6,13 @@
 
 ## ಪರಿಚಯ
 
-Learn how to code your own musical instruments!
+ನಿಮ್ಮ ಸ್ವಂತ ಸಂಗೀತ ವಾದ್ಯಗಳನ್ನು ಹೇಗೆ ಕೋಡ್ ಮಾಡುವುದು ಎಂದು ತಿಳಿಯಿರಿ!
 
-### What you will make
+### ನೀವು ಏನು ಮಾಡುತ್ತೀರಿ
 
 \--- no-print \---
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+ಪ್ರಾರಂಭಿಸಲು ಹಸಿರು ಧ್ವಜವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ. ನಂತರ, ಗಾಯಕ ಅಥವಾ ಡ್ರಮ್‌ನ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ಧ್ವನಿಯನ್ನು ಕೇಳಿ.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,46 +22,46 @@ Click the green flag to begin. Then, click on the singer or the drum to hear wha
 
 \--- print-only \---
 
-You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+ನೀವು ಒಂದು ಗೇಮ್ ಮಾಡುವಿರಿ. ಈ ಗೇಮ್ ನಲ್ಲಿ ಗಾಯಕ ಅಥವಾ ಡ್ರಮ್‌ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ಧ್ವನಿಯನ್ನು ಕೇಳಬಹುದು.
 
-![game screenshot](images/demo.png)
+![ಗೇಮಿನ ಸ್ಕ್ರೀನ್‌ಶಾಟ್](images/demo.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## ಶೀರ್ಷಿಕೆ: ನೀವು ಏನು ಕಲಿಯುವಿರಿ
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will need
-
-#### Hardware
-
-+ A computer capable of running Scratch 3
-
-#### Software
-
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ ಸ್ಕ್ರ್ಯಾಚ್‌ನಲ್ಲಿ ಸ್ಪ್ರೈಟ್‌ನ ಉಡುಪನ್ನು ಬದಲಾಯಿಸಲು ಕೋಡ್ ಬಳಸಿ
++ ಸ್ಕ್ರ್ಯಾಚ್‌ನಲ್ಲಿ ಇನ್‌ಪುಟ್‌ಗೆ ಸ್ಪ್ರಿಟ್‌ಗಳು ಪ್ರತಿಕ್ರಿಯಿಸುವಂತೆ ಕೋಡ್ ಬಳಸಿ
++ ಸ್ಪ್ರೈಟ್‌ಗೆ ಶಬ್ದಗಳನ್ನು ಸೇರಿಸಿ ಸ್ಕ್ರ್ಯಾಚ್‌ನಲ್ಲಿ
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## ಶೀರ್ಷಿಕೆ: ನಿಮಗೆ ಬೇಕಾದುದು
+
+#### ಹಾರ್ಡ್ವೇರ್
+
++ ಸ್ಕ್ರ್ಯಾಚ್ 3 ಅನ್ನು ಚಲಾಯಿಸುವ ಸಾಮರ್ಥ್ಯವಿರುವ ಕಂಪ್ಯೂಟರ್
+
+#### ಸಾಫ್ಟ್ವೇರ್
+
++ ಸ್ಕ್ರ್ಯಾಚ್ 3 (ಆನ್‌ಲೈನ್‌ [ ](http://rpf.io/scratchon) {:target = "_blank"} ಅಥವಾ [ ಆಫ್‌ಲೈನ್ ](http://rpf.io/scratchoff) {:target = "_blank"})
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## ಶೀರ್ಷಿಕೆ: ಶಿಕ್ಷಕರಿಗೆ ಹೆಚ್ಚುವರಿ ಮಾಹಿತಿ
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+ನೀವು ಈ ಪ್ರಾಜೆಕ್ಟನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [ಮುದ್ರಕ-ಸ್ನೇಹಿ ಆವೃತ್ತಿಯನ್ನು ಬಳಸಿ](https://projects.raspberrypi.org/en/projects/rock-band/print) {:target = "_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+[ ಪೂರ್ಣಗೊಂಡ ಪ್ರೋಜೆಕ್ಟನ್ನು ನೀವು ಇಲ್ಲಿ ಕಾಣಬಹುದು ](http://rpf.io/p/en/rock-band-get) {:target="_blank"}.
 
 \--- /collapse \---
