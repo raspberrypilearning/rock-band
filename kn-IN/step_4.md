@@ -10,17 +10,17 @@
 
 ಕೆಳಗಿನ ಎಡಗೈ ಮೂಲೆಯಲ್ಲಿರುವ **Add extension** (ಆಡ್ ಎಕ್ಸಟೆನ್ಶನ್) ಬಟನ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![ಹೈಲೈಟ್ ಮಾಡಿದ add extension (ಆಡ್ ಎಕ್ಸಟೆನ್ಶನ್) ಬಟನ್ ಸೇರಿಸಿ](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+**Music** ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ಅದನ್ನು ಸೇರಿಸಿ.
 
-![music extension highlighted](images/click-music-annotated.png)
+![music (ಮ್ಯೂಸಿಕ್) ವಿಸ್ತರಣೆಯನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ](images/click-music-annotated.png)
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
-Click on the drum sprite, and then drag these two blocks into the code area on the right:
+ಡ್ರಮ್ ಸ್ಪ್ರೈಟ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ, ತದನಂತರ ಈ ಎರಡು ಬ್ಲಾಕ್ಗಳನ್ನು ಬಲಭಾಗದಲ್ಲಿರುವ ಕೋಡ್ ಪ್ರದೇಶಕ್ಕೆ ಎಳೆಯಿರಿ:
 
 ```blocks3
 when this sprite clicked
@@ -29,16 +29,16 @@ play drum (\(1\) Snare Drum v) for (0.25) beats
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images / connect-block.gif)
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+ಬ್ಲಾಕ್ಗಳನ್ನು ಒಟ್ಟಿಗೆ ಸಂಪರ್ಕಿಸಲಾಗಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ (LEGO ಇಟ್ಟಿಗೆಗಳಂತೆ).
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
-Click on the drum to try out your new instrument!
+ನಿಮ್ಮ ಹೊಸ ಉಪಕರಣವನ್ನು ಪ್ರಯತ್ನಿಸಲು ಡ್ರಮ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ!
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
