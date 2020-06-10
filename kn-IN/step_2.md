@@ -20,23 +20,23 @@
 
 \--- ಕಾರ್ಯ \---
 
-The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+ನೀವು ನೋಡಬಹುದಾದ ಬೆಕ್ಕಿನ ಸ್ಪ್ರೈಟ್ ಸ್ಕ್ರ್ಯಾಚ್ ಮ್ಯಾಸ್ಕಾಟ್ ಆಗಿದೆ. ಈ ಗೇಮಲ್ಲಿ ನಿಮಗೆ ಇದು ಅಗತ್ಯವಿಲ್ಲ, ಆದ್ದರಿಂದ ಅದನ್ನು ತೆಗೆಯಲು ರೈಟ್-ಕ್ಲಿಕ್ ಮಾಡಿ, **ಡಿಲೀಟ್** ಮಾಡಿ.
 
 ![screenshot](images/band-delete-annotated.png)
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
-Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+ಮುಂದೆ, ** ಲೈಬ್ರರಿಯಿಂದ ಸ್ಪ್ರೈಟ್ ಆಯ್ಕೆಮಾಡಿ ** ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ಎಲ್ಲಾ ಸ್ಕ್ರ್ಯಾಚ್ ಸ್ಪ್ರೈಟ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ತೆರೆಯಿರಿ.
 
 ![screenshot](images/band-sprite-library.png)
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
-Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+ನೀವು ಡ್ರಮ್ ಸ್ಪ್ರೈಟ್ ಅನ್ನು ನೋಡುವ ತನಕ ಕೆಳಗೆ ಸ್ಕ್ರಾಲ್ ಮಾಡಿ. ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ ಸೇರಿಸಲು ಡ್ರಮ್‌ನ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.
 
 ![screenshot](images/band-sprite-drum.png)
 
@@ -44,19 +44,19 @@ Scroll down until you see a drum sprite. Click on a drum to add it to your proje
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+ಡ್ರಮ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ಸ್ಟೇಜ್ ನ ಕೆಳಭಾಗಕ್ಕೆ ಎಳೆಯಿರಿ.
 
 \--- /task \---
 
 \--- task \---
 
-Give your program a name by typing into the text box at the top.
+ಮೇಲ್ಭಾಗದಲ್ಲಿರುವ ಟೆಕ್ಸ್ಟ್ ಬಾಕ್ಸ್ ನಲ್ಲಿ ಟೈಪ್ ಮಾಡುವ ಮೂಲಕ ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂಗೆ ಒಂದು ಹೆಸರನ್ನು ನೀಡಿ.
 
 ![name](images/band-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ಅನ್ನು ಸೇವ್ ಮಾಡಲು ನೀವು ಈಗ **File** ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ತದನಂತರ **Save now** ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+ಗಮನಿಸಿ: ಒಂದು ವೇಳೆ ನೀವು ಆನ್‌ಲೈನ್‌ ಇಲ್ಲದಿದ್ದಾಗ ಅಥವಾ ಸ್ಕ್ರ್ಯಾಚ್ ಖಾತೆಯನ್ನು ಹೊಂದಿಲ್ಲದಿದ್ದರೆ, ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ನಲ್ಲಿ **Save to your computer** ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ಕಾಪಿಯನ್ನು ಸೇವ್ ಮಾಡಬಹುದು.
 
 ![screenshot](images/band-save.png)
 
