@@ -1,8 +1,8 @@
-## Challenge: improve your band
+## ಸವಾಲು: ನಿಮ್ಮ ಬ್ಯಾಂಡ್ ಸುಧಾರಿಸುವುದು
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+ನಿಮ್ಮ ಸ್ವಂತ ಬ್ಯಾಂಡ್ ಮಾಡಲು ಈ ಪ್ರಾಜೆಕ್ಟ್ಲ್ಲಿ ನೀವು ಕಲಿತದ್ದನ್ನು ಬಳಸಿ! ನೀವು ಇಷ್ಟಪಡುವ ಯಾವುದೇ ವಾದ್ಯಗಳನ್ನು ನೀವು ರಚಿಸಬಹುದು - ಕೆಲವು ಆಲೋಚನೆಗಳನ್ನು ಪಡೆಯಲು ಲಭ್ಯವಿರುವ ವಾದ್ಯ ಸ್ಪ್ರೈಟ್‌ಗಳು ಮತ್ತು ಶಬ್ದಗಳನ್ನು ನೋಡಿ.
 
-![screenshot](images/band-ideas-sounds.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/band-ideas-sounds.png)
 
 ```blocks3
 when this sprite clicked
@@ -10,24 +10,24 @@ set instrument to (\(1\) Piano v)
 play note (60) for (0.25) beats
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+ನಿಮ್ಮ ಉಪಕರಣಗಳು ವಾಸ್ತವಿಕವಾಗಿರಬೇಕಾಗಿಲ್ಲ. ಉದಾಹರಣೆಗೆ, ನೀವು ಮಫಿನ್‌ಗಳಿಂದ ಮಾಡಿದ ಪಿಯಾನೋವನ್ನು ತಯಾರಿಸಬಹುದು!
 
-![screenshot](images/band-piano.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+ನೀವು ಲೈಬ್ರರಿಯಿಂದ ಹೆಚ್ಚಿನ ಸ್ಪ್ರೈಟ್‌ಗಳನ್ನು ಬಳಸಬಹುದು, ಮತ್ತು ನಿಮ್ಮ ಸ್ವಂತ ಸ್ಪ್ರೈಟ್‌ಗಳನ್ನು ಸಹ ನೀವು ಚಿತ್ರಿಸಬಹುದು!
 
-![screenshot](images/band-draw.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## ಶೀರ್ಷಿಕೆ: ಉಡುಪನ್ನು ಬದಲಾಯಿಸಿದಾಗ ನನ್ನ ಸ್ಪ್ರೈಟ್ 'ಜಿಗಿಯುವುದು' ಏಕೆ?
 
-When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+ನಿಮ್ಮ ಸ್ವಂತ ಸ್ಪ್ರೈಟ್ ಅನ್ನು ರಚಿಸುವಾಗ, ನೀವು ಸ್ಪ್ರೈಟ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ, ಅದು ಉಡುಪನ್ನು ಬದಲಾಯಿಸಿದಾಗ ಅದು 'ಜಿಗಿಯುತ್ತದೆ' ಎಂದು ನೀವು ಕಂಡುಕೊಳ್ಳಬಹುದು. ಏಕೆಂದರೆ ಎರಡು ವೇಷಭೂಷಣಗಳು ಒಂದೇ ಸ್ಥಳದಲ್ಲಿ ಕೇಂದ್ರೀಕೃತವಾಗಿಲ್ಲ.
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+ಇದನ್ನು ಸರಿಪಡಿಸಲು, ನಿಮ್ಮ ಸ್ಪ್ರೈಟ್‌ನ ವೇಷಭೂಷಣಗಳ ಕೇಂದ್ರಗಳು ಒಂದೇ ಆಗಿವೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.
 
 \--- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+ನೀವು ಮೈಕ್ರೊಫೋನ್ ಹೊಂದಿದ್ದರೆ, ನಿಮ್ಮ ಸ್ವಂತ ಶಬ್ದಗಳನ್ನು ನೀವು ರೆಕಾರ್ಡ್ ಮಾಡಬಹುದು, ಮತ್ತು ನಿಮ್ಮ ಉಪಕರಣಗಳನ್ನು ಹೊಡೆಯಲು ನೀವು ವೆಬ್‌ಕ್ಯಾಮ್ ಅನ್ನು ಸಹ ಬಳಸಬಹುದು!
 
-![screenshot](images/band-io.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/band-io.png)
