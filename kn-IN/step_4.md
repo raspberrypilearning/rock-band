@@ -4,11 +4,11 @@
 
 ಸ್ಕ್ರಿಪ್ಟ್‌ಗಳ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ನೀವು ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳನ್ನು ಕಾಣಬಹುದು, ಮತ್ತು ಅವೆಲ್ಲವೂ ಬಣ್ಣ-ಕೋಡೆಡ್ ಆಗಿದೆ!
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
 ವಾದ್ಯಗಳನ್ನು ನುಡಿಸಲು ಮೊದಲು **Music** (ಮ್ಯೂಸಿಕ್) ಎಕ್ಸಟೆನ್ಶನ್ ಸೇರಿಸಿ.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+ಕೆಳಗಿನ ಎಡಗೈ ಮೂಲೆಯಲ್ಲಿರುವ **Add extension** (ಆಡ್ ಎಕ್ಸಟೆನ್ಶನ್) ಬಟನ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.
 
 ![add extension button highlighted](images/add-extension-annotated.png)
 
