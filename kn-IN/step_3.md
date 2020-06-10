@@ -1,10 +1,10 @@
-## The Stage
+## ವೇದಿಕೆ
 
-The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
+ಬಲಭಾಗದಲ್ಲಿರುವ **ವೇದಿಕೆಯ** ಮೇಲೆ ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ಜೀವ ಪಡೆಯುವುದು. ಈ ವೇದಿಕೆಯನ್ನು ನೈಜ ವೇದಿಕೆಯಂತೆಯೇ ಗಣಿಸಿ!
 
 \--- task \---
 
-At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+ಈ ಸಮಯದಲ್ಲಿ, ವೇದಿಕೆಯು ಬಿಳಿ ಮತ್ತು ಸಾಕಷ್ಟು ನೀರಸವಾಗಿ ಕಾಣುತ್ತದೆ! **Choose a backdrop** ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ಅದಕ್ಕೆ ಹಿನ್ನೆಲೆ ಸೇರಿಸಿ.
 
 ![screenshot](images/band-stage-choose.png)
 
