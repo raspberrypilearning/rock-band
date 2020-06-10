@@ -1,12 +1,12 @@
-## Making a drum
+## ಡ್ರಮ್ ತಯಾರಿಸುವುದು
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+ಈಗ ನೀವು ನಿಮ್ಮ ಡ್ರಮ್‌ಗೆ ಕೋಡ್ ಅನ್ನು ಸೇರಿಸುತ್ತೀರಿ ಇದರಿಂದ ಡ್ರಮ್ ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ ಅದು ಧ್ವನಿಸುತ್ತದೆ.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+ಸ್ಕ್ರಿಪ್ಟ್‌ಗಳ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ನೀವು ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳನ್ನು ಕಾಣಬಹುದು, ಮತ್ತು ಅವೆಲ್ಲವೂ ಬಣ್ಣ-ಕೋಡೆಡ್ ಆಗಿದೆ!
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+ವಾದ್ಯಗಳನ್ನು ನುಡಿಸಲು ಮೊದಲು **Music** (ಮ್ಯೂಸಿಕ್) ಎಕ್ಸಟೆನ್ಶನ್ ಸೇರಿಸಿ.
 
 Click on the **Add extension** button in the bottom left-hand corner.
 
