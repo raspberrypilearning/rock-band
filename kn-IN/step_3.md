@@ -2,26 +2,26 @@
 
 ಬಲಭಾಗದಲ್ಲಿರುವ **ವೇದಿಕೆಯ** ಮೇಲೆ ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ಜೀವ ಪಡೆಯುವುದು. ಈ ವೇದಿಕೆಯನ್ನು ನೈಜ ವೇದಿಕೆಯಂತೆಯೇ ಗಣಿಸಿ!
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
 ಈ ಸಮಯದಲ್ಲಿ, ವೇದಿಕೆಯು ಬಿಳಿ ಮತ್ತು ಸಾಕಷ್ಟು ನೀರಸವಾಗಿ ಕಾಣುತ್ತದೆ! **Choose a backdrop** ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ಅದಕ್ಕೆ ಹಿನ್ನೆಲೆ ಸೇರಿಸಿ.
 
-![screenshot](images/band-stage-choose.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/band-stage-choose.png)
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
 ಮೇಲಿನ ಪಟ್ಟಿಯಲ್ಲಿ **Indoors** ಕ್ಲಿಕ್ ಮಾಡಿ. ನಂತರ ಥಿಯೇಟರ್ ಹಿನ್ನೆಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.
 
-![screenshot](images/band-backdrop.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/band-backdrop.png)
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
-Your stage should now look similar to this:
+ನಿಮ್ಮ ವೇದಿಕೆಯು ಈಗ ಹೀಗೆ ಕಾಣುವುದು:
 
-![screenshot](images/band-stage.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/band-stage.png)
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
