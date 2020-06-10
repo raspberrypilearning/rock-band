@@ -1,46 +1,46 @@
-## Making a singer
+## ಗಾಯಕನನ್ನು ಮಾಡುವುದು
 
 ಈಗ ನೀವು ನಿಮ್ಮ ತಂಡಕ್ಕೆ ಗಾಯಕನನ್ನು ಸೇರಿಸುತ್ತೀರಿ!
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
-Add a singer sprite to your Stage.
+ನಿಮ್ಮ ವೇದಿಕೆಗೆ ಗಾಯಕ ಸ್ಪ್ರೈಟ್ ಸೇರಿಸಿ.
 
-![screenshot](images/band-singer-mic.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/band-singer-mic.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+ನಿಮ್ಮ ಗಾಯಕನನ್ನು ಹಾಡಿಸುವ ಮೊದಲು, ನಿಮ್ಮ ಗಾಯಕ ಸ್ಪ್ರೈಟ್‌ಗೆ ನೀವು ಧ್ವನಿಯನ್ನು ಸೇರಿಸುವ ಅಗತ್ಯವಿದೆ. ನಿಮ್ಮ ಗಾಯಕ ಸ್ಪ್ರೈಟ್ ಅನ್ನು ನೀವು ಆರಿಸಿದ್ದೀರಿ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ, ನಂತರ Sounds (ಸೌಂಡ್ಸ್) ಟ್ಯಾಬ್ ಕ್ಲಿಕ್ ಮಾಡಿ, ಮತ್ತು **Choose a sound** (ಚೂಸ್ ಅ ಸೌಂಡ್) ಕ್ಲಿಕ್ ಮಾಡಿ:
 
-![screenshot](images/band-import-sound-annotated.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/band-import-sound-annotated.png)
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
-Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+ಪಟ್ಟಿಯಲ್ಲಿ **Voice (ವಾಯ್ಸ್)**ಕ್ಲಿಕ್ ಮಾಡಿ, ತದನಂತರ ನಿಮ್ಮ ಸ್ಪ್ರೈಟ್‌ಗೆ ಸೇರಿಸಲು ಧ್ವನಿಯನ್ನು ಆರಿಸಿ.
 
-![screenshot](images/band-choose-sound.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/band-choose-sound.png)
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
-To use the sound, add the following code blocks to your singer sprite:
+ಧ್ವನಿಯನ್ನು ಬಳಸಲು, ನಿಮ್ಮ ಗಾಯಕ ಸ್ಪ್ರೈಟ್‌ಗೆ ಈ ಕೆಳಗಿನ ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳನ್ನು ಸೇರಿಸಿ:
 
 ```blocks3
 when this sprite clicked
 play sound (singer1 v) until done
 ```
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
-Click on your singer on the stage and see what happens. Does she sing?
+ವೇದಿಕೆಯಲ್ಲಿ ನಿಮ್ಮ ಗಾಯಕನನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ಏನಾಗುತ್ತದೆ ಎಂದು ನೋಡಿ. ಅವಳು ಹಾಡುತ್ತಾಳಾ?
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
