@@ -1,24 +1,24 @@
 ## ಸ್ಪ್ರೈಟ್‌ಗಳು
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+ನೀವು ಕೋಡಿಂಗ್ ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು, ನೀವು ಕೋಡ್‌ಗೆ 'ವಸ್ತು'ವನ್ನು ಸೇರಿಸ ಬೇಕು. ಸ್ಕ್ರ್ಯಾಚ್‌ನಲ್ಲಿ, ಈ 'ವಸ್ತುಗಳನ್ನು' ** ಸ್ಪ್ರೈಟ್‌ಗಳು **. ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
-Open a new Scratch project.
+ಹೊಸ ಸ್ಕ್ರ್ಯಾಚ್ ಪ್ರೋಜೆಕ್ಟನ್ನು ತೆರೆಯಿರಿ.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+** ಆನ್‌ಲೈನ್: ** [ rpf.io/scratch-New ನಲ್ಲಿ ಹೊಸ ಆನ್‌ಲೈನ್ ಸ್ಕ್ರ್ಯಾಚ್ ಪ್ರೋಜೆಕ್ಟನ್ನು ತೆರೆಯಿರಿ ](http://rpf.io/scratch-new) {:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+** ಆಫ್‌ಲೈನ್: ** ಆಫ್‌ಲೈನ್ ಸಂಪಾದಕದಲ್ಲಿ ಹೊಸ ಪ್ರೋಜೆಕ್ಟನ್ನು ತೆರೆಯಿರಿ.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+ನೀವು ಸ್ಕ್ರ್ಯಾಚ್ ಆಫ್‌ಲೈನ್ ಸಂಪಾದಕವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ ಸ್ಥಾಪಿಸಬೇಕಾದರೆ, ನೀವು ಅದನ್ನು [ rpf.io/scratchoff ನಲ್ಲಿ ಕಾಣಬಹುದು ](http://rpf.io/scratchoff) {:target="_blank"}.
 
 ಇದು ಈ ರೀತಿ ಕಾಣುತ್ತದೆ:
 
 ![screenshot](images/band-scratch.png)
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
 The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
