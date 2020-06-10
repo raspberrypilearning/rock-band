@@ -12,7 +12,7 @@
 
 \--- task \---
 
-Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
+ಮೇಲಿನ ಪಟ್ಟಿಯಲ್ಲಿ **Indoors** ಕ್ಲಿಕ್ ಮಾಡಿ. ನಂತರ ಥಿಯೇಟರ್ ಹಿನ್ನೆಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.
 
 ![screenshot](images/band-backdrop.png)
 
