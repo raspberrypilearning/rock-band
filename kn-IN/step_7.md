@@ -1,24 +1,24 @@
-## Costumes
+## ವೇಷಭೂಷಣಗಳು
 
-Now you will make your singer look like she's singing!
+ಈಗ ನೀವು ನಿಮ್ಮ ಗಾಯಕನನ್ನು ಹಾಡುತ್ತಿರುವಂತೆ ಕಾಣುವಂತೆ ಮಾಡುತ್ತೀರಿ!
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
-You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
+ನಿಮ್ಮ ಗಾಯಕ ಸ್ಪ್ರೈಟ್ ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ ಅದು ಹೇಗೆ ಕಾಣುತ್ತದೆ ಎಂಬುದನ್ನು ನೀವು ಹೊಸ ವೇಷಭೂಷಣವನ್ನು ರಚಿಸುವ ಮೂಲಕ ಬದಲಾಯಿಸಬಹುದು. Costumes (ಕಾಸ್ಟ್ಯೂಮ್ಸ್ ಅಥವಾ ವೇಷಭೂಷಣ) ಟ್ಯಾಬ್ ಕ್ಲಿಕ್ ಮಾಡಿ, ಮತ್ತು ನೀವು ಗಾಯಕ ವೇಷಭೂಷಣವನ್ನು ನೋಡುತ್ತೀರಿ.
 
 ![screenshot](images/band-singer-costume-annotated.png)
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
-Right-click on the costume and then click on **duplicate** to create a copy of it.
+ಉಡುಪಿನ ಮೇಲೆ ರೈಟ್ ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ನಂತರ **duplicate** ಕ್ಲಿಕ್ ಮಾಡಿ ಅದರ ನಕಲನ್ನು ರಚಿಸಿ.
 
 ![screenshot](images/band-singer-duplicate.png)
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
 Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
 
