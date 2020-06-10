@@ -6,7 +6,7 @@
 
 ನಿಮ್ಮ ಗಾಯಕ ಸ್ಪ್ರೈಟ್ ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ ಅದು ಹೇಗೆ ಕಾಣುತ್ತದೆ ಎಂಬುದನ್ನು ನೀವು ಹೊಸ ವೇಷಭೂಷಣವನ್ನು ರಚಿಸುವ ಮೂಲಕ ಬದಲಾಯಿಸಬಹುದು. Costumes (ಕಾಸ್ಟ್ಯೂಮ್ಸ್ ಅಥವಾ ವೇಷಭೂಷಣ) ಟ್ಯಾಬ್ ಕ್ಲಿಕ್ ಮಾಡಿ, ಮತ್ತು ನೀವು ಗಾಯಕ ವೇಷಭೂಷಣವನ್ನು ನೋಡುತ್ತೀರಿ.
 
-![screenshot](images/band-singer-costume-annotated.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/band-singer-costume-annotated.png)
 
 \--- /ಕಾರ್ಯ \---
 
@@ -14,29 +14,29 @@
 
 ಉಡುಪಿನ ಮೇಲೆ ರೈಟ್ ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ನಂತರ **duplicate** ಕ್ಲಿಕ್ ಮಾಡಿ ಅದರ ನಕಲನ್ನು ರಚಿಸಿ.
 
-![screenshot](images/band-singer-duplicate.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/band-singer-duplicate.png)
 
 \--- /ಕಾರ್ಯ \---
 
 \--- ಕಾರ್ಯ \---
 
-Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
+ಹೊಸ ವೇಷಭೂಷಣದ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ('Singer2' ಎನ್ನುವುದು), ತದನಂತರ line tool (ಲೈನ್ ಟೂಲ್) ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ಮತ್ತು ರೇಖೆಗಳನ್ನು ಎಳೆಯಿರಿ ಇದರಿಂದ ನಿಮ್ಮ ಗಾಯಕ ಧ್ವನಿ ಮಾಡುತ್ತಿರುವಂತೆ ಕಾಣುತ್ತದೆ.
 
-![screenshot](images/band-singer-click.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/band-singer-click.png)
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
-The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
+ವೇಷಭೂಷಣಗಳ ಹೆಸರುಗಳು ಈ ಸಮಯದಲ್ಲಿ ಹೆಚ್ಚು ಪ್ರಜಯೋಜನವಿಲ್ಲ. ವೇಷಭೂಷಣಗಳ ಟೆಕ್ಸ್ಟ್ ಬಾಕ್ಸ್ನಲ್ಲಿ ಟೈಪ್ ಮಾಡಿ ಅವುಗಳ ಹೆಸರನ್ನು 'not singing' ಮತ್ತು 'singing' ಎಂದು ಬದಲಾಯಿಸಿ.
 
-![screenshot](images/band-singer-name-annotated.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/band-singer-name-annotated.png)
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
-Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
+ನಿಮ್ಮ ಗಾಯಕನಿಗೆ ಈಗ ನೀವು ಎರಡು ವಿಭಿನ್ನ ವೇಷಭೂಷಣಗಳನ್ನು ಹೊಂದಿದ್ದೀರಿ, ಯಾವ ವೇಷಭೂಷಣವನ್ನು ಪ್ರದರ್ಶಿಸಬೇಕು ಎಂಬುದನ್ನು ನೀವು ಆಯ್ಕೆ ಮಾಡಬಹುದು! ನಿಮ್ಮ ಗಾಯಕ ಸ್ಪ್ರೈಟ್‌ಗೆ ಈ ಎರಡು ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳನ್ನು ಸೇರಿಸಿ:
 
 ```blocks3
 when this sprite clicked
@@ -45,24 +45,24 @@ play sound (singer1 v) until done
 +switch costume to (not singing v)
 ```
 
-The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
+ವೇಷಭೂಷಣವನ್ನು ಬದಲಾಯಿಸುವ ಕೋಡ್ ಬ್ಲಾಕ್ `Looks` {: class = "block3looks"} ವಿಭಾಗದಲ್ಲಿದೆ.
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
-Click on your singer on the stage. Does she look like she is singing?
+ವೇದಿಕೆಯಲ್ಲಿ ನಿಮ್ಮ ಗಾಯಕಿಯನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ. ಅವಳು ಹಾಡುತ್ತಿರುವಂತೆ ಕಾಣಿಸುತ್ತದೆಯೇ?
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
 
-\--- task \---
+\--- ಕಾರ್ಯ \---
 
-Now make your drum look like it's being hit!
+ಈಗ ನಿಮ್ಮ ಡ್ರಮ್ ಹೊಡೆದಿರುವಂತೆ ಕಾಣುವಂತೆ ಮಾಡಿ!
 
-![screenshot](images/band-drum-final.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/band-drum-final.png)
 
-- Use the instructions for changing your singer sprite's costume to help you.
+- ನಿಮ್ಮ ಗಾಯಕ ಸ್ಪ್ರೈಟ್‌ನ ಉಡುಪನ್ನು ಬದಲಾಯಿಸಲು ಸೂಚನೆಗಳನ್ನು ಬಳಸಿ.
 
-Remember to test that your new code works!
+ನಿಮ್ಮ ಹೊಸ ಕೋಡ್ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ ಎಂದು ಪರೀಕ್ಷಿಸಲು ಮರೆಯದಿರಿ!
 
-\--- /task \---
+\--- /ಕಾರ್ಯ \---
