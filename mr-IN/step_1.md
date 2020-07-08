@@ -1,14 +1,14 @@
 \--- no-print \---
 
-हे ** स्क्रॅच 3 आहे ** प्रकल्पाची आवृत्ती. प्रकल्पाची [ स्क्रॅच 2 आवृत्ती देखील आहे ](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
 
 \--- /no-print \---
 
-## परिचय
+## Introduction
 
-आपल्या स्वत: च्या वाद्य वादन कसे करावे ते शिका!
+Learn how to code your own musical instruments!
 
-### आपण काय तयार करणार
+### What you will make
 
 \--- no-print \---
 
@@ -30,7 +30,7 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## \--- collapse \---
 
-## आपण काय शिकू
+## title: What you will learn
 
 + Use code to change a sprite's costume in Scratch
 + Use code to make sprites react to input in Scratch
@@ -40,21 +40,21 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## \--- collapse \---
 
-## title: आपल्याला कशाची आवश्यकता लागेल
+## title: What you will need
 
-#### हार्डवेअर
+#### Hardware
 
-+ स्क्रॅच 3 चालविण्यासाठी सक्षम संगणक
++ A computer capable of running Scratch 3
 
-#### सॉफ्टवेअर
+#### Software
 
-+ स्क्रॅच 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: शिक्षकांसाठी अतिरिक्त माहिती
+## title: Additional information for educators
 
 \--- no-print \---
 
