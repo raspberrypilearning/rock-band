@@ -1,0 +1,20 @@
+---
+hero_image: images/hero-rock-band-large.png
+listed: true
+copyedit: false
+title: ರಾಕ್ ಬ್ಯಾಂಡ್
+description: ನಿಮ್ಮ ಸ್ವಂತ ಸಂಗೀತ ವಾದ್ಯಗಳನ್ನು ಹೇಗೆ ಕೋಡ್ ಮಾಡುವುದು ಎಂದು ತಿಳಿಯಿರಿ
+version: 4.1.1
+last_tested: 2018-10-12
+steps:
+  - title: ಪರಿಚಯ
+  - title: ಸ್ಪ್ರೈಟ್‌ಗಳು
+  - title: ವೇದಿಕೆ
+  - title: ಡ್ರಮ್ ಮಾಡುವುದು
+  - title: "ಸವಾಲು: ನಿಮ್ಮ ಡ್ರಮ್ ಅನ್ನು ಸುಧಾರಿಸಿ"
+    challenge: true
+  - title: ಗಾಯಕನನ್ನಾಗಿ ಮಾಡುವುದು
+  - title: ವೇಷಭೂಷಣಗಳು
+  - title: "ಸವಾಲು: ನಿಮ್ಮ ಬ್ಯಾಂಡ್ ಸುಧಾರಿಸುವುದು"
+    challenge: true
+  - title: "ಮುಂದೆ ಏನು?"
