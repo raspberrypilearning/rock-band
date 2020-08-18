@@ -1,12 +1,11 @@
-## Project Evaluation
+## Reflection
 
-You have successfully completed the Rock Band project, we would love it if you could answer the following questions about your experiences.
-
+Congratulations on completing the Rock Band project. We would love to know whether you think this project has helped you develop your digital making skills.
 --- no-print ---
 
 --- quiz ---
 ---
-question: Now that you've completed Rock Band, how confident do you feel about coding in Scratch?
+question: Now that you've completed Rock Band, how confident do you feel about programming in Scratch?
 ---
 
 - ( ) Less confident
