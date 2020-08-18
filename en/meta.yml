@@ -16,6 +16,8 @@ steps:
 - title: Costumes
 - title: "Challenge: improve your band"
   challenge: true
-- title: "What next?"
 - title: Reflection
   quiz: true
+- title: "What next?"
+
+
