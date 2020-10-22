@@ -36,7 +36,7 @@ A seguir, clique em **Escolher um ator da biblioteca** para abrir uma lista de t
 
 --- task ---
 
-Desça até você ver um ator de tambor. Clique em um tambor para adicioná-lo ao seu projeto.
+Desça até você vir um ator de tambor. Clique em um tambor para adicioná-lo ao seu projeto.
 
 ![captura de tela](images/band-sprite-drum.png)
 
