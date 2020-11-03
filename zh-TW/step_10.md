@@ -1,33 +1,20 @@
-\--- challenge \---
+## What next?
 
-## 挑戰：製作自己的樂隊
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-使用你在這個項目中學到的東西來創造你自己的樂隊！你可以創建你喜歡的任何樂器 - 查看可用的聲音和樂器來獲得一些想法。
+--- no-print ---
 
-![截圖](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-你的樂器不一定要十分合理。例如，你可以让鬆餅製成鋼琴！
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![截圖](images/band-piano.png)
+--- /no-print ---
 
-除了使用現有的角色之外，您還可以繪製自己的角色。
+--- print-only ---
 
-![截圖](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- collapse \---
-
-## title: 為什麼我的角色在改變造型時會“跳躍”？
-
-+ 創建自己的角色時，可能會發現當你點擊角色時，它會一邊'跳轉'一邊改變造型。這是因為這兩套造型的中心位置不同。
-
-要解決這個問題，請在两套造型上點擊 **设定造型中心点** ，並確保兩個造型的中心位於同一點。
-
-![截圖](images/band-center.png)
-
-\--- /collapse \---
-
-如果您有麥克風，您可以錄製自己的聲音，甚至可以使用網絡攝像頭來擊打樂器！
-
-![截圖](images/band-io.png)
-
-\--- /challenge \---
+--- /print-only ---
