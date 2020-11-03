@@ -26,4 +26,9 @@ steps:
     title: "Завдання: покращи свій гурт"
     challenge: true
   - 
-    title: "Що далі?"
+    title: Reflection
+    quiz: true
+  - 
+    title: "What next?"
+
+
