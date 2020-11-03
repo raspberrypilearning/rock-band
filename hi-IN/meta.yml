@@ -26,4 +26,9 @@ steps:
     title: "चुनौती: अपने बैंड में सुधार करें"
     challenge: true
   - 
-    title: "आगे क्या?"
+    title: Reflection
+    quiz: true
+  - 
+    title: "What next?"
+
+
