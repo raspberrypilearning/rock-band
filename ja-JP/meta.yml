@@ -26,4 +26,9 @@ steps:
     title: "チャレンジ：バンドをより良くする"
     challenge: true
   - 
-    title: "次は何をしますか？"
+    title: Reflection
+    quiz: true
+  - 
+    title: "What next?"
+
+
