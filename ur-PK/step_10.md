@@ -1,33 +1,20 @@
-\--- چیلنج \--- \---
+## What next?
 
-## چیلنج: اپنا اپنا بینڈ بنائیں
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-اپنے ہی بینڈ کو بنانے کے لئے اس منصوبے میں جو کچھ سیکھا ہے اس کا استعمال کریں! آپ اپنی مرضی کے مطابق کسی بھی آلات تشکیل دے سکتے ہیں - کچھ خیالات حاصل کرنے کے لئے دستیاب آواز اور آلات دیکھیں.
+--- no-print ---
 
-![اسکرین شاٹ](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-اگرچہ آپ کے آلات کو سمجھدار نہیں ہونا چاہئے. مثال کے طور پر، آپ ایک پیانو مفین سے باہر بنا سکتے ہیں!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![اسکرین شاٹ](images/band-piano.png)
+--- /no-print ---
 
-موجودہ اسپرت کا استعمال کرتے ہوئے بھی، آپ اپنا اپنا بھی ڈرا سکتے ہیں.
+--- print-only ---
 
-![اسکرین شاٹ](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- گرنے \---
-
-## عنوان: میری سپرے 'جمپنگ' کب ہے جب اس کا لباس تبدیل ہوتا ہے؟
-
-+ جب آپ اپنے سپرے پیدا کرتے ہیں، تو آپ یہ محسوس کرسکتے ہیں کہ جب آپ سپرے پر کلک کرتے ہیں، تو اسے 'چھلانگ' کہتے ہیں کیونکہ اس کا لباس تبدیل ہوتا ہے. یہی وجہ ہے کہ دو ملبوسات اسی جگہ میں مرکوز نہیں ہیں.
-
-اسے ٹھیک کرنے کیلئے، کلک **سیٹ کاسٹیوم مرکز** دونوں ملبوسات پر، اور مرکز دونوں پوشاکوں میں ایک ہی نقطہ پر ہے براہ کرم یقینی بنائیں.
-
-![اسکرین شاٹ](images/band-center.png)
-
-\--- /گرنے \---
-
-اگر آپ کے پاس مائکروفون ہے تو آپ اپنی آواز کو ریکارڈ کرسکتے ہیں، یا اپنے آلات کو مارنے کیلئے ویب کیم استعمال کرتے ہیں!
-
-![اسکرین شاٹ](images/band-io.png)
-
-\--- / چیلنج \---
+--- /print-only ---
