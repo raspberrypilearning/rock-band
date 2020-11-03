@@ -26,4 +26,9 @@ steps:
     title: "Her: gwella dy fand"
     challenge: true
   - 
-    title: "Beth nesaf?"
+    title: Reflection
+    quiz: true
+  - 
+    title: "What next?"
+
+
