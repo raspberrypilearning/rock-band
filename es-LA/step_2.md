@@ -20,7 +20,7 @@ Se ve así:
 
 \--- task \---
 
-El objeto gato que ves es la mascota de Scratch. No lo necesitas para este juego, de modo que puedes eliminarlo haciendo clic encima de él con el botón derecho y luego haciendo clic en **borrar**.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by clicking on the X in the corner.
 
 ![captura de pantalla](images/band-delete-annotated.png)
 
