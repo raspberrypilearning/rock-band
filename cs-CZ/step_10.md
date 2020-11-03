@@ -1,33 +1,20 @@
-\--- challenge \---
+## What next?
 
-## Výzva: Vytvoř si svou vlastní skupinu
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-Využij toho, co jsi se naučil/a v tomto projektu a vytvoř vlastní skupinu! Můžeš si vytvořit všechny nástroje, které se ti líbí - podívej se na dostupné zvuky a nástroje, abys získal/a nějaké nápady.
+--- no-print ---
 
-![screenshot](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-Tvoje nástroje určitě nemusí být rozumné. Můžeš například udělat klavír vyrobený z muffinů!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![screenshot](images/band-piano.png)
+--- /no-print ---
 
-Můžeš používat připravené postavy z knihovny, můžeš si ovšem také nakreslit vlastní.
+--- print-only ---
 
-![screenshot](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- collapse \---
-
-## title: Proč postava 'skáče', když se změní kostým?
-
-+ Při vytváření vlastního kostýmy se může stát, že postava "skáče", když se změní kostým. Je to proto, že oba kostýmy nejsou stejně umístěné.
-
-Chceš-li to opravit, klikni na tlačítko **Nastavit střed kostýmu** a ujisti se, že u obou kostýmů je střed ve stejném místě.
-
-![screenshot](images/band-center.png)
-
-\--- /collapse \---
-
-Pokud máš mikrofon, můžeš nahrávat své vlastní zvuky. Můžeš dokonce použít webovou kameru k aktivaci nástrojů!
-
-![screenshot](images/band-io.png)
-
-\--- /challenge \---
+--- /print-only ---
