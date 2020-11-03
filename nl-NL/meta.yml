@@ -26,4 +26,9 @@ steps:
     title: "Uitdaging: verbeter je band"
     challenge: true
   - 
-    title: "Wat nu?"
+    title: Reflection
+    quiz: true
+  - 
+    title: "What next?"
+
+
