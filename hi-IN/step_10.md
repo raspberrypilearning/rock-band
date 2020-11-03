@@ -1,33 +1,20 @@
-\--- challenge \---
+## What next?
 
-## चुनौती: अपना स्वयं का बैंड बनाएँ
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-अपना स्वयं का बैंड बनाने के लिए, इस प्रोजेक्ट में प्राप्त ज्ञान का उपयोग करें! आप अपनी पसंद का कोई भी उपकरण बना सकते हैं — कुछ नए विचार पाने के लिए उपलब्ध ध्वनियां और उपकरण देखें।
+--- no-print ---
 
-![स्क्रीनशॉट](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-हालाँकि, आपके उपकरण का समझदार होना आवश्यक नहीं है। उदाहरण के लिए, आप मफिन्स से पियानो बना सकते हैं!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![स्क्रीनशॉट](images/band-piano.png)
+--- /no-print ---
 
-मौजूदा स्प्राइट्स के उपयोग के साथ-साथ, आप अपना स्प्राइट भी बना सकते हैं।
+--- print-only ---
 
-![स्क्रीनशॉट](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- collapse \---
-
-## title: क्यों मेरा स्प्राइट पोशाक बदलने पर 'उछलता' है?
-
-+ अपना स्वयं का स्प्राइट बनाते समय, आप यह देख सकते हैं कि जब आप स्प्राइट पर क्लिक करते हैं, तो यह पोशाक बदलने पर 'उछलता' है। ऐसा इसलिए है, क्योंकि दो पोशाकें एक ही स्थान पर केंद्रित नहीं होती।
-
-इसे ठीक करने के लिए, दोनों पोशाकों पर **Set costume center** पर क्लिक करें, और यह सुनिश्चित करें कि दोनों पोशाके के केंद्र एक ही बिंदु पर हो।
-
-![स्क्रीनशॉट](images/band-center.png)
-
-\--- /collapse \---
-
-यदि आपके पास माइक्रोफोन है, तो आप अपने उपकरणों को छूने पर आवाज़ निकलने के लिए अपनी स्वयं की आवाज़े रिकॉर्ड कर सकते हैं, या वेबकैम का भी उपयोग कर सकते हैं!
-
-![स्क्रीनशॉट](images/band-io.png)
-
-\--- /challenge \---
+--- /print-only ---
