@@ -1,33 +1,20 @@
-\--- challenge \---
+## What next?
 
-## Sfida: Crea la tua band
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-Usa quello che hai imparato in questo progetto per creare la tua band! Puoi creare tutti gli strumenti che vuoi: dai un'occhiata ai suoni e agli strumenti disponibili per trarre spunto.
+--- no-print ---
 
-![screenshot](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-I tuoi strumenti non devono avere senso. Per esempio, potresti creare un pianoforte fatto di muffin!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![screenshot](images/band-piano.png)
+--- /no-print ---
 
-Oltre ad usare gli sprite presenti nella libreria, puoi anche disegnarne di nuovi.
+--- print-only ---
 
-![screenshot](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- collapse \---
-
-## title: Perché il mio sprite "salta" quando cambia costume?
-
-+ Creando il tuo sprite, potresti notare che quando fai clic sullo sprite, questo "salta" mentre cambia costume. Questo perché i due costumi non sono centrati nello stesso punto.
-
-Per risolvere questo problema fai clic su **Definisci il centro del costume** per entrambi i costumi, e assicurarti che il centro si trovi nello stesso punto in entrambi i costumi.
-
-![screenshot](images/band-center.png)
-
-\--- /collapse \---
-
-Se possiedi un microfono puoi anche registrare i tuoi suoni personalizzati o addirittura usare una webcam per percuotere il tuo strumento!
-
-![screenshot](images/band-io.png)
-
-\--- /challenge \---
+--- /print-only ---
