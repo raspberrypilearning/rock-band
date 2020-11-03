@@ -20,7 +20,7 @@ Arată așa:
 
 \--- task \---
 
-Personajul pisică pe care îl vezi este mascota Scratch. Nu ai nevoie de el pentru acest joc, așa că scapă de el dând click dreapta pe el și apoi dând click pe **șterge**.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by clicking on the X in the corner.
 
 ![captură de ecran](images/band-delete-annotated.png)
 
