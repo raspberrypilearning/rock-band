@@ -1,33 +1,20 @@
-\--- вызов \---
+## What next?
 
-## Задача: создать свою собственную группу
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-Используйте то, что вы узнали в этом проекте, чтобы создать свою собственную группу! Вы можете создавать любые инструменты, которые вам нравятся, - посмотрите на доступные звуки и инструменты, чтобы получить некоторые идеи.
+--- no-print ---
 
-![Скриншот](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-Однако ваши инструменты не должны быть разумными. Например, вы могли бы изготовить пианино из кексов!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![Скриншот](images/band-piano.png)
+--- /no-print ---
 
-Помимо использования существующих спрайтов, вы также можете использовать свои собственные.
+--- print-only ---
 
-![Скриншот](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- коллапс \---
-
-## title: Почему мой спрайт «прыгает», когда он меняет костюм?
-
-+ При создании собственного спрайта вы можете обнаружить, что при нажатии на спрайт он «прыгает», когда он меняет костюм. Это связано с тем, что два костюма не сосредоточены в одном месте.
-
-Чтобы исправить это, нажмите **Установите костюмный центр** на оба костюма и убедитесь, что центр находится в одной и той же точке в обоих костюмах.
-
-![Скриншот](images/band-center.png)
-
-\--- / свернуть \---
-
-Если у вас есть микрофон, вы можете записывать свои собственные звуки или даже использовать веб-камеру, чтобы попасть на ваши инструменты!
-
-![Скриншот](images/band-io.png)
-
-\--- /вызов \---
+--- /print-only ---
