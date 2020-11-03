@@ -2,7 +2,7 @@
 
 Ora aggiungerai il codice al tuo tamburo così che il tamburo emetta un suono quando viene cliccato.
 
-Puoi trovare i blocchi di codice nel pannello ‘Script’. Sono di vari colori, a seconda del tipo!
+Puoi trovare i blocchi di codice nel pannello Codice. Sono di vari colori, a seconda del tipo!
 
 \--- task \---
 
@@ -12,7 +12,7 @@ Clicca sul pulsante **Aggiungi estensione** nell'angolo in basso a sinistra.
 
 ![aggiungi il pulsante di estensione evidenziato](images/add-extension-annotated.png)
 
-Fare clic sull'estensione **Musica** per aggiungerla.
+Fai clic sull'estensione **Musica** per aggiungerla.
 
 ![estensione musica evidenziata](images/click-music-annotated.png)
 
