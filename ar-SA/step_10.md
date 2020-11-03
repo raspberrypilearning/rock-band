@@ -1,33 +1,20 @@
-\--- challenge \---
+## What next?
 
-## التحدي: إنشاء فرقتك الموسيقية
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-استخدم ما تعلمتَه في هذا المشروع لابتكار فرقتك الموسيقية! يمكنك إنشاء أي آلات تريدها — ألق نظرة على الآلات والأصوات المتوفرة للحصول على بعض الأفكار.
+--- no-print ---
 
-![لقطة الشاشة](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-ليس بالضرورة أن تكون الآلات كما هي في الواقع، فعلى سبيل المثال يمكنك إنشاء بيانو مكوَّن من قطع فطائر مدوَّرة!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![لقطة الشاشة](images/band-piano.png)
+--- /no-print ---
 
-فضلا عن استخدام كائنات موجودة مسبقاً، يمكنك أيضا رسم كائنات خاصة بك.
+--- print-only ---
 
-![لقطة الشاشة](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- collapse \---
-
-## العنوان: لماذا 'يقفز' الكائن عندما يتغير مظهره؟
-
-+ عندما تنشئ كائنًا، ربما تلاحظ أنه عندما تنقر عليه، فإنه 'يقفز' إذا تغير مظهره، يحدث ذلك لأن المظهرين مختلفان في المركز.
-
-لإصلاح هذا الخطأ، انقر فوق **تعيين مركز المظهر** لكلا المظهرين، وتأكد من أن المركز عند النقطة نفسها في كلا المظهرين.
-
-![لقطة الشاشة](images/band-center.png)
-
-\--- /collapse \---
-
-إذا كان لديك ميكروفون، فيمكنك تسجيل أصوات من عندك، بل ويمكنك استخدام كاميرا الويب لتصوير الآلات!
-
-![لقطة الشاشة](images/band-io.png)
-
-\--- /challenge \---
+--- /print-only ---
