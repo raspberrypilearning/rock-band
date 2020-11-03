@@ -20,7 +20,7 @@ Scratchオフラインエディタをダウンロードしてインストール�
 
 \--- task \---
 
-目の前に見えるネコのスプライトはScratchのマスコットです。右クリックしてから **削除 **をクリックして、消しましょう。
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by clicking on the X in the corner.
 
 ![スクリーンショット](images/band-delete-annotated.png)
 
