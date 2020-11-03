@@ -1,33 +1,20 @@
-\--- challenge \---
+## What next?
 
-## Desafío: crea tu propia banda
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-¡Usa lo que has aprendido en este proyecto para crear tu propia banda! Puedes crear cualquier instrumento que quieras - para darte algunas ideas, echa un vistazo a los sonidos y instrumentos disponibles.
+--- no-print ---
 
-![captura de pantalla](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-Tus instrumentos no tienen que ser lógicos. Por ejemplo, ¡podrías crear un piano hecho de muffins!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![captura de pantalla](images/band-piano.png)
+--- /no-print ---
 
-Además de utilizar objetos existentes, también puedes dibujar uno nuevo.
+--- print-only ---
 
-![captura de pantalla](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- collapse \---
-
-## title: ¿Por qué 'salta' el objeto cuando cambia de disfraz?
-
-+ Cuando creas tu propio objeto, a lo mejor descubrirás que cuando haces clic encima de él, este 'salta' cuando cambia de disfraz. Esto pasa si los dos disfraces no están centrados en el mismo punto.
-
-Para arreglarlo, haz clic en **Fijar el centro del disfraz** para los dos disfraces, y asegúrate de que el centro esté en el mismo punto en ambos.
-
-![captura de pantalla](images/band-center.png)
-
-\--- /collapse \---
-
-Si tienes un micrófono, puedes grabar tus propios sonidos, ¡o incluso usar una cámara web para tocar tus instrumentos!
-
-![captura de pantalla](images/band-io.png)
-
-\--- /challenge \---
+--- /print-only ---
