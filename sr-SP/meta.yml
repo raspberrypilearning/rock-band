@@ -26,4 +26,9 @@ steps:
     title: "Challenge: improve your band"
     challenge: true
   - 
+    title: Reflection
+    quiz: true
+  - 
     title: "What next?"
+
+
