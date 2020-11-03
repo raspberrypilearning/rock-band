@@ -1,33 +1,20 @@
-\--- çağırış \---
+## What next?
 
-## Çağırış: öz bandını yaradın
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-Öz qrupunuzu etmək üçün bu layihədə öyrəndiklərinizi istifadə edin! İstədiyiniz hər hansı bir alət yarada - bəzi fikirləri əldə etmək üçün mövcud səslər və alətlərə baxın.
+--- no-print ---
 
-![ekran görüntüsü](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-Alətləriniz olsa da həssas olmalı deyil. Məsələn, keklərdən hazırlanan bir piyano edə bilərsiniz!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![ekran görüntüsü](images/band-piano.png)
+--- /no-print ---
 
-Mövcud sprites istifadə edərək, həmçinin öz çəkmək olar.
+--- print-only ---
 
-![ekran görüntüsü](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- çökmə \---
-
-## title: Kostyum dəyişəndə ​​mənim sprite 'atlayaraq' niyə?
-
-+ Öz sprite yaratdığınızda, sprite vurduğunuzda kostyumu dəyişdirərkən "atlayır" deyə bilərsiniz. Bunun səbəbi, iki kostyum eyni yerdə mərkəzləşdirilməməsi.
-
-Bunu düzəltmək üçün hər kostyumda **Set kostyum mərkəzi** düyməsini basın və mərkəz həm kostyumların eyni nöqtəsində olduğundan əmin olun.
-
-![ekran görüntüsü](images/band-center.png)
-
-\--- / çökmə \---
-
-Mikrofonunuz varsa, öz səslərinizi yaza bilərsiniz və hətta alətlərinizi vurmaq üçün bir web kamerasını istifadə edə bilərsiniz!
-
-![ekran görüntüsü](images/band-io.png)
-
-\--- / problem
+--- /print-only ---
