@@ -1,33 +1,20 @@
-\--- izziv \---
+## What next?
 
-## Izziv: naredite svoj lastni bend
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-Uporabite, kar ste se naučili v tem projektu, da ustvarite svojo skupino! Ustvarite lahko poljubne instrumente, ki jih želite - poglejte razpoložljive zvoke in instrumente, da dobite nekaj idej.
+--- no-print ---
 
-![screenshot](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-Čeprav vaši instrumenti niso razumni. Na primer, lahko naredite klavir, narejen iz kolofonov!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![screenshot](images/band-piano.png)
+--- /no-print ---
 
-Poleg že obstoječih spritev lahko pripravite tudi svoje.
+--- print-only ---
 
-![screenshot](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- propad \---
-
-## naslov: Zakaj je moj sprite "skakanje", ko spremeni kostum?
-
-+ Ko ustvarjate svoj lastni sprite, boste morda ugotovili, da ko kliknete sprite, skokne, ko spremeni kostum. To je zato, ker oba kostuma nista centrirana na istem mestu.
-
-Če želite to popraviti, kliknite **Nastavite kostumski center** v obeh kostumih in poskrbite, da je center na isti točki v obeh kostumih.
-
-![screenshot](images/band-center.png)
-
-\--- / kolaps \---
-
-Če imate mikrofon, lahko posnamete lastne zvoke ali celo uporabite spletno kamero, da zadete vaše instrumente!
-
-![screenshot](images/band-io.png)
-
-\--- / izziv \---
+--- /print-only ---
