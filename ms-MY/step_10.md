@@ -1,33 +1,20 @@
-\--- cabaran \---
+## What next?
 
-## Cabaran: buat band sendiri
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-Gunakan apa yang anda pelajari dalam projek ini untuk membuat band anda sendiri! Anda boleh membuat sebarang instrumen yang anda suka - melihat bunyi dan instrumen yang ada untuk mendapatkan beberapa idea.
+--- no-print ---
 
-![tangkapan skrin](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-Instrumen anda tidak perlu masuk akal walaupun. Sebagai contoh, anda boleh membuat piano dibuat daripada mufin!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![tangkapan skrin](images/band-piano.png)
+--- /no-print ---
 
-Serta menggunakan sprite sedia ada, anda juga boleh menarik diri anda sendiri.
+--- print-only ---
 
-![tangkapan skrin](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- runtuh \---
-
-## tajuk: Kenapa saya melompat 'sprit' ketika ia mengubah kostum?
-
-+ Apabila membuat sprite anda sendiri, anda mungkin mendapati bahawa apabila anda mengklik sprite, ia 'melompat' kerana ia mengubah kostum. Ini kerana kedua-dua pakaian tidak berpusat di tempat yang sama.
-
-Untuk membaiki ini, klik **Set pusat pakaian** pada kedua-dua pakaian, dan pastikan pusat itu berada pada titik yang sama dalam kedua-dua pakaian.
-
-![tangkapan skrin](images/band-center.png)
-
-\--- / runtuh \---
-
-Sekiranya anda mempunyai mikrofon, anda boleh merakam bunyi anda sendiri, atau menggunakan webcam untuk memukul instrumen anda!
-
-![tangkapan skrin](images/band-io.png)
-
-\--- / cabaran \---
+--- /print-only ---
