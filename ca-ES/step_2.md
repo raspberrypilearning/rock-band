@@ -20,7 +20,7 @@ S'assembla a això:
 
 \--- task \---
 
-El personatge del gat que veus és la mascota de Scratch. No la necessites per aquest joc, per tant, elimina'l fent clic sobre ell amb el botó dret del ratolí i després clicant sobre l'opció **esborra**, o també el pots eliminar clicant amb el botó esquerra del ratolí directament sobre la creu del personatge.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by clicking on the X in the corner.
 
 ![captura de pantalla](images/band-delete-annotated.png)
 
