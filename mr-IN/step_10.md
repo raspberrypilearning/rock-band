@@ -1,33 +1,20 @@
-\--- आव्हान \---
+## What next?
 
-## आव्हान: आपल्या स्वत: च्या बँड करा
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-आपले स्वत: चे बँड तयार करण्यासाठी आपण या प्रकल्पामध्ये काय शिकलात ते वापरा! आपण आपल्याला आवडत असलेले कोणतेही साधन तयार करू शकता - काही कल्पना मिळविण्यासाठी उपलब्ध ध्वनी आणि साधने पहा.
+--- no-print ---
 
-![स्क्रीनशॉट](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-आपल्या वादन तरी शहाणा असू गरज नाही उदाहरणार्थ, तुम्ही मफिन बनवलेले पियानो बनवू शकता!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![स्क्रीनशॉट](images/band-piano.png)
+--- /no-print ---
 
-तसेच अस्तित्वात असलेल्या sprites वापरून आपण आपल्या स्वत: च्या काढू शकता.
+--- print-only ---
 
-![स्क्रीनशॉट](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- संकुचित \---
-
-## शीर्षक: पोशाख बदलताना माझे प्रेत 'जंपिंग' का आहे?
-
-+ आपले स्वत: चे स्प्रीट तयार करताना, आपण शोधू शकता की जेव्हा आपण प्रेत क्लिक कराल तेव्हा ते 'जंप्स' होईल कारण ते पोशाख बदलतात. याचे कारण दोन पोशाख एकाच ठिकाणी केंद्रित नाहीत.
-
-याचे निराकरण करण्यासाठी, दोन्ही कॉल्स्यूम्सवर **सेट कॉस्ट्यूम सेंटर** वर क्लिक करा आणि हे सुनिश्चित करा की केंद्र दोन्ही पोशाख सारख्याच बिंदूवर आहे.
-
-![स्क्रीनशॉट](images/band-center.png)
-
-\--- / संकुचित \---
-
-जर आपल्याकडे मायक्रोफोन असेल तर आपण आपल्या स्वत: च्या ध्वनी रेकॉर्ड करू शकता, किंवा आपले वाद्य वाजवण्यासाठी वेबकॅम वापरू शकता!
-
-![स्क्रीनशॉट](images/band-io.png)
-
-\--- / आव्हान \---
+--- /print-only ---
