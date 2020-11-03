@@ -1,6 +1,6 @@
 \--- no-print \---
 
-यह प्रोजेक्ट का **स्क्रैच 3** संस्करण है। प्रोजेक्ट का [स्क्रैच 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) संस्करण भी है।
+यह प्रोजेक्ट का **Scratch 3** संस्करण है। प्रोजेक्ट का [Scratch 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) संस्करण भी है।
 
 \--- /no-print \---
 
