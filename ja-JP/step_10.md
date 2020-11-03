@@ -1,33 +1,20 @@
-\--- challenge \---
+## What next?
 
-## チャレンジ: 自分のバンドを作ろう
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-このプロジェクトで学んだことを使って自分のバンドを作りましょう！　どんな楽器でも好きなものを作ることができます。すでにある音と楽器を見てみましょう。
+--- no-print ---
 
-![screenshot](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-楽器は正確(せいかく)である必要はありません。たとえば、マフィンでピアノを作ることもできます！
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![screenshot](images/band-piano.png)
+--- /no-print ---
 
-すでにあるスプライトを使うこともできますし、自分で絵を描くこともできます。
+--- print-only ---
 
-![screenshot](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- collapse \---
-
-## title: コスチュームが変わるときに、スプライトが「ジャンプ」するのはどうして？
-
-+ 自分のスプライトを作るとき、クリックしてコスチュームが変わるときにスプライトが「ジャンプ」することに気づいたかもしれません。 これは2つのコスチュームが同じ位置にそろっていないからです。
-
-直すには、 2つのコスチュームで**コスチュームの中心を設定(せってい)**をクリックし、中心が同じ位置になるようにしましょう。
-
-![screenshot](images/band-center.png)
-
-\--- /collapse \---
-
-もしマイクを持っていたら、自分で録音(ろくおん)することができます。またWEBカメラを使って、自分の楽器を鳴らすこともできます。 screenshot
-
-![screenshot](images/band-io.png)
-
-\--- /challenge \---
+--- /print-only ---
