@@ -20,7 +20,7 @@ Tampak seperti ini:
 
 \--- task \---
 
-Sprite kucing yang Kamu lihat adalah maskot Scratch. Jika Kamu memerlukan proyek Scratch kosong, Kamu dapat menghapus kucing dengan cara mengklik kanan kucing tersebut dan kemudian pilih **hapus**.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by clicking on the X in the corner.
 
 ![tangkapan layar](images/band-delete-annotated.png)
 
