@@ -26,4 +26,9 @@ steps:
     title: "Kihívás: fejleszd a zenekart"
     challenge: true
   - 
-    title: "Mi a következő lépés?"
+    title: Reflection
+    quiz: true
+  - 
+    title: "What next?"
+
+
