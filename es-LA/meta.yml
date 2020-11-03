@@ -26,4 +26,9 @@ steps:
     title: "Desafío: Mejora tu banda"
     challenge: true
   - 
-    title: "¿Qué sigue?"
+    title: Reflection
+    quiz: true
+  - 
+    title: "What next?"
+
+
