@@ -1,33 +1,20 @@
-\--- challenge \---
+## What next?
 
-## Challenge: створіть власну групу
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-Використовуйте те, що ви дізналися в цьому проекті, щоб створити власну групу! Ви можете створювати будь-які інструменти, які вам подобаються - перегляньте доступні звуки та інструменти, щоб отримати деякі ідеї.
+--- no-print ---
 
-![скріншот](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-Ваші інструменти, не повинні бути зрозумілими. Наприклад, ви можете зробити фортепіано, виготовлене з кексів!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![скріншот](images/band-piano.png)
+--- /no-print ---
 
-Також за допомогою існуючих спрайтів можна створити власний.
+--- print-only ---
 
-![скріншот](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- collapse \---
-
-## title: Чому мій спрайт "стрибає", коли змінює костюм?
-
-+ Створюючи свій власний спрайт, ви можете помітити, що коли ви натискаєте на спрайт, він "стрибає", коли змінює костюм. Це тому, що два костюми не розташовані в одному місці.
-
-Щоб виправити це, натисніть кнопку ** Встановити центр костюмів ** на обох костюмах і переконайтеся, що центр знаходиться в одній точці обох костюмів.
-
-![скріншот](images/band-center.png)
-
-\--- /collapse \---
-
-Якщо у вас є мікрофон, ви можете записувати власні звуки або навіть використовувати веб-камеру, щоб користуватися своїми інструментами!
-
-![скріншот](images/band-io.png)
-
-\--- /challenge \---
+--- /print-only ---
