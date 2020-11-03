@@ -20,7 +20,7 @@
 
 \--- task \---
 
-Спрайт кота, который ты видишь, это талисман Scratch. В этой игре он тебе не понадобится, поэтому ты можешь избавиться от него, щелкнув по нему правой кнопкой мыши и нажав **удалить**.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by clicking on the X in the corner.
 
 ![снимок экрана](images/band-delete-annotated.png)
 
