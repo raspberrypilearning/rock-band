@@ -1,33 +1,20 @@
-\--- haaste \---
+## What next?
 
-## Haaste: tee oma bändi
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-Käytä tätä hanketta, jonka olet oppinut tekemään oman bändin! Voit luoda haluamasi välineet - katso käytettävissä olevia ääniä ja välineitä ideoiden saamiseksi.
+--- no-print ---
 
-![kuvakaappaus](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-Laitteesi ei kuitenkaan tarvitse olla järkeviä. Voit esimerkiksi tehdä muffinista valmistetun pianon!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![kuvakaappaus](images/band-piano.png)
+--- /no-print ---
 
-Voit käyttää myös olemassa olevia sprittejä käyttämällä myös omia.
+--- print-only ---
 
-![kuvakaappaus](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- romahdus \---
-
-## title: Miksi minun sprite "hyppää", kun se muuttaa pukuun?
-
-+ Kun luot omia spriteja, saatat huomata, että kun napsautat spriteä, se "hyppää", kun se muuttaa pukua. Tämä johtuu siitä, että kaksi puvusta ei ole keskitetty samaan paikkaan.
-
-Voit korjata tämän napsauttamalla **Aseta pukuhuone** kummassakin puvussa ja varmista, että keskus on molemmissa puvissa samassa kohdassa.
-
-![kuvakaappaus](images/band-center.png)
-
-\--- / romahdus \---
-
-Jos sinulla on mikrofoni, voit tallentaa omia ääniäsi tai jopa käyttää webbikameraa lyödäksesi soittimesi!
-
-![kuvakaappaus](images/band-io.png)
-
-\--- /haaste \---
+--- /print-only ---
