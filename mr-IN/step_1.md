@@ -4,15 +4,15 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## Introduction
+## परिचय
 
-Learn how to code your own musical instruments!
+आपल्या स्वत: चे वाद्ये कोड (code) करायला शिका!
 
-### What you will make
+### आपण काय तयार करणार आहोत
 
 \--- no-print \---
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+सुरू करण्यासाठी हिरव्या ध्वज क्लिक करा. मग, वाद्य वाजवताना ऐकण्यासाठी गायक किंवा ड्रमवर क्लिक करा.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,31 +22,31 @@ Click the green flag to begin. Then, click on the singer or the drum to hear wha
 
 \--- print-only \---
 
-You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+आपण एक खेळ बनवाल जेथे गायन किंवा ड्रमचा आवाज ऐकण्यासाठी गायक किंवा ड्रम वर क्लिक करू शकता,.
 
-![game screenshot](images/demo.png)
+![गेम स्क्रीनशॉट](images/demo.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: आपण काय शिकणार
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch
++ स्क्रॅचमध्ये (Scratch) स्प्राइटची (Sprites) पोशाख बदलण्यासाठी कोड (Code) वापरा
++ स्क्रॅचमध्ये इनपुटवर स्प्राइट्स (Sprites) प्रतिक्रिया देण्यासाठी कोड वापरा
++ स्क्रॅचमधील स्प्राइटमध्ये ध्वनी जोडा
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: आपल्याला काय लागणार
 
-#### Hardware
+#### हार्डवेअर
 
-+ A computer capable of running Scratch 3
++ स्क्रॅच 3 (Scratch 3) चालवण्यास सक्षम असलेले संगणक
 
-#### Software
+#### सॉफ्टवेअर
 
 + Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
@@ -54,14 +54,14 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: शिक्षकांसाठी अतिरिक्त माहिती
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+आपल्याला हा प्रकल्प प्रिंट करणे आवश्यक असल्यास, कृपया [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/rock-band-get).
+आपण येथे [ completed project ](http://rpf.io/p/en/rock-band-get)शोधू शकता.
 
 \--- /collapse \---
