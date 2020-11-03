@@ -26,4 +26,9 @@ steps:
     title: "Izziv: izboljšajte svojo skupino"
     challenge: true
   - 
-    title: "Kaj sledi?"
+    title: Reflection
+    quiz: true
+  - 
+    title: "What next?"
+
+
