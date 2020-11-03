@@ -20,7 +20,7 @@
 
 \--- task \---
 
-আপনি যে বিড়ালের স্প্রিট দেখতে পাচ্ছেন তা হ'ল স্ক্র্যাচ মাস্কট। এই গেমটির জন্য আপনার এটির দরকার নেই, তাই এটিকে ডান-ক্লিক করে এবং তারপরে **delete** এ ক্লিক করে এ থেকে মুক্তি পান।.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by clicking on the X in the corner.
 
 ![স্ক্রিনশট](images/band-delete-annotated.png)
 
