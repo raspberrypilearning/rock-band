@@ -26,4 +26,9 @@ steps:
     title: "চ্যালেঞ্জ: আপনার ড্রাম উন্নত করুন"
     challenge: true
   - 
-    title: "এরপর কি?"
+    title: Reflection
+    quiz: true
+  - 
+    title: "What next?"
+
+
