@@ -20,7 +20,7 @@
 
 \--- task \---
 
-ان كائن القطة الذي تراه هو شعار برنامج سكراتش Scratch. لا تحتاجه في هذه اللعبة، لذلك لنحذف هذا الكائن بالنقر عليه بزر الماوس الأيمن ثم النقر فوق **حذف**.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by clicking on the X in the corner.
 
 ![لقطة الشاشة](images/band-delete-annotated.png)
 
