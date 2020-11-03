@@ -1,33 +1,20 @@
-\--- challenge \---
+## What next?
 
-## Desafio: Faça a sua própria banda
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-Use o que você aprendeu neste projeto para fazer sua própria banda! Você pode criar qualquer instrumento que quiser — veja os sons e instrumentos disponíveis para obter algumas ideias.
+--- no-print ---
 
-![screenshot](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-Seus instrumentos não precisam fazer sentido. Por exemplo, você poderia fazer um piano feito de bolinhos!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![screenshot](images/band-piano.png)
+--- /no-print ---
 
-Além de usar os atores da biblioteca, você também pode desenhar os seus próprios atores.
+--- print-only ---
 
-![screenshot](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- collapse \---
-
-## title: Por que o meu ator está 'pulando' quando muda de roupa?
-
-+ Ao criar o seu próprio ator, você pode descobrir que quando você clica nele, ele 'pula' quando muda de fantasia. Isso ocorre porque as duas fantasias não estão centralizadas no mesmo lugar.
-
-Para corrigir isso, clique em **Escolher centro da fantasia** em ambas fantasias, e certifique-se de que o centro esteja no mesmo ponto para elas.
-
-![screenshot](images/band-center.png)
-
-\--- /collapse \---
-
-Se você tem um microfone, você pode gravar seus próprios sons ou até mesmo usar uma webcam para tocar os seus instrumentos!
-
-![screenshot](images/band-io.png)
-
-\--- /challenge \---
+--- /print-only ---
