@@ -1,33 +1,20 @@
-\--- challenge \---
+## What next?
 
-## Herausforderung: Mache deine eigene Band
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-Nutze, was du in diesem Projekt gelernt hast, um deine eigene Band zu gründen! Du kannst beliebige Instrumente erstellen - schau dir die verfügbaren Klänge und Instrumente an, um einige Ideen zu erhalten.
+--- no-print ---
 
-![Screenshot](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-Deine Instrumente müssen jedoch nicht vernünftig sein. Du könntest zum Beispiel ein Piano aus Muffins machen!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![Screenshot](images/band-piano.png)
+--- /no-print ---
 
-Du kannst nicht nur vorhandene Figuren verwenden, sondern auch eigene zeichnen.
+--- print-only ---
 
-![Screenshot](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- collapse \---
-
-## title: Warum springt mein Sprite, wenn er das Kostüm wechselt?
-
-+ Wenn du eine eigene Figur erstellst, kann es dir vielleicht passieren, dass die Figur beim anklicken "springt", wenn sie das Kostüm wechselt. Dies liegt daran, dass die beiden Kostüme nicht an derselben Stelle zentriert sind.
-
-Um das Problem zu beheben, klicke für beide Kostüme auf **Drehpunkt des Kostüms**, und stelle sicher, dass das Zentrum in beiden Kostümen an der gleichen Stelle ist.
-
-![Screenshot](images/band-center.png)
-
-\--- /collapse \---
-
-Wenn du ein Mikrofon hast, kannst du deine eigenen Klänge aufnehmen oder sogar eine Webcam benutzen, um deine Instrumente zu spielen!
-
-![Screenshot](images/band-io.png)
-
-\--- /challenge \---
+--- /print-only ---
