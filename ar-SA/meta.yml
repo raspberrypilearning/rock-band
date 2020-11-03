@@ -26,4 +26,9 @@ steps:
     title: "التحدي: تحسين فرقتك"
     challenge: true
   - 
-    title: "ما التالي؟"
+    title: Reflection
+    quiz: true
+  - 
+    title: "What next?"
+
+
