@@ -1,6 +1,6 @@
 ## I Costumi
 
-Ora farai sembrare che il tuo cantante stia cantando!
+Ora farai sembrare che la tua cantante stia cantando!
 
 \--- task \---
 
@@ -39,10 +39,10 @@ The names of the costumes aren't very helpful at the moment. Type into the text 
 Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
 
 ```blocks3
-quando clicchi su questo sprite
-+ cambia costume in (cantare v)
-emetti suono (cantante1 v) fino a quando
-+ cambia costume in (non cantare v)
+when this sprite clicked
++switch costume to (singing v)
+play sound (singer1 v) until done
++switch costume to (not singing v)
 ```
 
 The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
