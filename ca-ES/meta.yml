@@ -26,4 +26,9 @@ steps:
     title: "Repte: millora la teva banda"
     challenge: true
   - 
-    title: "I ara què ve?"
+    title: Reflection
+    quiz: true
+  - 
+    title: "What next?"
+
+
