@@ -1,18 +1,18 @@
-## Personatges
+## Objetos
 
-Abans de començar a programar, necessitaràs afegir una 'cosa' al codi. A Scratch, aquestes 'coses' s'anomenen **personatges**.
+Antes de comenzar la codificación, necesitas añadir una “cosa” que animar. En Scratch, estas “cosas” se llaman **objetos**.
 
 --- task ---
 
-Crea un projecte nou de Scratch.
+Abrir un nuevo proyecto de Scratch vacío.
 
-**En línia:** obre un projecte d'Scratch nou en línia a [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**En línea:** abre un nuevo proyecto en línea de Scratch en [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
 
-**Fora de línia:** obre un projecte nou a l’editor fora de línia.
+**Sin conexión:** abre un nuevo proyecto en el editor sin conexión.
 
-Si necessites descarregar i instal·lar l'editor fora de línia de Scratch, el pots trobar a [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si necesitas descargar e instalar el editor sin conexión de Scratch, puedes encontrarlo en [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-S'assembla a això:
+Se ve así:
 
 ![captura de pantalla](images/band-scratch.png)
 
@@ -20,7 +20,7 @@ S'assembla a això:
 
 --- task ---
 
-El personatge del gat que veus és la mascota de Scratch. No la necessites per aquest joc, per tant, elimina'l fent clic sobre ell amb el botó dret del ratolí i després clicant sobre l'opció **esborra**, o també el pots eliminar clicant amb el botó esquerra del ratolí directament sobre la creu del personatge.
+El objeto gato que ves es la mascota de Scratch. No lo necesitas para este juego, de modo que puedes eliminarlo haciendo clic encima de él con el botón derecho y luego haciendo clic en **borrar**.
 
 ![captura de pantalla](images/band-delete-annotated.png)
 
@@ -28,7 +28,7 @@ El personatge del gat que veus és la mascota de Scratch. No la necessites per a
 
 --- task ---
 
-A continuació, fes clic a **Tria un personatge de la biblioteca** per obrir una llista de tots els personatges de Scratch.
+Luego, haz clic en **Elige un objeto de la biblioteca** para abrir una lista de todos los objetos de Scratch.
 
 ![captura de pantalla](images/band-sprite-library.png)
 
@@ -36,7 +36,7 @@ A continuació, fes clic a **Tria un personatge de la biblioteca** per obrir una
 
 --- task ---
 
-Desplaça't cap avall fins que vegis el personatge del tambor. Fes clic a un tambor per afegir-lo al teu projecte.
+Baja hasta encontrar el objeto tambor. Haz clic en un tambor para añadirlo a tu proyecto.
 
 ![captura de pantalla](images/band-sprite-drum.png)
 
@@ -44,19 +44,19 @@ Desplaça't cap avall fins que vegis el personatge del tambor. Fes clic a un tam
 
 --- task ---
 
-Fes clic i arrossega el tambor fins a la part inferior de l'Escenari.
+Haz clic y arrastra el tambor hasta la parte inferior del escenario.
 
 --- /task ---
 
 --- task ---
 
-Posa un nom al teu programa escrivint en el quadre de text de la part superior.
+Dale un nombre a tu programa escribiendo en el cuadro de texto en la esquina superior.
 
-![nom](images/band-name-annotated.png)
+![nombre](images/band-name-annotated.png)
 
-A continuació, fes clic a **Fitxer** i després a **Desa ara** per guardar el teu projecte.
+Luego haz clic en **Archivo**, y luego en **Guardar ahora** para guardar tu proyecto.
 
-Si no estàs en línia o no tens un compte de Scratch, pots desar una còpia del projecte fent clic a **Desa al teu ordinador** com alternativa.
+Si no estás conectado o no tienes una cuenta de Scratch, puedes guardar una copia de tu proyecto haciendo clic en **Guardar en tu computador**.
 
 ![captura de pantalla](images/band-save.png)
 
