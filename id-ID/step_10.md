@@ -1,33 +1,20 @@
-\--- challenge \---
+## What next?
 
-## Tantangan: buat band Anda sendiri
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-Gunakan apa yang telah Anda pelajari dalam proyek ini untuk membuat band Anda sendiri! Anda dapat membuat instrumen apa pun yang Anda suka - lihat suara dan instrumen yang tersedia untuk mendapatkan beberapa ide.
+--- no-print ---
 
-![tangkapan layar](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-Namun, instrumen Anda tidak harus masuk akal. Misalnya, Anda bisa membuat piano yang terbuat dari muffin!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![tangkapan layar](images/band-piano.png)
+--- /no-print ---
 
-Serta menggunakan sprite yang ada, Anda juga dapat menggambar sprite Anda sendiri.
+--- print-only ---
 
-![tangkapan layar](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- jatuh \---
-
-## title: Mengapa sprite saya 'melompat' ketika itu mengubah kostum?
-
-+ Ketika membuat sprite Anda sendiri, Anda mungkin menemukan bahwa ketika Anda mengklik sprite, itu 'melompat' karena mengubah kostum. Ini karena kedua kostum itu tidak berpusat di tempat yang sama.
-
-Untuk memperbaikinya, klik **Set pusat kostum** pada kedua kostum, dan pastikan pusatnya berada pada titik yang sama di kedua kostum.
-
-![tangkapan layar](images/band-center.png)
-
-\--- /jatuh \---
-
-Jika Anda memiliki mikrofon, Anda dapat merekam suara Anda sendiri, atau bahkan menggunakan webcam untuk memukul instrumen Anda!
-
-![tangkapan layar](images/band-io.png)
-
-\--- / tantangan \---
+--- /print-only ---
