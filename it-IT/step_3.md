@@ -1,6 +1,6 @@
-## Il palco
+## Lo Stage (palco)
 
-Il **Palco** è l'area sulla destra, ed è dove il tuo progetto prende vita. Pensalo come un luogo di spettacolo, proprio come un vero palcoscenico!
+Lo **Stage o palco** è l'area sulla destra, ed è dove il tuo progetto prende vita. Pensalo come un luogo di spettacolo, proprio come un vero palcoscenico!
 
 \--- task \---
 
