@@ -20,7 +20,7 @@ Se você precisar baixar e instalar o editor offline do Scratch, poderá encontr
 
 \--- task \---
 
-O ator de gato que você consegue ver é o mascote do Scratch. Você não precisa dele para esse jogo, então remova-o clicando nele com o botão direito do mouse e selecionando **apagar**.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by clicking on the X in the corner.
 
 ![captura de tela](images/band-delete-annotated.png)
 
@@ -36,7 +36,7 @@ A seguir, clique em **Escolher um ator da biblioteca** para abrir uma lista de t
 
 \--- task \---
 
-Desça até você ver um ator de tambor. Clique em um tambor para adicioná-lo ao seu projeto.
+Desça ate você encontrar um ator de tambor. Clique em um tambor para adicioná-lo ao seu projeto.
 
 ![captura de tela](images/band-sprite-drum.png)
 
