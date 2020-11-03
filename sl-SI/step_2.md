@@ -20,7 +20,7 @@ To je videti tako:
 
 \--- task \---
 
-Figura mačke je maskota Scratcha. Za to igro je ne potrebuješ, zato se je znebi z desnim klikom na figuro, potem pa klikni še na **zbriši**.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by clicking on the X in the corner.
 
 ![posnetek zaslona](images/band-delete-annotated.png)
 
