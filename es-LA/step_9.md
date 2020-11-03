@@ -1,20 +1,17 @@
-## ¿Qué sigue?
+## Reflection
 
-Ahora que has creado tu primer proyecto de Scratch, ¿por qué no echas un vistazo al proyecto de Scratch [ Perdidos en el espacio](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)?
+Congratulations on completing the Rock Band project. We would love to know whether you think this project has helped you develop your digital making skills.
 
 \--- no-print \---
 
-Haz clic en la bandera verde para ver la animación.
+## \--- quiz \---
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
-  <img src="images/space-final.png">
-</div>
+## question: Now that you've completed Rock Band, how confident do you feel about programming in Scratch?
+
+- ( ) Less confident
+- ( ) About the same
+- ( ) More confident
+
+\--- /quiz \---
 
 \--- /no-print \---
-
-\--- print-only \---
-
-![Proyecto completo](images/space-final.png)
-
-\--- /print-only \---
