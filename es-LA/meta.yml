@@ -8,7 +8,7 @@ version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - title: Introducción
-  - title: Personatges
+  - title: Objetos
   - title: El Escenario
   - title: Haciendo un tambor
   - title: "Desafío: mejora tu tambor"
