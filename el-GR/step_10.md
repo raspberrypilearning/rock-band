@@ -1,33 +1,20 @@
-\--- challenge \---
+## What next?
 
-## Πρόκληση: δημιούργησε τη δική σου μπάντα
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-Χρησιμοποίησε αυτά που έχεις μάθει σε αυτό το έργο για να φτιάξεις τη δική σου μπάντα! Μπορείς να δημιουργήσεις όποια όργανα σου αρέσουν - δες τους διαθέσιμους ήχους και τα διαθέσιμα όργανα για να πάρεις μερικές ιδέες.
+--- no-print ---
 
-![screenshot](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-Ωστόσο, τα όργανά σου δεν χρειάζεται να έχουν λογική. Για παράδειγμα, θα μπορούσες να φτιάξεις ένα πιάνο από κεκάκια!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![screenshot](images/band-piano.png)
+--- /no-print ---
 
-Εκτός από τη χρήση των υφιστάμενων αντικειμένων, μπορείς επίσης να σχεδιάσεις το δικό σου.
+--- print-only ---
 
-![screenshot](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- collapse \---
-
-## title: Γιατί αναπηδά το αντικείμενό μου όταν αλλάζει ενδυμασία;
-
-+ Όταν δημιουργείς το δικό σου αντικείμενο, μπορεί να διαπιστώσεις ότι όταν κάνεις κλικ πάνω του, αυτό 'αναπηδά' καθώς αλλάζει ενδυμασία. Αυτό συμβαίνει επειδή οι δύο ενδυμασίες δεν είναι στοιχισμένες στο ίδιο μέρος.
-
-Για να το διορθώσεις αυτό, κάνε κλικ στο **Επιλογή κέντρου της ενδυμασίας** και στις δύο ενδυμασίες και βεβαιώσου ότι το κέντρο βρίσκεται στο ίδιο σημείο και στις δύο ενδυμασίες.
-
-![screenshot](images/band-center.png)
-
-\--- /collapse \---
-
-Αν έχεις ένα μικρόφωνο, μπορείς να εγγράψεις τους δικούς σου ήχους, ή ακόμα και να χρησιμοποιήσεις μια web κάμερα για να χτυπάς τα όργανά σου!
-
-![screenshot](images/band-io.png)
-
-\--- /challenge \---
+--- /print-only ---
