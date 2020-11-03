@@ -1,8 +1,8 @@
-## Challenge: improve your band
+## आव्हान: आपला बँड (Band) सुधारित करा
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+या प्रकल्पात आपण जे शिकलात त्याचा स्वत: चा बँड तयार करण्यासाठी वापरा! आपण आपल्या आवडीनुसार कोणतीही साधने तयार करू शकता - काही कल्पना मिळविण्यासाठी उपलब्ध वाद्य स्प्राइट आणि ध्वनी पहा.
 
-![screenshot](images/band-ideas-sounds.png)
+![स्क्रीनशॉट](images/band-ideas-sounds.png)
 
 ```blocks3
 when this sprite clicked
@@ -10,24 +10,24 @@ set instrument to (\(1\) Piano v)
 play note (60) for (0.25) beats
 ```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+आपले साधन यथार्थवादी असण्याची गरज नाही. उदाहरणार्थ, आपण मफिन्स ने पियानो बनवू शकता!
 
-![screenshot](images/band-piano.png)
+![स्क्रीनशॉट](images/band-piano.png)
 
-You can use more sprites from the library, and you can also paint your own sprites!
+आपण लायब्ररीमधील अधिक स्प्राईट्स (Sprites) वापरू शकता आणि आपण स्वत: चे स्प्राईट (Sprite) देखील रंगवू शकता!
 
-![screenshot](images/band-draw.png)
+![स्क्रीनशॉट](images/band-draw.png)
 
 ## \--- collapse \---
 
-## title: Why is my sprite 'jumping' when it changes costume?
+## title: जेव्हा माझे पोशाख बदलते तेव्हा माझा स्प्राइट 'जंपिंग' का असतो?
 
-When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+आपले स्वत: चे स्पिइट तयार करताना, आपल्याला असे दिसून येईल की आपण जेव्हा स्प्राइट क्लिक करता तेव्हा ते कपडे बदलते तेव्हा 'जंप' होते. हे असे आहे कारण दोन पोशाख एकाच ठिकाणी केंद्रित नाहीत.
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
+हे निराकरण करण्यासाठी, आपल्या स्प्राइटच्या पोशाखांचे केंद्र समान असल्याचे सुनिश्चित करा.
 
 \--- /collapse \---
 
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
+आपल्याकडे मायक्रोफोन असल्यास, आपण आपले स्वतःचे ध्वनी रेकॉर्ड करू शकता आणि आपल्या वाद्यांना मारण्यासाठी आपण वेबकॅम देखील वापरू शकता!
 
-![screenshot](images/band-io.png)
+![स्क्रीनशॉट](images/band-io.png)
