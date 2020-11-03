@@ -20,7 +20,7 @@
 
 \--- ಕಾರ್ಯ \---
 
-ನೀವು ನೋಡಬಹುದಾದ ಬೆಕ್ಕಿನ ಸ್ಪ್ರೈಟ್ ಸ್ಕ್ರ್ಯಾಚ್ ಮ್ಯಾಸ್ಕಾಟ್ ಆಗಿದೆ. ಈ ಗೇಮಲ್ಲಿ ನಿಮಗೆ ಇದು ಅಗತ್ಯವಿಲ್ಲ, ಆದ್ದರಿಂದ ಅದನ್ನು ತೆಗೆಯಲು ರೈಟ್-ಕ್ಲಿಕ್ ಮಾಡಿ, **ಡಿಲೀಟ್** ಮಾಡಿ.
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by clicking on the X in the corner.
 
 ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/band-delete-annotated.png)
 
