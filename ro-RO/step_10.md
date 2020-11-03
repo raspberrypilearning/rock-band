@@ -1,33 +1,20 @@
-\--- challenge \---
+## What next?
 
-## Provocare: creează propria formație
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-Folosește tot ceea ce ai învățat în acest proiect pentru a-ți face o formație muzicală! Poți crea orice instrument dorești-verigică sunetele și instrumentele disponibile, pentru ca să-ți faci o ideee.
+--- no-print ---
 
-![captură de ecran](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-Instrumentele tale nu trebuie să arate chiar perfect. Spre exemplu, poti scoate sunete de pian și din niște brioșe!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![captură de ecran](images/band-piano.png)
+--- /no-print ---
 
-La fel și cu peraonajele existente, poți desena și adăuga oricând personajul tau.
+--- print-only ---
 
-![captură de ecran](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- collapse \---
-
-## titlu: De ce ‘sare’ persoanjul atunci când i se schimbă costumul?
-
-+ Atunci când creezi personajul tau, vei vedea că la apasarea pe el, ‘sare’ atunci când iși schimbă costumul. Asta se întâmplă deoarece cele două costume nu sunt așezate centrat în același loc.
-
-Pentru a rezolva, apasă **Set costume center** pe ambele costume, având grijă ca centrul lor să fie în același punct.
-
-![captură de ecran](images/band-center.png)
-
-\--- /collapse \---
-
-Dacă ai un microfon poți întegistra sunetele tale, sau chiar golosi o camera web pentru a lovi instrumentele!
-
-![captură de ecran](images/band-io.png)
-
-\--- /challenge \---
+--- /print-only ---
