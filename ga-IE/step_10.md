@@ -1,33 +1,20 @@
-\--- challenge \---
+## What next?
 
-## Challenge: make your own band
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available sounds and instruments to get some ideas.
+--- no-print ---
 
-![screenshot](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-Your instruments don't have to be sensible though. For example, you could make a piano made out of muffins!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![screenshot](images/band-piano.png)
+--- /no-print ---
 
-As well as using existing sprites, you can also draw your own.
+--- print-only ---
 
-![screenshot](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- collapse \---
-
-## title: Why is my sprite 'jumping' when it changes costume?
-
-+ When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
-
-To fix this, click **Set costume center** on both costumes, and make sure the center is at the same point in both costumes.
-
-![screenshot](images/band-center.png)
-
-\--- /collapse \---
-
-If you have a microphone you can record your own sounds, or even use a webcam to hit your instruments!
-
-![screenshot](images/band-io.png)
-
-\--- /challenge \---
+--- /print-only ---
