@@ -1,33 +1,20 @@
-\--- challenge \---
+## What next?
 
-## Challenge: maak je eigen band
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-Gebruik wat je in dit project hebt geleerd om je eigen band te maken! Je kunt elk gewenst instrument maken - bekijk de beschikbare geluiden en instrumenten om ideeën op te doen.
+--- no-print ---
 
-![screenshot](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-Je instrumenten hoeven niet te bestaan. Je zou bijvoorbeeld een piano kunnen maken van muffins!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![screenshot](images/band-piano.png)
+--- /no-print ---
 
-Je kunt niet alleen bestaande sprites gebruiken, maar ook je eigen sprites tekenen.
+--- print-only ---
 
-![screenshot](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- collapse \---
-
-## titel: Waarom springt mijn sprite wanneer het uitelijk verandert?
-
-+ Bij het maken van je eigen sprite, kan je merken dat wanneer je op de sprite klikt, deze verspringt wanneer het uiterlijk verandert. Dit komt omdat het centrum van de twee uiterlijken niet op precies dezelfde plek staan.
-
-Klik op ** Middelpunt van uiterlijk ** om dit probleem op te lossen, en zorg ervoor dat het centrum in beide uiterlijken op hetzelfde punt staat.
-
-![screenshot](images/band-center.png)
-
-\--- /collapse \---
-
-Als je een microfoon hebt kun je je eigen geluiden opnemen of zelfs een webcam gebruiken om je instrumenten te bespelen!
-
-![screenshot](images/band-io.png)
-
-\--- /challenge \---
+--- /print-only ---
