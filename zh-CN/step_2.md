@@ -20,7 +20,7 @@
 
 \--- task \---
 
-你看到的猫是Scratch的吉祥物。在这个游戏中你不需要这个角色，所以右键单击它然后点击 **删除**来删除它。
+The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by clicking on the X in the corner.
 
 ![截屏](images/band-delete-annotated.png)
 
