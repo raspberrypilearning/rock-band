@@ -26,4 +26,9 @@ steps:
     title: "Provocare: îmbunătățește-ți formația"
     challenge: true
   - 
-    title: "Ce urmează?"
+    title: Reflection
+    quiz: true
+  - 
+    title: "What next?"
+
+
