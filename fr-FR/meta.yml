@@ -26,4 +26,9 @@ steps:
     title: "Défi : améliorer ton groupe"
     challenge: true
   - 
-    title: "Que faire ensuite?"
+    title: Reflection
+    quiz: true
+  - 
+    title: "What next?"
+
+
