@@ -12,7 +12,7 @@ steps:
   - 
     title: Sprite
   - 
-    title: Il palco
+    title: Lo Stage (palco)
   - 
     title: Creare un tamburo
   - 
@@ -26,4 +26,9 @@ steps:
     title: "Sfida: migliora la tua banda"
     challenge: true
   - 
-    title: "E poi?"
+    title: Reflection
+    quiz: true
+  - 
+    title: "What next?"
+
+
