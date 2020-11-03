@@ -26,4 +26,9 @@ steps:
     title: "Izazov: poboljšaj svoj bend"
     challenge: true
   - 
-    title: "Što dalje?"
+    title: Reflection
+    quiz: true
+  - 
+    title: "What next?"
+
+
