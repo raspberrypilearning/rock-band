@@ -1,26 +1,26 @@
-## Making a drum
+## ड्रम बनविणे
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+आता आपण आपल्या ड्रममध्ये कोड जोडाल जेणेकरून ड्रम क्लिक झाल्यावर आवाज येईल.
 
-You can find the code blocks in the Scripts tab, and they are all colour-coded!
+आपण स्क्रिप्ट्स टॅबमध्ये कोड ब्लॉक (code block) शोधा आणि ते सर्व रंगीत (colour-coded) आहेत!
 
 \--- task \---
 
-First add the **Music** extension so you can play instruments.
+प्रथम ** संगीत जोडा ** जेणेकरुन आपण वाद्ये वाजवू शकता.
 
-Click on the **Add extension** button in the bottom left-hand corner.
+तळाशी डाव्या हाताच्या कोपर्यात **जोडा विस्तार** बटण क्लिक करा.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![हायलाइट केलेले विस्तार बटण जोडा](images/add-extension-annotated.png)
 
-Click on the **Music** extension to add it.
+जोडण्यासाठी **संगीत** विस्तारावर क्लिक करा.
 
-![music extension highlighted](images/click-music-annotated.png)
+![कलम विस्तार हायलाइट](images/click-music-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on the drum sprite, and then drag these two blocks into the code area on the right:
+ड्रम स्प्राइटवर क्लिक करा आणि नंतर या दोन ब्लॉक्सला कोड क्षेत्रामध्ये उजवीकडे खेचा:
 
 ```blocks3
 when this sprite clicked
@@ -29,16 +29,16 @@ play drum (\(1\) Snare Drum v) for (0.25) beats
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![स्क्रीनशॉट](images/connect-block.gif)
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+ब्लॉक एकत्र जोडलेले आहेत खात्री करा(जसे की लेगो ब्रिक्स).
 
 \--- /task \---
 
 \--- task \---
 
-Click on the drum to try out your new instrument!
+आपले नवीन वाद्य वापरण्यासाठी ड्रमवर क्लिक करा!
 
 \--- /task \---
