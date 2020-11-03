@@ -1,33 +1,20 @@
-\--- വെല്ലുവിളി \---
+## What next?
 
-## വെല്ലുവിളി: നിങ്ങളുടെ സ്വന്തം ബാൻഡാക്കുക
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-നിങ്ങളുടെ സ്വന്തം ബാൻഡ് നിർമ്മിക്കാൻ ഈ പദ്ധതിയിൽ നിങ്ങൾ എന്താണ് പഠിച്ചതെന്ന് ഉപയോഗിക്കുക! നിങ്ങൾക്ക് ഇഷ്ടമുള്ള ഏത് ഉപകരണങ്ങളും സൃഷ്ടിക്കാൻ കഴിയും - ചില ആശയങ്ങൾ ലഭിക്കുന്നതിന് ലഭ്യമായ ശബ്ദങ്ങളും ഉപകരണങ്ങളും നോക്കുക.
+--- no-print ---
 
-![സ്ക്രീൻഷോട്ട്](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-നിങ്ങളുടെ ഉപകരണങ്ങൾ ശരിയായിരിക്കണമെന്നില്ല. ഉദാഹരണത്തിന്, നിങ്ങൾ മഫിഷ്യലുകൾ കൊണ്ട് നിർമ്മിച്ച പിയാനോ ഉണ്ടാക്കാം!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![സ്ക്രീൻഷോട്ട്](images/band-piano.png)
+--- /no-print ---
 
-നിലവിലുള്ള സ്പൈറ്റുകള് ഉപയോഗിച്ചും, നിങ്ങള്ക്ക് സ്വന്തമായി വരക്കാം.
+--- print-only ---
 
-![സ്ക്രീൻഷോട്ട്](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- ചുരുക്കുക \---
-
-## തലക്കെട്ട്: വേഷവിധിയാകുമ്പോൾ എന്റെ സ്പൈറ്റ് എന്തുകൊണ്ടാണ് 'ചാടുന്നത്'?
-
-+ നിങ്ങൾ സ്വന്തം സ്പ്രിറ്റ് സൃഷ്ടിക്കുമ്പോൾ, നിങ്ങൾ നിങ്ങൾ സ്പൈറ്റ് ക്ലിക്ക് ചെയ്യുമ്പോൾ, അത് വേഷവിധാനം മാറ്റുന്നതിനാൽ 'ജമ്പ്സ്' കാണും. രണ്ട് വസ്ത്രങ്ങൾ ഒരേ സ്ഥലത്ത് കേന്ദ്രീകരിച്ചിട്ടില്ലാത്തതിനാലാണിത്.
-
-ഇത് പരിഹരിക്കുന്നതിനായി, രണ്ട് വേഷത്തിലും **സെറ്റ് വസ്ത്രം സെമണിക്** ക്ലിക്കുചെയ്യുക, രണ്ട് വേഷങ്ങളിലുമായി കേന്ദ്രം ഒരേ പോയിന്റാണെന്ന് ഉറപ്പാക്കുക.
-
-![സ്ക്രീൻഷോട്ട്](images/band-center.png)
-
-\--- / collapse \---
-
-നിങ്ങൾക്ക് ഒരു മൈക്രോഫോൺ ഉണ്ടെങ്കിൽ നിങ്ങളുടെ സ്വന്തം ശബ്ദങ്ങൾ റെക്കോർഡുചെയ്യാം, അല്ലെങ്കിൽ നിങ്ങളുടെ ഉപകരണങ്ങൾ ഉപയോഗിച്ച് ഒരു വെബ്ക്യാം ഉപയോഗിക്കാം!
-
-![സ്ക്രീൻഷോട്ട്](images/band-io.png)
-
-\--- / വെല്ലുവിളി \---
+--- /print-only ---
