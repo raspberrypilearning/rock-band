@@ -2,28 +2,33 @@
 hero_image: images / hero-rock-band-large.png
 listed: true
 copyedit: false
-title: Rock band
-description: Learn how to code your own musical instruments
+title: रॉक बँड
+description: 'आपल्या स्वत: चे वाद्ये कोड (code) करायला शिका'
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
-    title: Introduction
+    title: परिचय
   - 
-    title: Sprites
+    title: स्प्राईट्स (Sprites)
   - 
-    title: The Stage
+    title: स्टेज
   - 
-    title: Making a drum
+    title: ड्रम बनविणे
   - 
-    title: "Challenge: improve your drum"
+    title: "आव्हान: आपले ड्रम सुधारित करा"
     challenge: true
   - 
-    title: Making a singer
+    title: गायक बनविणे
   - 
-    title: Costumes
+    title: वेशभूषा
   - 
-    title: "Challenge: improve your band"
+    title: "आव्हान: आपला बँड (Band) सुधारित करा"
     challenge: true
+  - 
+    title: Reflection
+    quiz: true
   - 
     title: "What next?"
+
+
