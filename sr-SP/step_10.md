@@ -1,33 +1,20 @@
-\--- challenge \---
+## What next?
 
-## Изазов: Направи своју групу
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-Употреби оно што си научио/ла у овом пројекту да би направио сопствену групу! Можеш да направиш било који инструмент који ти се свиђа, погледај које звукове и инструменте имаш на располагању да би добио/ла идеје.
+--- no-print ---
 
-![слика екрана](images/band-ideas.png)
+Click on the green flag to see the animation.
 
-Твоји инструменти не морају да буду правог изгледа. Можеш, на пример, да направиш клавир од мафина!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![слика екрана](images/band-piano.png)
+--- /no-print ---
 
-Као што користиш постојеће ликове, можеш и да нацрташ сопствене.
+--- print-only ---
 
-![слика екрана](images/band-draw.png)
+![Complete project](images/space-final.png)
 
-## \--- collapse \---
-
-## title: Зашто мој лик 'скаче' када промени костим?
-
-+ Када прaвиш свог лика, можеш да приметиш, да када кликнеш на њега, лик 'скаче' док мења костим. То је зато што два костима нису центрирана на истом месту.
-
-Да то поправиш, кликни на **Изабери центар костима** за оба костима, и побрини се да код оба костима центар буде на истом месту.
-
-![слика екрана](images/band-center.png)
-
-\--- /collapse \---
-
-Ако имаш микрофон, можеш да снимиш сопствене звукове или чак да користиш веб-камеру да свираш своје инструменте!
-
-![слика екрана](images/band-io.png)
-
-\--- /challenge \---
+--- /print-only ---
