@@ -1,20 +1,17 @@
-## आगे क्या?
+## Reflection
 
-अब जब आपने अपना पहला स्क्रैच प्रोजेक्ट बनाया है, तो स्पेस</a> स्क्रैच प्रोजेक्ट में लॉस्ट पर एक नज़र क्यों नहीं डालें?</p> 
+Congratulations on completing the Rock Band project. We would love to know whether you think this project has helped you develop your digital making skills.
 
 \--- no-print \---
 
-एनीमेशन को देखने के लिए हरे झंडे पर क्लिक करें।
+## \--- quiz \---
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
-  <img src="images/space-final.png">
-</div>
+## question: Now that you've completed Rock Band, how confident do you feel about programming in Scratch?
+
+- ( ) Less confident
+- ( ) About the same
+- ( ) More confident
+
+\--- /quiz \---
 
 \--- /no-print \---
-
-\--- print-only \---
-
-![पूर्ण परियोजनाएं](images/space-final.png)
-
-\--- /print-only \---
