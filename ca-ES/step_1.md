@@ -50,7 +50,7 @@ title: Què necessitaràs
 
 #### Programari
 
-+ Scratch 3 (ja sigui [en línia](http://rpf.io/scratchon){:target="_blank"} o [fora de línia](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (ja sigui [en línia](https://rpf.io/scratchon){:target="_blank"} o [fora de línia](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -65,6 +65,6 @@ Si necessites imprimir aquest projecte, si us plau, utilitza la [versió per imp
 
 --- /no-print ---
 
-Pots trobar el [projecte acabat aquí](http://rpf.io/p/ca-ES/rock-band-get).
+Pots trobar el [projecte acabat aquí](https://rpf.io/p/ca-ES/rock-band-get).
 
 --- /collapse ---

@@ -48,7 +48,7 @@ title: Kaj potrebuješ?
 
 #### Programska oprema
 
-+ Scratch 3 (bodisi [na spletu](http://rpf.io/scratchon){:target="_blank"} ali [brez povezave](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (bodisi [na spletu](https://rpf.io/scratchon){:target="_blank"} ali [brez povezave](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -62,6 +62,6 @@ title: Dodatne informacije za izobraževalce
 
 --- /no-print ---
 
-Zaključen projekt lahko najdete [tukaj](http://rpf.io/p/sl-SI/rock-band-get).
+Zaključen projekt lahko najdete [tukaj](https://rpf.io/p/sl-SI/rock-band-get).
 
 --- /collapse ---

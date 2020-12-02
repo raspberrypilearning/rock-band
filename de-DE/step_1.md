@@ -42,7 +42,7 @@ title: Was du brauchen wirst
 
 #### Software
 
-+ Scratch 3 (entweder [online](http://rpf.io/scratchon){:target="_blank"} oder [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (entweder [online](https://rpf.io/scratchon){:target="_blank"} oder [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -57,6 +57,6 @@ Wenn Sie dieses Projekt ausdrucken müssen, verwenden Sie bitte die [druckerfreu
 
 --- /no-print ---
 
-Sie finden das [abgeschlossene Projekt hier](http://rpf.io/p/de-DE/rock-band-get).
+Sie finden das [abgeschlossene Projekt hier](https://rpf.io/p/de-DE/rock-band-get).
 
 --- /collapse ---

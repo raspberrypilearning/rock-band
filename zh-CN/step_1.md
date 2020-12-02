@@ -50,7 +50,7 @@ title: 你需要准备什么
 
 #### 软件
 
-+ Scratch 3 ([在线版本](http://rpf.io/scratchon){:target="_blank"}或[离线版本](http://rpf.io/scratchoff){:target="_blank"}）
++ Scratch 3 ([在线版本](https://rpf.io/scratchon){:target="_blank"}或[离线版本](https://rpf.io/scratchoff){:target="_blank"}）
 
 --- /collapse ---
 
@@ -65,6 +65,6 @@ title: 教师附加信息
 
 --- /no-print ---
 
-你可以在这里找到 [完成的项目](http://rpf.io/p/zh-CN/rock-band-get)。
+你可以在这里找到 [完成的项目](https://rpf.io/p/zh-CN/rock-band-get)。
 
 --- /collapse ---

@@ -43,7 +43,7 @@ title: Ce qu'il faut avoir
 
 #### Logiciel
 
-+ Scratch 3 ([en ligne](http://rpf.io/scratchon){:target="_blank"} ou [hors ligne](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([en ligne](https://rpf.io/scratchon){:target="_blank"} ou [hors ligne](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -58,6 +58,6 @@ Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimabl
 
 --- /no-print ---
 
-Tu peux trouver le [projet terminé ici](http://rpf.io/p/fr-FR/rock-band-get).
+Tu peux trouver le [projet terminé ici](https://rpf.io/p/fr-FR/rock-band-get).
 
 --- /collapse ---

@@ -45,7 +45,7 @@ title: Wat heb je nodig
 
 #### Software
 
-+ Scratch 3 (of [online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (of [online](https://rpf.io/scratchon){:target="_blank"} of [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -60,6 +60,6 @@ Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](htt
 
 --- /no-print ---
 
-Je kunt het voltooide project downloaden op [rpf.io/p/nl-NL/rock-band-get](http://rpf.io/p/nl-NL/rock-band-get).
+Je kunt het voltooide project downloaden op [rpf.io/p/nl-NL/rock-band-get](https://rpf.io/p/nl-NL/rock-band-get).
 
 --- /collapse ---
