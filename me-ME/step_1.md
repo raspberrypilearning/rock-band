@@ -12,7 +12,7 @@ Na početku, klikni na zelenu zastavicu. Zatim klikni na pjevačicu ili na buban
 
 ### Šta ćeš naučiti
 
-Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Koristite osnovne programske konstrukcije za kreiranje jednostavnih programa](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
 

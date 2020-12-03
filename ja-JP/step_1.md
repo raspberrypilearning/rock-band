@@ -50,7 +50,7 @@ title: 必要なもの
 
 #### ソフトウェア
 
-+ Scratch 3 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([オンライン](https://rpf.io/scratchon){:target="_blank"}または[オフライン](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -65,6 +65,6 @@ title: 教育者向けの追加情報
 
 --- /no-print ---
 
-[ここで完成したプロジェクト](http://rpf.io/p/ja-JP/rock-band-get)を見ることができます。
+[ここで完成したプロジェクト](https://rpf.io/p/ja-JP/rock-band-get)を見ることができます。
 
 --- /collapse ---

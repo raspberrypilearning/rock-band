@@ -40,7 +40,7 @@ title: Beth fydd ei angen arno ti
 
 #### Meddalwedd
 
-+ Scratch 3 (unai [arlein](http://rpf.io/scratchon){:target="_blank"} neu [all-lein](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (unai [arlein](https://rpf.io/scratchon){:target="_blank"} neu [all-lein](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -54,6 +54,6 @@ Os oes angen i chi argraffu y prosiect, defnyddiwch [fersiwn i'w argraffu](https
 
 --- /no-print ---
 
-Gallwch ddod o hyd i'r prosiect gorffenedig [yma](http://rpf.io/p/cy-GB/rock-band-get).
+Gallwch ddod o hyd i'r prosiect gorffenedig [yma](https://rpf.io/p/cy-GB/rock-band-get).
 
 --- /collapse ---

@@ -50,7 +50,7 @@ title: যা যা প্রয়োজন
 
 #### সফটওয়্যার
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -65,6 +65,6 @@ title: শিক্ষাবিদদের জন্য অতিরিক্�
 
 --- /no-print ---
 
-আপনি এখানে সমাপ্ত প্রকল্প সমূহ [completed project here](http://rpf.io/p/bn-BD/rock-band-get){:target="_blank"} সন্ধান করতে পারেন।.
+আপনি এখানে সমাপ্ত প্রকল্প সমূহ [completed project here](https://rpf.io/p/bn-BD/rock-band-get){:target="_blank"} সন্ধান করতে পারেন।.
 
 --- /collapse ---

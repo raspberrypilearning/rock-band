@@ -40,7 +40,7 @@ title: Trebat ćeš
 
 #### Softver
 
-+ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} ili [offline](http://rpf.io/scratchoff){:target="_blank"} verziju)
++ Scratch 3 ([online](https://rpf.io/scratchon){:target="_blank"} ili [offline](https://rpf.io/scratchoff){:target="_blank"} verziju)
 
 --- /collapse ---
 
@@ -55,6 +55,6 @@ Ako želite ispisati ovaj projekt, koristite [verziju koja je prilagođena za is
 
 --- /no-print ---
 
-[Ovdje](http://rpf.io/p/hr-HR/rock-band-get) možete pronaći dovršen projekt.
+[Ovdje](https://rpf.io/p/hr-HR/rock-band-get) možete pronaći dovršen projekt.
 
 --- /collapse ---

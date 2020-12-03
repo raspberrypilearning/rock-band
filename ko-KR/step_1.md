@@ -43,7 +43,7 @@ title: 준비물
 
 #### 소프트웨어
 
-+ 스크래치 3 ([온라인](http://rpf.io/scratchon){:target="_blank"} 또는 [offline](http://rpf.io/scratchoff){:target="_blank"})
++ 스크래치 3 ([온라인](https://rpf.io/scratchon){:target="_blank"} 또는 [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -58,6 +58,6 @@ title: 교육자를 위한 추가 정보
 
 --- /no-print ---
 
-여기서 [완료된 프로젝트를 확인할 수 있습니다](http://rpf.io/p/ko-KR/rock-band-get).
+여기서 [완료된 프로젝트를 확인할 수 있습니다](https://rpf.io/p/ko-KR/rock-band-get).
 
 --- /collapse ---
