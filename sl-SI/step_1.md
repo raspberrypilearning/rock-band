@@ -48,7 +48,7 @@ Izdelal-a boš igro, v kateri lahko klikneš na pevko ali na boben, da bo sliša
 
 #### Programska oprema
 
-+ Scratch 3 (bodisi [na spletu](http://rpf.io/scratchon) {:target = "_blank"} ali [brez povezave](http://rpf.io/scratchoff){:target = "_blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -62,6 +62,6 @@ Izdelal-a boš igro, v kateri lahko klikneš na pevko ali na boben, da bo sliša
 
 \--- /no-print \---
 
-Zaključen projekt lahko najdete [tukaj](http://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](https://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
