@@ -48,7 +48,7 @@ Faràs un joc on pots fer clic sobre el cantant o el tambor per escoltar sons de
 
 #### Programari
 
-+ Scratch 3 (ja sigui [en línia](http://rpf.io/scratchon){:target="_ blank"} o [fora de línia](http://rpf.io/scratchoff){:target="_ blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -62,6 +62,6 @@ Si necessites imprimir aquest projecte, si us plau, utilitza la [versió per imp
 
 \--- /no-print \---
 
-Pots trobar el [projecte acabat aquí](http://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](https://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
