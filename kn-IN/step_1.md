@@ -48,7 +48,7 @@
 
 #### ಸಾಫ್ಟ್ವೇರ್
 
-+ ಸ್ಕ್ರ್ಯಾಚ್ 3 (ಆನ್‌ಲೈನ್‌ [ ](http://rpf.io/scratchon) {:target = "_blank"} ಅಥವಾ [ ಆಫ್‌ಲೈನ್ ](http://rpf.io/scratchoff) {:target = "_blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -62,6 +62,6 @@
 
 \--- /no-print \---
 
-[ ಪೂರ್ಣಗೊಂಡ ಪ್ರೋಜೆಕ್ಟನ್ನು ನೀವು ಇಲ್ಲಿ ಕಾಣಬಹುದು ](http://rpf.io/p/en/rock-band-get) {:target="_blank"}.
+You can find the [completed project here](https://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
