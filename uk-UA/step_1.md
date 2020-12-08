@@ -48,7 +48,7 @@
 
 #### Програмне забезпечення
 
-+ Скретч 3 (або [онлайн](http://rpf.io/scratchon){:target="_ blank"}, або [офлайн](http://rpf.io/scratchoff){:target="_ blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -62,6 +62,6 @@
 
 \--- /no-print \---
 
-Ви можете знайти [завершений проєкт тут](http://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](https://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
