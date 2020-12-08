@@ -20,7 +20,7 @@ Se você precisar baixar e instalar o editor offline do Scratch, poderá encontr
 
 \--- task \---
 
-The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by clicking on the X in the corner.
+O ator de gato que você consegue ver é o mascote do Scratch. Você não precisa dele para esse jogo, então remova-o clicando no X que está no canto superior direito.
 
 ![captura de tela](images/band-delete-annotated.png)
 
