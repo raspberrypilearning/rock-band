@@ -48,7 +48,7 @@ Vei face un joc în care poți da click pe cântăreață pentru a o auzi cum c�
 
 #### Software
 
-+ Scratch 3 (fie [online](http://rpf.io/scratchon){:target="_blank"} sau [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -62,6 +62,6 @@ Dacă doriți să printați acest proiect, folosiți[printer-friendly version](h
 
 \--- /no-print \---
 
-Poți găsi [proiectul finalizat aici](http://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](https://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
