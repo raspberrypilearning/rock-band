@@ -48,7 +48,7 @@ Vas a crear un juego en el que al hacer clic en el cantante o el tambor se escuc
 
 #### Software
 
-+ Scratch 3 (ya sea [online](http://rpf.io/scratchon){:target="_blank"} u [offline](http://rpf.io/scratchoff) {:target="_blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -62,6 +62,6 @@ Si necesitas imprimir este proyecto, por favor usa la [versión para imprimir](h
 
 \--- /no-print \---
 
-Puedes encontrar el [proyecto terminado aquí](http://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](https://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
