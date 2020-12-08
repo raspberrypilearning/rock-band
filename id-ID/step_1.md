@@ -48,7 +48,7 @@ Kamu akan membuat permainan di mana kamu dapat mengklik pada penyanyi dan drum u
 
 #### Perangkat lunak
 
-+ Scratch 3 (maupun [online](http://rpf.io/scratchon){:target="_blank"} atau [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -62,6 +62,6 @@ Jika kamu perlu mencetak proyek ini, silakan gunakan [versi cetak](https://proje
 
 \--- /no-print \---
 
-Kamu bisa menemukan [proyek lengkapnya di sini](http://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](https://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
