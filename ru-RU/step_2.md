@@ -20,7 +20,7 @@
 
 \--- task \---
 
-The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by clicking on the X in the corner.
+Спрайт кота, который ты видишь, это талисман Scratch. В этой игре он тебе не понадобится, поэтому ты можешь избавиться от него, щелкнув по крестику в углу.
 
 ![снимок экрана](images/band-delete-annotated.png)
 
@@ -54,10 +54,10 @@ The cat sprite that you can see is the Scratch mascot. You don't need it for thi
 
 ![имя](images/band-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+Затем нажми **Файл**, а затем **Сохранить сейчас** для сохранения проекта.
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+Если ты не в сети или у тебя нет Scratch аккаунта, ты можешь сохранить копию своего проекта, нажав на **Сохранить на свой компьютер**.
 
-![screenshot](images/band-save.png)
+![снимок экрана](images/band-save.png)
 
 \--- /task \---
