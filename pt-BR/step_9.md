@@ -4,14 +4,15 @@ Parabéns por concluir o projeto 'Banda de Rock'. Gostaríamos muito de saber se
 
 --- no-print ---
 
---- print-only ---
-
-## pergunta: Agora que você completou o Banda de Rock, quão confiante você se sente sobre programar em Scratch?
+--- quiz ---
+---
+pergunta: Agora que você completou o Banda de Rock, quão confiante você se sente sobre programar em Scratch?
+---
 
 - ( ) Menos confiante
 - ( ) O mesmo que antes
 - ( ) Mais confiante
 
-Clique na bandeira verde para ver a animação
+--- /quiz ---
 
 --- /no-print ---
