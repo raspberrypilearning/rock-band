@@ -62,6 +62,6 @@
 
 \--- /no-print \---
 
-You can find the [completed project here](https://rpf.io/p/en/rock-band-get).
+Вы можете найти [завершенный проект здесь](https://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
