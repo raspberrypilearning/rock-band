@@ -12,7 +12,7 @@
 
 \--- no-print \---
 
-Нажми на зелёный флаг, чтобы начать. Затем нажми на певицу или барабан, чтобы услышать, как звучат звуки.
+Нажми на зелёный флаг, чтобы начать. Затем нажми на певицу или барабан, чтобы услышать, как они звучат.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -48,7 +48,7 @@
 
 #### Программное обеспечение
 
-+ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (либо [онлайн версия](https://rpf.io/scratchon){:target="_blank"}, либо [оффлайн версия (без подключения к Интернету)](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -58,7 +58,7 @@
 
 \--- no-print \---
 
-Если ты хочешь распечатать этот проект, то используй [версию для печати](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Если вы хотите распечатать этот проект, то используйте [версию для печати](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
