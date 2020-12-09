@@ -54,7 +54,7 @@ Você vai fazer um jogo onde você pode clicar na cantora ou no tambor para ouvi
 
 ## \--- collapse \---
 
-## informações adicionais para educadores
+## title: Informações adicionais para educadores
 
 \--- no-print \---
 
