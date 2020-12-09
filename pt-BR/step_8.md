@@ -5,9 +5,9 @@ Use o que você aprendeu neste projeto para criar a sua própria banda! Você po
 ![captura de tela](images/band-ideas-sounds.png)
 
 ```blocks3
-quando este ator for clicado
-mudar instrumento para (\(1\) Piano v)
-toque a nota (60) por (0.25) batidas
+when this sprite clicked
+set instrument to (\(1\) Piano v)
+play note (60) for (0.25) beats
 ```
 
 Seus instrumentos não precisam ser de verdade. Por exemplo, você pode criar um piano feito de bolinhos!
