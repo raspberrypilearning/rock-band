@@ -1,34 +1,38 @@
---- challenge ---
+## E agora?
 
-## Desafio: Faça a sua própria banda
+Agora que você construiu seu primeiro projeto do Scratch, por que não dar uma olhada no projeto [Perdido no espaço](https://projects.raspberrypi.org/pt-BR/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)?
 
-Use o que você aprendeu neste projeto para fazer sua própria banda! Você pode criar qualquer instrumento que quiser — veja os sons e instrumentos disponíveis para obter algumas ideias.
+--- no-print ---
 
-![screenshot](images/band-ideas.png)
+Clique na bandeira verde para ver a animação.
 
-Seus instrumentos não precisam fazer sentido. Por exemplo, você poderia fazer um piano feito de bolinhos!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/400323927/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![screenshot](images/band-piano.png)
+--- /no-print ---
 
-Além de usar os atores da biblioteca, você também pode desenhar os seus próprios atores.
+--- print-only ---
 
-![screenshot](images/band-draw.png)
+![Projeto concluído](images/space-final.png)
 
---- collapse ---
----
-title: Por que o meu ator está 'pulando' quando muda de roupa?
----
+--- /print-only ---
 
-+ Ao criar o seu próprio ator, você pode descobrir que quando você clica nele, ele 'pula' quando muda de fantasia. Isso ocorre porque as duas fantasias não estão centralizadas no mesmo lugar.
 
-Para corrigir isso, clique em **Escolher centro da fantasia** em ambas fantasias, e certifique-se de que o centro esteja no mesmo ponto para elas.
+***
+Este projeto foi traduzido por voluntários:
 
-![screenshot](images/band-center.png)
+Isabela Blucher
 
---- /collapse ---
+Edson Dario
 
-Se você tem um microfone, você pode gravar seus próprios sons ou até mesmo usar uma webcam para tocar os seus instrumentos!
+Raquel Costa
 
-![screenshot](images/band-io.png)
+Elton Marques
 
---- /challenge ---
+Denis DS
+
+Flavio Silva
+
+Graças a voluntários, podemos dar às pessoas de todo o mundo a chance de aprender em seu próprio idioma. Você pode nos ajudar a alcançar mais pessoas oferecendo-se para traduzir - mais informações em rpf.io/translate.

@@ -39,10 +39,10 @@ Os nomes atuais das fantasias não são muito úteis. Digite nas caixas de texto
 Agora que você tem duas fantasias diferentes para sua cantora, você pode escolher qual delas será exibida! Adicione esses dois blocos de código ao seu ator de cantora:
 
 ```blocks3
-quando este ator for clicado
-+ mude para a fantasia (cantando v)
-toque o som (singer1 v) até o fim
-+ mude para a fantasia (não cantando v)
+when this sprite clicked
++switch costume to (cantando v)
+play sound (singer1 v) until done
++switch costume to (não cantando v)
 ```
 
 O bloco de código para mudar a fantasia está na seção `Aparência`{:class="block3looks"}.

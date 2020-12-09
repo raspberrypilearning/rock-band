@@ -23,8 +23,8 @@ Clique na extensão **Música** para adicioná-la.
 Clique no ator de tambor, e então arraste estes dois blocos para a área de código à direita:
 
 ```blocks3
-quando este ator for clicado
-toque instrumento (\(1\) Tarol v) por (0.25) batidas
+when this sprite clicked
+play drum (\(1\) Snare Drum v) for (0.25) beats
 ```
 
 --- no-print ---

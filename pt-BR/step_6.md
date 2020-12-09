@@ -33,8 +33,8 @@ Clique em **Voz** na lista no topo da página, e então escolha um som para adic
 Para usar o som, adicione os seguintes blocos de código ao seu ator de cantor:
 
 ```blocks3
-quando este ator for clicado
-toque o som (singer1 v) até o fim
+when this sprite clicked
+play sound (singer1 v) until done
 ```
 
 --- /task ---
