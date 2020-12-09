@@ -48,7 +48,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 #### सॉफ्टवेअर
 
-+ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (एकतर [ऑनलाइन](https://rpf.io/scratchon){:target="_blank"} किंवा [ऑफलाइन](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -62,6 +62,6 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-You can find the [completed project here](https://rpf.io/p/en/rock-band-get).
+आपण येथे [पूर्ण केलेला प्रकल्प शोधू शकता](https://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
