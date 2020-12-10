@@ -1,4 +1,4 @@
-## O palco
+## O Palco
 
 O **Palco** é a área à direita, e é onde seu projeto ganha vida. Pense nele como uma área de atuação, assim como um palco real!
 
