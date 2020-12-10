@@ -6,7 +6,7 @@
 
 На данный момент сцена белая и выглядит довольно скучно! Добавь фон, нажав на **Выбрать фон**.
 
-![screenshot](images/band-stage-choose.png)
+![снимок экрана](images/band-stage-choose.png)
 
 \--- /task \---
 
