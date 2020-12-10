@@ -6,7 +6,7 @@
 
 На данный момент сцена белая и выглядит довольно скучно! Добавь фон, нажав на **Выбрать фон**.
 
-![снимок экрана](images/band-stage-choose.png)
+![screenshot](images/band-stage-choose.png)
 
 \--- /task \---
 
@@ -14,14 +14,14 @@
 
 Нажми **В помещении** в списке сверху. Затем нажми на театральный фон.
 
-![screenshot](images/band-backdrop.png)
+![снимок экрана](images/band-backdrop.png)
 
 \--- /task \---
 
 \--- task \---
 
-Your stage should now look similar to this:
+Теперь твоя сцена должна выглядеть примерно так:
 
-![screenshot](images/band-stage.png)
+![снимок экрана](images/band-stage.png)
 
 \--- /task \---
