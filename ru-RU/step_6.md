@@ -1,12 +1,12 @@
-## Making a singer
+## Создание певицы
 
-Now you will add a singer to your band!
+Теперь ты добавишь певицу в свою группу!
 
 \--- task \---
 
-Add a singer sprite to your Stage.
+Добавь спрайт певицы на свою Сцену.
 
-![screenshot](images/band-singer-mic.png)
+![снимок экрана](images/band-singer-mic.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -14,7 +14,7 @@ Add a singer sprite to your Stage.
 
 \--- task \---
 
-Before you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:
+Прежде чем твоя певица сможет петь, тебе нужно добавить звук к своему спрайту певицы. Убедись, что ты выбрал свой спрайт певицы, затем нажми на вкладку Звуки и нажми на **Выбрать звук**:
 
 ![screenshot](images/band-import-sound-annotated.png)
 
@@ -22,7 +22,7 @@ Before you can make your singer sing, you need to add a sound to your singer spr
 
 \--- task \---
 
-Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+Нажми **Голос** в списке вверху, а затем выбери звук для добавления к твоему спрайту.
 
 ![screenshot](images/band-choose-sound.png)
 
@@ -30,7 +30,7 @@ Click on **Voice** in the list at the top, and then choose a sound to add to you
 
 \--- task \---
 
-To use the sound, add the following code blocks to your singer sprite:
+Чтобы использовать звук, добавьте следующие блоки кода к своему спрайту певицы:
 
 ```blocks3
 when this sprite clicked
@@ -41,6 +41,6 @@ play sound (singer1 v) until done
 
 \--- task \---
 
-Click on your singer on the stage and see what happens. Does she sing?
+Нажми на свою певицу на сцене и посмотри, что происходит. Она поет?
 
 \--- /task \---
