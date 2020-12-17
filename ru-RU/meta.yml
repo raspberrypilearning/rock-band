@@ -1,0 +1,24 @@
+---
+hero_image: images/hero-rock-band-large.png
+listed: true
+copyedit: false
+title: Рок-группа
+description: Узнай, как запрограммировать свои музыкальные инструменты
+version: 4.1.1
+last_tested: 2018-10-12
+steps:
+  - title: Введение
+  - title: Спрайты
+  - title: Сцена
+  - title: Создание барабана
+  - title: "Задание: улучши свой барабан"
+    challenge: true
+  - title: Создание певицы
+  - title: Костюмы
+  - title: "Задание: улучши свою группу"
+    challenge: true
+  - title: Обратная связь
+    quiz: true
+  - title: "Что дальше?"
+
+
