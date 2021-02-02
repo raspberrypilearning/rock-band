@@ -21,6 +21,12 @@ Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
 --- task ---
 
+Click and drag the drum to the bottom of the Stage.
+
+--- /task ---
+
+--- task ---
+
 Your stage should now look similar to this:
 
 ![screenshot](images/band-stage.png)
