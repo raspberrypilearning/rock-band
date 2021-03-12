@@ -17,4 +17,8 @@ steps:
   - title: المظاهر
   - title: "التحدي: تحسين فرقتك"
     challenge: true
+  - title: انعكاس
+    quiz: true
   - title: "ما التالي؟"
+
+

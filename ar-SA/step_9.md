@@ -1,30 +1,17 @@
 ## ما التالي؟
 
-والان بعد أن صنعت اول مشروع لك في السكراتش Scratch، لما لا تلقي نظرة على مشروع [تائه في الفضاء](https://projects.raspberrypi.org/ar-SA/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)؟
+تهانينا على إكمال مشروع سباق الفرق. نود أن نعرف ما إذا كنت تعتقد أن هذا المشروع قد ساعدك في تطوير مهاراتك في التصنيع الرقمي.
 
 --- no-print ---
 
-انقر على العلم الاخضر لترى المشروع.
+--- quiz ---
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/237958489/?autostart=false" frameborder="0" scrolling="no"></iframe>
-  <img src="images/space-final.png">
-</div>
+## question: الآن بعد أن أكملت مجموعة الروك ، ما مدى الثقة التي تشعر بها حيال البرمجة في سكراتش Scratch؟
+
+- ( ) أقل ثقة
+- ( ) نفس الشيء تقريباً
+- ( ) أكثر ثقة
+
+--- /quiz ---
 
 --- /no-print ---
-
---- print-only ---
-
-![المشروع كامل](images/space-final.png)
-
---- /print-only ---
-
-***
-
-### تمت ترجمة هذا المشروع بواسطة متطوعين:
-
-نادية علي قاسم
-
-Wafaa Ali
-
-بفضل المتطوعين ، يمكننا إعطاء الناس في جميع أنحاء العالم فرصة للتعلم بلغتهم الخاصة. يمكنك مساعدتنا في الوصول إلى المزيد من الأشخاص من خلال التطوع للترجمة - مزيد من المعلومات على [rpf.io/translate](https://rpf.io/translate).

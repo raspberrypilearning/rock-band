@@ -1,6 +1,6 @@
 --- no-print ---
 
-هذا هو إصدار **Scratch 3** من المشروع. هناك أيضًا [ إصدار Scratch 2 للمشروع ](https://projects.raspberrypi.org/ar-SA/projects/rock-band-scratch2).
+هذا هو إصدار **Scratch 3** من المشروع. هناك أيضًا [إصدار Scratch 2 للمشروع](https://projects.raspberrypi.org/ar-SA/projects/rock-band-scratch2).
 
 --- /no-print ---
 
@@ -12,7 +12,7 @@
 
 --- no-print ---
 
-انقر العلم الأخضر لتبدأ. ثم انقر المغنية أو الطبلة لتسمع صوتها.
+انقر فوق العلم الأخضر لتبدأ. ثم انقر فوق المغنية أو الطبلة لتسمع صوتها.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -24,7 +24,9 @@
 
 ستقوم بصنع لعبة حيث يمكنك النقر فوق المغنية او الطبلة لتسمع الغناء او صوت الطبلة.
 
-![لقطة شاشة للعبة](images/demo.png) --- /print-only ---
+![لقطة شاشة للعبة](images/demo.png)
+
+--- /print-only ---
 
 --- collapse ---
 ---
@@ -33,8 +35,10 @@ title: ما الذي ستتعلمه
 
 + استخدام البرمجة لتغيير زي كائن في برنامج السكراتش (Scratch)
 + استخدام البرمجة لجعل الكائنات تتفاعل مع مدخل في السكراتش (Scratch)
-+ اضافة اصوات للكائن في السكراتش (Scratch)
++ إضافة الأصوات إلى كائن في سكراتش
+
 --- /collapse ---
+
 --- collapse ---
 ---
 title: ما ستحتاج إليه
@@ -46,7 +50,7 @@ title: ما ستحتاج إليه
 
 #### البرمجيات
 
-+ برنامج Scratch 3 (سواء أكان [عبر الإنترنت](http://rpf.io/scratchon){:target="_blank"} أو [دون اتصال بالإنترنت](http://rpf.io/scratchoff){:target="_blank"})
++ برنامج Scratch 3 (سواء أكان [عبر الإنترنت](https://rpf.io/scratchon){:target="_blank"} أو [دون اتصال بالإنترنت](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -61,6 +65,6 @@ title: معلومات إضافية للمعلمين
 
 --- /no-print ---
 
-يمكنك ايجاد [المشروع كامل هنا](http://rpf.io/p/ar-SA/rock-band-get).
+يمكنك ايجاد [المشروع كامل هنا](https://rpf.io/p/ar-SA/rock-band-get).
 
 --- /collapse ---
