@@ -44,20 +44,14 @@ The cat sprite that you can see is the Scratch mascot. You don't need it for thi
 
 \--- ಕಾರ್ಯ \---
 
-ಡ್ರಮ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ಸ್ಟೇಜ್ ನ ಕೆಳಭಾಗಕ್ಕೆ ಎಳೆಯಿರಿ.
+Give your program a name by typing into the text box at the top.
 
-\--- /ಕಾರ್ಯ \---
+![name](images/band-name-annotated.png)
 
-\--- ಕಾರ್ಯ \---
+Then click on **File**, and then on **Save now** to save your project.
 
-ಮೇಲ್ಭಾಗದಲ್ಲಿರುವ ಟೆಕ್ಸ್ಟ್ ಬಾಕ್ಸ್ ನಲ್ಲಿ ಟೈಪ್ ಮಾಡುವ ಮೂಲಕ ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂಗೆ ಒಂದು ಹೆಸರನ್ನು ನೀಡಿ.
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
 
-![ಹೆಸರು](images/band-name-annotated.png)
+![screenshot](images/band-save.png)
 
-ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ಅನ್ನು ಸೇವ್ ಮಾಡಲು ನೀವು ಈಗ **File** ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ತದನಂತರ **Save now** ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.
-
-ಗಮನಿಸಿ: ಒಂದು ವೇಳೆ ನೀವು ಆನ್‌ಲೈನ್‌ ಇಲ್ಲದಿದ್ದಾಗ ಅಥವಾ ಸ್ಕ್ರ್ಯಾಚ್ ಖಾತೆಯನ್ನು ಹೊಂದಿಲ್ಲದಿದ್ದರೆ, ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ನಲ್ಲಿ **Save to your computer** ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ಕಾಪಿಯನ್ನು ಸೇವ್ ಮಾಡಬಹುದು.
-
-![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/band-save.png)
-
-\--- /ಕಾರ್ಯ \---
+\--- /task \---
