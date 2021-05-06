@@ -20,8 +20,14 @@
 
 \--- task \---
 
-আপনার স্টেজটি এখন এটির মতো দেখতে পাওয়া উচিত:
+Click and drag the drum to the bottom of the Stage.
 
-![স্ক্রিনশট](images/band-stage.png)
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
 
 \--- /task \---
