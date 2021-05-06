@@ -44,20 +44,14 @@ The cat sprite that you can see is the Scratch mascot. You don't need it for thi
 
 \--- task \---
 
-ড্রামটি ক্লিক করুন এবং টেনে স্টেজের নীচে আনুন।
+Give your program a name by typing into the text box at the top.
 
-\--- /task \---
+![name](images/band-name-annotated.png)
 
-\--- task \---
+Then click on **File**, and then on **Save now** to save your project.
 
-আপনার প্রোগ্রামের একটি নাম দেয়ার জন্য উপরে বাম কোণার টেক্সট বক্সে নামটি টাইপ করুন।.
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
 
-![নাম](images/band-name-annotated.png)
-
-আপনার প্রজেক্ট সেভ করার জন্য প্রথমে **ফাইল ** এবং এরপর **সেভ করুন ** -এ ক্লিক করুন।.
-
-দ্রষ্টব্য: আপনি যদি স্ক্র্যাচ অনলাইন ভার্শন ব্যাবহার করে থাকেন এবং স্ক্র্যাচে অ্যাকাউন্ট না থাকে তাহলে আপনি **Save to your computer** -এ ক্লিক করে আপনার প্রজেক্টটি সেভ করতে পারেন।.
-
-![স্ক্রিনশট](images/band-save.png)
+![screenshot](images/band-save.png)
 
 \--- /task \---
