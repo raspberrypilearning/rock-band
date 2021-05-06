@@ -1,18 +1,12 @@
-\--- no-print \---
-
-これは、**Scratch 3**バージョンのプロジェクトです。[ Scratch 2バージョンのプロジェクト](https://projects.raspberrypi.org/en/projects/rock-band-scratch2)もあります。
-
-\--- /no-print \---
-
 ## はじめに
 
-自分だけの楽器のコーディング方法を学びましょう！
+Learn how to code your own musical instruments!
 
 ### あなたが作るもの
 
 \--- no-print \---
 
-緑の旗をクリックして始めます。次に、歌手かドラムをクリックしてその音を聞きます。
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,9 +16,9 @@
 
 \--- print-only \---
 
-歌手またはドラムをクリックして歌やドラムの音を聞くことができるゲームを作成します。
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
 
-![ゲームのスクリーンショット](images/demo.png)
+![game screenshot](images/demo.png)
 
 \--- /print-only \---
 
@@ -58,7 +52,7 @@
 
 \--- no-print \---
 
-このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}を使用してください。
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
