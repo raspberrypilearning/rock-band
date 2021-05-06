@@ -44,20 +44,14 @@ Gulir ke bawah hingga terlihat sprite drum. Klik pada drum untuk menambahkannya 
 
 \--- task \---
 
-Klik dan seret drum ke bagian bawah Panggung.
+Give your program a name by typing into the text box at the top.
 
-\--- /task \---
+![name](images/band-name-annotated.png)
 
-\--- task \---
+Then click on **File**, and then on **Save now** to save your project.
 
-Beri name program kamu dengan mengetikkan pada kotak teks di bagian atas.
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
 
-![nama](images/band-name-annotated.png)
-
-Kemudian klik pada **File**, dan kemudian **Simpan sekarang** untuk menyimpan proyek Anda.
-
-Jika kamu tidak sedang online atau tidak punya akun Scratch, kamu bisa menyimpan salinan proyekmu dengan mengklik **simpan pada komputer**.
-
-![tangkapan layar](images/band-save.png)
+![screenshot](images/band-save.png)
 
 \--- /task \---
