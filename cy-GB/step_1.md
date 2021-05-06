@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Dyma fersiwn **Scratch 3** y prosiect. Ceir hefyd [fersiwn Scratch 2 o'r prosiect](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
-
-\--- /no-print \---
-
 ## Cyflwyniad
 
-Dysga sut i godio offerynnau cerddorol!
+Learn how to code your own musical instruments!
 
 ### Beth fyddi di'n ei greu
 
