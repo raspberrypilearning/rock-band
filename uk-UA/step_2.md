@@ -44,20 +44,14 @@ The cat sprite that you can see is the Scratch mascot. You don't need it for thi
 
 \--- task \---
 
-Клацни і перетягни барабан вниз Сцени.
+Give your program a name by typing into the text box at the top.
 
-\--- /task \---
+![name](images/band-name-annotated.png)
 
-\--- task \---
+Then click on **File**, and then on **Save now** to save your project.
 
-Задай назву свого проєкту, набравши її в текстовому полі вгорі.
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
 
-![назва](images/band-name-annotated.png)
-
-Потім клацни на **Файл**, а далі — **Зберегти негайно** для збереження свого проєкта.
-
-Якщо ти не підключений до інтернету, або не маєш облікового запису Скретч, то замість цього ти можеш зберегти копію свого проєкту, натиснувши **Вивантажити на ваш комп’ютер**.
-
-![знімок екрана](images/band-save.png)
+![screenshot](images/band-save.png)
 
 \--- /task \---
