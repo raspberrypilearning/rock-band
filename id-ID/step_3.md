@@ -20,8 +20,14 @@ Klik pada **Dalam Ruangan** dalam daftar di bagian atas. Kemudian klik pada lata
 
 \--- task \---
 
-Panggungnya sekarang harusnya terlihat seperti ini:
+Click and drag the drum to the bottom of the Stage.
 
-![tangkapan layar](images/band-stage.png)
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
 
 \--- /task \---
