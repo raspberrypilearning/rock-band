@@ -20,8 +20,14 @@
 
 \--- task \---
 
-आपला मंच आता या सारखाच दिसतो:
+Click and drag the drum to the bottom of the Stage.
 
-![स्क्रीनशॉट](images/band-stage.png)
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
 
 \--- /task \---
