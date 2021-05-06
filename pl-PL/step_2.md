@@ -44,12 +44,6 @@ Scroll down until you see a drum sprite. Click on a drum to add it to your proje
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
-
-\--- /task \---
-
-\--- task \---
-
 Give your program a name by typing into the text box at the top.
 
 ![name](images/band-name-annotated.png)
