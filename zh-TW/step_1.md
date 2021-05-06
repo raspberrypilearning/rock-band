@@ -1,18 +1,12 @@
-\--- no-print \---
-
-這個專案是 **Scratch 3** 版本。另外還有 [Scratch 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) 版本。
-
-\--- /no-print \---
-
 ## 介紹
 
-學習如何用程式寫個專屬你自己的樂器！
+Learn how to code your own musical instruments!
 
 ### 你會做出的玩意兒
 
 \--- no-print \---
 
-點擊綠色旗子運行程式，然後，點擊歌手或鼓，聽聽他們會發出什麼聲音。
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,9 +16,9 @@
 
 \--- print-only \---
 
-你會做出個遊戲，點擊歌手或鼓就可以聽到歌聲或鼓聲。
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
 
-![遊戲截圖](images/demo.png)
+![game screenshot](images/demo.png)
 
 \--- /print-only \---
 
@@ -58,7 +52,7 @@
 
 \--- no-print \---
 
-如果你需要列印這個專案，可以先切換成[列印友好模式](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}。
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
