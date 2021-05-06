@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Esta é a versão **Scratch 3** do projeto. Há também uma versão [Scratch 2 do projeto](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
-
-\--- /no-print \---
-
 ## Introdução
 
-Aprende a codificar os teus próprios instrumentos musicais!
+Learn how to code your own musical instruments!
 
 ### O que vais fazer
 
