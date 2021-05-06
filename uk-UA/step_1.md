@@ -1,18 +1,12 @@
-\--- no-print \---
-
-Це — версія проєкту для **Скретч 3**. Також існує [версія проєкту для Скретч 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
-
-\--- /no-print \---
-
 ## Вступ
 
-Навчись програмувати власні музичні інструменти!
+Learn how to code your own musical instruments!
 
 ### Що ти створиш
 
 \--- no-print \---
 
-Натисни зелений прапорець, щоб розпочати. Потім клацни на виконавця або барабан, щоб почути, як вони звучать.
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,9 +16,9 @@
 
 \--- print-only \---
 
-Ти створиш гру, де ти зможеш клікати по співаку або барабану, щоб почути спів або звук барабана.
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
 
-![Знімок екрана гри](images/demo.png)
+![game screenshot](images/demo.png)
 
 \--- /print-only \---
 
@@ -58,7 +52,7 @@
 
 \--- no-print \---
 
-Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
