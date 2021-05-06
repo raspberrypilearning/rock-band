@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Αυτή είναι η έκδοση **Scratch 3** του έργου. Υπάρχει επίσης και μία έκδοση [Scratch 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) του έργου.
-
-\--- /no-print \---
-
 ## Εισαγωγή
 
-Μάθε πώς να προγραμματίζεις τα δικά σου μουσικά όργανα!
+Learn how to code your own musical instruments!
 
 ### Τι θα φτιάξεις
 
