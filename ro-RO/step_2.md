@@ -44,20 +44,14 @@ Derulează până în dreptul tobei. Dă click pe tobă pentru a o adăuga proie
 
 \--- task \---
 
-Dă click și trage toba în partea de jos a scenei.
+Give your program a name by typing into the text box at the top.
 
-\--- /task \---
+![name](images/band-name-annotated.png)
 
-\--- task \---
+Then click on **File**, and then on **Save now** to save your project.
 
-Dă un nume programului tău prin introducerea denumirii în caseta text de sus.
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
 
-![nume](images/band-name-annotated.png)
-
-Apoi dă click pe **Fișier**, și apoi pe **Salvează acum** pentru a salva proiectul.
-
-Dacă nu ești online sau nu ai un cont Scratch, poți să salvezi o copie a proiectului tău dând click în schimb pe **Salvează pe calculatorul tău**.
-
-![captură de ecran](images/band-save.png)
+![screenshot](images/band-save.png)
 
 \--- /task \---
