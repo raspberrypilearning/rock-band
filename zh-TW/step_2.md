@@ -44,20 +44,14 @@ The cat sprite that you can see is the Scratch mascot. You don't need it for thi
 
 \--- task \---
 
-把鼓拖曳到舞台比較下方的位置。
+Give your program a name by typing into the text box at the top.
 
-\--- /task \---
+![name](images/band-name-annotated.png)
 
-\--- task \---
+Then click on **File**, and then on **Save now** to save your project.
 
-在工作列上的文字方塊裡，為你的程式專案命名。
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
 
-![名稱](images/band-name-annotated.png)
-
-接著點擊**檔案**，然後從選單中選擇**儲存**以保存專案。
-
-如果你是在離線狀態，或者你沒有 Scratch 帳戶，可以把檔案**下載到你的電腦**。
-
-![截圖](images/band-save.png)
+![screenshot](images/band-save.png)
 
 \--- /task \---
