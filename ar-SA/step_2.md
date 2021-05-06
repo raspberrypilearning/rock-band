@@ -20,7 +20,7 @@
 
 \--- task \---
 
-The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by clicking on the X in the corner.
+ان كائن القطة الذي تراه هو شعار برنامج سكراتش Scratch. لا تحتاجه في هذه اللعبة، لذا تخلص منها بالضغط على X في الزاوية.
 
 ![لقطة الشاشة](images/band-delete-annotated.png)
 
@@ -44,20 +44,14 @@ The cat sprite that you can see is the Scratch mascot. You don't need it for thi
 
 \--- task \---
 
-انقر واسحب كائن الطبلة الى اسفل المنصة.
+Give your program a name by typing into the text box at the top.
 
-\--- /task \---
+![name](images/band-name-annotated.png)
 
-\--- task \---
+Then click on **File**, and then on **Save now** to save your project.
 
-أعطي مشروعك إسمً بكتابة الاسم داخل مربع النص في الأعلى.
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
 
-![الاسم](images/band-name-annotated.png)
-
-اضغط على القائمة **ملف** ومن ثم **حفظ الان** لتخزين مشروعك.
-
-اذا لم تكن مرتبط بالانترنيت او لا تملك حساب سكراتش Scratch، بامكانك خزن نسخة من مشروعك على جهازك الخاص بالضغط على **الحفظ الى حاسوبك**.
-
-![لقطة الشاشة](images/band-save.png)
+![screenshot](images/band-save.png)
 
 \--- /task \---
