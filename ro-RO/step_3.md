@@ -20,8 +20,14 @@ Dă click pe **Interioare** în listă în partea de sus. Apoi, dă click pe un 
 
 \--- task \---
 
-Scena ta ar trebui sa arate acum cam așa:
+Click and drag the drum to the bottom of the Stage.
 
-![captură de ecran](images/band-stage.png)
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
 
 \--- /task \---
