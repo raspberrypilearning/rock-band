@@ -20,8 +20,14 @@
 
 \--- task \---
 
-ستكون المنصة كما يلي:
+Click and drag the drum to the bottom of the Stage.
 
-![لقطة الشاشة](images/band-stage.png)
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
 
 \--- /task \---
