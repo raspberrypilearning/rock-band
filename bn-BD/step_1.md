@@ -1,18 +1,12 @@
-\--- no-print \---
-
-এটি ** স্ক্র্যাচ 3 ** প্রকল্পের সংস্করণ। প্রকল্পের একটি [ স্ক্র্যাচ 2 সংস্করণও রয়েছে ](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) ।.
-
-\--- no-print \---
-
 ## ভূমিকা
 
-কীভাবে আপনার বাদ্যযন্ত্রগুলির কোড করবেন তা শিখুন!
+Learn how to code your own musical instruments!
 
 ### যা তৈরি করতে হবে
 
 \--- no-print \---
 
-শুরু করতে সবুজ পতাকাটি ক্লিক করুন। তারপরে, গায়ক বা ড্রামে ক্লিক করুন তারা কী শব্দ করছে তা শুনতে।.
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,9 +16,9 @@
 
 \--- print-only \---
 
-আপনাকে একটি গেম তৈরি করতে হবে যেখানে আপনি গায়ক বা ড্রামের উপর ক্লিক করে গান বা শব্দ শুনতে পারেন।.
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
 
-![গেমের স্ক্রিনশট](images/demo.png)
+![game screenshot](images/demo.png)
 
 \--- /print-only \---
 
@@ -58,7 +52,7 @@
 
 \--- no-print \---
 
-আপনি যদি এই প্রজেক্টটি প্রিন্ট করতে চান তবে [প্রিন্টার সহযোগী সংষ্করণ](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"} ব্যবহার করুন।.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
