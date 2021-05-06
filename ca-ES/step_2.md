@@ -44,20 +44,14 @@ Desplaça't cap avall fins que vegis el personatge del tambor. Fes clic a un tam
 
 \--- task \---
 
-Fes clic i arrossega el tambor fins a la part inferior de l'Escenari.
+Give your program a name by typing into the text box at the top.
 
-\--- /task \---
+![name](images/band-name-annotated.png)
 
-\--- task \---
+Then click on **File**, and then on **Save now** to save your project.
 
-Posa un nom al teu programa escrivint en el quadre de text de la part superior.
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
 
-![nom](images/band-name-annotated.png)
-
-A continuació, fes clic a **Fitxer** i després a **Desa ara** per guardar el teu projecte.
-
-Si no estàs en línia o no tens un compte de Scratch, pots desar una còpia del projecte fent clic a **Desa al teu ordinador** com alternativa.
-
-![captura de pantalla](images/band-save.png)
+![screenshot](images/band-save.png)
 
 \--- /task \---
