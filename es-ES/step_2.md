@@ -44,20 +44,14 @@ Baja hasta encontrar el objeto tambor. Haz clic en un tambor para añadirlo a tu
 
 \--- task \---
 
-Haz clic y arrastra el tambor hasta la parte inferior del escenario.
+Give your program a name by typing into the text box at the top.
 
-\--- /task \---
+![name](images/band-name-annotated.png)
 
-\--- task \---
+Then click on **File**, and then on **Save now** to save your project.
 
-Dale un nombre a tu proyecto escribiéndolo en el cuadro de texto en la parte superior.
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
 
-![nombre](images/band-name-annotated.png)
-
-Luego haz clic en **Archivo**, y luego en **Guardar ahora** para guardar tu proyecto.
-
-Si no estás conectado o no tienes una cuenta de Scratch, puedes guardar una copia de tu proyecto haciendo clic en **Guardar en tu ordenador**.
-
-![captura de pantalla](images/band-save.png)
+![screenshot](images/band-save.png)
 
 \--- /task \---
