@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Ez a projekt **Scratch 3**-as verziója. Van [Scratch 2-es változata is](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
-
-\--- /no-print \---
-
 ## Bevezetés
 
-Ismerd meg, hogyan programozhatsz saját hangszereket!
+Learn how to code your own musical instruments!
 
 ### Ezt fogod elkészíteni
 
