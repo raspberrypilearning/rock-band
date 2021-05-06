@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Ovo je **Scratch 3** verzija projekta. Postoji i [Scratch 2 verzija projekta](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
-
-\--- /no-print \---
-
 ## Uvod
 
-Nauči kako programirati vlastite glazbene instrumente!
+Learn how to code your own musical instruments!
 
 ### Napravit ćeš
 
