@@ -1,18 +1,12 @@
-\--- no-print \---
-
-هذا هو إصدار ** Scratch 3 ** من المشروع. هناك أيضًا [ إصدار Scratch 2 للمشروع ](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
-
-\--- /no-print \---
-
 ## مقدمة
 
-تعلَّم كيف تُبرمج الآلات الموسيقية الخاصة بك!
+Learn how to code your own musical instruments!
 
 ### ما الذي ستصنعه
 
 \--- no-print \---
 
-انقر فوق العلم الأخضر لتبدأ. ثم انقر فوق المغنية أو الطبلة لتسمع صوتها.
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,9 +16,9 @@
 
 \--- print-only \---
 
-ستقوم بصنع لعبة حيث يمكنك النقر فوق المغنية او الطبلة لتسمع الغناء او صوت الطبلة.
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
 
-![لقطة شاشة للعبة](images/demo.png)
+![game screenshot](images/demo.png)
 
 \--- /print-only \---
 
@@ -36,7 +30,7 @@
 + استخدام البرمجة لجعل الكائنات تتفاعل مع مدخل في السكراتش (Scratch)
 + إضافة الأصوات إلى كائن في سكراتش
 
-\--- collapse \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -48,7 +42,7 @@
 
 #### البرمجيات
 
-+ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
++ برنامج Scratch 3 (سواء أكان [عبر الإنترنت](https://rpf.io/scratchon){:target="_blank"} أو [دون اتصال بالإنترنت](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -58,7 +52,7 @@
 
 \--- no-print \---
 
-إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [نسخة سهلة الطباعة](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
