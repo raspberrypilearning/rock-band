@@ -1,18 +1,12 @@
-\--- no-print \---
-
-Esta é a versão **Scratch 3** do projeto. Há também uma versão [Scratch 2 do projeto](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
-
-\--- /no-print \---
-
 ## Introdução
 
-Aprenda a programar os seus próprios instrumentos musicais!
+Learn how to code your own musical instruments!
 
 ### O que você vai fazer
 
 \--- no-print \---
 
-Clique na bandeira verde para começar. Em seguida, clique no cantor ou no tambor para ouvir como soam.
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,9 +16,9 @@ Clique na bandeira verde para começar. Em seguida, clique no cantor ou no tambo
 
 \--- print-only \---
 
-Você vai fazer um jogo onde você pode clicar na cantora ou no tambor para ouvir sons de canto ou bateria.
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
 
-![captura de tela do jogo](images/demo.png)
+![game screenshot](images/demo.png)
 
 \--- /print-only \---
 
@@ -58,10 +52,10 @@ Você vai fazer um jogo onde você pode clicar na cantora ou no tambor para ouvi
 
 \--- no-print \---
 
-Se você precisar imprimir este projeto, por favor, utilize a [versão para impressão](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Você pode encontrar o [projeto completo aqui](https://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](https://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
