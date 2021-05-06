@@ -1,12 +1,6 @@
-\--- no-print \---
-
-이 프로젝트의 **스크래치 3** 버전입니다. [프로젝트의 스크래치 2 버전](https://projects.raspberrypi.org/en/projects/rock-band-scratch2)도 있습니다.
-
-\--- /no-print \---
-
 ## 들어가며
 
-자신만의 악기를 코드로 만드는 법을 배워보세요!
+Learn how to code your own musical instruments!
 
 ### 만들 작품
 
