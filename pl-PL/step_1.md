@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Ta wersja projektu jest przeznaczona dla języka **Scratch 3**. Projekt dostępny jest również [w wersji dla języka Scratch 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
-
-\--- /no-print \---
-
 ## Wprowadzenie
 
-Wykonując ten projekt nauczysz się, jak zaprogramować własne instrumenty muzyczne!
+Learn how to code your own musical instruments!
 
 ### Co będziesz robił
 
