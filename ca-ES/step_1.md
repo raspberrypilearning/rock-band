@@ -1,18 +1,12 @@
-\--- no-print \---
-
-Aquesta és la versió de **Scratch 3** del projecte. També hi ha una [versió Scratch 2 del projecte](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
-
-\--- /no-print \---
-
 ## Introducció
 
-Aprèn a programar els teus propis instruments musicals!
+Learn how to code your own musical instruments!
 
 ### Què faràs
 
 \--- no-print \---
 
-Fes clic a la bandera verda per començar. A continuació, fes clic al cantant o al tambor per escoltar com sonen.
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,9 +16,9 @@ Fes clic a la bandera verda per començar. A continuació, fes clic al cantant o
 
 \--- print-only \---
 
-Faràs un joc on pots fer clic sobre el cantant o el tambor per escoltar sons de cant o de bateria.
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
 
-![captura de pantalla del joc](images/demo.png)
+![game screenshot](images/demo.png)
 
 \--- /print-only \---
 
@@ -58,7 +52,7 @@ Faràs un joc on pots fer clic sobre el cantant o el tambor per escoltar sons de
 
 \--- no-print \---
 
-Si necessites imprimir aquest projecte, si us plau, utilitza la [versió per imprimir](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
