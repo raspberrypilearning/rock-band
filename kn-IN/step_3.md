@@ -20,8 +20,14 @@
 
 \--- ಕಾರ್ಯ \---
 
-ನಿಮ್ಮ ವೇದಿಕೆಯು ಈಗ ಹೀಗೆ ಕಾಣುವುದು:
+Click and drag the drum to the bottom of the Stage.
 
-![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/band-stage.png)
+\--- /task \---
 
-\--- /ಕಾರ್ಯ \---
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
+
+\--- /task \---
