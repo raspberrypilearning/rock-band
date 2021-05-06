@@ -20,8 +20,14 @@ Fes clic a **Interiors** de la llista de la part superior. A continuació, fes c
 
 \--- task \---
 
-Ara el teu escenari hauria de ser similar a aquest:
+Click and drag the drum to the bottom of the Stage.
 
-![captura de pantalla](images/band-stage.png)
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
 
 \--- /task \---
