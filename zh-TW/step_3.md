@@ -20,8 +20,14 @@
 
 \--- task \---
 
-現在你的舞台看起來會像這樣：
+Click and drag the drum to the bottom of the Stage.
 
-![截圖](images/band-stage.png)
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
 
 \--- /task \---
