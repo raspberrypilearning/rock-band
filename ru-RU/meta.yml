@@ -26,9 +26,6 @@ steps:
     title: "Задание: улучши свою группу"
     challenge: true
   - 
-    title: Обратная связь
-    quiz: true
-  - 
-    title: "Что дальше?"
+    title: "What next?"
 
 
