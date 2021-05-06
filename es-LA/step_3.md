@@ -20,8 +20,14 @@ Haz clic en **Interiores** en la lista de la parte superior. Luego haz clic en e
 
 \--- task \---
 
-Ahora tu escenario debe tener este aspecto:
+Click and drag the drum to the bottom of the Stage.
 
-![captura de pantalla](images/band-stage.png)
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
 
 \--- /task \---
