@@ -1,16 +1,16 @@
-## स्प्राइट्स
+## Sprite (स्प्राइट्स)
 
-इससे पहले कि आप कोडिंग आरंभ कर सकें, आपको कोड में 'चीज़' को जोड़ना होगा। Scratch में, इन 'चीज़' को **स्प्राइट्स** कहा जाता है।
+इससे पहले कि आप कोडिंग शुरू करें, आपको कोड में 'चीज़ों' को जोड़ना होगा। Scratch में, इन 'चीज़ों' को **sprites (स्प्राइट्स)** कहा जाता है।
 
 \--- task \---
 
 एक नया Scratch प्रोजेक्ट खोलिये।
 
-**ऑनलाइन:** [rpf.io/scratch-new](http://rpf.io/scratch-new) पर एक नया ऑनलाइन स्क्रैच प्रोजेक्ट खोलें{:target="_blank"}।
+**ऑनलाइन:** [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"} पर एक नया ऑनलाइन Scratch प्रोजेक्ट खोलें।
 
 **ऑफ़लाइन:** ऑफ़लाइन संपादक में एक नया प्रोजेक्ट खोलें।
 
-यदि आपको स्क्रैच ऑफ़लाइन संपादक को डाउनलोड और इंस्टॉल करने की आवश्यकता है, तो आप इसे [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} पर पा सकते हैं।
+यदि आपको Scratch ऑफ़लाइन संपादक को डाउनलोड और इंस्टॉल करने की आवश्यकता है, तो आप इसे [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} पर पा सकते हैं।
 
 यह इस तरह दिखता है:
 
@@ -20,7 +20,7 @@
 
 \--- task \---
 
-The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by clicking on the X in the corner.
+बिल्ली जो आप देख सकते है, वह है Scratch शुभंकर। आपको इस गेम के लिए इसकी आवश्यकता नहीं है, इसलिए इसे X पर क्लिक करके हटा दें।
 
 ![स्क्रीनशॉट](images/band-delete-annotated.png)
 
@@ -44,20 +44,14 @@ The cat sprite that you can see is the Scratch mascot. You don't need it for thi
 
 \--- task \---
 
-क्लिक करें और ड्रम को स्टेज के नीचे तक खींचें।
+Give your program a name by typing into the text box at the top.
 
-\--- /task \---
+![name](images/band-name-annotated.png)
 
-\--- task \---
+Then click on **File**, and then on **Save now** to save your project.
 
-ऊपर के टेक्स्ट बॉक्स में टाइप करके अपने प्रोग्राम को नाम दें।
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
 
-![नाम](images/band-name-annotated.png)
-
-इसके बाद अपने प्रोजेक्ट को सेव करने के लिए **File**पर क्लिक करें और फिर **Save now** पर क्लिक करें।
-
-आप ऑनलाइन नहीं होते या एक स्क्रैच खाता नहीं है, तो आप पर क्लिक करके अपनी परियोजना की एक प्रति बचा सकता है **Save to your computer** के बजाय।
-
-![स्क्रीनशॉट](images/band-save.png)
+![screenshot](images/band-save.png)
 
 \--- /task \---
