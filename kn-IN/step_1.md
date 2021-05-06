@@ -1,18 +1,12 @@
-\--- no-print \---
-
-ಇದು ಪ್ರಾಜೆಕ್ಟಿನ ** ಸ್ಕ್ರ್ಯಾಚ್ 3 ** ಆವೃತ್ತಿ. ಪ್ರಾಜೆಕ್ಟಿನ [ ಸ್ಕ್ರ್ಯಾಚ್ 2 ಆವೃತ್ತಿಯೂ ಇದೆ ](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
-
-\--- /no-print \---
-
 ## ಪರಿಚಯ
 
-ನಿಮ್ಮ ಸ್ವಂತ ಸಂಗೀತ ವಾದ್ಯಗಳನ್ನು ಹೇಗೆ ಕೋಡ್ ಮಾಡುವುದು ಎಂದು ತಿಳಿಯಿರಿ!
+Learn how to code your own musical instruments!
 
 ### ನೀವು ಏನು ಮಾಡುತ್ತೀರಿ
 
 \--- no-print \---
 
-ಪ್ರಾರಂಭಿಸಲು ಹಸಿರು ಧ್ವಜವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ. ನಂತರ, ಗಾಯಕ ಅಥವಾ ಡ್ರಮ್‌ನ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ಧ್ವನಿಯನ್ನು ಕೇಳಿ.
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,9 +16,9 @@
 
 \--- print-only \---
 
-ನೀವು ಒಂದು ಗೇಮ್ ಮಾಡುವಿರಿ. ಈ ಗೇಮ್ ನಲ್ಲಿ ಗಾಯಕ ಅಥವಾ ಡ್ರಮ್‌ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ಧ್ವನಿಯನ್ನು ಕೇಳಬಹುದು.
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
 
-![ಗೇಮಿನ ಸ್ಕ್ರೀನ್‌ಶಾಟ್](images/demo.png)
+![game screenshot](images/demo.png)
 
 \--- /print-only \---
 
@@ -58,7 +52,7 @@
 
 \--- no-print \---
 
-ನೀವು ಈ ಪ್ರಾಜೆಕ್ಟನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [ಮುದ್ರಕ-ಸ್ನೇಹಿ ಆವೃತ್ತಿಯನ್ನು ಬಳಸಿ](https://projects.raspberrypi.org/en/projects/rock-band/print) {:target = "_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
