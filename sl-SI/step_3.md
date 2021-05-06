@@ -20,8 +20,14 @@ Na vrhu seznama izberi **Notranjost**, potem pa klikni na sliko gledališča.
 
 \--- task \---
 
-Tvoj oder bi sedaj moral biti podoben temu:
+Click and drag the drum to the bottom of the Stage.
 
-![posnetek zaslona](images/band-stage.png)
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
 
 \--- /task \---
