@@ -1,17 +1,20 @@
-## Reflexão
+## What next?
 
-Parabéns por concluir o projeto 'Banda de Rock'. Gostaríamos muito de saber se você acha que esse projeto o ajudou a desenvolver suas habilidades de criação digital.
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
 \--- no-print \---
 
-## \--- quiz \---
+Click on the green flag to see the animation.
 
-## pergunta: Agora que você completou o Banda de Rock, quão confiante você se sente sobre programar em Scratch?
-
-- ( ) Menos confiante
-- ( ) O mesmo que antes
-- ( ) Mais confiante
-
-\--- /quiz \---
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
 \--- /no-print \---
+
+\--- print-only \---
+
+![Complete project](images/space-final.png)
+
+\--- /print-only \---
