@@ -44,20 +44,14 @@ Pomakni se navzdol, dokler ne najdeš bobna. Klikni nanj, da ga dodaš v svoj pr
 
 \--- task \---
 
-Klikni na boben in ga povleci na spodnjo stran odra.
+Give your program a name by typing into the text box at the top.
 
-\--- /task \---
+![name](images/band-name-annotated.png)
 
-\--- task \---
+Then click on **File**, and then on **Save now** to save your project.
 
-Poimenuj svoj program tako, da vneseš ime v polje za besedilo na vrhu.
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
 
-![ime](images/band-name-annotated.png)
-
-Nato klikni **Datoteka** in **Shrani takoj**, da shraniš svoj projekt.
-
-Če nisi povezan-a s spletom ali nimaš Scratch računa, lahko kopijo projekta shraniš s klikom na **Shrani na računalnik**.
-
-![posnetek zaslona](images/band-save.png)
+![screenshot](images/band-save.png)
 
 \--- /task \---
