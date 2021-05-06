@@ -1,12 +1,6 @@
-\--- no-print \---
-
-මෙම ව්‍යාපෘතිය **Scratch 3** අනුවාදය (version එක) යොදාගෙන කර ඇත. මෙම ව්යාපෘතියේම [Scratch 2 අනුවාදයක්](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) ද ඇත.
-
-\--- /no-print \---
-
 ## හැදින්වීම
 
-ඔබේම සංගීත භාණ්ඩ කේත(code) කරන්නේ කෙසේදැයි ඉගෙන ගන්න!
+Learn how to code your own musical instruments!
 
 ### ඔබ සාදන්නට යන දේ
 
