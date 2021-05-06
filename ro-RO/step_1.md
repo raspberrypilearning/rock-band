@@ -1,18 +1,12 @@
-\--- no-print \---
-
-Acesta este versiunea **Scratch 3** a proiectului. Există, de asemenea, o [versiune Scratch 2 a proiectului](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
-
-\--- /no-print \---
-
 ## Introducere
 
-Învață cum să programezi propriile tale instrumente muzicale!
+Learn how to code your own musical instruments!
 
 ### Ce vei face
 
 \--- no-print \---
 
-Apasă steagul verde pentru început. Apoi, apasă pe cântăreț sau pe tobă pentru ca să auzi cum sună.
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,9 +16,9 @@ Apasă steagul verde pentru început. Apoi, apasă pe cântăreț sau pe tobă p
 
 \--- print-only \---
 
-Vei face un joc în care poți da click pe cântăreață pentru a o auzi cum cântă sau pe tobă pentru a auzi sunete de tobă.
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
 
-![captură de ecran de joc](images/demo.png)
+![game screenshot](images/demo.png)
 
 \--- /print-only \---
 
@@ -58,7 +52,7 @@ Vei face un joc în care poți da click pe cântăreață pentru a o auzi cum c�
 
 \--- no-print \---
 
-Dacă doriți să printați acest proiect, folosiți[printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
