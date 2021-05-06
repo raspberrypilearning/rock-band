@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Dies ist die ** Scratch 3 ** Version des Projekts. Es gibt auch eine [ Scratch-2-Version des Projekts ](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
-
-\--- /no-print \---
-
 ## Einleitung
 
-Lerne deine eigenen Musikinstrumente zu programmieren!
+Learn how to code your own musical instruments!
 
 ### Was du machen wirst
 
