@@ -1,12 +1,6 @@
-\--- no-stampa \---
-
-Questa è la versione **Scratch 3** del progetto. C'è anche una [versione Scratch 2 del progetto](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
-
-\--- /no-print \---
-
 ## Introduzione
 
-Impara a programmare i tuoi strumenti musicali!
+Learn how to code your own musical instruments!
 
 ### Cosa creerai
 
