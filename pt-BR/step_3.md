@@ -20,8 +20,14 @@ Clique em **Interior** no topo da página. Depois, clique em um cenário de teat
 
 \--- task \---
 
-Seu cenário agora deve estar parecido com este:
+Click and drag the drum to the bottom of the Stage.
 
-![capturas de tela](images/band-stage.png)
+\--- /task \---
+
+\--- task \---
+
+Your stage should now look similar to this:
+
+![screenshot](images/band-stage.png)
 
 \--- /task \---
