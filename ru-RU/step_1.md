@@ -1,18 +1,12 @@
-\--- no-print \---
-
-Это версия проекта для **Scratch 3**. Есть также [версия для Scratch 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
-
-\--- /no-print \---
-
 ## Введение
 
-Узнай, как запрограммировать свои музыкальные инструменты!
+Learn how to code your own musical instruments!
 
 ### Что ты сделаешь
 
 \--- no-print \---
 
-Нажми на зелёный флаг, чтобы начать. Затем нажми на певицу или барабан, чтобы услышать, как они звучат.
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,9 +16,9 @@
 
 \--- print-only \---
 
-Ты создашь игру, в которой cможешь нажать на певицу или барабан, чтобы услышать пение или звуки барабанов.
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
 
-![скриншот игры](images/demo.png)
+![game screenshot](images/demo.png)
 
 \--- /print-only \---
 
@@ -58,10 +52,10 @@
 
 \--- no-print \---
 
-Если вы хотите распечатать этот проект, то используйте [версию для печати](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-Вы можете найти [завершенный проект здесь](https://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](https://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
