@@ -1,18 +1,12 @@
-\--- no-print \---
-
-यह प्रोजेक्ट का **Scratch 3** संस्करण है। प्रोजेक्ट का [Scratch 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) संस्करण भी है।
-
-\--- /no-print \---
-
 ## परिचय
 
-अपने स्वयं के संगीत वाद्ययंत्रों को कोड करने के तरीके सीखना!
+Learn how to code your own musical instruments!
 
 ### आप क्या बनाएँगे
 
 \--- no-print \---
 
-शुरू करने के लिए हरे रंग के झंडे पर क्लिक करें। फिर, गायक या ड्रम को सुनने के लिए क्लिक करें कि वे कैसे सुनाई देते है।
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,9 +16,9 @@
 
 \--- print-only \---
 
-आप एक गेम बनाएंगे जहाँ आप गायक या ड्रम पर क्लिक करके गाने या ड्रम की आवाज़ सुन सकते हैं।
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
 
-![खेल स्क्रीनशॉट](images/demo.png)
+![game screenshot](images/demo.png)
 
 \--- /print-only \---
 
@@ -32,9 +26,9 @@
 
 ## title: आप क्या सीखेंगे
 
-+ स्क्रैच में स्प्राइट की पोशाक को बदलने के लिए कोड का उपयोग करें
-+ स्प्रिट बनाने के लिए कोड का उपयोग करें स्क्रैच में इनपुट पर प्रतिक्रिया करें
-+ स्क्रैच में स्प्राइट के साथ आवाज़ जोड़ें
++ Scratch में स्प्राइट की पोशाक को बदलने के लिए कोड का उपयोग करें
++ स्प्राइट बनाने के लिए कोड का उपयोग करें Scratch में इनपुट पर प्रतिक्रिया करें
++ Scratch में स्प्राइट के साथ आवाज़ जोड़ें
 
 \--- /collapse \---
 
@@ -48,7 +42,7 @@
 
 #### सॉफ्टवेयर
 
-+ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (यदि [ऑनलाइन](https://rpf.io/scratchon){:target="_blank"} या [ऑफलाइन](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -58,7 +52,7 @@
 
 \--- no-print \---
 
-यदि आपको यह प्रोजेक्ट प्रिंट करना हो, कृपया </a>प्रिंटर-अनुकूल संस्करण</0>{:target="_blank"} का उपयोग करें।
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
