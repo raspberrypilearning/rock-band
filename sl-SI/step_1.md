@@ -1,18 +1,12 @@
-\--- no-print \---
-
-To je **Scratch 3** različica projekta. Obstaja tudi [Scratch 2](https://projects.raspberrypi.org/en/projects/rock-band-scratch2) različica projekta.
-
-\--- /no-print \---
-
 ## Uvod
 
-Nauči se programirati svoje lastne glasbene instrumente!
+Learn how to code your own musical instruments!
 
 ### Kaj boš ustvaril?
 
 \--- no-print \---
 
-Za začetek klikni na zeleno zastavo. Nato klikni na pevko ali boben, da bi slišal, kako zvenita.
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,9 +16,9 @@ Za začetek klikni na zeleno zastavo. Nato klikni na pevko ali boben, da bi sli�
 
 \--- print-only \---
 
-Izdelal-a boš igro, v kateri lahko klikneš na pevko ali na boben, da bo slišati petje ali zvok bobna.
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
 
-![posnetek zaslona igre](images/demo.png)
+![game screenshot](images/demo.png)
 
 \--- /print-only \---
 
@@ -58,7 +52,7 @@ Izdelal-a boš igro, v kateri lahko klikneš na pevko ali na boben, da bo sliša
 
 \--- no-print \---
 
-Če želite natisniti ta projekt, uporabite [tiskalniku prijazno različico](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
