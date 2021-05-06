@@ -44,20 +44,14 @@
 
 \--- task \---
 
-Щелкни и перетащи барабан в нижнюю часть сцены.
+Give your program a name by typing into the text box at the top.
 
-\--- /task \---
+![name](images/band-name-annotated.png)
 
-\--- task \---
+Then click on **File**, and then on **Save now** to save your project.
 
-Придумай своей программе имя и введи его в текстовое поле вверху.
+If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
 
-![имя](images/band-name-annotated.png)
-
-Затем нажми **Файл**, а затем **Сохранить сейчас** для сохранения проекта.
-
-Если ты не в сети или у тебя нет Scratch аккаунта, ты можешь сохранить копию своего проекта, нажав на **Сохранить на свой компьютер**.
-
-![снимок экрана](images/band-save.png)
+![screenshot](images/band-save.png)
 
 \--- /task \---
