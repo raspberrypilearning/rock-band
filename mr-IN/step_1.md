@@ -1,18 +1,12 @@
-\--- no-print \---
-
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
-
-\--- /no-print \---
-
 ## परिचय
 
-आपल्या स्वत: चे वाद्ये कोड (code) करायला शिका!
+Learn how to code your own musical instruments!
 
 ### आपण काय तयार करणार आहोत
 
 \--- no-print \---
 
-सुरू करण्यासाठी हिरव्या ध्वज क्लिक करा. मग, वाद्य वाजवताना ऐकण्यासाठी गायक किंवा ड्रमवर क्लिक करा.
+Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,9 +16,9 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- print-only \---
 
-आपण एक खेळ बनवाल जेथे गायन किंवा ड्रमचा आवाज ऐकण्यासाठी गायक किंवा ड्रम वर क्लिक करू शकता,.
+You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
 
-![गेम स्क्रीनशॉट](images/demo.png)
+![game screenshot](images/demo.png)
 
 \--- /print-only \---
 
@@ -58,10 +52,10 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- no-print \---
 
-आपल्याला हा प्रकल्प प्रिंट करणे आवश्यक असल्यास, कृपया [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-आपण येथे [पूर्ण केलेला प्रकल्प शोधू शकता](https://rpf.io/p/en/rock-band-get).
+You can find the [completed project here](https://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
