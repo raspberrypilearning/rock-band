@@ -3,12 +3,12 @@ hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
 title: रॉक बैंड
-description: अपने स्वयं के संगीत उपकरणों को कोड करना सीखें
+description: अपने स्वयं के संगीत वाद्ययंत्र को कोड करना सीखें
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
   - 
-    title: परिचय
+    title: भूमिका
   - 
     title: स्प्राइट्स
   - 
@@ -26,6 +26,6 @@ steps:
     title: "चुनौती: अपने बैंड में सुधार करें"
     challenge: true
   - 
-    title: "What next?"
+    title: "आगे क्या?"
 
 
