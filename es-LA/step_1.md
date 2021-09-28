@@ -1,12 +1,12 @@
 ## Introducción
 
-Learn how to code your own musical instruments!
+¡Aprende cómo codificar tus propios instrumentos musicales!
 
 ### Lo que harás
 
 \--- no-print \---
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+Vas a crear un juego en el que al hacer clic en el cantante o el tambor se escucharán cantos o los sonidos del tambor.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -16,9 +16,9 @@ Click the green flag to begin. Then, click on the singer or the drum to hear wha
 
 \--- print-only \---
 
-You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+Haz clic en la bandera verde para empezar. Luego, haz clic en el cantante o el tambor para escuchar cómo suenan.
 
-![game screenshot](images/demo.png)
+![captura de pantalla del juego](images/demo.png)
 
 \--- /print-only \---
 
@@ -42,7 +42,7 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 #### Programas
 
-+ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (ya sea [en línea](https://rpf.io/scratchon){:target="_blank"} o [sin conexión](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -52,10 +52,10 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Si necesitas imprimir este proyecto, por favor usa la [versión para imprimir](https://projects.raspberrypi.org/es-LA/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](https://rpf.io/p/en/rock-band-get).
+Puedes encontrar el [proyecto terminado aquí](https://rpf.io/p/es-LA/rock-band-get).
 
 \--- /collapse \---
