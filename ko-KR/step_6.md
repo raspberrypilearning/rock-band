@@ -16,21 +16,21 @@
 
 가수가 노래할 수 있게 되려면, 스프라이트에 사운드가 추가되어야 합니다. 가수를 선택하고 ‘소리’ 탭을 누르신 후 저장소에서 **소리 선택**을 클릭하세요.
 
-![screenshot](images/band-import-sound-annotated.png)
+![스크린샷](images/band-import-sound-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on **Voice** in the list at the top, and then choose a sound to add to your sprite.
+상단에 있는 목록에서 **목소리**를 클릭한 다음 당신의 스프라이트에 추가 할 소리를 선택 하십시오.
 
-![screenshot](images/band-choose-sound.png)
+![스크린샷](images/band-choose-sound.png)
 
 \--- /task \---
 
 \--- task \---
 
-To use the sound, add the following code blocks to your singer sprite:
+소리를 사용하려면 가수 스프라이트에 다음 코드 블록을 추가하십시오.
 
 ```blocks3
 이 스프라이트를 클릭했을 때
@@ -41,6 +41,6 @@ To use the sound, add the following code blocks to your singer sprite:
 
 \--- task \---
 
-Click on your singer on the stage and see what happens. Does she sing?
+가수를 클릭하고 어떤 일이 일어나는지 보세요. 그녀가 노래하나요?
 
 \--- /task \---
