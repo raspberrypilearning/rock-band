@@ -1,12 +1,12 @@
 ## स्टेज
 
-**Stage** (चरण) दाईं ओर का क्षेत्र है, और वह जगह है जहाँ आपका प्रोजेक्ट आता है। इसे एक वास्तविक क्षेत्र की तरह, एक प्रदर्शन क्षेत्र के रूप में सोचें!
+**Stage** (चरण) दाईं ओर का क्षेत्र है, और वह जगह है जहाँ आपका प्रोजेक्ट आता है। इसे एक वास्तविक मंच की तरह, एक प्रदर्शन क्षेत्र के रूप में सोचें!
 
 \--- task \---
 
 इस समय, मंच सफेद है और बहुत उबाऊ लग रहा है! **Choose a backdrop** पर क्लिक करें और बैकड्रॉप चुनें।
 
-![screenshot](images/band-stage-choose.png)
+![स्क्रीनशॉट](images/band-stage-choose.png)
 
 \--- /task \---
 
@@ -14,20 +14,20 @@
 
 शीर्ष पर सूची में **Indoors** पर क्लिक करें। फिर थिएटर बैकड्रॉप (theatre backdrop) पर क्लिक करें।
 
-![screenshot](images/band-backdrop.png)
+![स्क्रीनशॉट](images/band-backdrop.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+क्लिक करें और ड्रम को स्टेज के नीचे तक खिसकाएं।
 
 \--- /task \---
 
 \--- task \---
 
-Your stage should now look similar to this:
+आपका स्टेज अब इस तरह दिखना चाहिए:
 
-![screenshot](images/band-stage.png)
+![स्क्रीनशॉट](images/band-stage.png)
 
 \--- /task \---
