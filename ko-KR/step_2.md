@@ -4,23 +4,23 @@
 
 \--- task \---
 
-Open a new Scratch project.
+새로운 스크래치 프로젝트를 엽니다.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**온라인:** [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_ blank"}에서 새로운 온라인 스크래치 프로젝트 열기
 
-**Offline:** open a new project in the offline editor.
+**오프라인 :** 오프라인 편집기에서 새 프로젝트를 엽니다.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+스크래치 오프라인 에디터를 다운로드 받아야 하는 경우, [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}에서 다운 받을 수 있습니다.
 
-It looks like this:
+그림으로 보면 다음과 같습니다.
 
-![screenshot](images/band-scratch.png)
+![스크린샷](images/band-scratch.png)
 
 \--- /task \---
 
 \--- task \---
 
-The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by clicking on the X in the corner.
+당신이 볼 수 있는 고양이 스프라이트는 스크래치 마스코트입니다. 이 게임에서는 필요하지 않으므로 마우스 오른쪽 버튼으로 클릭 한 다음 을 클릭하여 제거하십시오.
 
 ![스크린샷](images/band-delete-annotated.png)
 
@@ -28,27 +28,29 @@ The cat sprite that you can see is the Scratch mascot. You don't need it for thi
 
 \--- task \---
 
-Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+드럼을 클릭하여 스테이지 아래쪽으로 끕니다.
 
-![screenshot](images/band-sprite-library.png)
-
-\--- /task \---
-
-\--- task \---
-
-Scroll down until you see a drum sprite. Click on a drum to add it to your project.
-
-![screenshot](images/band-sprite-drum.png)
+![스크린샷](images/band-sprite-library.png)
 
 \--- /task \---
 
 \--- task \---
 
-Give your program a name by typing into the text box at the top.
+그런 다음 **파일**을 클릭하고, **저장하기**를 클릭하여 프로젝트를 저장할 수 있습니다.
 
-![name](images/band-name-annotated.png)
+![스크린샷](images/band-sprite-drum.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+\--- /task \---
+
+\--- task \---
+
+If you are signed in to your Scratch account, type the title of your project into the project title box at the top of the screen:
+
+![이름](images/band-name-annotated.png)
+
+**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+
+Next, click on File, and then on Save now to save your project.
 
 If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
 
