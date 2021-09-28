@@ -4,30 +4,30 @@
 
 \--- task \---
 
-At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+지금 무대는 흰색이고 꽤 지루해 보입니다! **배경을 선택하기**를 클릭하여 배경을 추가하십시오.
 
-![screenshot](images/band-stage-choose.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
-
-![screenshot](images/band-backdrop.png)
+![스크린샷](images/band-stage-choose.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+위에 있는 목록에서 **실내** 를 클릭하십시오. 그런 다음 극장 배경을 클릭하십시오.
+
+![스크린샷](images/band-backdrop.png)
 
 \--- /task \---
 
 \--- task \---
 
-Your stage should now look similar to this:
+드럼을 클릭하여 스테이지 아래쪽으로 끕니다.
 
-![screenshot](images/band-stage.png)
+\--- /task \---
+
+\--- task \---
+
+무대는 이제 다음과 비슷하게 보입니다:
+
+![스크린샷](images/band-stage.png)
 
 \--- /task \---
