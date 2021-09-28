@@ -44,11 +44,13 @@
 
 \--- task \---
 
-Give your program a name by typing into the text box at the top.
+If you are signed in to your Scratch account, type the title of your project into the project title box at the top of the screen:
 
 ![name](images/band-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+
+Next, click on File, and then on Save now to save your project.
 
 If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
 
