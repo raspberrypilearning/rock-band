@@ -20,7 +20,7 @@
 
 \--- task \---
 
-Click on the drum sprite, and then drag these two blocks into the code area on the right:
+드럼 스프라이트를 클릭하고 이 두 블록을 오른쪽의 코드 영역으로 드래그합니다:
 
 ```blocks3
 이 스프라이트를 클릭 하면
@@ -29,16 +29,16 @@ Click on the drum sprite, and then drag these two blocks into the code area on t
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![스크린샷](images/connect-block.gif)
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+블록이 서로 연결되어 있는지 확인하십시오 (예: LEGO블록).
 
 \--- /task \---
 
 \--- task \---
 
-Click on the drum to try out your new instrument!
+드럼을 클릭하여 우리가 만든 새 악기를 테스트 해 봐요!
 
 \--- /task \---
