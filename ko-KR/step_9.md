@@ -1,10 +1,10 @@
-## What next?
+## 더 나아가기
 
-Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
+첫번째 스크래치 프로젝트를 만들었습니다. 이번엔 [우주에서 길을 잃다](https://projects.raspberrypi.org/ko-KR/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) 프로젝트를 해보는 것이 어떨까요?
 
 \--- no-print \---
 
-Click on the green flag to see the animation.
+초록색 깃발을 클릭해 애니매이션을 보세요.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Click on the green flag to see the animation.
 
 \--- print-only \---
 
-![Complete project](images/space-final.png)
+![완료 된 프로젝트](images/space-final.png)
 
 \--- /print-only \---
