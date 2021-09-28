@@ -20,7 +20,7 @@ Se ve así:
 
 \--- task \---
 
-The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by clicking on the X in the corner.
+El objeto gato que ves es la mascota de Scratch. No lo necesitas para este juego, así que elimínalo haciendo clic en la X de la esquina.
 
 ![captura de pantalla](images/band-delete-annotated.png)
 
@@ -44,14 +44,16 @@ Baja hasta encontrar el objeto tambor. Haz clic en un tambor para añadirlo a tu
 
 \--- task \---
 
-Give your program a name by typing into the text box at the top.
+If you are signed in to your Scratch account, type the title of your project into the project title box at the top of the screen:
 
-![name](images/band-name-annotated.png)
+![nombre](images/band-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+Next, click on File, and then on Save now to save your project.
 
-![screenshot](images/band-save.png)
+Si no estás conectado o no tienes una cuenta de Scratch, puedes guardar una copia de tu proyecto haciendo clic en **Guardar en tu computador**.
+
+![captura de pantalla](images/band-save.png)
 
 \--- /task \---
