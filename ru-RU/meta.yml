@@ -7,18 +7,18 @@ description: Узнай, как запрограммировать свои му
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
-  - title: Введение
-  - title: Спрайты
-  - title: Сцена
-  - title: Создание барабана
-  - title: "Задание: улучши свой барабан"
-    challenge: true
-  - title: Создание певицы
-  - title: Костюмы
-  - title: "Задание: улучши свою группу"
-    challenge: true
-  - title: Обратная связь
-    quiz: true
-  - title: "Что дальше?"
-
-
+- title: Введение
+  completion: engaged
+- title: Спрайты
+- title: Сцена
+- title: Создание барабана
+- title: 'Задание: улучши свой барабан'
+  challenge: true
+- title: Создание певицы
+  completion: internal
+- title: Костюмы
+- title: 'Задание: улучши свою группу'
+  challenge: true
+- title: Обратная связь
+  quiz: true
+- title: Что дальше?

@@ -7,14 +7,16 @@ description: Nauči se programirati lastna glasbila
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
-  - title: Uvod
-  - title: Figure
-  - title: Oder
-  - title: Izdelava bobna
-  - title: "Izziv: izboljšajte svoj boben"
-    challenge: true
-  - title: Ustvarjanje pevke
-  - title: Videzi
-  - title: "Izziv: izboljšajte svojo skupino"
-    challenge: true
-  - title: "Kaj sledi?"
+- title: Uvod
+  completion: engaged
+- title: Figure
+- title: Oder
+- title: Izdelava bobna
+- title: 'Izziv: izboljšajte svoj boben'
+  challenge: true
+- title: Ustvarjanje pevke
+  completion: internal
+- title: Videzi
+- title: 'Izziv: izboljšajte svojo skupino'
+  challenge: true
+- title: Kaj sledi?

@@ -7,14 +7,16 @@ description: In questo progetto imparerai come programmare il tuo strumento musi
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
-  - title: Introduzione
-  - title: Sprite
-  - title: Il palco
-  - title: Creare un tamburo
-  - title: "Sfida: migliora il tuo tamburo"
-    challenge: true
-  - title: Creare un cantante
-  - title: I Costumi
-  - title: "Sfida: migliora la tua banda"
-    challenge: true
-  - title: "E poi?"
+- title: Introduzione
+  completion: engaged
+- title: Sprite
+- title: Il palco
+- title: Creare un tamburo
+- title: 'Sfida: migliora il tuo tamburo'
+  challenge: true
+- title: Creare un cantante
+  completion: internal
+- title: I Costumi
+- title: 'Sfida: migliora la tua banda'
+  challenge: true
+- title: E poi?

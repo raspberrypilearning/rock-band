@@ -7,18 +7,18 @@ description: تعلَّم كيف تُبرمج الآلات الموسيقية ا
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
-  - title: المقدمة
-  - title: الكائنات
-  - title: المنصة
-  - title: إنشاء طبلة
-  - title: "التحدي: تحسين طبلتك"
-    challenge: true
-  - title: إنشاء مغنية
-  - title: المظاهر
-  - title: "التحدي: تحسين فرقتك"
-    challenge: true
-  - title: انعكاس
-    quiz: true
-  - title: "ما التالي؟"
-
-
+- title: المقدمة
+  completion: engaged
+- title: الكائنات
+- title: المنصة
+- title: إنشاء طبلة
+- title: 'التحدي: تحسين طبلتك'
+  challenge: true
+- title: إنشاء مغنية
+  completion: internal
+- title: المظاهر
+- title: 'التحدي: تحسين فرقتك'
+  challenge: true
+- title: انعكاس
+  quiz: true
+- title: ما التالي؟

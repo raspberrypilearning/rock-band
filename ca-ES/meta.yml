@@ -7,14 +7,16 @@ description: Aprèn a programar els teus propis instruments musicals
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
-  - title: Introducció
-  - title: Personatges
-  - title: L'escenari
-  - title: Fent un tambor
-  - title: "Repte: millora el teu tambor"
-    challenge: true
-  - title: Fent un cantant
-  - title: Vestits
-  - title: "Repte: millora la teva banda"
-    challenge: true
-  - title: "I ara què ve?"
+- title: Introducció
+  completion: engaged
+- title: Personatges
+- title: L'escenari
+- title: Fent un tambor
+- title: 'Repte: millora el teu tambor'
+  challenge: true
+- title: Fent un cantant
+  completion: internal
+- title: Vestits
+- title: 'Repte: millora la teva banda'
+  challenge: true
+- title: I ara què ve?

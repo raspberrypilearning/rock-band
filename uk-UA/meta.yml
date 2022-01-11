@@ -7,14 +7,16 @@ description: Навчися програмувати власні музичні
 version: 4
 last_tested: 2018-10-12
 steps:
-  - title: Вступ
-  - title: Спрайти
-  - title: Сцена
-  - title: Створення барабана
-  - title: "Завдання: вдоскональ свій барабан"
-    challenge: true
-  - title: Створення співачки
-  - title: Образи
-  - title: "Завдання: покращи свій гурт"
-    challenge: true
-  - title: "Що далі?"
+- title: Вступ
+  completion: engaged
+- title: Спрайти
+- title: Сцена
+- title: Створення барабана
+- title: 'Завдання: вдоскональ свій барабан'
+  challenge: true
+- title: Створення співачки
+  completion: internal
+- title: Образи
+- title: 'Завдання: покращи свій гурт'
+  challenge: true
+- title: Що далі?

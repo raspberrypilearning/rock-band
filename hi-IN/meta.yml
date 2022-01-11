@@ -7,14 +7,16 @@ description: अपने स्वयं के संगीत उपकरण
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
-  - title: परिचय
-  - title: स्प्राइट्स
-  - title: स्टेज
-  - title: ड्रम बनाना
-  - title: "चुनौती: अपने ड्रम में सुधार करें"
-    challenge: true
-  - title: गायक बनाना
-  - title: पोशाकें
-  - title: "चुनौती: अपने बैंड में सुधार करें"
-    challenge: true
-  - title: "आगे क्या?"
+- title: परिचय
+  completion: engaged
+- title: स्प्राइट्स
+- title: स्टेज
+- title: ड्रम बनाना
+- title: 'चुनौती: अपने ड्रम में सुधार करें'
+  challenge: true
+- title: गायक बनाना
+  completion: internal
+- title: पोशाकें
+- title: 'चुनौती: अपने बैंड में सुधार करें'
+  challenge: true
+- title: आगे क्या?

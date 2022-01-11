@@ -7,14 +7,16 @@ description: Lerne deine eigenen Musikinstrumente zu programmieren
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
-  - title: Einleitung
-  - title: Figuren
-  - title: Die Bühne
-  - title: Eine Trommel machen
-  - title: "Herausforderung: Verbessere deine Trommel"
-    challenge: true
-  - title: Einen Sänger machen
-  - title: Kostüme
-  - title: "Herausforderung: Verbessere deine Band"
-    challenge: true
-  - title: Wie geht es weiter?
+- title: Einleitung
+  completion: engaged
+- title: Figuren
+- title: Die Bühne
+- title: Eine Trommel machen
+- title: 'Herausforderung: Verbessere deine Trommel'
+  challenge: true
+- title: Einen Sänger machen
+  completion: internal
+- title: Kostüme
+- title: 'Herausforderung: Verbessere deine Band'
+  challenge: true
+- title: Wie geht es weiter?

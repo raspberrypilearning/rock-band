@@ -7,14 +7,16 @@ description: 學習用程式打造你的專屬樂器
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
-  - title: 介紹
-  - title: 角色
-  - title: 舞台
-  - title: 製造一個鼓
-  - title: "挑戰：改良你的鼓"
-    challenge: true
-  - title: 製造一個歌手
-  - title: 造型
-  - title: "挑戰：改良你的樂隊"
-    challenge: true
-  - title: "然後呢？"
+- title: 介紹
+  completion: engaged
+- title: 角色
+- title: 舞台
+- title: 製造一個鼓
+- title: 挑戰：改良你的鼓
+  challenge: true
+- title: 製造一個歌手
+  completion: internal
+- title: 造型
+- title: 挑戰：改良你的樂隊
+  challenge: true
+- title: 然後呢？

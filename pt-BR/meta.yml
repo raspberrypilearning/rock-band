@@ -7,18 +7,18 @@ description: Aprenda a programar os seus próprios instrumentos musicais
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
-  - title: Introdução
-  - title: Atores
-  - title: O Palco
-  - title: Fazendo um tambor
-  - title: "Desafio: melhore o seu tambor"
-    challenge: true
-  - title: Fazendo um cantor(a)
-  - title: Fantasias
-  - title: "Desafio: melhore sua banda"
-    challenge: true
-  - title: Reflexão
-    quiz: true
-  - title: "E agora?"
-
-
+- title: Introdução
+  completion: engaged
+- title: Atores
+- title: O Palco
+- title: Fazendo um tambor
+- title: 'Desafio: melhore o seu tambor'
+  challenge: true
+- title: Fazendo um cantor(a)
+  completion: internal
+- title: Fantasias
+- title: 'Desafio: melhore sua banda'
+  challenge: true
+- title: Reflexão
+  quiz: true
+- title: E agora?

@@ -3,18 +3,21 @@ hero_image: images/hero-rock-band-large.png
 listed: true
 copyedit: false
 title: Kapela rockowa
-description: Wykonując ten projekt nauczysz się jak zaprogramować własne instrumenty muzyczne!
+description: Wykonując ten projekt nauczysz się jak zaprogramować własne instrumenty
+  muzyczne!
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
-  - title: Wprowadzenie
-  - title: Duszki
-  - title: Scena
-  - title: Tworzenie bębenka
-  - title: "Wyzwanie: ulepsz swój bębenek"
-    challenge: true
-  - title: Dodawanie wokalistki
-  - title: Kostiumy
-  - title: "Wyzwanie: ulepsz swój zespół muzyczny"
-    challenge: true
-  - title: "Co dalej?"
+- title: Wprowadzenie
+  completion: engaged
+- title: Duszki
+- title: Scena
+- title: Tworzenie bębenka
+- title: 'Wyzwanie: ulepsz swój bębenek'
+  challenge: true
+- title: Dodawanie wokalistki
+  completion: internal
+- title: Kostiumy
+- title: 'Wyzwanie: ulepsz swój zespół muzyczny'
+  challenge: true
+- title: Co dalej?

@@ -7,14 +7,16 @@ description: Dysga sut i godio offerynnau cerddorol
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
-  - title: Cyflwyniad
-  - title: Corluniau
-  - title: Y Llwyfan
-  - title: Creu drwm
-  - title: "Her: Perffeithio dy ddrwm"
-    challenge: true
-  - title: Creu canwr
-  - title: Gwisgoedd
-  - title: "Her: gwella dy fand"
-    challenge: true
-  - title: "Beth nesaf?"
+- title: Cyflwyniad
+  completion: engaged
+- title: Corluniau
+- title: Y Llwyfan
+- title: Creu drwm
+- title: 'Her: Perffeithio dy ddrwm'
+  challenge: true
+- title: Creu canwr
+  completion: internal
+- title: Gwisgoedd
+- title: 'Her: gwella dy fand'
+  challenge: true
+- title: Beth nesaf?

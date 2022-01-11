@@ -7,14 +7,16 @@ description: U ovom projektu naučit ćeš kako programirati vlastite glazbene i
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
-  - title: Uvod
-  - title: Likovi
-  - title: Pozornica
-  - title: Napravi bubanj
-  - title: "Izazov: poboljšaj svoj bubanj"
-    challenge: true
-  - title: Dodaj pjevačicu
-  - title: Kostimi
-  - title: "Izazov: poboljšaj svoj bend"
-    challenge: true
-  - title: "Što dalje?"
+- title: Uvod
+  completion: engaged
+- title: Likovi
+- title: Pozornica
+- title: Napravi bubanj
+- title: 'Izazov: poboljšaj svoj bubanj'
+  challenge: true
+- title: Dodaj pjevačicu
+  completion: internal
+- title: Kostimi
+- title: 'Izazov: poboljšaj svoj bend'
+  challenge: true
+- title: Što dalje?

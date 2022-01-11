@@ -7,14 +7,16 @@ description: Învață cum să programezi propriile tale instrumente muzicale
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
-  - title: Introducere
-  - title: Personaje
-  - title: Scena
-  - title: Creează o toba
-  - title: "Provocare: îmbunătățește-ți toba"
-    challenge: true
-  - title: Creează o cântăreață
-  - title: Costume
-  - title: "Provocare: îmbunătățește-ți formația"
-    challenge: true
-  - title: "Ce urmează?"
+- title: Introducere
+  completion: engaged
+- title: Personaje
+- title: Scena
+- title: Creează o toba
+- title: 'Provocare: îmbunătățește-ți toba'
+  challenge: true
+- title: Creează o cântăreață
+  completion: internal
+- title: Costume
+- title: 'Provocare: îmbunătățește-ți formația'
+  challenge: true
+- title: Ce urmează?

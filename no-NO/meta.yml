@@ -7,14 +7,16 @@ description: Lær hvordan du kan kode dine egne musikkinstrumenter
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
-  - title: Introduksjon
-  - title: Figurer
-  - title: Scenen
-  - title: Lage en tromme
-  - title: "Utfordring: lag trommen bedre"
-    challenge: true
-  - title: Lag en sangerinne
-  - title: Drakter
-  - title: "Utfordring: lag bandet ditt bedre"
-    challenge: true
-  - title: "Hva nå?"
+- title: Introduksjon
+  completion: engaged
+- title: Figurer
+- title: Scenen
+- title: Lage en tromme
+- title: 'Utfordring: lag trommen bedre'
+  challenge: true
+- title: Lag en sangerinne
+  completion: internal
+- title: Drakter
+- title: 'Utfordring: lag bandet ditt bedre'
+  challenge: true
+- title: Hva nå?

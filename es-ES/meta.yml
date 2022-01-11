@@ -7,14 +7,16 @@ description: Aprende cómo codificar tus propios instrumentos musicales
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
-  - title: Introducción
-  - title: Objetos
-  - title: El Escenario
-  - title: Crear un tambor
-  - title: "Desafío: mejora tu tambor"
-    challenge: true
-  - title: Crear un cantante
-  - title: Disfraces
-  - title: "Desafío: mejora tu banda"
-    challenge: true
-  - title: "¿Qué sigue?"
+- title: Introducción
+  completion: engaged
+- title: Objetos
+- title: El Escenario
+- title: Crear un tambor
+- title: 'Desafío: mejora tu tambor'
+  challenge: true
+- title: Crear un cantante
+  completion: internal
+- title: Disfraces
+- title: 'Desafío: mejora tu banda'
+  challenge: true
+- title: "¿Qué sigue?"

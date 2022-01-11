@@ -7,14 +7,16 @@ description: 自分だけの楽器のコーディング方法を学びましょ�
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
-  - title: はじめに
-  - title: スプライト
-  - title: ステージ
-  - title: ドラムを作ろう
-  - title: "チャレンジ：ドラムの改良（かいりょう）"
-    challenge: true
-  - title: 歌手を作ろう
-  - title: コスチューム
-  - title: "チャレンジ：バンドをより良くする"
-    challenge: true
-  - title: "次は何をしますか？"
+- title: はじめに
+  completion: engaged
+- title: スプライト
+- title: ステージ
+- title: ドラムを作ろう
+- title: チャレンジ：ドラムの改良（かいりょう）
+  challenge: true
+- title: 歌手を作ろう
+  completion: internal
+- title: コスチューム
+- title: チャレンジ：バンドをより良くする
+  challenge: true
+- title: 次は何をしますか？
