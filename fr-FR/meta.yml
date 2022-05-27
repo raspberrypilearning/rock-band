@@ -8,15 +8,17 @@ version: 4.1.1
 last_tested: 2018-10-12
 steps:
 - title: Introduction
-  completion: engaged
 - title: Sprites
 - title: La scène
+  completion:
+  - engaged
 - title: Créer un tambour
 - title: 'Défi: Améliore ton tambour'
   challenge: true
 - title: Créer un chanteur
-  completion: internal
 - title: Costumes
+  completion:
+  - internal
 - title: 'Défi: Améliore ton groupe'
   challenge: true
 - title: Que faire ensuite?

@@ -8,15 +8,17 @@ version: 4.1.1
 last_tested: 2018-10-12
 steps:
 - title: المقدمة
-  completion: engaged
 - title: الكائنات
 - title: المنصة
+  completion:
+  - engaged
 - title: إنشاء طبلة
 - title: 'التحدي: تحسين طبلتك'
   challenge: true
 - title: إنشاء مغنية
-  completion: internal
 - title: المظاهر
+  completion:
+  - internal
 - title: 'التحدي: تحسين فرقتك'
   challenge: true
 - title: انعكاس

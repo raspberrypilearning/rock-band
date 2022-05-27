@@ -8,15 +8,17 @@ version: 4.1.1
 last_tested: 2018-10-12
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Figuren
 - title: Die Bühne
+  completion:
+  - engaged
 - title: Eine Trommel machen
 - title: 'Herausforderung: Verbessere deine Trommel'
   challenge: true
 - title: Einen Sänger machen
-  completion: internal
 - title: Kostüme
+  completion:
+  - internal
 - title: 'Herausforderung: Verbessere deine Band'
   challenge: true
 - title: Wie geht es weiter?

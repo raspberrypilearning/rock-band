@@ -8,15 +8,17 @@ version: 4.1.1
 last_tested: 2018-10-12
 steps:
 - title: Introducción
-  completion: engaged
 - title: Objetos
 - title: El Escenario
+  completion:
+  - engaged
 - title: Crear un tambor
 - title: 'Desafío: mejora tu tambor'
   challenge: true
 - title: Crear un cantante
-  completion: internal
 - title: Disfraces
+  completion:
+  - internal
 - title: 'Desafío: mejora tu banda'
   challenge: true
 - title: "¿Qué sigue?"

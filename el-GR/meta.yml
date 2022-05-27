@@ -8,15 +8,17 @@ version: 4.1.1
 last_tested: 2018-10-12
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Χαρακτήρες
 - title: Το σκηνικό
+  completion:
+  - engaged
 - title: Φτιάχνοντας ένα τύμπανο
 - title: 'Πρόκληση: βελτίωσε το τύμπανό σου'
   challenge: true
 - title: Φτιάχνοντας μία τραγουδίστρια
-  completion: internal
 - title: Ενδυμασίες
+  completion:
+  - internal
 - title: 'Πρόκληση: βελτίωσε τη μπάντα σου'
   challenge: true
 - title: Και τώρα;

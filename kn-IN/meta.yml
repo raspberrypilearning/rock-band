@@ -8,15 +8,17 @@ version: 4.1.1
 last_tested: 2018-10-12
 steps:
 - title: ಪರಿಚಯ
-  completion: engaged
 - title: ಸ್ಪ್ರೈಟ್‌ಗಳು
 - title: ವೇದಿಕೆ
+  completion:
+  - engaged
 - title: ಡ್ರಮ್ ಮಾಡುವುದು
 - title: 'ಸವಾಲು: ನಿಮ್ಮ ಡ್ರಮ್ ಅನ್ನು ಸುಧಾರಿಸಿ'
   challenge: true
 - title: ಗಾಯಕನನ್ನಾಗಿ ಮಾಡುವುದು
-  completion: internal
 - title: ವೇಷಭೂಷಣಗಳು
+  completion:
+  - internal
 - title: 'ಸವಾಲು: ನಿಮ್ಮ ಬ್ಯಾಂಡ್ ಸುಧಾರಿಸುವುದು'
   challenge: true
 - title: ಮುಂದೆ ಏನು?
