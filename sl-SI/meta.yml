@@ -8,15 +8,17 @@ version: 4.1.1
 last_tested: 2018-10-12
 steps:
 - title: Uvod
-  completion: engaged
 - title: Figure
 - title: Oder
+  completion:
+  - engaged
 - title: Izdelava bobna
 - title: 'Izziv: izboljšajte svoj boben'
   challenge: true
 - title: Ustvarjanje pevke
-  completion: internal
 - title: Videzi
+  completion:
+  - internal
 - title: 'Izziv: izboljšajte svojo skupino'
   challenge: true
 - title: Kaj sledi?

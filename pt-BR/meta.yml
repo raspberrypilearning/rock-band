@@ -8,15 +8,17 @@ version: 4.1.1
 last_tested: 2018-10-12
 steps:
 - title: Introdução
-  completion: engaged
 - title: Atores
 - title: O Palco
+  completion:
+  - engaged
 - title: Fazendo um tambor
 - title: 'Desafio: melhore o seu tambor'
   challenge: true
 - title: Fazendo um cantor(a)
-  completion: internal
 - title: Fantasias
+  completion:
+  - internal
 - title: 'Desafio: melhore sua banda'
   challenge: true
 - title: Reflexão
