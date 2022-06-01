@@ -9,15 +9,17 @@ version: 4.1.1
 last_tested: 2018-10-12
 steps:
 - title: Wprowadzenie
-  completion: engaged
 - title: Duszki
 - title: Scena
+  completion:
+  - engaged
 - title: Tworzenie bębenka
 - title: 'Wyzwanie: ulepsz swój bębenek'
   challenge: true
 - title: Dodawanie wokalistki
-  completion: internal
 - title: Kostiumy
+  completion:
+  - internal
 - title: 'Wyzwanie: ulepsz swój zespół muzyczny'
   challenge: true
 - title: Co dalej?

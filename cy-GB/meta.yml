@@ -8,15 +8,17 @@ version: 4.1.1
 last_tested: 2018-10-12
 steps:
 - title: Cyflwyniad
-  completion: engaged
 - title: Corluniau
 - title: Y Llwyfan
+  completion:
+  - engaged
 - title: Creu drwm
 - title: 'Her: Perffeithio dy ddrwm'
   challenge: true
 - title: Creu canwr
-  completion: internal
 - title: Gwisgoedd
+  completion:
+  - internal
 - title: 'Her: gwella dy fand'
   challenge: true
 - title: Beth nesaf?

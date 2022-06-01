@@ -8,15 +8,17 @@ version: 4.1.1
 last_tested: 2018-10-12
 steps:
 - title: Uvod
-  completion: engaged
 - title: Likovi
 - title: Pozornica
+  completion:
+  - engaged
 - title: Napravi bubanj
 - title: 'Izazov: poboljšaj svoj bubanj'
   challenge: true
 - title: Dodaj pjevačicu
-  completion: internal
 - title: Kostimi
+  completion:
+  - internal
 - title: 'Izazov: poboljšaj svoj bend'
   challenge: true
 - title: Što dalje?

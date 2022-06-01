@@ -8,15 +8,17 @@ version: 4.1.1
 last_tested: 2018-10-12
 steps:
 - title: 들어가며
-  completion: engaged
 - title: 스프라이트
 - title: 단계
+  completion:
+  - engaged
 - title: 드럼 만들기
 - title: '도전 과제: 더 좋은 드럼 만들기'
   challenge: true
 - title: 가수 만들기
-  completion: internal
 - title: 의상
+  completion:
+  - internal
 - title: '도전 과제: 더 좋은 밴드 만들기'
   challenge: true
 - title: 더 나아가기

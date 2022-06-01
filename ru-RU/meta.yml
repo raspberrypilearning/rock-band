@@ -8,15 +8,17 @@ version: 4.1.1
 last_tested: 2018-10-12
 steps:
 - title: Введение
-  completion: engaged
 - title: Спрайты
 - title: Сцена
+  completion:
+  - engaged
 - title: Создание барабана
 - title: 'Задание: улучши свой барабан'
   challenge: true
 - title: Создание певицы
-  completion: internal
 - title: Костюмы
+  completion:
+  - internal
 - title: 'Задание: улучши свою группу'
   challenge: true
 - title: Обратная связь

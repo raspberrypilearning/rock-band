@@ -8,15 +8,17 @@ version: 4.1.1
 last_tested: 2018-10-12
 steps:
 - title: 介紹
-  completion: engaged
 - title: 角色
 - title: 舞台
+  completion:
+  - engaged
 - title: 製造一個鼓
 - title: 挑戰：改良你的鼓
   challenge: true
 - title: 製造一個歌手
-  completion: internal
 - title: 造型
+  completion:
+  - internal
 - title: 挑戰：改良你的樂隊
   challenge: true
 - title: 然後呢？

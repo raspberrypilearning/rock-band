@@ -8,15 +8,17 @@ version: 4.1.1
 last_tested: 2018-10-12
 steps:
 - title: Introduksjon
-  completion: engaged
 - title: Figurer
 - title: Scenen
+  completion:
+  - engaged
 - title: Lage en tromme
 - title: 'Utfordring: lag trommen bedre'
   challenge: true
 - title: Lag en sangerinne
-  completion: internal
 - title: Drakter
+  completion:
+  - internal
 - title: 'Utfordring: lag bandet ditt bedre'
   challenge: true
 - title: Hva nå?
