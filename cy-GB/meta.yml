@@ -13,19 +13,21 @@ steps:
     title: Corluniau
   - 
     title: Y Llwyfan
+    completion:
+      - engaged
   - 
     title: Creu drwm
   - 
-    title: "Her: Perffeithio dy ddrwm"
+    title: 'Her: Perffeithio dy ddrwm'
     challenge: true
   - 
     title: Creu canwr
   - 
     title: Gwisgoedd
+    completion:
+      - internal
   - 
-    title: "Her: gwella dy fand"
+    title: 'Her: gwella dy fand'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: What next?
