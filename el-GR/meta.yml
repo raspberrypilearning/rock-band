@@ -13,19 +13,21 @@ steps:
     title: Αντικείμενα
   - 
     title: Το σκηνικό
+    completion:
+      - engaged
   - 
     title: Κάνοντας ένα τύμπανο
   - 
-    title: "Πρόκληση: βελτίωσε το τύμπανό σου"
+    title: 'Πρόκληση: βελτίωσε το τύμπανό σου'
     challenge: true
   - 
     title: Κάνοντας μία τραγουδίστρια
   - 
     title: Ενδυμασίες
+    completion:
+      - internal
   - 
-    title: "Πρόκληση: βελτίωσε τη μπάντα σου"
+    title: 'Πρόκληση: βελτίωσε τη μπάντα σου'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: What next?
