@@ -20,7 +20,7 @@ Clique sur l'extension **Musique** pour l'ajouter.
 
 \--- task \---
 
-Click on the drum sprite, and then drag these two blocks into the code area on the right:
+Clique sur le sprite de batterie, puis fait glisser ces deux blocs dans la zone de code à droite :
 
 ```blocks3
 lorsque ce sprite est cliqué
@@ -29,16 +29,16 @@ joue le tambour (\(1\) Snare Drum v) pour (0.25) battements
 
 \--- no-print \---
 
-![screenshot](images/connect-block.gif)
+![capture d'écran](images/connect-block.gif)
 
 \--- /no-print \---
 
-Make sure that the blocks are connected together (like LEGO bricks).
+Assure-toi que les blocs sont connectés ensemble (comme les briques LEGO).
 
 \--- /task \---
 
 \--- task \---
 
-Click on the drum to try out your new instrument!
+Clique sur le tambour pour essayer ton nouvel instrument !
 
 \--- /task \---
