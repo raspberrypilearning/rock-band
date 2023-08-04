@@ -13,19 +13,21 @@ steps:
     title: スプライト
   - 
     title: ステージ
+    completion:
+      - engaged
   - 
     title: ドラムを作ろう
   - 
-    title: "チャレンジ：ドラムの改良（かいりょう）"
+    title: 'チャレンジ：ドラムの改良（かいりょう）'
     challenge: true
   - 
     title: 歌手を作ろう
   - 
     title: コスチューム
+    completion:
+      - internal
   - 
-    title: "チャレンジ：バンドをより良くする"
+    title: 'チャレンジ：バンドをより良くする'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: What next?
