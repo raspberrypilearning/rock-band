@@ -13,19 +13,21 @@ steps:
     title: Figure
   - 
     title: Oder
+    completion:
+      - engaged
   - 
     title: Izdelava bobna
   - 
-    title: "Izziv: izboljšajte svoj boben"
+    title: 'Izziv: izboljšajte svoj boben'
     challenge: true
   - 
     title: Ustvarjanje pevke
   - 
     title: Videzi
+    completion:
+      - internal
   - 
-    title: "Izziv: izboljšajte svojo skupino"
+    title: 'Izziv: izboljšajte svojo skupino'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: What next?
