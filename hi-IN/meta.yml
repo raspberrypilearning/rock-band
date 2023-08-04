@@ -13,19 +13,21 @@ steps:
     title: स्प्राइट्स
   - 
     title: स्टेज
+    completion:
+      - engaged
   - 
     title: ड्रम बनाना
   - 
-    title: "चुनौती: अपने ड्रम में सुधार करें"
+    title: 'चुनौती: अपने ड्रम में सुधार करें'
     challenge: true
   - 
     title: गायक बनाना
   - 
     title: पोशाकें
+    completion:
+      - internal
   - 
-    title: "चुनौती: अपने बैंड में सुधार करें"
+    title: 'चुनौती: अपने बैंड में सुधार करें'
     challenge: true
   - 
-    title: "आगे क्या?"
-
-
+    title: आगे क्या?
