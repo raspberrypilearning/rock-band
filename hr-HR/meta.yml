@@ -13,19 +13,21 @@ steps:
     title: Likovi
   - 
     title: Pozornica
+    completion:
+      - engaged
   - 
     title: Napravi bubanj
   - 
-    title: "Izazov: poboljšaj svoj bubanj"
+    title: 'Izazov: poboljšaj svoj bubanj'
     challenge: true
   - 
     title: Dodaj pjevačicu
   - 
     title: Kostimi
+    completion:
+      - internal
   - 
-    title: "Izazov: poboljšaj svoj bend"
+    title: 'Izazov: poboljšaj svoj bend'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: What next?
