@@ -13,19 +13,21 @@ steps:
     title: Figurer
   - 
     title: Scenen
+    completion:
+      - engaged
   - 
     title: Lage en tromme
   - 
-    title: "Utfordring: lag trommen bedre"
+    title: 'Utfordring: lag trommen bedre'
     challenge: true
   - 
     title: Lag en sangerinne
   - 
     title: Drakter
+    completion:
+      - internal
   - 
-    title: "Utfordring: lag bandet ditt bedre"
+    title: 'Utfordring: lag bandet ditt bedre'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: What next?
