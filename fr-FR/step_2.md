@@ -4,56 +4,56 @@ Avant de commencer à coder, vous devez ajouter une «chose» au code. Dans Scra
 
 \--- task \---
 
-Open a new Scratch project.
+Ouvre un nouveau projet Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**En ligne:** ouvre un nouveau projet Scratch en ligne sur [rpf.io/scratch-new](http://rpf.io/scratch-new) {:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Hors ligne:** ouvre un nouveau projet dans l'éditeur hors ligne.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si tu dois télécharger et installer l'éditeur hors ligne Scratch, tu peux le trouver à [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-It looks like this:
+Ça ressemble ça :
 
-![screenshot](images/band-scratch.png)
-
-\--- /task \---
-
-\--- task \---
-
-The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by clicking on the X in the corner.
-
-![screenshot](images/band-delete-annotated.png)
+![capture d'écran](images/band-scratch.png)
 
 \--- /task \---
 
 \--- task \---
 
-Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
+Le sprite de chat que tu peux voir est la mascotte de Scratch. Tu n'en as pas besoin pour ce jeu, alors débarrasse-toi de cela en cliquant sur le X dans le coin.
 
-![screenshot](images/band-sprite-library.png)
-
-\--- /task \---
-
-\--- task \---
-
-Scroll down until you see a drum sprite. Click on a drum to add it to your project.
-
-![screenshot](images/band-sprite-drum.png)
+![capture d'écran](images/band-delete-annotated.png)
 
 \--- /task \---
 
 \--- task \---
 
-If you are signed in to your Scratch account, type the title of your project into the project title box at the top of the screen:
+Ensuite, clique sur **Choisir un sprite à partir de la bibliothèque** pour ouvrir une liste de tous les sprite Scratch.
 
-![name](images/band-name-annotated.png)
+![capture d'écran](images/band-sprite-library.png)
 
-**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+\--- /task \---
 
-Next, click on File, and then on Save now to save your project.
+\--- task \---
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+Fais défiler jusqu'à ce que tu trouves un sprite de tambour. Clique sur un tambour pour l'ajouter à ton projet.
 
-![screenshot](images/band-save.png)
+![capture d'écran](images/band-sprite-drum.png)
+
+\--- /task \---
+
+\--- task \---
+
+Si tu es connecté à ton compte Scratch, saisis le titre de ton projet dans la zone de titre du projet en haut de l'écran :
+
+![nom](images/band-name-annotated.png)
+
+**Astuce :** Donne à tes projets des noms utiles afin de pouvoir les retrouver facilement lorsque tu auras de nombreux projets.
+
+Puis, tu peux cliquer sur Fichier, et sur Sauvegarder maintenant pour enregistrer ton projet.
+
+Si tu n’es pas en ligne, tu peux enregistrer une copie de ton projet en cliquant sur **Sauvegarder sur votre ordinateur**.
+
+![capture d'écran](images/band-save.png)
 
 \--- /task \---
