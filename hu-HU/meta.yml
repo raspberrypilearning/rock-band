@@ -13,19 +13,21 @@ steps:
     title: Szereplők
   - 
     title: A színpad
+    completion:
+      - engaged
   - 
     title: Készíts egy dobot
   - 
-    title: "Kihívás: fejleszd a dobot"
+    title: 'Kihívás: fejleszd a dobot'
     challenge: true
   - 
     title: Készíts egy énekest
   - 
     title: Jelmezek
+    completion:
+      - internal
   - 
-    title: "Kihívás: fejleszd a zenekart"
+    title: 'Kihívás: fejleszd a zenekart'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: What next?
