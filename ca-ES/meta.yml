@@ -13,19 +13,21 @@ steps:
     title: Personatges
   - 
     title: L'escenari
+    completion:
+      - engaged
   - 
     title: Fent un tambor
   - 
-    title: "Repte: millora el teu tambor"
+    title: 'Repte: millora el teu tambor'
     challenge: true
   - 
     title: Fent un cantant
   - 
     title: Vestits
+    completion:
+      - internal
   - 
-    title: "Repte: millora la teva banda"
+    title: 'Repte: millora la teva banda'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: What next?
