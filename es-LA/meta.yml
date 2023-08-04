@@ -13,19 +13,21 @@ steps:
     title: Objetos
   - 
     title: El Escenario
+    completion:
+      - engaged
   - 
     title: Haciendo un tambor
   - 
-    title: "Desafío: mejora tu tambor"
+    title: 'Desafío: mejora tu tambor'
     challenge: true
   - 
     title: Haciendo un cantante
   - 
     title: Disfraces
+    completion:
+      - internal
   - 
-    title: "Desafío: Mejora tu banda"
+    title: 'Desafío: Mejora tu banda'
     challenge: true
   - 
-    title: "¿Qué sigue?"
-
-
+    title: '¿Qué sigue?'
