@@ -13,19 +13,21 @@ steps:
     title: Personaje
   - 
     title: Scena
+    completion:
+      - engaged
   - 
     title: Creează o toba
   - 
-    title: "Provocare: îmbunătățește-ți toba"
+    title: 'Provocare: îmbunătățește-ți toba'
     challenge: true
   - 
     title: Creează o cântăreață
   - 
     title: Costume
+    completion:
+      - internal
   - 
-    title: "Provocare: îmbunătățește-ți formația"
+    title: 'Provocare: îmbunătățește-ți formația'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: What next?
