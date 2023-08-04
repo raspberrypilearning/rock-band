@@ -13,19 +13,21 @@ steps:
     title: Duszki
   - 
     title: Scena
+    completion:
+      - engaged
   - 
     title: Tworzenie bębenka
   - 
-    title: "Wyzwanie: popraw swój bębenek"
+    title: 'Wyzwanie: popraw swój bębenek'
     challenge: true
   - 
     title: Dodawanie wokalistki
   - 
     title: Kostiumy
+    completion:
+      - internal
   - 
-    title: "Wyzwanie: ulepsz swój zespół muzyczny"
+    title: 'Wyzwanie: ulepsz swój zespół muzyczny'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: What next?
