@@ -13,19 +13,21 @@ steps:
     title: Figuren
   - 
     title: Die Bühne
+    completion:
+      - engaged
   - 
     title: Eine Trommel machen
   - 
-    title: "Herausforderung: Verbessere deine Trommel"
+    title: 'Herausforderung: Verbessere deine Trommel'
     challenge: true
   - 
     title: Einen Sänger machen
   - 
     title: Kostüme
+    completion:
+      - internal
   - 
-    title: "Herausforderung: Verbessere deine Band"
+    title: 'Herausforderung: Verbessere deine Band'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: What next?
