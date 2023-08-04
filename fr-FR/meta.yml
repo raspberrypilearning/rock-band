@@ -13,19 +13,21 @@ steps:
     title: Lutins
   - 
     title: La scène
+    completion:
+      - engagé
   - 
     title: Faire un tambour
   - 
-    title: "Défi : Améliore ton tambour"
+    title: 'Défi : Améliore ton tambour'
     challenge: true
   - 
     title: Faire un chanteur
   - 
     title: Costumes
+    completion:
+      - interne
   - 
-    title: "Défi : améliorer ton groupe"
+    title: 'Défi : améliorer ton groupe'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: Et ensuite ?
