@@ -13,19 +13,21 @@ steps:
     title: الكائنات
   - 
     title: المنصة
+    completion:
+      - engaged
   - 
     title: إنشاء طبلة
   - 
-    title: "التحدي: تحسين طبلتك"
+    title: 'التحدي: تحسين طبلتك'
     challenge: true
   - 
     title: إنشاء مغنية
   - 
     title: المظاهر
+    completion:
+      - internal
   - 
-    title: "التحدي: تحسين فرقتك"
+    title: 'التحدي: تحسين فرقتك'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: What next?
