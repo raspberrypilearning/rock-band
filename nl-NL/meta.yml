@@ -13,19 +13,21 @@ steps:
     title: Sprites
   - 
     title: Het speelveld
+    completion:
+      - engaged
   - 
     title: Een trommel maken
   - 
-    title: "Uitdaging: verbeter je drumstel"
+    title: 'Uitdaging: verbeter je drumstel'
     challenge: true
   - 
     title: Een zangeres maken
   - 
     title: Uiterlijken
+    completion:
+      - internal
   - 
-    title: "Uitdaging: verbeter je band"
+    title: 'Uitdaging: verbeter je band'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: What next?
