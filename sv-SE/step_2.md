@@ -1,6 +1,6 @@
 ## Sprites
 
-Before you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called **sprites**.
+Innan du kan börja koda måste du lägga till en "sak" i koden. I Scratch heter dessa "saker" **sprajtar**.
 
 \--- task \---
 
@@ -14,7 +14,7 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 It looks like this:
 
-![screenshot](images/band-scratch.png)
+![skärmdump](images/band-scratch.png)
 
 \--- /task \---
 
@@ -22,7 +22,7 @@ It looks like this:
 
 The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by clicking on the X in the corner.
 
-![screenshot](images/band-delete-annotated.png)
+![skärmdump](images/band-delete-annotated.png)
 
 \--- /task \---
 
@@ -30,15 +30,15 @@ The cat sprite that you can see is the Scratch mascot. You don't need it for thi
 
 Next, click on **Choose sprite from library** to open up a list of all the Scratch sprites.
 
-![screenshot](images/band-sprite-library.png)
+![skärmdump](images/band-sprite-library.png)
 
 \--- /task \---
 
 \--- task \---
 
-Scroll down until you see a drum sprite. Click on a drum to add it to your project.
+Scrolla ner tills du ser en trumsprajt. Klicka på en trumma för att lägga till den i ditt projekt.
 
-![screenshot](images/band-sprite-drum.png)
+![skärmdump](images/band-sprite-drum.png)
 
 \--- /task \---
 
