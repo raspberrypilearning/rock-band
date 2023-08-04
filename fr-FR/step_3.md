@@ -4,30 +4,30 @@ La **scène** est la zone sur la droite et c'est où ton projet prend vie. Consi
 
 \--- task \---
 
-At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+Pour le moment, la scène est blanche et semble plutôt ennuyeuse ! Ajoute un arrière-plan en cliquant sur **Choisir un arrière-plan**.
 
-![screenshot](images/band-stage-choose.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
-
-![screenshot](images/band-backdrop.png)
+![capture d'écran](images/band-stage-choose.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click and drag the drum to the bottom of the Stage.
+Clique sur **Intérieur** dans la liste en haut. Puis clique sur un décor de théâtre.
+
+![capture d'écran](images/band-backdrop.png)
 
 \--- /task \---
 
 \--- task \---
 
-Your stage should now look similar to this:
+Clique et fais glisser le tambour en bas de la scène.
 
-![screenshot](images/band-stage.png)
+\--- /task \---
+
+\--- task \---
+
+Ta scène devrait maintenant ressembler à ceci :
+
+![capture d'écran](images/band-stage.png)
 
 \--- /task \---
