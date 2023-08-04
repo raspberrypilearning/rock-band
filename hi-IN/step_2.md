@@ -44,15 +44,15 @@
 
 \--- task \---
 
-If you are signed in to your Scratch account, type the title of your project into the project title box at the top of the screen:
+यदि आप अपने स्क्रैच अकाउंट में साइन इन हैं, तो स्क्रीन के ऊपर प्रोजेक्ट नाम बॉक्स में अपने प्रोजेक्ट का नाम टाइप करें।
 
 ![नाम](images/band-name-annotated.png)
 
-**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+**टिप:** अपने प्रोजेक्टस को आसान नाम दें ताकि जब आपके पास बहुत सारे प्रोजेक्टस हो, तो आप उन्हें आसानी से ढूंढ सकें।
 
-Next, click on File, and then on Save now to save your project.
+ऊपर के टेक्स्ट बॉक्स में टाइप करके अपने प्रोग्राम को नाम दें।
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+आप ऑनलाइन नहीं होते या एक स्क्रैच खाता नहीं है, तो आप पर क्लिक करके अपनी परियोजना की एक प्रति बचा सकता है **आपके कंप्यूटर के लिए सहेजें** के बजाय।
 
 ![screenshot](images/band-save.png)
 
