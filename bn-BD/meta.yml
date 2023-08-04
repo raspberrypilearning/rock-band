@@ -13,19 +13,21 @@ steps:
     title: স্প্রাইট
   - 
     title: মঞ্চ
+    completion:
+      - engaged
   - 
     title: ড্রাম বানানো
   - 
-    title: "চ্যালেঞ্জ: আপনার ড্রাম উন্নত করুন"
+    title: 'চ্যালেঞ্জ: আপনার ড্রাম উন্নত করুন'
     challenge: true
   - 
     title: গায়ক বানানো
   - 
     title: পরিধানসমূহ
+    completion:
+      - internal
   - 
-    title: "চ্যালেঞ্জ: আপনার ড্রাম উন্নত করুন"
+    title: 'চ্যালেঞ্জ: আপনার ড্রাম উন্নত করুন'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: What next?
