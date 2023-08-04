@@ -1,4 +1,4 @@
-## The Stage
+## Scenen
 
 The **Stage** is the area on the right, and is where your project comes to life. Think of it as a performance area, just like a real stage!
 
@@ -6,7 +6,7 @@ The **Stage** is the area on the right, and is where your project comes to life.
 
 At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
 
-![screenshot](images/band-stage-choose.png)
+![skärmdump](images/band-stage-choose.png)
 
 \--- /task \---
 
@@ -14,7 +14,7 @@ At the moment, the stage is white and looks pretty boring! Add a backdrop to it 
 
 Click on **Indoors** in the list at the top. Then click on a theatre backdrop.
 
-![screenshot](images/band-backdrop.png)
+![skärmdump](images/band-backdrop.png)
 
 \--- /task \---
 
