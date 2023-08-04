@@ -13,19 +13,21 @@ steps:
     title: Sprite
   - 
     title: Panggung
+    completion:
+      - engaged
   - 
     title: Membuat drum
   - 
-    title: "Tantangan: tingkatkan drum kamu"
+    title: 'Tantangan: tingkatkan drum kamu'
     challenge: true
   - 
     title: Membuat penyanyi
   - 
     title: Kostum
+    completion:
+      - internal
   - 
-    title: "Tantangan: tingkatkan band kamu"
+    title: 'Tantangan: tingkatkan band kamu'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: What next?
