@@ -13,19 +13,21 @@ steps:
     title: 스프라이트
   - 
     title: 무대
+    completion:
+      - engaged
   - 
     title: 드럼 만들기
   - 
-    title: "도전 과제 : 더 좋은 드럼 만들기"
+    title: '도전 과제 : 더 좋은 드럼 만들기'
     challenge: true
   - 
     title: 가수 만들기
   - 
     title: 의상
+    completion:
+      - internal
   - 
-    title: "도전 과제: 더 좋은 밴드 만들기"
+    title: '도전 과제: 더 좋은 밴드 만들기'
     challenge: true
   - 
-    title: "더 나아가기"
-
-
+    title: 더 나아가기
