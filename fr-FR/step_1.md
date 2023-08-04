@@ -1,12 +1,12 @@
 ## Introduction
 
-Learn how to code your own musical instruments!
+Apprends à programmer tes propres instruments de musique!
 
 ### Ce que tu feras
 
 \--- no-print \---
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+Clique sur le drapeau vert pour commencer. Ensuite, clique sur le chanteur ou sur le tambour pour entendre le son qu'il produit.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -16,9 +16,9 @@ Click the green flag to begin. Then, click on the singer or the drum to hear wha
 
 \--- print-only \---
 
-You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+Tu vas créer un jeu dans lequel tu peux cliquer sur le chanteur ou la batterie pour entendre des sons de chant ou de batterie.
 
-![game screenshot](images/demo.png)
+![capture d'écran du jeu](images/demo.png)
 
 \--- /print-only \---
 
@@ -28,7 +28,7 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 + Utiliser le code pour changer le costume du sprite dans Scratch
 + Utiliser le code pour faire réagir les sprites à une entrée dans Scratch
-+ Add sounds to a sprite in Scratch
++ Ajouter des sons à un sprite dans Scratch
 
 \--- /collapse \---
 
@@ -42,7 +42,7 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 #### Logiciel
 
-+ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([en ligne](https://rpf.io/scratchon){:target="_blank"} ou [hors ligne](https://rpf.io/scratchoff){:target="_blank"})
 
 \--- /collapse \---
 
@@ -52,10 +52,10 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimable](https://projects.raspberrypi.org/fr-FR/projects/rock-band/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](https://rpf.io/p/en/rock-band-get).
+Vous pouvez trouver le [projet terminé ici](https://rpf.io/p/en/rock-band-get) .
 
 \--- /collapse \---
