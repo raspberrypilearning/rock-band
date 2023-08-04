@@ -13,19 +13,21 @@ steps:
     title: Спрайты
   - 
     title: Сцена
+    completion:
+      - engaged
   - 
     title: Создание барабана
   - 
-    title: "Задание: улучши свой барабан"
+    title: 'Задание: улучши свой барабан'
     challenge: true
   - 
     title: Создание певицы
   - 
     title: Костюмы
+    completion:
+      - internal
   - 
-    title: "Задание: улучши свою группу"
+    title: 'Задание: улучши свою группу'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: What next?
