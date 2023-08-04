@@ -1,6 +1,6 @@
-## Making a drum
+## Att göra en trumma
 
-Now you will add code to your drum so that the drum makes a sound when it's clicked.
+Nu kommer du att koda din trumma så att den låter när du klickar på den.
 
 You can find the code blocks in the Scripts tab, and they are all colour-coded!
 
