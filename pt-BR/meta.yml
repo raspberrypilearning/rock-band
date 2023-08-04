@@ -13,19 +13,21 @@ steps:
     title: Atores
   - 
     title: O Palco
+    completion:
+      - engaged
   - 
     title: Fazendo um tambor
   - 
-    title: "Desafio: melhore o seu tambor"
+    title: 'Desafio: melhore o seu tambor'
     challenge: true
   - 
     title: Fazendo um cantor(a)
   - 
     title: Fantasias
+    completion:
+      - internal
   - 
-    title: "Desafio: melhore sua banda"
+    title: 'Desafio: melhore sua banda'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: What next?
