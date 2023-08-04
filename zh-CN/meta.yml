@@ -13,19 +13,21 @@ steps:
     title: 角色
   - 
     title: 舞台
+    completion:
+      - engaged
   - 
     title: 制作一面鼓
   - 
-    title: "挑战：改进你的鼓"
+    title: '挑战：改进你的鼓'
     challenge: true
   - 
     title: 创建一个歌手
   - 
     title: 造型
+    completion:
+      - internal
   - 
-    title: "挑战：改进你的乐队"
+    title: '挑战：改进你的乐队'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: What next?
