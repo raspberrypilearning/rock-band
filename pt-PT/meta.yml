@@ -13,19 +13,21 @@ steps:
     title: Actores
   - 
     title: O palco
+    completion:
+      - engaged
   - 
     title: Criar um tambor
   - 
-    title: "Desafio: Melhora o teu tambor"
+    title: 'Desafio: Melhora o teu tambor'
     challenge: true
   - 
     title: Criar um cantor
   - 
     title: Trajes
+    completion:
+      - internal
   - 
-    title: "Desafio: Melhora a tua banda"
+    title: 'Desafio: Melhora a tua banda'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: What next?
