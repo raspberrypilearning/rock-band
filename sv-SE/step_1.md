@@ -1,12 +1,12 @@
-## Introduction
+## Introduktion
 
-Learn how to code your own musical instruments!
+Lär dig hur du kodar egna musikinstrument!
 
-### What you will make
+### Vad du kommer att göra
 
 \--- no-print \---
 
-Click the green flag to begin. Then, click on the singer or the drum to hear what they sound like.
+Klicka på den gröna flaggan för att börja. Klicka sedan på sångaren eller trumman för att höra hur de låter.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -16,46 +16,46 @@ Click the green flag to begin. Then, click on the singer or the drum to hear wha
 
 \--- print-only \---
 
-You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
+Du kommer att skapa ett spel där du kan klicka på sångaren eller trumman för att höra sångaren sjunga eller trummorna trumma.
 
-![game screenshot](images/demo.png)
+![skärmdump av spelet](images/demo.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## titel: Vad du kommer att lära dig
 
-+ Use code to change a sprite's costume in Scratch
-+ Use code to make sprites react to input in Scratch
-+ Add sounds to a sprite in Scratch
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will need
-
-#### Hardware
-
-+ A computer capable of running Scratch 3
-
-#### Software
-
-+ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
++ Använda kod för att ändra på en sprajts klädsel i Scratch
++ Använda kod för att få en sprajt att reagera på inmatningar i Scratch
++ Lägga till ljud till en sprajt i Scratch
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## titel: Vad du kommer att behöva
+
+#### Hårdvaror
+
++ En dator som kan hantera Scratch 3
+
+#### Mjukvaror
+
++ Scratch 3 (antingen [online](https://rpf.io/scratchon){:target="_blank"} eller [offline](https://rpf.io/scratchoff){:target="_blank"})
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## titel: Ytterligare information till lärare
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
+Använd den [utskriftsvänliga versionen](https://projects.raspberrypi.org/en/projects/rock-band/print) om du behöver skriva ut det här projektet.
 
 \--- /no-print \---
 
-You can find the [completed project here](https://rpf.io/p/en/rock-band-get).
+Du hittar det [färdiga projektet här](https://rpf.io/p/en/rock-band-get).
 
 \--- /collapse \---
