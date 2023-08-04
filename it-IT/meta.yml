@@ -13,19 +13,21 @@ steps:
     title: Sprite
   - 
     title: Lo Stage (palco)
+    completion:
+      - engaged
   - 
     title: Creare un tamburo
   - 
-    title: "Sfida: migliora il tuo tamburo"
+    title: 'Sfida: migliora il tuo tamburo'
     challenge: true
   - 
     title: Creare un cantante
   - 
     title: I Costumi
+    completion:
+      - internal
   - 
-    title: "Sfida: migliora la tua banda"
+    title: 'Sfida: migliora la tua banda'
     challenge: true
   - 
-    title: "What next?"
-
-
+    title: What next?
