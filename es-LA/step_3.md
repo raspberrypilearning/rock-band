@@ -20,6 +20,12 @@ Haz clic en **Interiores** en la lista de la parte superior. Luego haz clic en e
 
 --- task ---
 
+Haz clic y arrastra el tambor hasta la parte inferior del escenario.
+
+--- /task ---
+
+--- task ---
+
 Ahora tu escenario debe tener este aspecto:
 
 ![captura de pantalla](images/band-stage.png)

@@ -23,8 +23,8 @@ Haz clic en la extensión **Música** para añadirla.
 Haz clic en el objeto tambor, y luego arrastra estos dos bloques al área de código de la derecha:
 
 ```blocks3
-when this sprite clicked
-play drum (\(1\) Caja v) for (0.25) beats
+al hacer clic en este objeto
+tocar tambor (\ (1 \) Caja v) durante (0.25) pulsos
 ```
 
 --- no-print ---
