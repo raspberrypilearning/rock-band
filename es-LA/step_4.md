@@ -24,7 +24,7 @@ Haz clic en el objeto tambor, y luego arrastra estos dos bloques al área de có
 
 ```blocks3
 al hacer clic en este objeto
-tocar tambor (\ (1 \) Caja v) durante (0.25) pulsos
+tocar el tambor (\(1\) Caja v) por (0.25) pulsos
 ```
 
 --- no-print ---
