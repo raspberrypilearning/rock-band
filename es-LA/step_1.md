@@ -1,9 +1,3 @@
---- no-print ---
-
-Esta es la versión **Scratch 3** del proyecto. También existe una versión [Scratch 2 del proyecto](https://projects.raspberrypi.org/es-LA/projects/rock-band-scratch2).
-
---- /no-print ---
-
 ## Introducción
 
 ¡Aprende cómo codificar tus propios instrumentos musicales!
@@ -12,7 +6,7 @@ Esta es la versión **Scratch 3** del proyecto. También existe una versión [Sc
 
 --- no-print ---
 
-Haz clic en la bandera verde para empezar. Luego, haz clic en el cantante o el tambor para escuchar cómo suenan.
+Vas a crear un juego en el que al hacer clic en el cantante o el tambor se escucharán cantos o los sonidos del tambor.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -22,7 +16,7 @@ Haz clic en la bandera verde para empezar. Luego, haz clic en el cantante o el t
 
 --- print-only ---
 
-Vas a crear un juego en el que al hacer clic en el cantante o el tambor se escucharán cantos o los sonidos del tambor.
+Haz clic en la bandera verde para empezar. Luego, haz clic en el cantante o el tambor para escuchar cómo suenan.
 
 ![captura de pantalla del juego](images/demo.png)
 
