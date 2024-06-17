@@ -25,8 +25,8 @@
 لكي تستخدم الصوت، قم باضافة هذه التعليمة البرمجية إلى كان المغنية:
 
 ```blocks3
-عند نقر هذا الكائن
-شغِّل الصوت (singer1 v) وانتظر انتهاءه
+when this sprite clicked
+play sound (singer1 v) until done
 ```
 
 --- /task ---

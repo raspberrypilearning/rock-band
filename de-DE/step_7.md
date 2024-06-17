@@ -21,10 +21,10 @@ Jetzt wirst du deine Sängerin aussehen lassen als würde sie singen.
 --- task --- Jetzt, wo du zwei verschiedene Kostüme für deine Sängerin hast, kannst du wählen, welches Kostüm angezeigt wird! Füge diese zwei Blöcke zu deiner Sängerin hinzu:
 
 ```blocks3
-Wenn diese Figur angeklickt wird
-+wechsle zu Kostüm (singend v)
-spiele Klang (singer1 v) ganz
-+wechsle zu Kostüm (nicht singend v)
+when this sprite clicked
++switch costume to (singend v)
+play sound (singer1 v) until done
++switch costume to (nicht singend v)
 ```
 
 Der Codeblock zum Ändern des Kostüms befindet sich im Abschnitt `Aussehen`{:class="block3looks"}. --- /task ---

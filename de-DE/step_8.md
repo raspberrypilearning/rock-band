@@ -5,9 +5,9 @@ Nutze, was du in diesem Projekt gelernt hast, um deine eigene Band zu erstellen!
 ![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
-Wenn diese Figur angeklickt wird
-setze Instrument auf (\(1\) Klavier v)
-spiele Ton (60) für (0.25) Schläge
+when this sprite clicked
+set instrument to (\(1\) Klavier v)
+play note (60) for (0.25) beats
 ```
 
 Deine Instrumente müssen jedoch nicht realistisch sein. Du könntest zum Beispiel ein Piano aus Muffins machen!

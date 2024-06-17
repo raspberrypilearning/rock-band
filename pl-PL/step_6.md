@@ -25,8 +25,8 @@ Zanim będziesz mogła spowodować, żeby Twoja wokalistka zaśpiewała, musisz 
 --- task --- Aby użyć dźwięku, dodaj następujące bloczki kodu do duszka wokalistki:
 
 ```blocks3
-kiedy ten duszek kliknięty
-graj dźwięk (singer1 v) aż się skończy
+when this sprite clicked
+play sound (singer1 v) until done
 ```
 
 --- /task ---

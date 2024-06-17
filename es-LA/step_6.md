@@ -33,8 +33,8 @@ Haz clic en **Voz** en la lista en la parte superior, y luego elige un sonido pa
 Para usar el sonido, añade los siguientes bloques de código a tu objeto cantante:
 
 ```blocks3
-al hacer clic en este objeto
-tocar sonido (Cantante1 v) hasta que termine
+when this sprite clicked
+play sound (Cantante1 v) until done
 ```
 
 --- /task ---

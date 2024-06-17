@@ -21,10 +21,10 @@ Ora farai sembrare che il tuo cantante stia cantando!
 --- task --- Ora che hai due costumi diversi per il tuo cantante, puoi scegliere quale costume mostrare! Aggiungi questi due blocchi di codice al tuo sprite del cantante:
 
 ```blocks3
-quando si clicca questo sprite
-+passa al costume (canta v)
-riproduci suono (Singer1 v) e attendi la fine
-+passa al costume (non canta v)
+when this sprite clicked
++switch costume to (canta v)
+play sound (singer1 v) until done
++switch costume to (non canta v)
 ```
 
 Il blocco di codice per la modifica del costume si trova nella sezione `Aspetto`{:class="block3looks"}. --- /task ---

@@ -21,13 +21,13 @@ Laten we ervoor zorgen dat je zangeres eruitziet alsof ze zingt!
 --- task --- Nu je twee verschillende kostuums hebt voor je zangeres, kun je kiezen welk kostuum wordt weergegeven! Voeg deze twee blokken toe aan je zangeres:
 
 ```blocks3
-wanneer op deze sprite wordt geklikt :: events
-verander uiterlijk naar (singing v) :: looks
-start geluid (singer1 v) en wacht :: sound
-verander uiterlijk naar (not singing v) :: looks
+when this sprite clicked
++switch costume to (singing v)
+play sound (singer1 v) until done
++switch costume to (not singing v)
 ```
 
-Het codeblok voor het veranderen van het uiterlijk vindt je in de `Uiterlijken`{:class="blocklooks"} sectie --- /task ---
+Het codeblok voor het veranderen van het uiterlijk vindt je in de `Uiterlijken`{:class="block3looks"} sectie --- /task ---
 
 --- task --- Klik op je zangeres op het podium en kijk wat er gebeurt. Zingt ze? --- /task ---
 

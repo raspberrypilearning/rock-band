@@ -21,8 +21,8 @@ Clique sur l'extension **Musique** pour l'ajouter.
 --- task --- Clique sur le sprite de batterie, puis fait glisser ces deux blocs dans la zone de code à droite :
 
 ```blocks3
-quand ce sprite est cliqué
-jouer du tambour (\(1\) Caisse claire v) pendant (0.25) temps
+when this sprite clicked
+play drum ((1) Caisse claire v) for (0.25) beats
 ```
 
 --- no-print ---

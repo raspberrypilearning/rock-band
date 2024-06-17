@@ -5,9 +5,9 @@ Defnyddia yr hyn rwyt ti wedi ei ddysgu yn y prosiect yma i wneud dy fand dy hun
 ![sgrinlun](images/band-ideas-sounds.png)
 
 ```blocks3
-pan gaiff y ciplun yma ei glicio
-gosod offeryn i (\(1\) Piano v)
-chwarae nodyn (60) am (0.25) curiad
+when this sprite clicked
+set instrument to (\(1\) Piano v)
+play note (60) for (0.25) beats
 ```
 
 Does dim rhaid i dy offerynau fod yn rhai call cofia. Er enghraifft, galli di wneud piano yn defnyddio myffins!

@@ -24,7 +24,7 @@
 
 ```blocks3
 when this sprite clicked
-play drum (\(1\) Snare Drum v) for (0.25) beats
+play drum ((1) Snare Drum v) for (0.25) beats
 ```
 
 --- no-print ---

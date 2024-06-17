@@ -5,9 +5,9 @@
 ![لقطة الشاشة](images/band-ideas-sounds.png)
 
 ```blocks3
-عند نقر هذا الكائن
-اجعل الالة على ((1) Piano v)
-اعزف النوتة (60) لمدة (0.25) وحدة ايقاع
+when this sprite clicked
+set instrument to (\(1\) Piano v)
+play note (60) for (0.25) beats
 ```
 
 ليس بالضرورة أن تكون الآلات كما هي في الواقع. فيمكنك مثلًا إنشاء بيانو مكوَّن من قطع فطائر مدوَّرة!
