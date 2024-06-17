@@ -21,8 +21,8 @@ Kliknij na opcję **Muzyka**, żeby dodać to rozszerzenie.
 --- task --- Kliknij na duszka-bębenek, a następnie przeciągnij oba bloki do miejsca na kod po prawej stronie:
 
 ```blocks3
-kiedy ten duszek kliknięty
-graj na (\(1\) Werbel v) przez (0.25) taktów
+when this sprite clicked
+play drum ((1) Snare Drum v) for (0.25) beats
 ```
 
 --- no-print ---

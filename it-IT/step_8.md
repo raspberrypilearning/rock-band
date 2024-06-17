@@ -5,9 +5,9 @@ Usa quello che hai imparato in questo progetto per formare la tua band! Puoi cre
 ![schermata](images/band-ideas-sounds.png)
 
 ```blocks3
-quando si clicca questo sprite
-passa a strumento (\(1\) Piano v)
-suona la nota (60) per (0.25) battute
+when this sprite clicked
+set instrument to ((1) Piano v)
+play note (60) for (0.25) beats
 ```
 
 Tuttavia, i tuoi strumenti non devono essere realistici. Ad esempio, potresti creare un piano fatto di muffin!

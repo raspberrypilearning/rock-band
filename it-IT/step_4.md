@@ -21,8 +21,8 @@ Fare clic sull'estensione **Musica** per aggiungerla.
 --- task --- Clicca sullo sprite del tamburo, quindi trascina questi due blocchi nell'area del codice a destra:
 
 ```blocks3
-quando si clicca questo sprite
-suona il tamburo (\(1\) Rullante v) per (0.25) battute
+when this sprite clicked
+play drum ((1) Rullante v) for (0.25) beats
 ```
 
 --- no-print ---

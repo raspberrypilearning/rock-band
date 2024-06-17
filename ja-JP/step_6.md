@@ -33,8 +33,8 @@
 サウンドを使用するには、歌手のスプライトに次のコードブロックを追加します。
 
 ```blocks3
-このスプライトがおされたとき
-おわるまで (singer1 v) のおとをならす
+when this sprite clicked
+play sound (singer1 v) until done
 ```
 
 --- /task ---

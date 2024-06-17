@@ -25,8 +25,8 @@ Avant de pouvoir faire chanter le chanteur, tu dois ajouter un son à ton sprite
 --- task --- Pour utiliser le son, ajoute les blocs de code suivants à ton sprite chanteur:
 
 ```blocks3
-quand ce sprite est cliqué
-jouer le son (Chanteur1 v) jusqu'au bout
+when this sprite clicked
+play sound (Chanteur1 v) until done
 ```
 
 --- /task ---

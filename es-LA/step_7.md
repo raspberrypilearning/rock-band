@@ -39,10 +39,10 @@ Los nombres de los disfraces no son muy útiles por el momento. Escribe en los c
 Ahora que tienes dos disfraces diferentes para tu cantante, ¡puedes elegir qué disfraz se muestra! Añade estos dos bloques de código a tu objeto cantante:
 
 ```blocks3
-al hacer clic en este objeto
-+cambiar disfraz a (cantando v)
-tocar sonido (Cantante1 v) hasta que termine
-+cambiar disfraz a (no cantando v)
+when this sprite clicked
++switch costume to (cantando v)
+play sound (Cantante1 v) until done
++switch costume to (no cantando v)
 ```
 
 El bloque de código para cambiar el disfraz está en la sección `Apariencia`{:class="block3looks"}.

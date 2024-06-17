@@ -25,8 +25,8 @@ Prima di far cantare il tuo cantante, devi aggiungere un suono allo sprite del t
 --- task --- Per usare il suono, aggiungi i seguenti blocchi di codice al tuo sprite del cantante:
 
 ```blocks3
-quando si clicca questo sprite
-riproduci suono (Singer1 v) e attendi la fine
+when this sprite clicked
+play sound (singer1 v) until done
 ```
 
 --- /task ---

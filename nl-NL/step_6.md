@@ -25,8 +25,8 @@ Voordat je je zangeres kunt laten zingen, moet je een geluid aan je sprite toevo
 --- task --- Om het geluid te gebruiken, voeg je de volgende codeblokken toe aan je zangeres sprite:
 
 ```blocks3
-wanneer op deze sprite wordt geklikt :: events
-start geluid (singer1 v) en wacht :: sound
+when this sprite clicked
+play sound (singer1 v) until done
 ```
 
 --- /task ---

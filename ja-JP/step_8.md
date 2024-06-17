@@ -5,9 +5,9 @@
 ![スクリーンショット](images/band-ideas-sounds.png)
 
 ```blocks3
-このスプライトがおされたとき
-がっきを (\(1\) ピアノ v) にする
-(60) のおんぷを (0.25) はくならす
+when this sprite clicked
+set instrument to ((1) ピアノ v)
+play note (60) for (0.25) beats
 ```
 
 ただし、楽器は本当である必要はありません。たとえば、マフィンで作られたピアノを作ることができます！

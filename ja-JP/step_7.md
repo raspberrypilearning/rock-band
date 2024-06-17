@@ -39,10 +39,10 @@
 歌手のコスチュームが2種類になったので、表示する衣装を選択できます！これら2つのコードブロックを歌手のスプライトに追加します。
 
 ```blocks3
-このスプライトがおされたとき
-+コスチュームを (歌う v) にする
-おわるまで (singer1 v) のおとをならす
-+コスチュームを (歌わない v) にする
+when this sprite clicked
++switch costume to (歌う v)
+play sound (singer1 v) until done
++switch costume to (歌わない v)
 ```
 
 コスチュームを変えるブロックは、`見た目`{:class="blocklooks"}のところにあります。

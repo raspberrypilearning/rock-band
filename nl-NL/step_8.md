@@ -5,9 +5,9 @@ Gebruik wat je in dit project hebt geleerd om je eigen band te maken! Je kunt el
 ![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
-wanneer op deze sprite wordt geklikt :: events
-gebruik instrument ((1) Piano v) :: music
-speel noot (60) (0.25) tellen :: music
+when this sprite clicked
+set instrument to (\(1\) Piano v)
+play note (60) for (0.25) beats
 ```
 
 Je instrumenten hoeven niet te bestaan. Je zou bijvoorbeeld een piano kunnen maken van muffins!

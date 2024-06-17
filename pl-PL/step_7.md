@@ -21,10 +21,10 @@ Teraz sprawisz, że twoja wokalistka będzie wyglądała, jakby śpiewała!
 --- task --- Teraz, kiedy masz dwa różne kostiumy dla swojej wokalistki, możesz wybrać, który kostium zostanie wyświetlony! Dodaj te dwa bloczki kodu do duszka wokalistki:
 
 ```blocks3
-kiedy ten duszek kliknięty
-+zmień kostium na (śpiewa v)
-graj dźwięk (singer1 v) aż się skończy
-+zmień kostium na (nie śpiewa v)
+when this sprite clicked
++switch costume to (śpiewa v)
+play sound (singer1 v) until done
++switch costume to (nie śpiewa v)
 ```
 
 Bloczek kodu do zmiany kostiumu znajduje się w sekcji `Wygląd`{:class="block3looks"}. --- /task ---

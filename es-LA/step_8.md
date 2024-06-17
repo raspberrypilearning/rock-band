@@ -5,9 +5,9 @@
 ![captura de pantalla](images/band-ideas-sounds.png)
 
 ```blocks3
-al hacer clic en este objeto
-fijar instrumento a ((1) Piano v)
-tocar nota (60) durante (0.25) tiempos
+when this sprite clicked
+set instrument to (\(1\) Piano v)
+play note (60) for (0.25) beats
 ```
 
 Tus instrumentos no tienen por qué ser realistas. Por ejemplo, ¡podrías hacer un piano hecho de muffins!

@@ -39,11 +39,10 @@
 بعد أن أصبح لديك الآن مظهران مختلفان للمغنية، يمكنك اختيار المظهر الذي تريد عرضه! أضف هاتين الكتلتَين البرمجيتَين إلى المغنية:
 
 ```blocks3
-عند نقر هذا الكائن
-+غيِّر المظهر إلى (singing v)
-شغِّل الصوت (singer1 v) وانتظر انتهاءه
-+غيِّر المظهر إلى (not singing v)
-
+when this sprite clicked
++switch costume to (singing v)
+play sound (singer1 v) until done
++switch costume to (not singing v)
 ```
 
 يوجد قالب التعليمات البرمجية لتغيير المظهر في قسم `المظاهر`{:class="block3looks"}. 

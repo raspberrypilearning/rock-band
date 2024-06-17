@@ -25,8 +25,8 @@ Bevor du deine Sängerin zum Singen bringen kannst, musst du deiner Figur einen 
 --- task --- Um den Klang zu verwenden füge die folgenden Codeblöcke zu deiner Sängerinen Figur hinzu:
 
 ```blocks3
-Wenn diese Figur angeklickt wird
-spiele Klang (singer1 v) ganz
+when this sprite clicked
+play sound (singer1 v) until done
 ```
 
 --- /task ---
