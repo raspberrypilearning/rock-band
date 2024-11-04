@@ -4,7 +4,7 @@ The __Stage__ is the area on the right, and is where your project comes to life.
 
 --- task ---
 
-At the moment, the stage is white and looks pretty boring! Add a backdrop to it by clicking on **Choose a backdrop**.
+At the moment, the stage is white. Add a backdrop to it by clicking on **Choose a backdrop**.
 
 ![screenshot](images/band-stage-choose.png)
 

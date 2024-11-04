@@ -1,68 +1,55 @@
-## Costumes
+## Challenge: improve your band
 
-Now you will make your singer look like she's singing!
+---- task ---
+Add more instruments to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
---- task ---
-
-You can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.
-
-![screenshot](images/band-singer-costume-annotated.png)
-
---- /task ---
-
---- task ---
-
-Right-click on the costume and then click on **duplicate** to create a copy of it.
-
-![screenshot](images/band-singer-duplicate.png)
-
---- /task ---
-
---- task ---
-
-Click on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.
-
-![screenshot](images/band-singer-click.png)
-
---- /task ---
-
---- task ---
-
-The names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.
-
-![screenshot](images/band-singer-name-annotated.png)
-
---- /task ---
-
---- task ---
-
-Now that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:
+![screenshot](images/band-ideas-sounds.png)
 
 ```blocks3
 when this sprite clicked
-+switch costume to (singing v)
-play sound (singer1 v) until done
-+switch costume to (not singing v)
+set instrument to (\(1\) Piano v)
+play note (60) for (0.25) beats
 ```
 
-The code block for changing the costume is in the `Looks`{:class="block3looks"} section.
+Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+
+![screenshot](images/band-piano.png)
+--- /task ---
+
+---- task ---
+If you have a microphone, record your own sounds, and you can even use a webcam to hit your instruments!
+
+![screenshot](images/band-io.png)
+--- /task ---
+
+---- task ---
+Can you change the sound that the drum makes when it's clicked?
+
+![screenshot](images/band-drum-sound.png)
+--- /task ---
+
+---- task ---
+Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
+
+```blocks3
+when [space v] key pressed
+```
+--- /task ---
+
+---- task ---
+Paint your own sprites!
+
+![screenshot](images/band-draw.png)
 
 --- /task ---
 
---- task ---
+--- collapse ---
+---
+title: Why is my sprite 'jumping' when it changes costume?
+---
 
-Click on your singer on the stage. Does she look like she is singing?
+When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
 
---- /task ---
+To fix this, make sure that the centres of your sprite's costumes are the same.
 
---- task ---
-
-Now make your drum look like it's being hit!
-
-![screenshot](images/band-drum-final.png)
-
-- Use the instructions for changing your singer sprite's costume to help you.
-
-Remember to test that your new code works!
-
---- /task ---
+--- /collapse ---

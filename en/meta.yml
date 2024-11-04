@@ -9,16 +9,15 @@ last_tested: 2018-10-12
 steps:
 - title: Introduction
 - title: Sprites
-- title: The Stage
   completion:
   - engaged
+- title: The Stage
 - title: Making a drum
-- title: 'Challenge: improve your drum'
-  challenge: true
 - title: Making a singer
 - title: Costumes
   completion:
   - internal
 - title: 'Challenge: improve your band'
-  challenge: true
+  completion:
+  - external
 - title: What next?
