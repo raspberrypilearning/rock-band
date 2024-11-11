@@ -1,34 +1,23 @@
-## Challenge: improve your band
+## What next?
 
-Use what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
+Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
-![screenshot](images/band-ideas-sounds.png)
+Or, you can have a look at the [More Scratch Pathway](https://projects.raspberrypi.org/en/pathways/more-scratch), where you will make apps, games and simulations using `message` broadcasting, `if..then` and `if..then..else` decisions and variables.
 
-```blocks3
-when this sprite clicked
-set instrument to (\(1\) Piano v)
-play note (60) for (0.25) beats
-```
 
-Your instruments don't have to be realistic though. For example, you could make a piano made out of muffins!
+--- no-print ---
 
-![screenshot](images/band-piano.png)
+Click on the green flag to see the animation.
 
-You can use more sprites from the library, and you can also paint your own sprites!
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
+</div>
 
-![screenshot](images/band-draw.png)
+--- /no-print ---
 
---- collapse ---
----
-title: Why is my sprite 'jumping' when it changes costume?
----
+--- print-only ---
 
-When creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.
+![Complete project](images/space-final.png)
 
-To fix this, make sure that the centres of your sprite's costumes are the same.
-
---- /collapse ---
-
-If you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!
-
-![screenshot](images/band-io.png)
+--- /print-only ---
