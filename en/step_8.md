@@ -2,6 +2,9 @@
 
 Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
 
+Or, you can have a look at the [More Scratch Pathway](https://projects.raspberrypi.org/en/pathways/more-scratch), where you will make apps, games and simulations using `message` broadcasting, `if..then` and `if..then..else` decisions and variables.
+
+
 --- no-print ---
 
 Click on the green flag to see the animation.

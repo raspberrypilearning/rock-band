@@ -12,12 +12,12 @@ steps:
   completion:
   - engaged
 - title: The Stage
-- title: Making a drum
-- title: Making a singer
+- title: Make a drum
+- title: Make a singer
 - title: Costumes
   completion:
   - internal
-- title: 'Challenge: improve your band'
+- title: Challenge
   completion:
   - external
 - title: What next?

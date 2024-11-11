@@ -1,4 +1,4 @@
-## Making a drum
+## Make a drum
 
 Now you will add code to your drum so that the drum makes a sound when it's clicked.
 
@@ -12,7 +12,7 @@ Click on the **Add extension** button in the bottom left-hand corner.
 
 --- /task ---
 
----- task ---
+--- task ---
 
 Click on the **Music** extension to add it.
 

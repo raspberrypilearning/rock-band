@@ -1,4 +1,4 @@
-## Making a singer
+## Make a singer
 
 Now you will add a singer to your band!
 

@@ -24,31 +24,6 @@ You will make a game where you can click on the singer or the drum to hear singi
 
 --- collapse ---
 ---
-title: What you will learn
----
-- Use code to change a sprite's costume in Scratch
-- Use code to make sprites react to input in Scratch
-- Add sounds to a sprite in Scratch
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will need
----
-
-#### Hardware
-
-+ A computer capable of running Scratch 3
-
-#### Software
-
-+ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
-
---- /collapse ---
-
---- collapse ---
----
 title: Additional information for educators
 ---
 

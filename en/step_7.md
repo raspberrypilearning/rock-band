@@ -1,6 +1,16 @@
-## Challenge: improve your band
+## Challenge
 
----- task ---
+--- task ---
+
+Now make your drum look like it's being hit!
+
+![screenshot](images/band-drum-final.png)
+
+Remember to test that your new code works!
+
+--- /task ---
+
+--- task ---
 Add more instruments to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.
 
 ![screenshot](images/band-ideas-sounds.png)
@@ -16,19 +26,13 @@ Your instruments don't have to be realistic though. For example, you could make 
 ![screenshot](images/band-piano.png)
 --- /task ---
 
----- task ---
-If you have a microphone, record your own sounds, and you can even use a webcam to hit your instruments!
-
-![screenshot](images/band-io.png)
---- /task ---
-
----- task ---
+--- task ---
 Can you change the sound that the drum makes when it's clicked?
 
 ![screenshot](images/band-drum-sound.png)
 --- /task ---
 
----- task ---
+--- task ---
 Can you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class="block3events"} block:
 
 ```blocks3
@@ -36,12 +40,19 @@ when [space v] key pressed
 ```
 --- /task ---
 
----- task ---
+--- task ---
 Paint your own sprites!
 
 ![screenshot](images/band-draw.png)
 
 --- /task ---
+
+--- task ---
+If you have a microphone, record your own sounds, and you can even use a webcam to hit your instruments!
+
+![screenshot](images/band-io.png)
+--- /task ---
+
 
 --- collapse ---
 ---
