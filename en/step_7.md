@@ -1,4 +1,5 @@
 ## Challenge
+--- challenge ---
 
 --- task ---
 
@@ -64,3 +65,5 @@ When creating your own sprite, you may find that when you click the sprite, it '
 To fix this, make sure that the centres of your sprite's costumes are the same.
 
 --- /collapse ---
+
+--- /challenge ---

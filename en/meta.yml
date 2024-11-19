@@ -7,7 +7,7 @@ description: Learn how to code your own musical instruments
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
-- title: Introduction
+- title: What you will make
 - title: Sprites
   completion:
   - engaged
@@ -20,4 +20,5 @@ steps:
 - title: Challenge
   completion:
   - external
-- title: What next?
+  challenge: true
+- title: What can you do now?

@@ -1,8 +1,12 @@
-## Introduction
+## What you will make
 
 Learn how to code your own musical instruments!
 
-### What you will make
+--- print-only ---
+
+![A female singer is standing on a stage. There is a drum and a cymbal at the side.](images/demo.png)
+
+--- /print-only ---
 
 --- no-print ---
 
@@ -13,27 +17,4 @@ Click the green flag to begin. Then, click on the singer or the drum to hear wha
 </div>
 
 --- /no-print ---
-
---- print-only ---
-
-You will make a game where you can click on the singer or the drum to hear singing or drum sounds.
-
-![game screenshot](images/demo.png)
-
---- /print-only ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
---- no-print ---
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-band/print){:target="_blank"}.
-
---- /no-print ---
-
-You can find the [completed project here](https://rpf.io/p/en/rock-band-get).
-
---- /collapse ---
 
