@@ -1,9 +1,12 @@
-## What next?
+## What can you do now?
 
-Now that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?
+If you are following the [Scratch: Module 1](https://projects.raspberrypi.org/en/pathways/scratch-module-1) pathway, you can move on to the [Lost in space](https://projects.raspberrypi.org/en/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project. In this project, you will do create a space-themed animation.
 
-Or, you can have a look at the [More Scratch Pathway](https://projects.raspberrypi.org/en/pathways/more-scratch), where you will make apps, games and simulations using `message` broadcasting, `if..then` and `if..then..else` decisions and variables.
+--- print-only ---
 
+![A monkey, rocket, star and asteroid floating on a space background with the Earth in the corner.](images/space-final.png)
+
+--- /print-only ---
 
 --- no-print ---
 
@@ -16,8 +19,7 @@ Click on the green flag to see the animation.
 
 --- /no-print ---
 
---- print-only ---
+Or, why not try out another [Scratch](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch) project.
 
-![Complete project](images/space-final.png)
 
---- /print-only ---
+
