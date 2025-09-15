@@ -4,6 +4,7 @@ listed: true
 copyedit: false
 title: Rock band
 description: Learn how to code your own musical instruments
+pdf: resources/rpfi-rock-band.pdf
 version: 4.1.1
 last_tested: 2018-10-12
 steps:
